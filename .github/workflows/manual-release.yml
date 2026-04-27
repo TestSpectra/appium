@@ -35,7 +35,7 @@ jobs:
         uses: ./.github/actions/setup-build
         with:
           node-version: lts/*
-          install-command: npm ci
+          install-command: bun install
           run-build: 'true'
 
       - name: Setup npmrc for GitHub Packages
@@ -53,9 +53,9 @@ jobs:
           set -euo pipefail
           if [ "$DRY_RUN" = "true" ]; then
             echo "Running lerna publish in dry-run mode"
-            printf "n\n" | npx lerna version --exact --no-git-tag-version --no-push
+            printf "n\n" | bunx lerna version --exact --no-git-tag-version --no-push
           else
             echo "Running lerna publish for real"
-            npm run release -- --yes
+            bun run release -- --yes
           fi
 

@@ -19,11 +19,10 @@ inputs:
 runs:
   using: composite
   steps:
-    - name: Use Node.js ${{ inputs.node-version }}
-      uses: actions/setup-node@v6
+    - name: Setup Bun
+      uses: oven-sh/setup-bun@v1
       with:
-        node-version: ${{ inputs.node-version }}
-        cache: npm
+        bun-version: latest
     - name: SocketDev Security Check
       uses: SocketDev/action@v1
       with:
@@ -31,11 +30,13 @@ runs:
     - name: Install dependencies
       shell: bash
       run: |
-        # Replace npm with sfw npm in the install command
         install_cmd="${{ inputs.install-command }}"
-        install_cmd="${install_cmd//npm /sfw npm }"
+        # If the command is the default npm one, or contains npm, switch to bun
+        if [[ "$install_cmd" == "npm ci"* ]] || [[ "$install_cmd" == "npm install"* ]]; then
+          install_cmd="bun install --frozen-lockfile"
+        fi
         $install_cmd
     - name: Build packages
       if: ${{ inputs.run-build == 'true' }}
       shell: bash
-      run: npm run build
+      run: bun run build
