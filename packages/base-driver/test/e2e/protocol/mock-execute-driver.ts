@@ -1,4 +1,4 @@
-import type {Constraints, InitialOpts} from '@appium/types';
+import type {Constraints, InitialOpts} from '@testspectra/types';
 import {BaseDriver} from '../../../lib';
 import {PROTOCOLS} from '../../../lib/constants';
 

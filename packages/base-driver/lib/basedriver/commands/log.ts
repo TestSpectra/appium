@@ -1,4 +1,4 @@
-import type {Constraints, Driver, ILogCommands} from '@appium/types';
+import type {Constraints, Driver, ILogCommands} from '@testspectra/types';
 import _ from 'lodash';
 import type {BaseDriver} from '../driver';
 import {mixin} from './mixin';

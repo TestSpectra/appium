@@ -1,1 +1,1 @@
-export * from '@appium/base-plugin';
+export * from '@testspectra/base-plugin';

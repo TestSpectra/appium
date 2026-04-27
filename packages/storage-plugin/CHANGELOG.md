@@ -3,7 +3,7 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-## [1.1.1](https://github.com/appium/appium/compare/@appium/storage-plugin@1.1.0...@appium/storage-plugin@1.1.1) (2026-04-23)
+## [1.1.1](https://github.com/appium/appium/compare/@testspectra/storage-plugin@1.1.0...@testspectra/storage-plugin@1.1.1) (2026-04-23)
 
 
 ### Bug Fixes
@@ -12,7 +12,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [1.1.0](https://github.com/appium/appium/compare/@appium/storage-plugin@1.0.6...@appium/storage-plugin@1.1.0) (2026-04-09)
+## [1.1.0](https://github.com/appium/appium/compare/@testspectra/storage-plugin@1.0.6...@testspectra/storage-plugin@1.1.0) (2026-04-09)
 
 
 ### Features
@@ -21,7 +21,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [1.0.6](https://github.com/appium/appium/compare/@appium/storage-plugin@1.0.5...@appium/storage-plugin@1.0.6) (2026-03-08)
+## [1.0.6](https://github.com/appium/appium/compare/@testspectra/storage-plugin@1.0.5...@testspectra/storage-plugin@1.0.6) (2026-03-08)
 
 
 ### Bug Fixes
@@ -30,7 +30,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [1.0.5](https://github.com/appium/appium/compare/@appium/storage-plugin@1.0.4...@appium/storage-plugin@1.0.5) (2026-01-26)
+## [1.0.5](https://github.com/appium/appium/compare/@testspectra/storage-plugin@1.0.4...@testspectra/storage-plugin@1.0.5) (2026-01-26)
 
 
 ### Bug Fixes
@@ -39,41 +39,41 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [1.0.4](https://github.com/appium/appium/compare/@appium/storage-plugin@1.0.3...@appium/storage-plugin@1.0.4) (2025-12-04)
+## [1.0.4](https://github.com/appium/appium/compare/@testspectra/storage-plugin@1.0.3...@testspectra/storage-plugin@1.0.4) (2025-12-04)
 
-**Note:** Version bump only for package @appium/storage-plugin
-
-
-
-
-
-## [1.0.3](https://github.com/appium/appium/compare/@appium/storage-plugin@1.0.2...@appium/storage-plugin@1.0.3) (2025-11-12)
-
-**Note:** Version bump only for package @appium/storage-plugin
+**Note:** Version bump only for package @testspectra/storage-plugin
 
 
 
 
 
-## [1.0.2](https://github.com/appium/appium/compare/@appium/storage-plugin@1.0.1...@appium/storage-plugin@1.0.2) (2025-10-08)
+## [1.0.3](https://github.com/appium/appium/compare/@testspectra/storage-plugin@1.0.2...@testspectra/storage-plugin@1.0.3) (2025-11-12)
 
-**Note:** Version bump only for package @appium/storage-plugin
-
-
-
-
-
-## [1.0.1](https://github.com/appium/appium/compare/@appium/storage-plugin@1.0.0...@appium/storage-plugin@1.0.1) (2025-09-09)
-
-**Note:** Version bump only for package @appium/storage-plugin
+**Note:** Version bump only for package @testspectra/storage-plugin
 
 
 
 
 
-## [1.0.0](https://github.com/appium/appium/compare/@appium/storage-plugin@1.0.0-rc.1...@appium/storage-plugin@1.0.0) (2025-08-18)
+## [1.0.2](https://github.com/appium/appium/compare/@testspectra/storage-plugin@1.0.1...@testspectra/storage-plugin@1.0.2) (2025-10-08)
 
-**Note:** Version bump only for package @appium/storage-plugin
+**Note:** Version bump only for package @testspectra/storage-plugin
+
+
+
+
+
+## [1.0.1](https://github.com/appium/appium/compare/@testspectra/storage-plugin@1.0.0...@testspectra/storage-plugin@1.0.1) (2025-09-09)
+
+**Note:** Version bump only for package @testspectra/storage-plugin
+
+
+
+
+
+## [1.0.0](https://github.com/appium/appium/compare/@testspectra/storage-plugin@1.0.0-rc.1...@testspectra/storage-plugin@1.0.0) (2025-08-18)
+
+**Note:** Version bump only for package @testspectra/storage-plugin
 
 
 
@@ -92,25 +92,25 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.1.3](https://github.com/appium/appium/compare/@appium/storage-plugin@0.1.2...@appium/storage-plugin@0.1.3) (2025-06-01)
+## [0.1.3](https://github.com/appium/appium/compare/@testspectra/storage-plugin@0.1.2...@testspectra/storage-plugin@0.1.3) (2025-06-01)
 
-**Note:** Version bump only for package @appium/storage-plugin
-
-
-
-
-
-## [0.1.2](https://github.com/appium/appium/compare/@appium/storage-plugin@0.1.1...@appium/storage-plugin@0.1.2) (2025-04-25)
-
-**Note:** Version bump only for package @appium/storage-plugin
+**Note:** Version bump only for package @testspectra/storage-plugin
 
 
 
 
 
-## [0.1.1](https://github.com/appium/appium/compare/@appium/storage-plugin@0.1.0...@appium/storage-plugin@0.1.1) (2025-03-17)
+## [0.1.2](https://github.com/appium/appium/compare/@testspectra/storage-plugin@0.1.1...@testspectra/storage-plugin@0.1.2) (2025-04-25)
 
-**Note:** Version bump only for package @appium/storage-plugin
+**Note:** Version bump only for package @testspectra/storage-plugin
+
+
+
+
+
+## [0.1.1](https://github.com/appium/appium/compare/@testspectra/storage-plugin@0.1.0...@testspectra/storage-plugin@0.1.1) (2025-03-17)
+
+**Note:** Version bump only for package @testspectra/storage-plugin
 
 
 

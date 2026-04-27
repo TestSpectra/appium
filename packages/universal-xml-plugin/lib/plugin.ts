@@ -2,7 +2,7 @@ import {BasePlugin} from 'appium/plugin';
 import {errors} from 'appium/driver';
 import {transformSourceXml} from './source';
 import {transformQuery} from './xpath';
-import type {ExternalDriver, NextPluginCallback, Element} from '@appium/types';
+import type {ExternalDriver, NextPluginCallback, Element} from '@testspectra/types';
 import type {TransformMetadata} from './types';
 
 export class UniversalXMLPlugin extends BasePlugin {

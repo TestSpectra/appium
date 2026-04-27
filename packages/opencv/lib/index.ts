@@ -63,7 +63,7 @@ const DEFAULT_MATCHING_METHOD: TemplateMatchingMethod = 'TM_CCOEFF_NORMED';
  *
  * @example
  * ```ts
- * import {initOpenCv} from '@appium/opencv';
+ * import {initOpenCv} from '@testspectra/opencv';
  * await initOpenCv();
  * ```
  */
@@ -93,8 +93,8 @@ export async function initOpenCv(): Promise<void> {
  *
  * @example
  * ```ts
- * import {getImagesMatches} from '@appium/opencv';
- * import {fs} from '@appium/support';
+ * import {getImagesMatches} from '@testspectra/opencv';
+ * import {fs} from '@testspectra/support';
  *
  * const image1 = await fs.readFile('image1.jpg');
  * const image2 = await fs.readFile('image2.jpg');
@@ -247,8 +247,8 @@ export async function getImagesMatches(
  *
  * @example
  * ```ts
- * import {getImagesSimilarity} from '@appium/opencv';
- * import {fs} from '@appium/support';
+ * import {getImagesSimilarity} from '@testspectra/opencv';
+ * import {fs} from '@testspectra/support';
  *
  * const image1 = await fs.readFile('image1.jpg');
  * const image2 = await fs.readFile('image2.jpg');
@@ -340,8 +340,8 @@ export async function getImagesSimilarity(
  *
  * @example
  * ```ts
- * import {getImageOccurrence} from '@appium/opencv';
- * import {fs} from '@appium/support';
+ * import {getImageOccurrence} from '@testspectra/opencv';
+ * import {fs} from '@testspectra/support';
  *
  * const fullImage = await fs.readFile('full-image.jpg');
  * const partialImage = await fs.readFile('partial-image.jpg');

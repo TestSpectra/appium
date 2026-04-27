@@ -7,7 +7,7 @@ import type {
   DriverClass,
   NSDriverCaps,
   W3CDriverCaps,
-} from '@appium/types';
+} from '@testspectra/types';
 
 /**
  * Creates unit test suites for a driver.

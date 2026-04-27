@@ -11,7 +11,7 @@ import {
   DEFAULT_FIX_IMAGE_TEMPLATE_SCALE,
 } from './constants';
 import sharp from 'sharp';
-import type {ExternalDriver, Element, Rect, Size} from '@appium/types';
+import type {ExternalDriver, Element, Rect, Size} from '@testspectra/types';
 import type {
   ImageSettings,
   FindByImageOptions,

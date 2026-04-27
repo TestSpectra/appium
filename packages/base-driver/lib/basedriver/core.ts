@@ -10,7 +10,7 @@ import type {
   Protocol,
   RouteMatcher,
   StringRecord,
-} from '@appium/types';
+} from '@testspectra/types';
 import AsyncLock from 'async-lock';
 import _ from 'lodash';
 import os from 'node:os';

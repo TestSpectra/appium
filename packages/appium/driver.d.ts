@@ -1,1 +1,1 @@
-export * from '@appium/base-driver';
+export * from '@testspectra/base-driver';

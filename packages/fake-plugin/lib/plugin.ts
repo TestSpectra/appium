@@ -7,7 +7,7 @@ import type {
   ExecuteMethodMap,
   ExternalDriver,
   MethodMap,
-} from '@appium/types';
+} from '@testspectra/types';
 
 /** Driver as seen by this plugin; may include plugin-specific session data */
 export type DriverLike = ExternalDriver & {fakeSessionData?: unknown};

@@ -1,7 +1,7 @@
 import axios from 'axios';
 import chai, {expect} from 'chai';
 import chaiAsPromised from 'chai-as-promised';
-import {driverE2ETestSuite} from '@appium/driver-test-support';
+import {driverE2ETestSuite} from '@testspectra/driver-test-support';
 import {FakeDriver, startServer} from '../../lib/index';
 import {
   BASE_CAPS,

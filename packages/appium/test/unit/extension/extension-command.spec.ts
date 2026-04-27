@@ -1,6 +1,6 @@
 import type {ChildProcess} from 'node:child_process';
 import type {Writable} from 'node:stream';
-import type {AppiumLogger} from '@appium/types';
+import type {AppiumLogger} from '@testspectra/types';
 import type {SinonSandbox, SinonStub} from 'sinon';
 import {DriverConfig} from '../../../lib/extension/driver-config';
 import {ExtensionCommand, injectAppiumSymlinks} from '../../../lib/cli/extension-command';
@@ -9,7 +9,7 @@ import sinon from 'sinon';
 import sinonChai from 'sinon-chai';
 import {FAKE_DRIVER_DIR} from '../../helpers';
 import {Manifest} from '../../../lib/extension/manifest';
-import {fs, system} from '@appium/support';
+import {fs, system} from '@testspectra/support';
 import * as utils from '../../../lib/utils';
 import {expect} from 'chai';
 import * as chai from 'chai';

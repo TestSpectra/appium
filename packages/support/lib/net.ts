@@ -6,7 +6,7 @@ import Ftp from 'jsftp';
 import {Timer} from './timing';
 import axios, {type AxiosBasicCredentials, type Method, type RawAxiosRequestConfig} from 'axios';
 import FormData from 'form-data';
-import type {HTTPHeaders} from '@appium/types';
+import type {HTTPHeaders} from '@testspectra/types';
 
 const DEFAULT_TIMEOUT_MS = 4 * 60 * 1000;
 

@@ -1,5 +1,5 @@
 import {expect} from 'chai';
-import type {InitialOpts} from '@appium/types';
+import type {InitialOpts} from '@testspectra/types';
 import {createSandbox} from 'sinon';
 import _ from 'lodash';
 import {BaseDriver} from '../../../../lib';

@@ -6,10 +6,10 @@ import {log} from './logger';
 import {errors} from '../protocol';
 export {handleIdempotency} from './idempotency';
 import {match} from 'path-to-regexp';
-import {util} from '@appium/support';
+import {util} from '@testspectra/support';
 import {calcSignature} from '../helpers/session';
 import {getResponseForW3CError} from '../protocol/errors';
-import type {StringRecord, WSServer} from '@appium/types';
+import type {StringRecord, WSServer} from '@testspectra/types';
 
 const SESSION_ID_PATTERN = /\/session\/([^/]+)/;
 

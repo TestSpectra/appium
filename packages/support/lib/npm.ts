@@ -1,7 +1,7 @@
 import path from 'node:path';
 import * as semver from 'semver';
 import type {PackageJson} from 'type-fest';
-import type {StringRecord} from '@appium/types';
+import type {StringRecord} from '@testspectra/types';
 import {hasAppiumDependency} from './env';
 import {exec} from 'teen_process';
 import type {ExecError, TeenProcessExecOptions} from 'teen_process';

@@ -1,6 +1,6 @@
 import {log as logger} from '../logger';
 import _ from 'lodash';
-import type {AppiumServer} from '@appium/types';
+import type {AppiumServer} from '@testspectra/types';
 import {getActivePlugins, getActiveDrivers} from '../extension';
 import registerNode from './grid-v3-register';
 import {
@@ -18,7 +18,7 @@ import type {
   CliCommandSetupSubcommand,
   CliExtensionSubcommand,
 } from 'appium/types';
-import type {ServerOpts} from '@appium/base-driver';
+import type {ServerOpts} from '@testspectra/base-driver';
 import net from 'node:net';
 
 const MAX_SERVER_PROCESS_LISTENERS = 100;

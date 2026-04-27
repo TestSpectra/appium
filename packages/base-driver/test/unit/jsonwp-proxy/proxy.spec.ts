@@ -3,7 +3,7 @@ import chaiAsPromised from 'chai-as-promised';
 import {JWProxy} from '../../../lib';
 import {request, type MockRequestOpts} from './mock-request';
 import {isErrorType, errors} from '../../../lib/protocol/errors';
-import {getTestPort, TEST_HOST} from '@appium/driver-test-support';
+import {getTestPort, TEST_HOST} from '@testspectra/driver-test-support';
 
 chai.use(chaiAsPromised);
 

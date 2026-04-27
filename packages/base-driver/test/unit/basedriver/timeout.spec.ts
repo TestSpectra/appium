@@ -1,6 +1,6 @@
 import chai, {expect} from 'chai';
 import chaiAsPromised from 'chai-as-promised';
-import type {InitialOpts} from '@appium/types';
+import type {InitialOpts} from '@testspectra/types';
 import {BaseDriver} from '../../../lib';
 import {createSandbox} from 'sinon';
 

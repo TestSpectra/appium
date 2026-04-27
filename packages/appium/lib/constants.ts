@@ -30,12 +30,12 @@ export const USE_ALL_PLUGINS = 'all';
 // type 'appium plugin install 'name'', rather than having to specify the full
 // npm package. I.e., these are the officially recognized plugins.
 export const KNOWN_PLUGINS = Object.freeze({
-  'execute-driver': '@appium/execute-driver-plugin',
-  images: '@appium/images-plugin',
+  'execute-driver': '@testspectra/execute-driver-plugin',
+  images: '@testspectra/images-plugin',
   inspector: 'appium-inspector-plugin',
-  'relaxed-caps': '@appium/relaxed-caps-plugin',
-  storage: '@appium/storage-plugin',
-  'universal-xml': '@appium/universal-xml-plugin',
+  'relaxed-caps': '@testspectra/relaxed-caps-plugin',
+  storage: '@testspectra/storage-plugin',
+  'universal-xml': '@testspectra/universal-xml-plugin',
 } as const);
 
 export const MOBILE_DRIVERS = Object.freeze({

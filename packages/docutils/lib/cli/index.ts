@@ -2,13 +2,13 @@
 
 
 /**
- * Main CLI entry point for `@appium/docutils`
+ * Main CLI entry point for `@testspectra/docutils`
  * @module
  */
 
 import {getLogger} from '../logger';
 
-import {fs} from '@appium/support';
+import {fs} from '@testspectra/support';
 import _ from 'lodash';
 import {readPackageSync} from 'read-pkg';
 import {hideBin} from 'yargs/helpers';

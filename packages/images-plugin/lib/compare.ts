@@ -10,7 +10,7 @@ import {
   type MatchingOptions,
   type SimilarityOptions,
   type OccurrenceOptions,
-} from '@appium/opencv';
+} from '@testspectra/opencv';
 import {MATCH_FEATURES_MODE, GET_SIMILARITY_MODE, MATCH_TEMPLATE_MODE} from './constants';
 import type {ComparisonResult} from './types';
 
@@ -26,11 +26,11 @@ import type {ComparisonResult} from './types';
  * @param secondImage - Base64-encoded image file.
  * All image formats, that OpenCV library itself accepts, are supported.
  * @param options - The content of this dictionary depends
- * on the actual `mode` value. See the documentation on `@appium/support`
+ * on the actual `mode` value. See the documentation on `@testspectra/support`
  * module for more details.
  * @returns The content of the resulting dictionary depends
  * on the actual `mode` and `options` values. See the documentation on
- * `@appium/support` module for more details.
+ * `@testspectra/support` module for more details.
  * @throws {Error} If required OpenCV modules are not installed or
  * if `mode` value is incorrect or if there was an unexpected issue while
  * matching the images.

@@ -67,7 +67,7 @@ package .json manifest under the `appium.doctor.checks` section similar to the d
   // ...
 ```
 
-Also, it makes sense to include the [@appium/types](https://www.npmjs.com/package/@appium/types) import
+Also, it makes sense to include the [@testspectra/types](https://www.npmjs.com/package/@testspectra/types) import
 to the package dev dependencies.
 
 ### Implementation Example
@@ -75,9 +75,9 @@ to the package dev dependencies.
 The below example is a "raw" Node.JS implementation that does not use any transpilation:
 
 ```js
-const {fs, doctor} = require('@appium/support');
+const {fs, doctor} = require('@testspectra/support');
 
-/** @satisfies {import('@appium/types').IDoctorCheck} */
+/** @satisfies {import('@testspectra/types').IDoctorCheck} */
 class EnvVarAndPathCheck {
   /**
    * @param {string} varName
@@ -119,7 +119,7 @@ const androidHomeCheck = new EnvVarAndPathCheck('ANDROID_HOME');
 module.exports = {androidHomeCheck};
 
 /**
- * @typedef {import('@appium/types').DoctorCheckResult} CheckResult
+ * @typedef {import('@testspectra/types').DoctorCheckResult} CheckResult
  */
 ```
 

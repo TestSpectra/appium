@@ -3,7 +3,7 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-## [6.0.2](https://github.com/appium/appium/compare/@appium/execute-driver-plugin@6.0.1...@appium/execute-driver-plugin@6.0.2) (2026-04-23)
+## [6.0.2](https://github.com/appium/appium/compare/@testspectra/execute-driver-plugin@6.0.1...@testspectra/execute-driver-plugin@6.0.2) (2026-04-23)
 
 
 ### Bug Fixes
@@ -12,15 +12,15 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [6.0.1](https://github.com/appium/appium/compare/@appium/execute-driver-plugin@6.0.0...@appium/execute-driver-plugin@6.0.1) (2026-04-09)
+## [6.0.1](https://github.com/appium/appium/compare/@testspectra/execute-driver-plugin@6.0.0...@testspectra/execute-driver-plugin@6.0.1) (2026-04-09)
 
-**Note:** Version bump only for package @appium/execute-driver-plugin
-
-
+**Note:** Version bump only for package @testspectra/execute-driver-plugin
 
 
 
-## [6.0.0](https://github.com/appium/appium/compare/@appium/execute-driver-plugin@5.1.0...@appium/execute-driver-plugin@6.0.0) (2026-03-08)
+
+
+## [6.0.0](https://github.com/appium/appium/compare/@testspectra/execute-driver-plugin@5.1.0...@testspectra/execute-driver-plugin@6.0.0) (2026-03-08)
 
 
 ### ⚠ BREAKING CHANGES
@@ -33,7 +33,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [5.1.0](https://github.com/appium/appium/compare/@appium/execute-driver-plugin@5.0.3...@appium/execute-driver-plugin@5.1.0) (2026-01-26)
+## [5.1.0](https://github.com/appium/appium/compare/@testspectra/execute-driver-plugin@5.0.3...@testspectra/execute-driver-plugin@5.1.0) (2026-01-26)
 
 
 ### Features
@@ -47,39 +47,39 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [5.0.3](https://github.com/appium/appium/compare/@appium/execute-driver-plugin@5.0.2...@appium/execute-driver-plugin@5.0.3) (2025-12-04)
+## [5.0.3](https://github.com/appium/appium/compare/@testspectra/execute-driver-plugin@5.0.2...@testspectra/execute-driver-plugin@5.0.3) (2025-12-04)
 
-**Note:** Version bump only for package @appium/execute-driver-plugin
-
-
-
-
-
-## [5.0.2](https://github.com/appium/appium/compare/@appium/execute-driver-plugin@5.0.1...@appium/execute-driver-plugin@5.0.2) (2025-10-08)
-
-**Note:** Version bump only for package @appium/execute-driver-plugin
+**Note:** Version bump only for package @testspectra/execute-driver-plugin
 
 
 
 
 
-## [5.0.1](https://github.com/appium/appium/compare/@appium/execute-driver-plugin@5.0.0...@appium/execute-driver-plugin@5.0.1) (2025-09-09)
+## [5.0.2](https://github.com/appium/appium/compare/@testspectra/execute-driver-plugin@5.0.1...@testspectra/execute-driver-plugin@5.0.2) (2025-10-08)
 
-**Note:** Version bump only for package @appium/execute-driver-plugin
-
-
-
-
-
-## [5.0.0](https://github.com/appium/appium/compare/@appium/execute-driver-plugin@5.0.0-rc.1...@appium/execute-driver-plugin@5.0.0) (2025-08-18)
-
-**Note:** Version bump only for package @appium/execute-driver-plugin
+**Note:** Version bump only for package @testspectra/execute-driver-plugin
 
 
 
 
 
-## [5.0.0-rc.1](https://github.com/appium/appium/compare/@appium/execute-driver-plugin@4.0.2...@appium/execute-driver-plugin@5.0.0-rc.1) (2025-08-14)
+## [5.0.1](https://github.com/appium/appium/compare/@testspectra/execute-driver-plugin@5.0.0...@testspectra/execute-driver-plugin@5.0.1) (2025-09-09)
+
+**Note:** Version bump only for package @testspectra/execute-driver-plugin
+
+
+
+
+
+## [5.0.0](https://github.com/appium/appium/compare/@testspectra/execute-driver-plugin@5.0.0-rc.1...@testspectra/execute-driver-plugin@5.0.0) (2025-08-18)
+
+**Note:** Version bump only for package @testspectra/execute-driver-plugin
+
+
+
+
+
+## [5.0.0-rc.1](https://github.com/appium/appium/compare/@testspectra/execute-driver-plugin@4.0.2...@testspectra/execute-driver-plugin@5.0.0-rc.1) (2025-08-14)
 
 
 ### ⚠ BREAKING CHANGES
@@ -97,39 +97,39 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [4.0.6](https://github.com/appium/appium/compare/@appium/execute-driver-plugin@4.0.5...@appium/execute-driver-plugin@4.0.6) (2025-06-01)
+## [4.0.6](https://github.com/appium/appium/compare/@testspectra/execute-driver-plugin@4.0.5...@testspectra/execute-driver-plugin@4.0.6) (2025-06-01)
 
-**Note:** Version bump only for package @appium/execute-driver-plugin
-
-
-
-
-
-## [4.0.5](https://github.com/appium/appium/compare/@appium/execute-driver-plugin@4.0.4...@appium/execute-driver-plugin@4.0.5) (2025-04-25)
-
-**Note:** Version bump only for package @appium/execute-driver-plugin
+**Note:** Version bump only for package @testspectra/execute-driver-plugin
 
 
 
 
 
-## [4.0.4](https://github.com/appium/appium/compare/@appium/execute-driver-plugin@4.0.3...@appium/execute-driver-plugin@4.0.4) (2025-03-17)
+## [4.0.5](https://github.com/appium/appium/compare/@testspectra/execute-driver-plugin@4.0.4...@testspectra/execute-driver-plugin@4.0.5) (2025-04-25)
 
-**Note:** Version bump only for package @appium/execute-driver-plugin
-
-
-
-
-
-## [4.0.3](https://github.com/appium/appium/compare/@appium/execute-driver-plugin@4.0.2...@appium/execute-driver-plugin@4.0.3) (2025-03-11)
-
-**Note:** Version bump only for package @appium/execute-driver-plugin
+**Note:** Version bump only for package @testspectra/execute-driver-plugin
 
 
 
 
 
-## [4.0.2](https://github.com/appium/appium/compare/@appium/execute-driver-plugin@4.0.1...@appium/execute-driver-plugin@4.0.2) (2025-02-19)
+## [4.0.4](https://github.com/appium/appium/compare/@testspectra/execute-driver-plugin@4.0.3...@testspectra/execute-driver-plugin@4.0.4) (2025-03-17)
+
+**Note:** Version bump only for package @testspectra/execute-driver-plugin
+
+
+
+
+
+## [4.0.3](https://github.com/appium/appium/compare/@testspectra/execute-driver-plugin@4.0.2...@testspectra/execute-driver-plugin@4.0.3) (2025-03-11)
+
+**Note:** Version bump only for package @testspectra/execute-driver-plugin
+
+
+
+
+
+## [4.0.2](https://github.com/appium/appium/compare/@testspectra/execute-driver-plugin@4.0.1...@testspectra/execute-driver-plugin@4.0.2) (2025-02-19)
 
 
 ### Bug Fixes
@@ -147,7 +147,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [4.0.1](https://github.com/appium/appium/compare/@appium/execute-driver-plugin@4.0.0...@appium/execute-driver-plugin@4.0.1) (2025-01-06)
+## [4.0.1](https://github.com/appium/appium/compare/@testspectra/execute-driver-plugin@4.0.0...@testspectra/execute-driver-plugin@4.0.1) (2025-01-06)
 
 
 ### Bug Fixes
@@ -156,7 +156,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [4.0.0](https://github.com/appium/appium/compare/@appium/execute-driver-plugin@3.0.36...@appium/execute-driver-plugin@4.0.0) (2025-01-02)
+## [4.0.0](https://github.com/appium/appium/compare/@testspectra/execute-driver-plugin@3.0.36...@testspectra/execute-driver-plugin@4.0.0) (2025-01-02)
 
 
 ### ⚠ BREAKING CHANGES
@@ -176,7 +176,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [3.0.36](https://github.com/appium/appium/compare/@appium/execute-driver-plugin@3.0.35...@appium/execute-driver-plugin@3.0.36) (2024-10-15)
+## [3.0.36](https://github.com/appium/appium/compare/@testspectra/execute-driver-plugin@3.0.35...@testspectra/execute-driver-plugin@3.0.36) (2024-10-15)
 
 
 ### Bug Fixes
@@ -185,7 +185,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [3.0.35](https://github.com/appium/appium/compare/@appium/execute-driver-plugin@3.0.34...@appium/execute-driver-plugin@3.0.35) (2024-09-26)
+## [3.0.35](https://github.com/appium/appium/compare/@testspectra/execute-driver-plugin@3.0.34...@testspectra/execute-driver-plugin@3.0.35) (2024-09-26)
 
 
 ### Bug Fixes
@@ -194,7 +194,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [3.0.34](https://github.com/appium/appium/compare/@appium/execute-driver-plugin@3.0.33...@appium/execute-driver-plugin@3.0.34) (2024-09-16)
+## [3.0.34](https://github.com/appium/appium/compare/@testspectra/execute-driver-plugin@3.0.33...@testspectra/execute-driver-plugin@3.0.34) (2024-09-16)
 
 
 ### Bug Fixes
@@ -204,7 +204,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [3.0.33](https://github.com/appium/appium/compare/@appium/execute-driver-plugin@3.0.32...@appium/execute-driver-plugin@3.0.33) (2024-08-07)
+## [3.0.33](https://github.com/appium/appium/compare/@testspectra/execute-driver-plugin@3.0.32...@testspectra/execute-driver-plugin@3.0.33) (2024-08-07)
 
 
 ### Bug Fixes
@@ -213,7 +213,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [3.0.32](https://github.com/appium/appium/compare/@appium/execute-driver-plugin@3.0.31...@appium/execute-driver-plugin@3.0.32) (2024-07-10)
+## [3.0.32](https://github.com/appium/appium/compare/@testspectra/execute-driver-plugin@3.0.31...@testspectra/execute-driver-plugin@3.0.32) (2024-07-10)
 
 
 ### Bug Fixes
@@ -222,7 +222,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [3.0.31](https://github.com/appium/appium/compare/@appium/execute-driver-plugin@3.0.30...@appium/execute-driver-plugin@3.0.31) (2024-06-27)
+## [3.0.31](https://github.com/appium/appium/compare/@testspectra/execute-driver-plugin@3.0.30...@testspectra/execute-driver-plugin@3.0.31) (2024-06-27)
 
 
 ### Bug Fixes
@@ -231,7 +231,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [3.0.30](https://github.com/appium/appium/compare/@appium/execute-driver-plugin@3.0.29...@appium/execute-driver-plugin@3.0.30) (2024-06-06)
+## [3.0.30](https://github.com/appium/appium/compare/@testspectra/execute-driver-plugin@3.0.29...@testspectra/execute-driver-plugin@3.0.30) (2024-06-06)
 
 
 ### Bug Fixes
@@ -240,7 +240,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [3.0.29](https://github.com/appium/appium/compare/@appium/execute-driver-plugin@3.0.28...@appium/execute-driver-plugin@3.0.29) (2024-05-27)
+## [3.0.29](https://github.com/appium/appium/compare/@testspectra/execute-driver-plugin@3.0.28...@testspectra/execute-driver-plugin@3.0.29) (2024-05-27)
 
 
 ### Bug Fixes
@@ -250,7 +250,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [3.0.28](https://github.com/appium/appium/compare/@appium/execute-driver-plugin@3.0.27...@appium/execute-driver-plugin@3.0.28) (2024-04-21)
+## [3.0.28](https://github.com/appium/appium/compare/@testspectra/execute-driver-plugin@3.0.27...@testspectra/execute-driver-plugin@3.0.28) (2024-04-21)
 
 
 ### Bug Fixes
@@ -259,7 +259,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [3.0.27](https://github.com/appium/appium/compare/@appium/execute-driver-plugin@3.0.26...@appium/execute-driver-plugin@3.0.27) (2024-04-16)
+## [3.0.27](https://github.com/appium/appium/compare/@testspectra/execute-driver-plugin@3.0.26...@testspectra/execute-driver-plugin@3.0.27) (2024-04-16)
 
 
 ### Bug Fixes
@@ -268,7 +268,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [3.0.26](https://github.com/appium/appium/compare/@appium/execute-driver-plugin@3.0.25...@appium/execute-driver-plugin@3.0.26) (2024-04-08)
+## [3.0.26](https://github.com/appium/appium/compare/@testspectra/execute-driver-plugin@3.0.25...@testspectra/execute-driver-plugin@3.0.26) (2024-04-08)
 
 
 ### Bug Fixes
@@ -284,7 +284,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [3.0.25](https://github.com/appium/appium/compare/@appium/execute-driver-plugin@3.0.24...@appium/execute-driver-plugin@3.0.25) (2024-02-13)
+## [3.0.25](https://github.com/appium/appium/compare/@testspectra/execute-driver-plugin@3.0.24...@testspectra/execute-driver-plugin@3.0.25) (2024-02-13)
 
 
 ### Bug Fixes
@@ -293,7 +293,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [3.0.24](https://github.com/appium/appium/compare/@appium/execute-driver-plugin@3.0.23...@appium/execute-driver-plugin@3.0.24) (2024-02-06)
+## [3.0.24](https://github.com/appium/appium/compare/@testspectra/execute-driver-plugin@3.0.23...@testspectra/execute-driver-plugin@3.0.24) (2024-02-06)
 
 
 ### Bug Fixes
@@ -310,7 +310,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [3.0.23](https://github.com/appium/appium/compare/@appium/execute-driver-plugin@3.0.22...@appium/execute-driver-plugin@3.0.23) (2024-01-03)
+## [3.0.23](https://github.com/appium/appium/compare/@testspectra/execute-driver-plugin@3.0.22...@testspectra/execute-driver-plugin@3.0.23) (2024-01-03)
 
 
 ### Bug Fixes
@@ -320,12 +320,12 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [3.0.22](https://github.com/appium/appium/compare/@appium/execute-driver-plugin@3.0.21...@appium/execute-driver-plugin@3.0.22) (2023-12-18)
+## [3.0.22](https://github.com/appium/appium/compare/@testspectra/execute-driver-plugin@3.0.21...@testspectra/execute-driver-plugin@3.0.22) (2023-12-18)
 
 
 ### Bug Fixes
 
-* **docutils:** remove `@appium/typedoc-plugin-appium` and all other uses of `typedoc` ([#19465](https://github.com/appium/appium/issues/19465)) ([7528fcf](https://github.com/appium/appium/commit/7528fcf890f79f4017f5e718bb1952bf907ee479))
+* **docutils:** remove `@testspectra/typedoc-plugin-appium` and all other uses of `typedoc` ([#19465](https://github.com/appium/appium/issues/19465)) ([7528fcf](https://github.com/appium/appium/commit/7528fcf890f79f4017f5e718bb1952bf907ee479))
 * **docutils:** update dependency typescript to v5.2.2 ([#19472](https://github.com/appium/appium/issues/19472)) ([cb950df](https://github.com/appium/appium/commit/cb950dffb82e114341d2e0e0faa5ce6d551ec267))
 * **execute-driver-plugin:** update dependency webdriverio to v8.24.12 ([5b40b87](https://github.com/appium/appium/commit/5b40b87236a697f554b804c25c312ce242993068))
 * **execute-driver-plugin:** update dependency webdriverio to v8.24.6 ([2e79385](https://github.com/appium/appium/commit/2e7938578d785f49d6f9e1428afb91aae3d4e4ba))
@@ -335,7 +335,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [3.0.21](https://github.com/appium/appium/compare/@appium/execute-driver-plugin@3.0.20...@appium/execute-driver-plugin@3.0.21) (2023-12-04)
+## [3.0.21](https://github.com/appium/appium/compare/@testspectra/execute-driver-plugin@3.0.20...@testspectra/execute-driver-plugin@3.0.21) (2023-12-04)
 
 
 ### Bug Fixes
@@ -344,7 +344,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [3.0.20](https://github.com/appium/appium/compare/@appium/execute-driver-plugin@3.0.19...@appium/execute-driver-plugin@3.0.20) (2023-11-14)
+## [3.0.20](https://github.com/appium/appium/compare/@testspectra/execute-driver-plugin@3.0.19...@testspectra/execute-driver-plugin@3.0.20) (2023-11-14)
 
 
 ### Bug Fixes
@@ -355,7 +355,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [3.0.19](https://github.com/appium/appium/compare/@appium/execute-driver-plugin@3.0.18...@appium/execute-driver-plugin@3.0.19) (2023-10-19)
+## [3.0.19](https://github.com/appium/appium/compare/@testspectra/execute-driver-plugin@3.0.18...@testspectra/execute-driver-plugin@3.0.19) (2023-10-19)
 
 
 ### Bug Fixes
@@ -364,7 +364,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [3.0.18](https://github.com/appium/appium/compare/@appium/execute-driver-plugin@3.0.17...@appium/execute-driver-plugin@3.0.18) (2023-10-18)
+## [3.0.18](https://github.com/appium/appium/compare/@testspectra/execute-driver-plugin@3.0.17...@testspectra/execute-driver-plugin@3.0.18) (2023-10-18)
 
 
 ### Bug Fixes
@@ -395,7 +395,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [3.0.17](https://github.com/appium/appium/compare/@appium/execute-driver-plugin@3.0.16...@appium/execute-driver-plugin@3.0.17) (2023-08-22)
+## [3.0.17](https://github.com/appium/appium/compare/@testspectra/execute-driver-plugin@3.0.16...@testspectra/execute-driver-plugin@3.0.17) (2023-08-22)
 
 
 ### Bug Fixes
@@ -405,7 +405,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [3.0.16](https://github.com/appium/appium/compare/@appium/execute-driver-plugin@3.0.15...@appium/execute-driver-plugin@3.0.16) (2023-08-17)
+## [3.0.16](https://github.com/appium/appium/compare/@testspectra/execute-driver-plugin@3.0.15...@testspectra/execute-driver-plugin@3.0.16) (2023-08-17)
 
 
 ### Bug Fixes
@@ -414,7 +414,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [3.0.15](https://github.com/appium/appium/compare/@appium/execute-driver-plugin@3.0.14...@appium/execute-driver-plugin@3.0.15) (2023-07-24)
+## [3.0.15](https://github.com/appium/appium/compare/@testspectra/execute-driver-plugin@3.0.14...@testspectra/execute-driver-plugin@3.0.15) (2023-07-24)
 
 
 ### Bug Fixes
@@ -423,7 +423,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [3.0.14](https://github.com/appium/appium/compare/@appium/execute-driver-plugin@3.0.13...@appium/execute-driver-plugin@3.0.14) (2023-06-14)
+## [3.0.14](https://github.com/appium/appium/compare/@testspectra/execute-driver-plugin@3.0.13...@testspectra/execute-driver-plugin@3.0.14) (2023-06-14)
 
 
 ### Bug Fixes
@@ -432,7 +432,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [3.0.13](https://github.com/appium/appium/compare/@appium/execute-driver-plugin@3.0.12...@appium/execute-driver-plugin@3.0.13) (2023-05-17)
+## [3.0.13](https://github.com/appium/appium/compare/@testspectra/execute-driver-plugin@3.0.12...@testspectra/execute-driver-plugin@3.0.13) (2023-05-17)
 
 
 ### Bug Fixes
@@ -442,7 +442,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [3.0.12](https://github.com/appium/appium/compare/@appium/execute-driver-plugin@3.0.11...@appium/execute-driver-plugin@3.0.12) (2023-04-12)
+## [3.0.12](https://github.com/appium/appium/compare/@testspectra/execute-driver-plugin@3.0.11...@testspectra/execute-driver-plugin@3.0.12) (2023-04-12)
 
 
 ### Bug Fixes
@@ -451,7 +451,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [3.0.11](https://github.com/appium/appium/compare/@appium/execute-driver-plugin@3.0.10...@appium/execute-driver-plugin@3.0.11) (2023-04-10)
+## [3.0.11](https://github.com/appium/appium/compare/@testspectra/execute-driver-plugin@3.0.10...@testspectra/execute-driver-plugin@3.0.11) (2023-04-10)
 
 
 ### Bug Fixes
@@ -462,15 +462,15 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [3.0.10](https://github.com/appium/appium/compare/@appium/execute-driver-plugin@3.0.9...@appium/execute-driver-plugin@3.0.10) (2023-04-03)
+## [3.0.10](https://github.com/appium/appium/compare/@testspectra/execute-driver-plugin@3.0.9...@testspectra/execute-driver-plugin@3.0.10) (2023-04-03)
 
-**Note:** Version bump only for package @appium/execute-driver-plugin
-
-
+**Note:** Version bump only for package @testspectra/execute-driver-plugin
 
 
 
-## [3.0.9](https://github.com/appium/appium/compare/@appium/execute-driver-plugin@3.0.8...@appium/execute-driver-plugin@3.0.9) (2023-03-28)
+
+
+## [3.0.9](https://github.com/appium/appium/compare/@testspectra/execute-driver-plugin@3.0.8...@testspectra/execute-driver-plugin@3.0.9) (2023-03-28)
 
 
 ### Bug Fixes
@@ -481,7 +481,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [3.0.8](https://github.com/appium/appium/compare/@appium/execute-driver-plugin@3.0.7...@appium/execute-driver-plugin@3.0.8) (2023-03-08)
+## [3.0.8](https://github.com/appium/appium/compare/@testspectra/execute-driver-plugin@3.0.7...@testspectra/execute-driver-plugin@3.0.8) (2023-03-08)
 
 
 ### Bug Fixes
@@ -492,7 +492,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [3.0.7](https://github.com/appium/appium/compare/@appium/execute-driver-plugin@3.0.6...@appium/execute-driver-plugin@3.0.7) (2023-02-24)
+## [3.0.7](https://github.com/appium/appium/compare/@testspectra/execute-driver-plugin@3.0.6...@testspectra/execute-driver-plugin@3.0.7) (2023-02-24)
 
 
 ### Bug Fixes
@@ -503,7 +503,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [3.0.6](https://github.com/appium/appium/compare/@appium/execute-driver-plugin@3.0.5...@appium/execute-driver-plugin@3.0.6) (2023-02-09)
+## [3.0.6](https://github.com/appium/appium/compare/@testspectra/execute-driver-plugin@3.0.5...@testspectra/execute-driver-plugin@3.0.6) (2023-02-09)
 
 
 ### Bug Fixes
@@ -515,31 +515,31 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [3.0.5](https://github.com/appium/appium/compare/@appium/execute-driver-plugin@3.0.4...@appium/execute-driver-plugin@3.0.5) (2023-01-13)
+## [3.0.5](https://github.com/appium/appium/compare/@testspectra/execute-driver-plugin@3.0.4...@testspectra/execute-driver-plugin@3.0.5) (2023-01-13)
 
-**Note:** Version bump only for package @appium/execute-driver-plugin
-
-
-
-
-
-## [3.0.4](https://github.com/appium/appium/compare/@appium/execute-driver-plugin@3.0.3...@appium/execute-driver-plugin@3.0.4) (2023-01-13)
-
-**Note:** Version bump only for package @appium/execute-driver-plugin
+**Note:** Version bump only for package @testspectra/execute-driver-plugin
 
 
 
 
 
-## [3.0.3](https://github.com/appium/appium/compare/@appium/execute-driver-plugin@3.0.2...@appium/execute-driver-plugin@3.0.3) (2023-01-13)
+## [3.0.4](https://github.com/appium/appium/compare/@testspectra/execute-driver-plugin@3.0.3...@testspectra/execute-driver-plugin@3.0.4) (2023-01-13)
 
-**Note:** Version bump only for package @appium/execute-driver-plugin
-
-
+**Note:** Version bump only for package @testspectra/execute-driver-plugin
 
 
 
-## [3.0.2](https://github.com/appium/appium/compare/@appium/execute-driver-plugin@3.0.1...@appium/execute-driver-plugin@3.0.2) (2023-01-13)
+
+
+## [3.0.3](https://github.com/appium/appium/compare/@testspectra/execute-driver-plugin@3.0.2...@testspectra/execute-driver-plugin@3.0.3) (2023-01-13)
+
+**Note:** Version bump only for package @testspectra/execute-driver-plugin
+
+
+
+
+
+## [3.0.2](https://github.com/appium/appium/compare/@testspectra/execute-driver-plugin@3.0.1...@testspectra/execute-driver-plugin@3.0.2) (2023-01-13)
 
 
 ### Bug Fixes
@@ -554,13 +554,13 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [3.0.1](https://github.com/appium/appium/compare/@appium/execute-driver-plugin@3.0.0...@appium/execute-driver-plugin@3.0.1) (2022-12-21)
+## [3.0.1](https://github.com/appium/appium/compare/@testspectra/execute-driver-plugin@3.0.0...@testspectra/execute-driver-plugin@3.0.1) (2022-12-21)
 
 ### Bug Fixes
 
 - **execute-driver-plugin:** update dependency webdriverio to v7.28.0 ([f81e2e9](https://github.com/appium/appium/commit/f81e2e92eff25c33d36f767209f423227d288218))
 
-# [3.0.0](https://github.com/appium/appium/compare/@appium/execute-driver-plugin@2.0.6...@appium/execute-driver-plugin@3.0.0) (2022-12-14)
+# [3.0.0](https://github.com/appium/appium/compare/@testspectra/execute-driver-plugin@2.0.6...@testspectra/execute-driver-plugin@3.0.0) (2022-12-14)
 
 ### Bug Fixes
 
@@ -580,37 +580,37 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 - Appium now supports version range `^14.17.0 || ^16.13.0 || >=18.0.0`
 
-## [2.0.6](https://github.com/appium/appium/compare/@appium/execute-driver-plugin@2.0.5...@appium/execute-driver-plugin@2.0.6) (2022-10-13)
+## [2.0.6](https://github.com/appium/appium/compare/@testspectra/execute-driver-plugin@2.0.5...@testspectra/execute-driver-plugin@2.0.6) (2022-10-13)
 
-**Note:** Version bump only for package @appium/execute-driver-plugin
+**Note:** Version bump only for package @testspectra/execute-driver-plugin
 
-## [2.0.5](https://github.com/appium/appium/compare/@appium/execute-driver-plugin@2.0.4...@appium/execute-driver-plugin@2.0.5) (2022-09-07)
+## [2.0.5](https://github.com/appium/appium/compare/@testspectra/execute-driver-plugin@2.0.4...@testspectra/execute-driver-plugin@2.0.5) (2022-09-07)
 
-**Note:** Version bump only for package @appium/execute-driver-plugin
+**Note:** Version bump only for package @testspectra/execute-driver-plugin
 
-## [2.0.4](https://github.com/appium/appium/compare/@appium/execute-driver-plugin@2.0.3...@appium/execute-driver-plugin@2.0.4) (2022-08-03)
+## [2.0.4](https://github.com/appium/appium/compare/@testspectra/execute-driver-plugin@2.0.3...@testspectra/execute-driver-plugin@2.0.4) (2022-08-03)
 
 ### Bug Fixes
 
 - **appium,base-driver,base-plugin,doctor,docutils,eslint-config-appium,execute-driver-plugin,fake-driver,fake-plugin,gulp-plugins,images-plugin,opencv,relaxed-caps-plugin,schema,support,test-support,types,universal-xml-plugin:** update engines ([d8d2382](https://github.com/appium/appium/commit/d8d2382327ba7b7db8a4d1cad987c0e60184c92d))
 
-## [2.0.3](https://github.com/appium/appium/compare/@appium/execute-driver-plugin@2.0.2...@appium/execute-driver-plugin@2.0.3) (2022-07-28)
+## [2.0.3](https://github.com/appium/appium/compare/@testspectra/execute-driver-plugin@2.0.2...@testspectra/execute-driver-plugin@2.0.3) (2022-07-28)
 
 ### Bug Fixes
 
 - moved type packages to deps of specific packages ([f9129df](https://github.com/appium/appium/commit/f9129dfee32fcc3f89ffcfa69fb83b7c2419c24f))
 
-## [2.0.2](https://github.com/appium/appium/compare/@appium/execute-driver-plugin@2.0.1...@appium/execute-driver-plugin@2.0.2) (2022-06-01)
+## [2.0.2](https://github.com/appium/appium/compare/@testspectra/execute-driver-plugin@2.0.1...@testspectra/execute-driver-plugin@2.0.2) (2022-06-01)
 
 ### Bug Fixes
 
 - **execute-driver-plugin,fake-plugin,images-plugin,relaxed-caps-plugin,universal-xml-plugin:** ensure babel runtime is present ([df64612](https://github.com/appium/appium/commit/df64612d98c35fd64219816269f83f628e538fe2))
 
-## [2.0.1](https://github.com/appium/appium/compare/@appium/execute-driver-plugin@2.0.0...@appium/execute-driver-plugin@2.0.1) (2022-05-31)
+## [2.0.1](https://github.com/appium/appium/compare/@testspectra/execute-driver-plugin@2.0.0...@testspectra/execute-driver-plugin@2.0.1) (2022-05-31)
 
-**Note:** Version bump only for package @appium/execute-driver-plugin
+**Note:** Version bump only for package @testspectra/execute-driver-plugin
 
-# [2.0.0](https://github.com/appium/appium/compare/@appium/execute-driver-plugin@1.0.5...@appium/execute-driver-plugin@2.0.0) (2022-05-31)
+# [2.0.0](https://github.com/appium/appium/compare/@testspectra/execute-driver-plugin@1.0.5...@testspectra/execute-driver-plugin@2.0.0) (2022-05-31)
 
 ### Bug Fixes
 
@@ -622,7 +622,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 ### BREAKING CHANGES
 
-- **execute-driver-plugin:** `@appium/execute-driver-plugin` now expects to be installed alongside `appium`.
+- **execute-driver-plugin:** `@testspectra/execute-driver-plugin` now expects to be installed alongside `appium`.
 
 # Conflicts:
 
@@ -636,17 +636,17 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 # packages/execute-driver-plugin/test/e2e/plugin.e2e.spec.js
 
-## [1.0.5](https://github.com/appium/appium/compare/@appium/execute-driver-plugin@1.0.4...@appium/execute-driver-plugin@1.0.5) (2022-05-02)
+## [1.0.5](https://github.com/appium/appium/compare/@testspectra/execute-driver-plugin@1.0.4...@testspectra/execute-driver-plugin@1.0.5) (2022-05-02)
 
-**Note:** Version bump only for package @appium/execute-driver-plugin
+**Note:** Version bump only for package @testspectra/execute-driver-plugin
 
-## [1.0.4](https://github.com/appium/appium/compare/@appium/execute-driver-plugin@1.0.3...@appium/execute-driver-plugin@1.0.4) (2022-04-20)
+## [1.0.4](https://github.com/appium/appium/compare/@testspectra/execute-driver-plugin@1.0.3...@testspectra/execute-driver-plugin@1.0.4) (2022-04-20)
 
-**Note:** Version bump only for package @appium/execute-driver-plugin
+**Note:** Version bump only for package @testspectra/execute-driver-plugin
 
-## [1.0.3](https://github.com/appium/appium/compare/@appium/execute-driver-plugin@1.0.2...@appium/execute-driver-plugin@1.0.3) (2022-04-20)
+## [1.0.3](https://github.com/appium/appium/compare/@testspectra/execute-driver-plugin@1.0.2...@testspectra/execute-driver-plugin@1.0.3) (2022-04-20)
 
-**Note:** Version bump only for package @appium/execute-driver-plugin
+**Note:** Version bump only for package @testspectra/execute-driver-plugin
 
 ## 1.0.2 (2022-04-20)
 

@@ -1,5 +1,5 @@
 {
-  "name": "@appium/fake-driver",
+  "name": "@testspectra/fake-driver",
   "version": "6.1.2",
   "description": "Mock driver used internally by Appium for testing. Ignore",
   "keywords": [
@@ -46,7 +46,7 @@
     "xpath": "0.0.34"
   },
   "peerDependencies": {
-    "appium": "^3.0.0-beta.0"
+    "@testspectra/appium": "^3.0.0-beta.0"
   },
   "engines": {
     "node": "^20.19.0 || ^22.12.0 || >=24.0.0",

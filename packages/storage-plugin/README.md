@@ -1,4 +1,4 @@
-# @appium/storage-plugin
+# @testspectra/storage-plugin
 
 > Appium plugin for server-side file storage
 

@@ -19,7 +19,7 @@ import {requirePython, stringifyYaml} from './fs';
  * Data for the base `mkdocs.yml` file
  */
 const BASE_MKDOCS_YML: Readonly<MkDocsYml> = Object.freeze({
-  INHERIT: './node_modules/@appium/docutils/base-mkdocs.yml',
+  INHERIT: './node_modules/@testspectra/docutils/base-mkdocs.yml',
   docs_dir: 'docs',
   site_dir: 'site',
 });

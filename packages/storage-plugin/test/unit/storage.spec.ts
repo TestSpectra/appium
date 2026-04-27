@@ -1,6 +1,6 @@
 import _ from 'lodash';
 import {Storage} from '../../lib/storage';
-import {tempDir, fs, logger} from '@appium/support';
+import {tempDir, fs, logger} from '@testspectra/support';
 import path from 'node:path';
 import {expect, use} from 'chai';
 import chaiAsPromised from 'chai-as-promised';

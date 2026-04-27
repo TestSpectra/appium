@@ -1,5 +1,5 @@
 import _ from 'lodash';
-import type {Constraints, Driver, DriverClass} from '@appium/types';
+import type {Constraints, Driver, DriverClass} from '@testspectra/types';
 import type {BaseDriver} from '../basedriver/driver';
 
 /**

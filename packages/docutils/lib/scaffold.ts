@@ -3,7 +3,7 @@
  * @module
  */
 
-import {fs} from '@appium/support';
+import {fs} from '@testspectra/support';
 import {getLogger} from './logger';
 import path from 'node:path';
 import {createPatch} from 'diff';

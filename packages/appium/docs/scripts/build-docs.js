@@ -10,7 +10,7 @@
 /* eslint-disable promise/prefer-await-to-callbacks */
 /* eslint-disable promise/prefer-await-to-then */
 
-const {deploy, buildSite} = require('@appium/docutils');
+const {deploy, buildSite} = require('@testspectra/docutils');
 const {
   log,
   LANGS,

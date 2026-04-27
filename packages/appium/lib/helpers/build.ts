@@ -1,7 +1,7 @@
 import _ from 'lodash';
 import axios from 'axios';
 import {exec} from 'teen_process';
-import {system, fs} from '@appium/support';
+import {system, fs} from '@testspectra/support';
 import type {BuildInfo} from 'appium/types';
 import {npmPackage} from '../utils';
 

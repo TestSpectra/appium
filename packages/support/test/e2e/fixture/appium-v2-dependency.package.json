@@ -1,6 +1,6 @@
 {
   "name": "my-project",
   "dependencies": {
-    "appium": "2.0.0"
+    "@testspectra/appium": "2.0.0"
   }
 }

@@ -1,9 +1,9 @@
 {
-  "extends": "@appium/tsconfig/tsconfig.json",
+  "extends": "@testspectra/tsconfig/tsconfig.json",
   "compilerOptions": {
     "rootDir": ".",
     "outDir": "build",
-    "paths": {"@appium/types": ["../types"]},
+    "paths": {"@testspectra/types": ["../types"]},
     "types": ["mocha", "chai", "chai-as-promised", "node", "bun"]
   },
   "include": ["lib", "test"],

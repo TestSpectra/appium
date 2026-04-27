@@ -3,7 +3,7 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-## [6.1.2](https://github.com/appium/appium/compare/@appium/fake-driver@6.1.1...@appium/fake-driver@6.1.2) (2026-04-23)
+## [6.1.2](https://github.com/appium/appium/compare/@testspectra/fake-driver@6.1.1...@testspectra/fake-driver@6.1.2) (2026-04-23)
 
 
 ### Bug Fixes
@@ -12,15 +12,15 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [6.1.1](https://github.com/appium/appium/compare/@appium/fake-driver@6.1.0...@appium/fake-driver@6.1.1) (2026-04-09)
+## [6.1.1](https://github.com/appium/appium/compare/@testspectra/fake-driver@6.1.0...@testspectra/fake-driver@6.1.1) (2026-04-09)
 
-**Note:** Version bump only for package @appium/fake-driver
-
-
+**Note:** Version bump only for package @testspectra/fake-driver
 
 
 
-## [6.1.0](https://github.com/appium/appium/compare/@appium/fake-driver@6.0.2...@appium/fake-driver@6.1.0) (2026-03-08)
+
+
+## [6.1.0](https://github.com/appium/appium/compare/@testspectra/fake-driver@6.0.2...@testspectra/fake-driver@6.1.0) (2026-03-08)
 
 
 ### Features
@@ -35,7 +35,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [6.0.2](https://github.com/appium/appium/compare/@appium/fake-driver@6.0.1...@appium/fake-driver@6.0.2) (2026-01-26)
+## [6.0.2](https://github.com/appium/appium/compare/@testspectra/fake-driver@6.0.1...@testspectra/fake-driver@6.0.2) (2026-01-26)
 
 
 ### Bug Fixes
@@ -44,23 +44,23 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [6.0.1](https://github.com/appium/appium/compare/@appium/fake-driver@6.0.0...@appium/fake-driver@6.0.1) (2025-10-08)
+## [6.0.1](https://github.com/appium/appium/compare/@testspectra/fake-driver@6.0.0...@testspectra/fake-driver@6.0.1) (2025-10-08)
 
-**Note:** Version bump only for package @appium/fake-driver
-
-
-
-
-
-## [6.0.0](https://github.com/appium/appium/compare/@appium/fake-driver@6.0.0-rc.1...@appium/fake-driver@6.0.0) (2025-08-18)
-
-**Note:** Version bump only for package @appium/fake-driver
+**Note:** Version bump only for package @testspectra/fake-driver
 
 
 
 
 
-## [6.0.0-rc.1](https://github.com/appium/appium/compare/@appium/fake-driver@5.7.1...@appium/fake-driver@6.0.0-rc.1) (2025-08-14)
+## [6.0.0](https://github.com/appium/appium/compare/@testspectra/fake-driver@6.0.0-rc.1...@testspectra/fake-driver@6.0.0) (2025-08-18)
+
+**Note:** Version bump only for package @testspectra/fake-driver
+
+
+
+
+
+## [6.0.0-rc.1](https://github.com/appium/appium/compare/@testspectra/fake-driver@5.7.1...@testspectra/fake-driver@6.0.0-rc.1) (2025-08-14)
 
 
 ### ⚠ BREAKING CHANGES
@@ -78,23 +78,23 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [5.7.3](https://github.com/appium/appium/compare/@appium/fake-driver@5.7.2...@appium/fake-driver@5.7.3) (2025-06-01)
+## [5.7.3](https://github.com/appium/appium/compare/@testspectra/fake-driver@5.7.2...@testspectra/fake-driver@5.7.3) (2025-06-01)
 
-**Note:** Version bump only for package @appium/fake-driver
-
-
-
-
-
-## [5.7.2](https://github.com/appium/appium/compare/@appium/fake-driver@5.7.1...@appium/fake-driver@5.7.2) (2025-03-11)
-
-**Note:** Version bump only for package @appium/fake-driver
+**Note:** Version bump only for package @testspectra/fake-driver
 
 
 
 
 
-## [5.7.1](https://github.com/appium/appium/compare/@appium/fake-driver@5.7.0...@appium/fake-driver@5.7.1) (2025-02-19)
+## [5.7.2](https://github.com/appium/appium/compare/@testspectra/fake-driver@5.7.1...@testspectra/fake-driver@5.7.2) (2025-03-11)
+
+**Note:** Version bump only for package @testspectra/fake-driver
+
+
+
+
+
+## [5.7.1](https://github.com/appium/appium/compare/@testspectra/fake-driver@5.7.0...@testspectra/fake-driver@5.7.1) (2025-02-19)
 
 
 ### Bug Fixes
@@ -103,7 +103,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [5.7.0](https://github.com/appium/appium/compare/@appium/fake-driver@5.6.0...@appium/fake-driver@5.7.0) (2025-01-08)
+## [5.7.0](https://github.com/appium/appium/compare/@testspectra/fake-driver@5.6.0...@testspectra/fake-driver@5.7.0) (2025-01-08)
 
 
 ### Features
@@ -112,7 +112,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [5.6.0](https://github.com/appium/appium/compare/@appium/fake-driver@5.5.7...@appium/fake-driver@5.6.0) (2025-01-02)
+## [5.6.0](https://github.com/appium/appium/compare/@testspectra/fake-driver@5.5.7...@testspectra/fake-driver@5.6.0) (2025-01-02)
 
 
 ### Features
@@ -127,7 +127,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [5.5.7](https://github.com/appium/appium/compare/@appium/fake-driver@5.5.6...@appium/fake-driver@5.5.7) (2024-12-05)
+## [5.5.7](https://github.com/appium/appium/compare/@testspectra/fake-driver@5.5.6...@testspectra/fake-driver@5.5.7) (2024-12-05)
 
 
 ### Bug Fixes
@@ -136,7 +136,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [5.5.6](https://github.com/appium/appium/compare/@appium/fake-driver@5.5.5...@appium/fake-driver@5.5.6) (2024-11-29)
+## [5.5.6](https://github.com/appium/appium/compare/@testspectra/fake-driver@5.5.5...@testspectra/fake-driver@5.5.6) (2024-11-29)
 
 
 ### Bug Fixes
@@ -145,7 +145,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [5.5.5](https://github.com/appium/appium/compare/@appium/fake-driver@5.5.4...@appium/fake-driver@5.5.5) (2024-10-15)
+## [5.5.5](https://github.com/appium/appium/compare/@testspectra/fake-driver@5.5.4...@testspectra/fake-driver@5.5.5) (2024-10-15)
 
 
 ### Bug Fixes
@@ -154,7 +154,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [5.5.4](https://github.com/appium/appium/compare/@appium/fake-driver@5.5.3...@appium/fake-driver@5.5.4) (2024-09-26)
+## [5.5.4](https://github.com/appium/appium/compare/@testspectra/fake-driver@5.5.3...@testspectra/fake-driver@5.5.4) (2024-09-26)
 
 
 ### Bug Fixes
@@ -163,7 +163,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [5.5.3](https://github.com/appium/appium/compare/@appium/fake-driver@5.5.2...@appium/fake-driver@5.5.3) (2024-09-16)
+## [5.5.3](https://github.com/appium/appium/compare/@testspectra/fake-driver@5.5.2...@testspectra/fake-driver@5.5.3) (2024-09-16)
 
 
 ### Bug Fixes
@@ -173,15 +173,15 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [5.5.2](https://github.com/appium/appium/compare/@appium/fake-driver@5.5.1...@appium/fake-driver@5.5.2) (2024-05-27)
+## [5.5.2](https://github.com/appium/appium/compare/@testspectra/fake-driver@5.5.1...@testspectra/fake-driver@5.5.2) (2024-05-27)
 
-**Note:** Version bump only for package @appium/fake-driver
-
-
+**Note:** Version bump only for package @testspectra/fake-driver
 
 
 
-## [5.5.1](https://github.com/appium/appium/compare/@appium/fake-driver@5.5.0...@appium/fake-driver@5.5.1) (2024-02-13)
+
+
+## [5.5.1](https://github.com/appium/appium/compare/@testspectra/fake-driver@5.5.0...@testspectra/fake-driver@5.5.1) (2024-02-13)
 
 
 ### Bug Fixes
@@ -190,7 +190,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [5.5.0](https://github.com/appium/appium/compare/@appium/fake-driver@5.4.0...@appium/fake-driver@5.5.0) (2024-02-06)
+## [5.5.0](https://github.com/appium/appium/compare/@testspectra/fake-driver@5.4.0...@testspectra/fake-driver@5.5.0) (2024-02-06)
 
 
 ### Features
@@ -199,7 +199,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [5.4.0](https://github.com/appium/appium/compare/@appium/fake-driver@5.3.0...@appium/fake-driver@5.4.0) (2024-01-03)
+## [5.4.0](https://github.com/appium/appium/compare/@testspectra/fake-driver@5.3.0...@testspectra/fake-driver@5.4.0) (2024-01-03)
 
 
 ### Features
@@ -210,7 +210,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [5.3.0](https://github.com/appium/appium/compare/@appium/fake-driver@5.2.11...@appium/fake-driver@5.3.0) (2023-12-18)
+## [5.3.0](https://github.com/appium/appium/compare/@testspectra/fake-driver@5.2.11...@testspectra/fake-driver@5.3.0) (2023-12-18)
 
 
 ### Features
@@ -220,12 +220,12 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 ### Bug Fixes
 
-* **docutils:** remove `@appium/typedoc-plugin-appium` and all other uses of `typedoc` ([#19465](https://github.com/appium/appium/issues/19465)) ([7528fcf](https://github.com/appium/appium/commit/7528fcf890f79f4017f5e718bb1952bf907ee479))
+* **docutils:** remove `@testspectra/typedoc-plugin-appium` and all other uses of `typedoc` ([#19465](https://github.com/appium/appium/issues/19465)) ([7528fcf](https://github.com/appium/appium/commit/7528fcf890f79f4017f5e718bb1952bf907ee479))
 * **universal-xml-plugin:** update dependency xpath to v0.0.34 ([#19540](https://github.com/appium/appium/issues/19540)) ([cdd8a65](https://github.com/appium/appium/commit/cdd8a65887d1718af0d520bc7ad25add6e6466fb))
 
 
 
-## [5.2.11](https://github.com/appium/appium/compare/@appium/fake-driver@5.2.10...@appium/fake-driver@5.2.11) (2023-11-14)
+## [5.2.11](https://github.com/appium/appium/compare/@testspectra/fake-driver@5.2.10...@testspectra/fake-driver@5.2.11) (2023-11-14)
 
 
 ### Bug Fixes
@@ -234,7 +234,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [5.2.10](https://github.com/appium/appium/compare/@appium/fake-driver@5.2.9...@appium/fake-driver@5.2.10) (2023-10-19)
+## [5.2.10](https://github.com/appium/appium/compare/@testspectra/fake-driver@5.2.9...@testspectra/fake-driver@5.2.10) (2023-10-19)
 
 
 ### Bug Fixes
@@ -243,7 +243,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [5.2.9](https://github.com/appium/appium/compare/@appium/fake-driver@5.2.8...@appium/fake-driver@5.2.9) (2023-10-18)
+## [5.2.9](https://github.com/appium/appium/compare/@testspectra/fake-driver@5.2.8...@testspectra/fake-driver@5.2.9) (2023-10-18)
 
 
 ### Bug Fixes
@@ -254,7 +254,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [5.2.8](https://github.com/appium/appium/compare/@appium/fake-driver@5.2.7...@appium/fake-driver@5.2.8) (2023-08-21)
+## [5.2.8](https://github.com/appium/appium/compare/@testspectra/fake-driver@5.2.7...@testspectra/fake-driver@5.2.8) (2023-08-21)
 
 
 ### Bug Fixes
@@ -263,7 +263,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [5.2.7](https://github.com/appium/appium/compare/@appium/fake-driver@5.2.6...@appium/fake-driver@5.2.7) (2023-08-17)
+## [5.2.7](https://github.com/appium/appium/compare/@testspectra/fake-driver@5.2.6...@testspectra/fake-driver@5.2.7) (2023-08-17)
 
 
 ### Bug Fixes
@@ -272,7 +272,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [5.2.6](https://github.com/appium/appium/compare/@appium/fake-driver@5.2.5...@appium/fake-driver@5.2.6) (2023-07-03)
+## [5.2.6](https://github.com/appium/appium/compare/@testspectra/fake-driver@5.2.5...@testspectra/fake-driver@5.2.6) (2023-07-03)
 
 
 ### Bug Fixes
@@ -281,7 +281,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [5.2.5](https://github.com/appium/appium/compare/@appium/fake-driver@5.2.4...@appium/fake-driver@5.2.5) (2023-06-15)
+## [5.2.5](https://github.com/appium/appium/compare/@testspectra/fake-driver@5.2.4...@testspectra/fake-driver@5.2.5) (2023-06-15)
 
 
 ### Bug Fixes
@@ -292,7 +292,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [5.2.4](https://github.com/appium/appium/compare/@appium/fake-driver@5.2.3...@appium/fake-driver@5.2.4) (2023-06-14)
+## [5.2.4](https://github.com/appium/appium/compare/@testspectra/fake-driver@5.2.3...@testspectra/fake-driver@5.2.4) (2023-06-14)
 
 
 ### Bug Fixes
@@ -301,7 +301,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [5.2.3](https://github.com/appium/appium/compare/@appium/fake-driver@5.2.2...@appium/fake-driver@5.2.3) (2023-04-03)
+## [5.2.3](https://github.com/appium/appium/compare/@testspectra/fake-driver@5.2.2...@testspectra/fake-driver@5.2.3) (2023-04-03)
 
 
 ### Bug Fixes
@@ -312,7 +312,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [5.2.2](https://github.com/appium/appium/compare/@appium/fake-driver@5.2.1...@appium/fake-driver@5.2.2) (2023-03-28)
+## [5.2.2](https://github.com/appium/appium/compare/@testspectra/fake-driver@5.2.1...@testspectra/fake-driver@5.2.2) (2023-03-28)
 
 
 ### Bug Fixes
@@ -323,7 +323,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [5.2.1](https://github.com/appium/appium/compare/@appium/fake-driver@5.2.0...@appium/fake-driver@5.2.1) (2023-03-08)
+## [5.2.1](https://github.com/appium/appium/compare/@testspectra/fake-driver@5.2.0...@testspectra/fake-driver@5.2.1) (2023-03-08)
 
 
 ### Bug Fixes
@@ -335,7 +335,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [5.2.0](https://github.com/appium/appium/compare/@appium/fake-driver@5.1.5...@appium/fake-driver@5.2.0) (2023-02-24)
+# [5.2.0](https://github.com/appium/appium/compare/@testspectra/fake-driver@5.1.5...@testspectra/fake-driver@5.2.0) (2023-02-24)
 
 
 ### Features
@@ -346,47 +346,47 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [5.1.5](https://github.com/appium/appium/compare/@appium/fake-driver@5.1.4...@appium/fake-driver@5.1.5) (2023-02-09)
+## [5.1.5](https://github.com/appium/appium/compare/@testspectra/fake-driver@5.1.4...@testspectra/fake-driver@5.1.5) (2023-02-09)
 
-**Note:** Version bump only for package @appium/fake-driver
-
-
-
-
-
-## [5.1.4](https://github.com/appium/appium/compare/@appium/fake-driver@5.1.3...@appium/fake-driver@5.1.4) (2023-01-23)
-
-**Note:** Version bump only for package @appium/fake-driver
+**Note:** Version bump only for package @testspectra/fake-driver
 
 
 
 
 
-## [5.1.3](https://github.com/appium/appium/compare/@appium/fake-driver@5.1.2...@appium/fake-driver@5.1.3) (2023-01-13)
+## [5.1.4](https://github.com/appium/appium/compare/@testspectra/fake-driver@5.1.3...@testspectra/fake-driver@5.1.4) (2023-01-23)
 
-**Note:** Version bump only for package @appium/fake-driver
-
-
-
-
-
-## [5.1.2](https://github.com/appium/appium/compare/@appium/fake-driver@5.1.1...@appium/fake-driver@5.1.2) (2023-01-13)
-
-**Note:** Version bump only for package @appium/fake-driver
+**Note:** Version bump only for package @testspectra/fake-driver
 
 
 
 
 
-## [5.1.1](https://github.com/appium/appium/compare/@appium/fake-driver@5.1.0...@appium/fake-driver@5.1.1) (2023-01-13)
+## [5.1.3](https://github.com/appium/appium/compare/@testspectra/fake-driver@5.1.2...@testspectra/fake-driver@5.1.3) (2023-01-13)
 
-**Note:** Version bump only for package @appium/fake-driver
-
-
+**Note:** Version bump only for package @testspectra/fake-driver
 
 
 
-# [5.1.0](https://github.com/appium/appium/compare/@appium/fake-driver@5.0.0...@appium/fake-driver@5.1.0) (2023-01-13)
+
+
+## [5.1.2](https://github.com/appium/appium/compare/@testspectra/fake-driver@5.1.1...@testspectra/fake-driver@5.1.2) (2023-01-13)
+
+**Note:** Version bump only for package @testspectra/fake-driver
+
+
+
+
+
+## [5.1.1](https://github.com/appium/appium/compare/@testspectra/fake-driver@5.1.0...@testspectra/fake-driver@5.1.1) (2023-01-13)
+
+**Note:** Version bump only for package @testspectra/fake-driver
+
+
+
+
+
+# [5.1.0](https://github.com/appium/appium/compare/@testspectra/fake-driver@5.0.0...@testspectra/fake-driver@5.1.0) (2023-01-13)
 
 
 ### Features
@@ -398,7 +398,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [5.0.0](https://github.com/appium/appium/compare/@appium/fake-driver@4.2.2...@appium/fake-driver@5.0.0) (2022-12-14)
+# [5.0.0](https://github.com/appium/appium/compare/@testspectra/fake-driver@4.2.2...@testspectra/fake-driver@5.0.0) (2022-12-14)
 
 ### Bug Fixes
 
@@ -417,22 +417,22 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 - Appium now supports version range `^14.17.0 || ^16.13.0 || >=18.0.0`
 
-## [4.2.2](https://github.com/appium/appium/compare/@appium/fake-driver@4.2.1...@appium/fake-driver@4.2.2) (2022-10-13)
+## [4.2.2](https://github.com/appium/appium/compare/@testspectra/fake-driver@4.2.1...@testspectra/fake-driver@4.2.2) (2022-10-13)
 
-**Note:** Version bump only for package @appium/fake-driver
+**Note:** Version bump only for package @testspectra/fake-driver
 
-## [4.2.1](https://github.com/appium/appium/compare/@appium/fake-driver@4.2.0...@appium/fake-driver@4.2.1) (2022-09-07)
+## [4.2.1](https://github.com/appium/appium/compare/@testspectra/fake-driver@4.2.0...@testspectra/fake-driver@4.2.1) (2022-09-07)
 
-**Note:** Version bump only for package @appium/fake-driver
+**Note:** Version bump only for package @testspectra/fake-driver
 
-# [4.2.0](https://github.com/appium/appium/compare/@appium/fake-driver@4.1.0...@appium/fake-driver@4.2.0) (2022-08-10)
+# [4.2.0](https://github.com/appium/appium/compare/@testspectra/fake-driver@4.1.0...@testspectra/fake-driver@4.2.0) (2022-08-10)
 
 ### Features
 
 - **appium,base-driver,fake-driver,fake-plugin,test-support,types:** updateServer receives cliArgs param ([d4b9833](https://github.com/appium/appium/commit/d4b983328af21d1e5c27a91e438e7934eb152ab1)), closes [#17304](https://github.com/appium/appium/issues/17304)
 - **base-driver,fake-driver,appium:** add convenience methods for defining execute script overloads ([#17321](https://github.com/appium/appium/issues/17321)) ([337ec3e](https://github.com/appium/appium/commit/337ec3e7ba216dd6f8cdc88143ecaa4c75f5d266))
 
-# [4.1.0](https://github.com/appium/appium/compare/@appium/fake-driver@4.0.2...@appium/fake-driver@4.1.0) (2022-08-03)
+# [4.1.0](https://github.com/appium/appium/compare/@testspectra/fake-driver@4.0.2...@testspectra/fake-driver@4.1.0) (2022-08-03)
 
 ### Bug Fixes
 
@@ -442,17 +442,17 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 - **appium:** pass unknown args to extension scripts ([faff3ce](https://github.com/appium/appium/commit/faff3ce3471abaea24d2cb4c3e3b75b1af5ac3a1)), closes [#17250](https://github.com/appium/appium/issues/17250)
 
-## [4.0.2](https://github.com/appium/appium/compare/@appium/fake-driver@4.0.1...@appium/fake-driver@4.0.2) (2022-07-28)
+## [4.0.2](https://github.com/appium/appium/compare/@testspectra/fake-driver@4.0.1...@testspectra/fake-driver@4.0.2) (2022-07-28)
 
 ### Bug Fixes
 
 - moved type packages to deps of specific packages ([f9129df](https://github.com/appium/appium/commit/f9129dfee32fcc3f89ffcfa69fb83b7c2419c24f))
 
-## [4.0.1](https://github.com/appium/appium/compare/@appium/fake-driver@4.0.0...@appium/fake-driver@4.0.1) (2022-05-31)
+## [4.0.1](https://github.com/appium/appium/compare/@testspectra/fake-driver@4.0.0...@testspectra/fake-driver@4.0.1) (2022-05-31)
 
-**Note:** Version bump only for package @appium/fake-driver
+**Note:** Version bump only for package @testspectra/fake-driver
 
-# [4.0.0](https://github.com/appium/appium/compare/@appium/fake-driver@3.2.13...@appium/fake-driver@4.0.0) (2022-05-31)
+# [4.0.0](https://github.com/appium/appium/compare/@testspectra/fake-driver@3.2.13...@testspectra/fake-driver@4.0.0) (2022-05-31)
 
 ### Bug Fixes
 
@@ -466,95 +466,95 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 - **fake-driver:** This now requires a peer dependency on `appium`
 
-## [3.2.13](https://github.com/appium/appium/compare/@appium/fake-driver@3.2.12...@appium/fake-driver@3.2.13) (2022-05-02)
+## [3.2.13](https://github.com/appium/appium/compare/@testspectra/fake-driver@3.2.12...@testspectra/fake-driver@3.2.13) (2022-05-02)
 
-**Note:** Version bump only for package @appium/fake-driver
+**Note:** Version bump only for package @testspectra/fake-driver
 
-## [3.2.12](https://github.com/appium/appium/compare/@appium/fake-driver@3.2.11...@appium/fake-driver@3.2.12) (2022-04-20)
+## [3.2.12](https://github.com/appium/appium/compare/@testspectra/fake-driver@3.2.11...@testspectra/fake-driver@3.2.12) (2022-04-20)
 
-**Note:** Version bump only for package @appium/fake-driver
+**Note:** Version bump only for package @testspectra/fake-driver
 
-## [3.2.11](https://github.com/appium/appium/compare/@appium/fake-driver@3.2.10...@appium/fake-driver@3.2.11) (2022-04-20)
+## [3.2.11](https://github.com/appium/appium/compare/@testspectra/fake-driver@3.2.10...@testspectra/fake-driver@3.2.11) (2022-04-20)
 
-**Note:** Version bump only for package @appium/fake-driver
+**Note:** Version bump only for package @testspectra/fake-driver
 
-## [3.2.10](https://github.com/appium/appium/compare/@appium/fake-driver@3.2.9...@appium/fake-driver@3.2.10) (2022-04-20)
+## [3.2.10](https://github.com/appium/appium/compare/@testspectra/fake-driver@3.2.9...@testspectra/fake-driver@3.2.10) (2022-04-20)
 
-**Note:** Version bump only for package @appium/fake-driver
+**Note:** Version bump only for package @testspectra/fake-driver
 
-## [3.2.9](https://github.com/appium/appium/compare/@appium/fake-driver@3.2.8...@appium/fake-driver@3.2.9) (2022-04-12)
+## [3.2.9](https://github.com/appium/appium/compare/@testspectra/fake-driver@3.2.8...@testspectra/fake-driver@3.2.9) (2022-04-12)
 
-**Note:** Version bump only for package @appium/fake-driver
+**Note:** Version bump only for package @testspectra/fake-driver
 
-## [3.2.8](https://github.com/appium/appium/compare/@appium/fake-driver@3.2.7...@appium/fake-driver@3.2.8) (2022-04-12)
+## [3.2.8](https://github.com/appium/appium/compare/@testspectra/fake-driver@3.2.7...@testspectra/fake-driver@3.2.8) (2022-04-12)
 
-**Note:** Version bump only for package @appium/fake-driver
+**Note:** Version bump only for package @testspectra/fake-driver
 
-## [3.2.7](https://github.com/appium/appium/compare/@appium/fake-driver@3.2.6...@appium/fake-driver@3.2.7) (2022-04-07)
+## [3.2.7](https://github.com/appium/appium/compare/@testspectra/fake-driver@3.2.6...@testspectra/fake-driver@3.2.7) (2022-04-07)
 
-**Note:** Version bump only for package @appium/fake-driver
+**Note:** Version bump only for package @testspectra/fake-driver
 
-## [3.2.6](https://github.com/appium/appium/compare/@appium/fake-driver@3.2.5...@appium/fake-driver@3.2.6) (2022-03-23)
+## [3.2.6](https://github.com/appium/appium/compare/@testspectra/fake-driver@3.2.5...@testspectra/fake-driver@3.2.6) (2022-03-23)
 
-**Note:** Version bump only for package @appium/fake-driver
+**Note:** Version bump only for package @testspectra/fake-driver
 
-## [3.2.5](https://github.com/appium/appium/compare/@appium/fake-driver@3.2.4...@appium/fake-driver@3.2.5) (2022-03-22)
+## [3.2.5](https://github.com/appium/appium/compare/@testspectra/fake-driver@3.2.4...@testspectra/fake-driver@3.2.5) (2022-03-22)
 
 ### Bug Fixes
 
 - **fake-driver:** create cjs executable entry point ([1b29920](https://github.com/appium/appium/commit/1b29920485c9d0d36b000a0948a75aded83dfa5f))
 
-## [3.2.4](https://github.com/appium/appium/compare/@appium/fake-driver@3.2.3...@appium/fake-driver@3.2.4) (2022-01-21)
+## [3.2.4](https://github.com/appium/appium/compare/@testspectra/fake-driver@3.2.3...@testspectra/fake-driver@3.2.4) (2022-01-21)
 
-**Note:** Version bump only for package @appium/fake-driver
+**Note:** Version bump only for package @testspectra/fake-driver
 
-## [3.2.3](https://github.com/appium/appium/compare/@appium/fake-driver@3.2.2...@appium/fake-driver@3.2.3) (2022-01-11)
+## [3.2.3](https://github.com/appium/appium/compare/@testspectra/fake-driver@3.2.2...@testspectra/fake-driver@3.2.3) (2022-01-11)
 
-**Note:** Version bump only for package @appium/fake-driver
+**Note:** Version bump only for package @testspectra/fake-driver
 
-## [3.2.2](https://github.com/appium/appium/compare/@appium/fake-driver@3.2.1...@appium/fake-driver@3.2.2) (2021-11-23)
+## [3.2.2](https://github.com/appium/appium/compare/@testspectra/fake-driver@3.2.1...@testspectra/fake-driver@3.2.2) (2021-11-23)
 
-**Note:** Version bump only for package @appium/fake-driver
+**Note:** Version bump only for package @testspectra/fake-driver
 
-## [3.2.1](https://github.com/appium/appium/compare/@appium/fake-driver@3.2.0...@appium/fake-driver@3.2.1) (2021-11-19)
+## [3.2.1](https://github.com/appium/appium/compare/@testspectra/fake-driver@3.2.0...@testspectra/fake-driver@3.2.1) (2021-11-19)
 
 ### Bug Fixes
 
 - **fake-driver:** create cjs wrapper ([a93f37a](https://github.com/appium/appium/commit/a93f37ad060ecfca41895bed49eed60413959421))
 
-# [3.2.0](https://github.com/appium/appium/compare/@appium/fake-driver@3.1.0...@appium/fake-driver@3.2.0) (2021-11-15)
+# [3.2.0](https://github.com/appium/appium/compare/@testspectra/fake-driver@3.1.0...@testspectra/fake-driver@3.2.0) (2021-11-15)
 
 ### Features
 
 - **fake-driver:** add a new 'PROXY' context that does 'proxying' for use in testing ([9e6c0a1](https://github.com/appium/appium/commit/9e6c0a13ef197c3a8caa9e18bdf4f8e6960951f1))
 
-# [3.1.0](https://github.com/appium/appium/compare/@appium/fake-driver@3.0.5...@appium/fake-driver@3.1.0) (2021-11-09)
+# [3.1.0](https://github.com/appium/appium/compare/@testspectra/fake-driver@3.0.5...@testspectra/fake-driver@3.1.0) (2021-11-09)
 
 ### Features
 
 - **fake-driver:** add a schema ([cf7438a](https://github.com/appium/appium/commit/cf7438a352a8668b6a3efdc2d7abb0252554630f))
 
-## [3.0.5](https://github.com/appium/appium/compare/@appium/fake-driver@3.0.4...@appium/fake-driver@3.0.5) (2021-09-16)
+## [3.0.5](https://github.com/appium/appium/compare/@testspectra/fake-driver@3.0.4...@testspectra/fake-driver@3.0.5) (2021-09-16)
 
-**Note:** Version bump only for package @appium/fake-driver
+**Note:** Version bump only for package @testspectra/fake-driver
 
-## [3.0.4](https://github.com/appium/appium/compare/@appium/fake-driver@3.0.3...@appium/fake-driver@3.0.4) (2021-09-16)
+## [3.0.4](https://github.com/appium/appium/compare/@testspectra/fake-driver@3.0.3...@testspectra/fake-driver@3.0.4) (2021-09-16)
 
-**Note:** Version bump only for package @appium/fake-driver
+**Note:** Version bump only for package @testspectra/fake-driver
 
-## [3.0.3](https://github.com/appium/appium/compare/@appium/fake-driver@3.0.2...@appium/fake-driver@3.0.3) (2021-09-15)
+## [3.0.3](https://github.com/appium/appium/compare/@testspectra/fake-driver@3.0.2...@testspectra/fake-driver@3.0.3) (2021-09-15)
 
-**Note:** Version bump only for package @appium/fake-driver
+**Note:** Version bump only for package @testspectra/fake-driver
 
-## [3.0.2](https://github.com/appium/appium/compare/@appium/fake-driver@3.0.1...@appium/fake-driver@3.0.2) (2021-09-14)
+## [3.0.2](https://github.com/appium/appium/compare/@testspectra/fake-driver@3.0.1...@testspectra/fake-driver@3.0.2) (2021-09-14)
 
-**Note:** Version bump only for package @appium/fake-driver
+**Note:** Version bump only for package @testspectra/fake-driver
 
-## [3.0.1](https://github.com/appium/appium/compare/@appium/fake-driver@3.0.0...@appium/fake-driver@3.0.1) (2021-09-14)
+## [3.0.1](https://github.com/appium/appium/compare/@testspectra/fake-driver@3.0.0...@testspectra/fake-driver@3.0.1) (2021-09-14)
 
-**Note:** Version bump only for package @appium/fake-driver
+**Note:** Version bump only for package @testspectra/fake-driver
 
-# [3.0.0](https://github.com/appium/appium/compare/@appium/fake-driver@2.2.0...@appium/fake-driver@3.0.0) (2021-08-16)
+# [3.0.0](https://github.com/appium/appium/compare/@testspectra/fake-driver@2.2.0...@testspectra/fake-driver@3.0.0) (2021-08-16)
 
 # 2.0.0-beta (2021-08-13)
 
@@ -564,7 +564,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 ### chore
 
-- update @appium/fake-driver to use @appium/base-driver ([#15436](https://github.com/appium/appium/issues/15436)) ([c66144d](https://github.com/appium/appium/commit/c66144d62b23681f91b45c45648dddf51f0ea991)), closes [#15425](https://github.com/appium/appium/issues/15425)
+- update @testspectra/fake-driver to use @testspectra/base-driver ([#15436](https://github.com/appium/appium/issues/15436)) ([c66144d](https://github.com/appium/appium/commit/c66144d62b23681f91b45c45648dddf51f0ea991)), closes [#15425](https://github.com/appium/appium/issues/15425)
 
 ### Features
 
@@ -572,14 +572,14 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 ### BREAKING CHANGES
 
-- `fake-driver` now depends upon `@appium/base-driver@8.x`
+- `fake-driver` now depends upon `@testspectra/base-driver@8.x`
 
-## `@appium/fake-driver`
+## `@testspectra/fake-driver`
 
 - need to use w3c capabilities only
 - fix: find `app.xml` fixture properly when running tests via `mocha --require=@babel/register`
 
-## `@appium/base-driver`
+## `@testspectra/base-driver`
 
 - fixed a dead URL in a comment
 - updated the "logging" tests to manually supply w3c capabilities. `createSession()` does it for you, but `executeCommand('createSession')` does not.

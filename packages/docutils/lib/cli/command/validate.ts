@@ -3,7 +3,7 @@
  * @module
  */
 
-import {util} from '@appium/support';
+import {util} from '@testspectra/support';
 import type {CommandModule, InferredOptionTypes, Options} from 'yargs';
 import {DocutilsError} from '../../error';
 import type {ValidationKind} from '../../validate';

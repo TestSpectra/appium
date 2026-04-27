@@ -3,11 +3,11 @@
 // @ts-check
 
 /**
- * This module is here to re-export `@appium/support` for Appium extensions.
+ * This module is here to re-export `@testspectra/support` for Appium extensions.
  *
- * @see https://npm.im/@appium/support
+ * @see https://npm.im/@testspectra/support
  * @example
  * const { fs, npm } = require('appium/support');
  */
 
-module.exports = require('@appium/support');
+module.exports = require('@testspectra/support');

@@ -1,16 +1,16 @@
-# @appium/test-support
+# @testspectra/test-support
 
 > ⚠️ **DEPRECATED**: This module is deprecated. Use `sinon` directly instead (e.g., `sinon.createSandbox()` with Mocha `beforeEach`/`afterEach` hooks).
 
 > A collection of test utility libs used across Appium packages
 
-[![NPM version](http://img.shields.io/npm/v/@appium/test-support.svg)](https://npmjs.org/package/@appium/test-support)
-[![Downloads](http://img.shields.io/npm/dm/@appium/test-support.svg)](https://npmjs.org/package/@appium/test-support)
+[![NPM version](http://img.shields.io/npm/v/@testspectra/test-support.svg)](https://npmjs.org/package/@testspectra/test-support)
+[![Downloads](http://img.shields.io/npm/dm/@testspectra/test-support.svg)](https://npmjs.org/package/@testspectra/test-support)
 
 ## Installation
 
 ```
-npm install @appium/test-support --save-dev
+npm install @testspectra/test-support --save-dev
 ```
 
 ## Usage
@@ -20,7 +20,7 @@ npm install @appium/test-support --save-dev
 Use when mixing up `sinon` APIs (mocks, spies, stubs).
 
 ```js
-import { withSandbox } from '@appium/test-support';
+import { withSandbox } from '@testspectra/test-support';
 
 let api = {
   abc: () => { return 'abc'; }
@@ -43,7 +43,7 @@ describe('MyTest', withSandbox({mocks: {api}}, (S) => {
 When using mainly stubs.
 
 ```js
-import { withMocks } from '@appium/test-support';
+import { withMocks } from '@testspectra/test-support';
 
 let api = {
   abc: () => { return 'abc'; }

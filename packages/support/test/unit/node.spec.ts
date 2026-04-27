@@ -27,7 +27,7 @@ describe('node utilities', function () {
   describe('getModuleRootSync', function () {
     it("should be able to find current module's root", function () {
       expect(path.resolve(__dirname)).to.contain(
-        node.getModuleRootSync('@appium/support', __filename)!
+        node.getModuleRootSync('@testspectra/support', __filename)!
       );
     });
 

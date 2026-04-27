@@ -1,17 +1,17 @@
-# @appium/logger
+# @testspectra/logger
 
 > Appium's logging functionality
 
 ## Installation
 
 ```console
-npm install @appium/logger --save
+npm install @testspectra/logger --save
 ```
 
 ## Basic Usage
 
 ```js
-import log from '@appium/logger';
+import log from '@testspectra/logger';
 
 // additional stuff ---------------------------+
 // message ----------+                         |

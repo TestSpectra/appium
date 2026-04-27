@@ -1,7 +1,7 @@
-import type {ExtensionType} from '@appium/types';
+import type {ExtensionType} from '@testspectra/types';
 import type {ExtClass, ExtManifest, ExtName, ExtRecord, InstallType} from 'appium/types';
 import type {SchemaObject} from 'ajv';
-import {util, fs, system} from '@appium/support';
+import {util, fs, system} from '@testspectra/support';
 import B from 'bluebird';
 import _ from 'lodash';
 import path from 'node:path';

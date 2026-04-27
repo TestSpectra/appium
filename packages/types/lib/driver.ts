@@ -28,7 +28,7 @@ import type {Class, StringRecord} from './util';
 import type internal from 'node:stream';
 
 /**
- * Interface implemented by the `DeviceSettings` class in `@appium/base-driver`
+ * Interface implemented by the `DeviceSettings` class in `@testspectra/base-driver`
  */
 export interface IDeviceSettings<T extends StringRecord> {
   update(newSettings: T): Promise<void>;

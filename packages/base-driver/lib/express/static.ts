@@ -1,7 +1,7 @@
 import path from 'node:path';
 import {log} from './logger';
 import _ from 'lodash';
-import {fs} from '@appium/support';
+import {fs} from '@testspectra/support';
 import B from 'bluebird';
 import type {Request, Response} from 'express';
 

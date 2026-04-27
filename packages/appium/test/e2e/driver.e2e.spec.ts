@@ -1,9 +1,9 @@
-import type {AppiumServer, DriverClass} from '@appium/types';
+import type {AppiumServer, DriverClass} from '@testspectra/types';
 import type {ParsedArgs} from 'appium/types';
 import type {Browser} from 'webdriverio';
-import {BaseDriver} from '@appium/base-driver';
+import {BaseDriver} from '@testspectra/base-driver';
 import {exec} from 'teen_process';
-import {fs, tempDir} from '@appium/support';
+import {fs, tempDir} from '@testspectra/support';
 import axios from 'axios';
 import {sleep} from 'asyncbox';
 import chai from 'chai';

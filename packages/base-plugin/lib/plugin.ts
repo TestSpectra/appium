@@ -2,7 +2,7 @@ import {
   ExtensionCore,
   generateDriverLogPrefix,
   validateExecuteMethodParams,
-} from '@appium/base-driver';
+} from '@testspectra/base-driver';
 import type {
   AppiumLogger,
   Constraints,
@@ -13,13 +13,13 @@ import type {
   Plugin,
   PluginCommand,
   StringRecord,
-} from '@appium/types';
+} from '@testspectra/types';
 
 type BasePluginMapType = Plugin & Record<string, PluginCommand>;
 
 /**
  * Base plugin class for Appium plugins.
- * Subclasses should use type `import('@appium/types').MethodMap<SubclassName>` for
+ * Subclasses should use type `import('@testspectra/types').MethodMap<SubclassName>` for
  * `newMethodMap` and `ExecuteMethodMap<SubclassName>` for `executeMethodMap`.
  */
 export class BasePlugin extends ExtensionCore implements Plugin {

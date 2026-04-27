@@ -188,7 +188,7 @@ describe('parser', function () {
         await schema.registerSchema(
           DRIVER_TYPE,
           'fake',
-          require('@appium/fake-driver/build/lib/fake-driver-schema').default
+          require('@testspectra/fake-driver/build/lib/fake-driver-schema').default
         );
         await schema.finalizeSchema();
         p = await getParser(true);

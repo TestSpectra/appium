@@ -8,7 +8,7 @@ import * as chai from 'chai';
 import chaiAsPromised from 'chai-as-promised';
 import * as YAML from 'yaml';
 import yargs from 'yargs/yargs';
-import {fs, tempDir} from '@appium/support';
+import {fs, tempDir} from '@testspectra/support';
 import {buildSite} from '../../lib/builder';
 import {init, initPython} from '../../lib/init';
 import {stringifyYaml} from '../../lib/fs';
@@ -89,7 +89,7 @@ async function readMkdocsYml(projectDir: string): Promise<MkDocsYml> {
 }
 
 
-describe('@appium/docutils build e2e', function () {
+describe('@testspectra/docutils build e2e', function () {
   let testDir: string;
 
   before(async function () {
@@ -200,7 +200,7 @@ describe('@appium/docutils build e2e', function () {
       const mkdocsYml = await readMkdocsYml(projectDir);
 
       // Verify expected fields are present
-      expect(mkdocsYml.INHERIT).to.equal('./node_modules/@appium/docutils/base-mkdocs.yml');
+      expect(mkdocsYml.INHERIT).to.equal('./node_modules/@testspectra/docutils/base-mkdocs.yml');
       expect(mkdocsYml.docs_dir).to.equal('docs');
       expect(mkdocsYml.site_dir).to.equal('site');
       expect(mkdocsYml.site_name).to.equal('test-package');

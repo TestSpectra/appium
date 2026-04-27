@@ -3,11 +3,11 @@
 // @ts-check
 
 /**
- * This module is here to re-export `@appium/base-plugin` for Appium extensions.
+ * This module is here to re-export `@testspectra/base-plugin` for Appium extensions.
  *
- * @see https://npm.im/@appium/base-plugin
+ * @see https://npm.im/@testspectra/base-plugin
  * @example
  * const { BasePlugin } = require('appium/plugin');
  */
 
-module.exports = require('@appium/base-plugin');
+module.exports = require('@testspectra/base-plugin');

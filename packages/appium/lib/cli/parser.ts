@@ -1,9 +1,9 @@
-import {fs} from '@appium/support';
+import {fs} from '@testspectra/support';
 import {ArgumentParser} from 'argparse';
 import type {SubArgumentParserOptions, SubParser} from 'argparse';
 import _ from 'lodash';
 import path from 'node:path';
-import type {DriverType, PluginType} from '@appium/types';
+import type {DriverType, PluginType} from '@testspectra/types';
 import type {CliExtensionSubcommand} from 'appium/types';
 import {
   DRIVER_TYPE,

@@ -1,7 +1,7 @@
 import {expect, use} from 'chai';
 import chaiAsPromised from 'chai-as-promised';
 import {createSandbox, type SinonSandbox} from 'sinon';
-import {node} from '@appium/support';
+import {node} from '@testspectra/support';
 import {adler32, getAppiumModuleRoot, npmPackage} from '../../lib/utils';
 
 use(chaiAsPromised);

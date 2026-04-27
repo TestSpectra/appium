@@ -3,7 +3,7 @@ import {createSandbox} from 'sinon';
 import chai from 'chai';
 import chaiAsPromised from 'chai-as-promised';
 import {DRIVER_TYPE, PLUGIN_TYPE} from '../../../lib/constants';
-import {AppiumConfigJsonSchema} from '@appium/schema';
+import {AppiumConfigJsonSchema} from '@testspectra/schema';
 import {APPIUM_CONFIG_SCHEMA_ID} from '../../../lib/schema/arg-spec';
 import defaultArgsFixture from '../../fixtures/default-args';
 import DRIVER_SCHEMA_FIXTURE from '../../fixtures/driver-schema';
@@ -269,7 +269,7 @@ describe('schema', function () {
         await registerSchema(
           DRIVER_TYPE,
           'fake',
-          require('@appium/fake-driver/build/lib/fake-driver-schema').default
+          require('@testspectra/fake-driver/build/lib/fake-driver-schema').default
         );
         await finalizeSchema();
 

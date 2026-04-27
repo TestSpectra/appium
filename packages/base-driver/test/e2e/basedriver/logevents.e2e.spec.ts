@@ -3,7 +3,7 @@ import chaiAsPromised from 'chai-as-promised';
 import {server, routeConfiguringFunction} from '../../../lib';
 import axios from 'axios';
 import {createSandbox} from 'sinon';
-import {getTestPort, TEST_HOST} from '@appium/driver-test-support';
+import {getTestPort, TEST_HOST} from '@testspectra/driver-test-support';
 import {MockExecuteDriver} from '../protocol/mock-execute-driver';
 
 chai.use(chaiAsPromised);

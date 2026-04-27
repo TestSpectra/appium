@@ -1,8 +1,8 @@
 import _ from 'lodash';
 import path from 'node:path';
 import {remote as wdio} from 'webdriverio';
-import {pluginE2EHarness} from '@appium/plugin-test-support';
-import {tempDir, fs} from '@appium/support';
+import {pluginE2EHarness} from '@testspectra/plugin-test-support';
+import {tempDir, fs} from '@testspectra/support';
 import axios from 'axios';
 import {WebSocket} from 'ws';
 import {expect} from 'chai';

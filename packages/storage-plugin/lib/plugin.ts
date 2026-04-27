@@ -1,10 +1,10 @@
 import { BasePlugin } from 'appium/plugin';
 import { requireValidItemOptions, Storage, StorageArgumentError } from './storage';
 import _ from 'lodash';
-import { tempDir, fs, logger } from '@appium/support';
+import { tempDir, fs, logger } from '@testspectra/support';
 import type {AddRequestResult, ItemOptions, StorageItem} from './types';
 import type {Express, Request, Response} from 'express';
-import type {AppiumServer} from '@appium/types';
+import type {AppiumServer} from '@testspectra/types';
 import { LRUCache } from 'lru-cache';
 import WebSocket from 'ws';
 import { EventEmitter } from 'node:stream';

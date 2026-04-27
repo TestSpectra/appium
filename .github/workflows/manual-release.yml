@@ -38,10 +38,16 @@ jobs:
           install-command: npm ci
           run-build: 'true'
 
+      - name: Setup npmrc for GitHub Packages
+        run: |
+          echo "@testspectra:registry=https://npm.pkg.github.com" > .npmrc
+          echo "//npm.pkg.github.com/:_authToken=\${NODE_AUTH_TOKEN}" >> .npmrc
+
       - name: Run Lerna publish
         env:
           # for lerna createRelease
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          NODE_AUTH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           DRY_RUN: ${{ inputs.dry_run }}
         run: |
           set -euo pipefail

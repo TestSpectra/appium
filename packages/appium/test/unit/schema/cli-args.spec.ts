@@ -1,4 +1,4 @@
-import type {ExtensionType} from '@appium/types';
+import type {ExtensionType} from '@testspectra/types';
 import type {ArgumentOptions} from 'argparse';
 import _ from 'lodash';
 import chai from 'chai';

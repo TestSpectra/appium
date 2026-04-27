@@ -3,7 +3,7 @@
  * @module
  */
 
-import {fs, util} from '@appium/support';
+import {fs, util} from '@testspectra/support';
 import _ from 'lodash';
 import type {Options} from 'yargs';
 import {getLogger} from '../logger';

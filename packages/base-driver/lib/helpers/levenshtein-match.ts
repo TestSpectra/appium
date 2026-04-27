@@ -1,4 +1,4 @@
-import type {StringRecord} from '@appium/types';
+import type {StringRecord} from '@testspectra/types';
 import {distance} from 'fastest-levenshtein';
 import _ from 'lodash';
 

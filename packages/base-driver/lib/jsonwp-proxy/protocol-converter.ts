@@ -1,6 +1,6 @@
-import type {AppiumLogger, HTTPBody, ProxyResponse} from '@appium/types';
+import type {AppiumLogger, HTTPBody, ProxyResponse} from '@testspectra/types';
 import _ from 'lodash';
-import {logger, util} from '@appium/support';
+import {logger, util} from '@testspectra/support';
 import {duplicateKeys} from '../basedriver/helpers';
 import {MJSONWP_ELEMENT_KEY, W3C_ELEMENT_KEY, PROTOCOLS} from '../constants';
 

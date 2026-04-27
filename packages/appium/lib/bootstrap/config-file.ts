@@ -3,7 +3,7 @@ import type {ErrorObject, SchemaObject} from 'ajv';
 import {lilconfig, type LoaderSync, type LilconfigResult} from 'lilconfig';
 import _ from 'lodash';
 import * as yaml from 'yaml';
-import type {AppiumConfig, NormalizedAppiumConfig} from '@appium/types';
+import type {AppiumConfig, NormalizedAppiumConfig} from '@testspectra/types';
 import {getSchema, validate} from '../schema/schema';
 import {formatErrors} from '../schema/format-errors';
 

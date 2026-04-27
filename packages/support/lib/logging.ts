@@ -1,13 +1,13 @@
 import globalLog, {
   markSensitive as _markSensitive,
   type Logger,
-} from '@appium/logger';
+} from '@testspectra/logger';
 import type {
   AppiumLogger,
   AppiumLoggerContext,
   AppiumLoggerLevel,
   AppiumLoggerPrefix,
-} from '@appium/types';
+} from '@testspectra/types';
 import _ from 'lodash';
 
 export const LEVELS: readonly AppiumLoggerLevel[] = [

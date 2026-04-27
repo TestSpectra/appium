@@ -1,5 +1,5 @@
 {
-  "name": "@appium/relaxed-caps-plugin",
+  "name": "@testspectra/relaxed-caps-plugin",
   "version": "2.2.1",
   "description": "An Appium plugin that loosens requirements for vendor prefixes on caps",
   "keywords": [
@@ -42,10 +42,10 @@
     "lodash": "4.18.1"
   },
   "devDependencies": {
-    "@appium/types": "1.3.1"
+    "@testspectra/types": "1.3.1"
   },
   "peerDependencies": {
-    "appium": "^3.0.0-beta.0"
+    "@testspectra/appium": "^3.0.0-beta.0"
   },
   "engines": {
     "node": "^20.19.0 || ^22.12.0 || >=24.0.0",

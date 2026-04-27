@@ -1,4 +1,4 @@
-import type {MethodMap} from '@appium/types';
+import type {MethodMap} from '@testspectra/types';
 import type {FakeDriver} from '../driver';
 
 export const NEW_METHOD_MAP = {

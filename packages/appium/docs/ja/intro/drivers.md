@@ -19,7 +19,7 @@ Appium, called `BaseDriver`. You could have something very close to a "working" 
 very simple lines of code:
 
 ```js
-import BaseDriver from '@appium/base-driver'
+import BaseDriver from '@testspectra/base-driver'
 
 class MyNewDriver extends BaseDriver {
 }
@@ -49,7 +49,7 @@ async setUrl(url) {
 
 [^1]: You might notice that `setUrl` doesn't look anything like `Navigate To`, so how did we know
     to use it rather than some other random string? Well, Appium's WebDriver-protocol-to-method-name
-    mapping is defined in a special file within the `@appium/base-driver` package called
+    mapping is defined in a special file within the `@testspectra/base-driver` package called
     [routes.js](https://github.com/appium/appium/blob/master/packages/base-driver/lib/protocol/routes.js).
     So if you're writing a driver, this is where you would go to figure out what method names to use
     and what parameters to expect. Or you could look at the source for any of the main Appium

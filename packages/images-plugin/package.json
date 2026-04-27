@@ -1,5 +1,5 @@
 {
-  "name": "@appium/images-plugin",
+  "name": "@testspectra/images-plugin",
   "version": "4.2.1",
   "description": "Plugin for working with images and image elements in Appium",
   "keywords": [
@@ -40,14 +40,14 @@
     "test:e2e": "mocha --exit --timeout 40s --slow 20s \"./test/e2e/**/*.spec.*ts\""
   },
   "dependencies": {
-    "@appium/opencv": "4.1.3",
-    "@appium/support": "7.1.1",
+    "@testspectra/opencv": "4.1.3",
+    "@testspectra/support": "7.1.1",
     "lodash": "4.18.1",
     "lru-cache": "11.3.5",
     "sharp": "0.34.5"
   },
   "peerDependencies": {
-    "appium": "^3.0.0-beta.0"
+    "@testspectra/appium": "^3.0.0-beta.0"
   },
   "engines": {
     "node": "^20.19.0 || ^22.12.0 || >=24.0.0",

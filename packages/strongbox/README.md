@@ -1,4 +1,4 @@
-# @appium/strongbox
+# @testspectra/strongbox
 
 > Persistent storage for Appium extensions
 
@@ -6,7 +6,7 @@
 
 This package is intended to be used in [Appium](https://appium.io) extensions which need to persist data between Appium runs.  An example of such data may be a device token or key.  
 
-`@appium/strongbox` provides a simple and extensible API for managing such data, while abstracting the underlying storage mechanism.
+`@testspectra/strongbox` provides a simple and extensible API for managing such data, while abstracting the underlying storage mechanism.
 
 _Note:_ This module is not intended for storing sensitive data.
 
@@ -15,7 +15,7 @@ _Note:_ This module is not intended for storing sensitive data.
 First, create an instance of `Strongbox`:
 
 ```ts
-import {strongbox} from '@appium/strongbox';
+import {strongbox} from '@testspectra/strongbox';
 
 const box = strongbox('my-pkg');
 ```
@@ -78,7 +78,7 @@ In lieu of actual documentation, look at the type definitions that this package 
 1. Create a class that implements the `Item` interface:
 
     ```ts
-    import {strongbox, Item} from '@appium/strongbox';
+    import {strongbox, Item} from '@testspectra/strongbox';
     import {Foo, getFoo} from 'somewhere/else';
 
     class FooItem implements Item<Foo> {

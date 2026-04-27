@@ -2,7 +2,7 @@ import {readFile, rm} from 'node:fs/promises';
 import type {Item, Strongbox} from '../../lib';
 import {strongbox} from '../../lib';
 
-describe('@appium/strongbox', function () {
+describe('@testspectra/strongbox', function () {
   let expect: any;
 
   before(async function () {

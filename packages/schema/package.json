@@ -1,5 +1,5 @@
 {
-  "name": "@appium/schema",
+  "name": "@testspectra/schema",
   "version": "1.1.0",
   "description": "Appium Configuration Schema",
   "keywords": [

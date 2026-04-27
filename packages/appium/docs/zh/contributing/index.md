@@ -91,14 +91,14 @@ npm run test:slow # everything
 您也可以运行特定工作区的测试，例如：
 
 ```sh
-export APPIUM_WORKSPACE=@appium/base-driver
+export APPIUM_WORKSPACE=@testspectra/base-driver
 npm run test:unit -w $APPIUM_WORKSPACE
 ```
 
 ### 文档
 
 此项目的文档位于项目[仓库本身](https://github.com/appium/appium/tree/master/packages/appium/docs)中。
-它包含在Markdown文件中，这些文件由`@appium/docutils`模块中的文档系统构建。 该模块基于[MkDocs](https://www.mkdocs.org/)，因此需要在您的系统上安装[Python](https://www.python.org/)。
+它包含在Markdown文件中，这些文件由`@testspectra/docutils`模块中的文档系统构建。 该模块基于[MkDocs](https://www.mkdocs.org/)，因此需要在您的系统上安装[Python](https://www.python.org/)。
 
 安装 Python 依赖：
 

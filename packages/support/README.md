@@ -1,9 +1,9 @@
-# @appium/support
+# @testspectra/support
 
 > Utility functions used to support Appium drivers and plugins
 
-[![NPM version](http://img.shields.io/npm/v/@appium/support.svg)](https://npmjs.org/package/@appium/support)
-[![Downloads](http://img.shields.io/npm/dm/@appium/support.svg)](https://npmjs.org/package/@appium/support)
+[![NPM version](http://img.shields.io/npm/v/@testspectra/support.svg)](https://npmjs.org/package/@testspectra/support)
+[![Downloads](http://img.shields.io/npm/dm/@testspectra/support.svg)](https://npmjs.org/package/@testspectra/support)
 
 ## Usage in drivers and plugins
 
@@ -30,14 +30,14 @@ then add the following line to `dependencies` section of your module's `package.
 
 ```js
   "dependencies": {
-    "@appium/support": "<module_version>"
+    "@testspectra/support": "<module_version>"
   }
 ```
 
 Afterwards import it in your code similarly to the below example:
 
 ```js
-import {timing, util} from '@appium/support';
+import {timing, util} from '@testspectra/support';
 ```
 
 ## Categories

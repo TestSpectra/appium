@@ -1,10 +1,10 @@
 import chai, {expect} from 'chai';
 import chaiAsPromised from 'chai-as-promised';
-import type {Driver, MethodMap} from '@appium/types';
+import type {Driver, MethodMap} from '@testspectra/types';
 import {server, routeConfiguringFunction} from '../../../lib';
 import {configureServer, normalizeBasePath} from '../../../lib/express/server';
 import {createSandbox} from 'sinon';
-import {getTestPort} from '@appium/driver-test-support';
+import {getTestPort} from '@testspectra/driver-test-support';
 
 chai.use(chaiAsPromised);
 

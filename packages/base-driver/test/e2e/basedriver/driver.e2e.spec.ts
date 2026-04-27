@@ -1,10 +1,10 @@
 import chai, {expect} from 'chai';
 import chaiAsPromised from 'chai-as-promised';
-import type {Constraints, DriverCaps} from '@appium/types';
+import type {Constraints, DriverCaps} from '@testspectra/types';
 import {BaseDriver, server, routeConfiguringFunction} from '../../../lib';
 import {FakeDriver} from '../protocol/fake-driver';
 import axios from 'axios';
-import {TEST_HOST, getTestPort, driverE2ETestSuite} from '@appium/driver-test-support';
+import {TEST_HOST, getTestPort, driverE2ETestSuite} from '@testspectra/driver-test-support';
 
 chai.use(chaiAsPromised);
 

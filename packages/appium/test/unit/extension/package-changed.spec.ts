@@ -24,7 +24,7 @@ describe('package-changed', function () {
       () => require('../../../lib/extension/package-changed'),
       {
         'package-changed': MockPackageChanged,
-        '@appium/support': MockAppiumSupport,
+        '@testspectra/support': MockAppiumSupport,
       }
     ));
   });

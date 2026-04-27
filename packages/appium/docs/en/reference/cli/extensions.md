@@ -93,10 +93,10 @@ appium {driver|plugin} install <install-spec>
     appium driver install xcuitest@9.0.0
     ```
 
-- Install the `beta` version of `@appium/fake-driver` from `npm`:
+- Install the `beta` version of `@testspectra/fake-driver` from `npm`:
 
     ```
-    appium driver install @appium/fake-driver@beta --source=npm
+    appium driver install @testspectra/fake-driver@beta --source=npm
     ```
 
 - Install a locally-developed plugin:

@@ -1,13 +1,13 @@
 import _ from 'lodash';
 import {errors} from 'appium/driver';
-import {util} from '@appium/support';
+import {util} from '@testspectra/support';
 import {BasePlugin} from 'appium/plugin';
 import {compareImages} from './compare';
 import {ImageElementFinder} from './finder';
 import {ImageElement} from './image-element';
 import {IMAGE_STRATEGY, IMAGE_ELEMENT_PREFIX} from './constants';
-import type {ExternalDriver, Element, ActionSequence, MethodMap} from '@appium/types';
-import type {MatchingOptions, SimilarityOptions, OccurrenceOptions} from '@appium/opencv';
+import type {ExternalDriver, Element, ActionSequence, MethodMap} from '@testspectra/types';
+import type {MatchingOptions, SimilarityOptions, OccurrenceOptions} from '@testspectra/opencv';
 
 export class ImageElementPlugin extends BasePlugin {
   // this plugin supports a non-standard 'compare images' command

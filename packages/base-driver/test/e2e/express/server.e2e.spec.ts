@@ -1,7 +1,7 @@
 import chai, {expect} from 'chai';
 import chaiAsPromised from 'chai-as-promised';
 import type {Application, Request, Response} from 'express';
-import type {ServerArgs} from '@appium/types';
+import type {ServerArgs} from '@testspectra/types';
 import {server} from '../../../lib';
 import axios from 'axios';
 import {createSandbox} from 'sinon';
@@ -9,7 +9,7 @@ import {sleep} from 'asyncbox';
 import _ from 'lodash';
 import {exec} from 'teen_process';
 import https from 'node:https';
-import {TEST_HOST, getTestPort} from '@appium/driver-test-support';
+import {TEST_HOST, getTestPort} from '@testspectra/driver-test-support';
 
 chai.use(chaiAsPromised);
 

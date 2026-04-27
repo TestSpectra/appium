@@ -12,8 +12,8 @@ import {
   stripAppiumPrefixes,
 } from '../../../lib/basedriver/capabilities';
 import _ from 'lodash';
-import type {Capabilities, Constraints, W3CCapabilities} from '@appium/types';
-import {BASE_DESIRED_CAP_CONSTRAINTS} from '@appium/types';
+import type {Capabilities, Constraints, W3CCapabilities} from '@testspectra/types';
+import {BASE_DESIRED_CAP_CONSTRAINTS} from '@testspectra/types';
 import {isW3cCaps} from '../../../lib/helpers/capabilities';
 
 chai.use(chaiAsPromised);

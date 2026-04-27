@@ -3,7 +3,7 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-## [1.1.1](https://github.com/appium/appium/compare/@appium/strongbox@1.1.0...@appium/strongbox@1.1.1) (2026-04-23)
+## [1.1.1](https://github.com/appium/appium/compare/@testspectra/strongbox@1.1.0...@testspectra/strongbox@1.1.1) (2026-04-23)
 
 
 ### Bug Fixes
@@ -12,7 +12,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [1.1.0](https://github.com/appium/appium/compare/@appium/strongbox@1.0.2...@appium/strongbox@1.1.0) (2026-04-09)
+## [1.1.0](https://github.com/appium/appium/compare/@testspectra/strongbox@1.0.2...@testspectra/strongbox@1.1.0) (2026-04-09)
 
 
 ### Features
@@ -21,7 +21,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [1.0.2](https://github.com/appium/appium/compare/@appium/strongbox@1.0.1...@appium/strongbox@1.0.2) (2026-03-08)
+## [1.0.2](https://github.com/appium/appium/compare/@testspectra/strongbox@1.0.1...@testspectra/strongbox@1.0.2) (2026-03-08)
 
 
 ### Bug Fixes
@@ -30,23 +30,23 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [1.0.1](https://github.com/appium/appium/compare/@appium/strongbox@1.0.0...@appium/strongbox@1.0.1) (2026-01-26)
+## [1.0.1](https://github.com/appium/appium/compare/@testspectra/strongbox@1.0.0...@testspectra/strongbox@1.0.1) (2026-01-26)
 
-**Note:** Version bump only for package @appium/strongbox
-
-
-
-
-
-## [1.0.0](https://github.com/appium/appium/compare/@appium/strongbox@1.0.0-rc.1...@appium/strongbox@1.0.0) (2025-08-18)
-
-**Note:** Version bump only for package @appium/strongbox
+**Note:** Version bump only for package @testspectra/strongbox
 
 
 
 
 
-## [1.0.0-rc.1](https://github.com/appium/appium/compare/@appium/strongbox@0.3.3...@appium/strongbox@1.0.0-rc.1) (2025-08-14)
+## [1.0.0](https://github.com/appium/appium/compare/@testspectra/strongbox@1.0.0-rc.1...@testspectra/strongbox@1.0.0) (2025-08-18)
+
+**Note:** Version bump only for package @testspectra/strongbox
+
+
+
+
+
+## [1.0.0-rc.1](https://github.com/appium/appium/compare/@testspectra/strongbox@0.3.3...@testspectra/strongbox@1.0.0-rc.1) (2025-08-14)
 
 
 ### ⚠ BREAKING CHANGES
@@ -69,7 +69,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.3.4](https://github.com/appium/appium/compare/@appium/strongbox@0.3.3...@appium/strongbox@0.3.4) (2025-06-01)
+## [0.3.4](https://github.com/appium/appium/compare/@testspectra/strongbox@0.3.3...@testspectra/strongbox@0.3.4) (2025-06-01)
 
 
 ### Bug Fixes
@@ -78,23 +78,23 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.3.3](https://github.com/appium/appium/compare/@appium/strongbox@0.3.2...@appium/strongbox@0.3.3) (2024-07-10)
+## [0.3.3](https://github.com/appium/appium/compare/@testspectra/strongbox@0.3.2...@testspectra/strongbox@0.3.3) (2024-07-10)
 
-**Note:** Version bump only for package @appium/strongbox
-
-
-
-
-
-## [0.3.2](https://github.com/appium/appium/compare/@appium/strongbox@0.3.1...@appium/strongbox@0.3.2) (2023-12-18)
-
-**Note:** Version bump only for package @appium/strongbox
+**Note:** Version bump only for package @testspectra/strongbox
 
 
 
 
 
-## [0.3.1](https://github.com/appium/appium/compare/@appium/strongbox@0.3.0...@appium/strongbox@0.3.1) (2023-06-14)
+## [0.3.2](https://github.com/appium/appium/compare/@testspectra/strongbox@0.3.1...@testspectra/strongbox@0.3.2) (2023-12-18)
+
+**Note:** Version bump only for package @testspectra/strongbox
+
+
+
+
+
+## [0.3.1](https://github.com/appium/appium/compare/@testspectra/strongbox@0.3.0...@testspectra/strongbox@0.3.1) (2023-06-14)
 
 
 ### Bug Fixes
@@ -103,7 +103,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.3.0](https://github.com/appium/appium/compare/@appium/strongbox@0.2.0...@appium/strongbox@0.3.0) (2023-04-20)
+## [0.3.0](https://github.com/appium/appium/compare/@testspectra/strongbox@0.2.0...@testspectra/strongbox@0.3.0) (2023-04-20)
 
 
 ### ⚠ BREAKING CHANGES
@@ -125,5 +125,5 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 ### Features
 
-* **strongbox:** create @appium/strongbox ([fd91234](https://github.com/appium/appium/commit/fd912346fade8f29f5b4d1458828ea677d7e9fcc))
+* **strongbox:** create @testspectra/strongbox ([fd91234](https://github.com/appium/appium/commit/fd912346fade8f29f5b4d1458828ea677d7e9fcc))
 * **strongbox:** export BaseItem ([377e982](https://github.com/appium/appium/commit/377e9825de74d9929631fb331e6d348c9df0964e))

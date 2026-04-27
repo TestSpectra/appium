@@ -8,7 +8,7 @@ import {
   XML_WEBVIEW,
 } from '../fixtures';
 import {runQuery, getNodeAttrVal} from '../../lib/xpath';
-import type {Constraints} from '@appium/types';
+import type {Constraints} from '@testspectra/types';
 import {expect, use} from 'chai';
 import chaiAsPromised from 'chai-as-promised';
 

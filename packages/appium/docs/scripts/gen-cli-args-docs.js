@@ -4,8 +4,8 @@
 /* eslint-disable promise/prefer-await-to-then */
 
 const path = require('node:path');
-const {fs} = require('@appium/support');
-const {AppiumConfigJsonSchema} = require('@appium/schema');
+const {fs} = require('@testspectra/support');
+const {AppiumConfigJsonSchema} = require('@testspectra/schema');
 
 const DOC_PATH = path.resolve(__dirname, '..', 'en', 'cli', 'args.md');
 

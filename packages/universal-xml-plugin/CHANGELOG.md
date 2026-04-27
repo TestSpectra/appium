@@ -3,7 +3,7 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-## [2.1.2](https://github.com/appium/appium/compare/@appium/universal-xml-plugin@2.1.1...@appium/universal-xml-plugin@2.1.2) (2026-04-23)
+## [2.1.2](https://github.com/appium/appium/compare/@testspectra/universal-xml-plugin@2.1.1...@testspectra/universal-xml-plugin@2.1.2) (2026-04-23)
 
 
 ### Bug Fixes
@@ -12,15 +12,15 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [2.1.1](https://github.com/appium/appium/compare/@appium/universal-xml-plugin@2.1.0...@appium/universal-xml-plugin@2.1.1) (2026-04-09)
+## [2.1.1](https://github.com/appium/appium/compare/@testspectra/universal-xml-plugin@2.1.0...@testspectra/universal-xml-plugin@2.1.1) (2026-04-09)
 
-**Note:** Version bump only for package @appium/universal-xml-plugin
-
-
+**Note:** Version bump only for package @testspectra/universal-xml-plugin
 
 
 
-## [2.1.0](https://github.com/appium/appium/compare/@appium/universal-xml-plugin@2.0.4...@appium/universal-xml-plugin@2.1.0) (2026-03-08)
+
+
+## [2.1.0](https://github.com/appium/appium/compare/@testspectra/universal-xml-plugin@2.0.4...@testspectra/universal-xml-plugin@2.1.0) (2026-03-08)
 
 
 ### Features
@@ -29,7 +29,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [2.0.4](https://github.com/appium/appium/compare/@appium/universal-xml-plugin@2.0.3...@appium/universal-xml-plugin@2.0.4) (2026-01-26)
+## [2.0.4](https://github.com/appium/appium/compare/@testspectra/universal-xml-plugin@2.0.3...@testspectra/universal-xml-plugin@2.0.4) (2026-01-26)
 
 
 ### Bug Fixes
@@ -38,39 +38,39 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [2.0.3](https://github.com/appium/appium/compare/@appium/universal-xml-plugin@2.0.2...@appium/universal-xml-plugin@2.0.3) (2025-12-04)
+## [2.0.3](https://github.com/appium/appium/compare/@testspectra/universal-xml-plugin@2.0.2...@testspectra/universal-xml-plugin@2.0.3) (2025-12-04)
 
-**Note:** Version bump only for package @appium/universal-xml-plugin
-
-
-
-
-
-## [2.0.2](https://github.com/appium/appium/compare/@appium/universal-xml-plugin@2.0.1...@appium/universal-xml-plugin@2.0.2) (2025-11-12)
-
-**Note:** Version bump only for package @appium/universal-xml-plugin
+**Note:** Version bump only for package @testspectra/universal-xml-plugin
 
 
 
 
 
-## [2.0.1](https://github.com/appium/appium/compare/@appium/universal-xml-plugin@2.0.0...@appium/universal-xml-plugin@2.0.1) (2025-10-08)
+## [2.0.2](https://github.com/appium/appium/compare/@testspectra/universal-xml-plugin@2.0.1...@testspectra/universal-xml-plugin@2.0.2) (2025-11-12)
 
-**Note:** Version bump only for package @appium/universal-xml-plugin
-
-
-
-
-
-## [2.0.0](https://github.com/appium/appium/compare/@appium/universal-xml-plugin@2.0.0-rc.1...@appium/universal-xml-plugin@2.0.0) (2025-08-18)
-
-**Note:** Version bump only for package @appium/universal-xml-plugin
+**Note:** Version bump only for package @testspectra/universal-xml-plugin
 
 
 
 
 
-## [2.0.0-rc.1](https://github.com/appium/appium/compare/@appium/universal-xml-plugin@1.0.30...@appium/universal-xml-plugin@2.0.0-rc.1) (2025-08-14)
+## [2.0.1](https://github.com/appium/appium/compare/@testspectra/universal-xml-plugin@2.0.0...@testspectra/universal-xml-plugin@2.0.1) (2025-10-08)
+
+**Note:** Version bump only for package @testspectra/universal-xml-plugin
+
+
+
+
+
+## [2.0.0](https://github.com/appium/appium/compare/@testspectra/universal-xml-plugin@2.0.0-rc.1...@testspectra/universal-xml-plugin@2.0.0) (2025-08-18)
+
+**Note:** Version bump only for package @testspectra/universal-xml-plugin
+
+
+
+
+
+## [2.0.0-rc.1](https://github.com/appium/appium/compare/@testspectra/universal-xml-plugin@1.0.30...@testspectra/universal-xml-plugin@2.0.0-rc.1) (2025-08-14)
 
 
 ### ⚠ BREAKING CHANGES
@@ -83,55 +83,55 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [1.0.34](https://github.com/appium/appium/compare/@appium/universal-xml-plugin@1.0.33...@appium/universal-xml-plugin@1.0.34) (2025-06-01)
+## [1.0.34](https://github.com/appium/appium/compare/@testspectra/universal-xml-plugin@1.0.33...@testspectra/universal-xml-plugin@1.0.34) (2025-06-01)
 
-**Note:** Version bump only for package @appium/universal-xml-plugin
-
-
-
-
-
-## [1.0.33](https://github.com/appium/appium/compare/@appium/universal-xml-plugin@1.0.32...@appium/universal-xml-plugin@1.0.33) (2025-04-25)
-
-**Note:** Version bump only for package @appium/universal-xml-plugin
+**Note:** Version bump only for package @testspectra/universal-xml-plugin
 
 
 
 
 
-## [1.0.32](https://github.com/appium/appium/compare/@appium/universal-xml-plugin@1.0.31...@appium/universal-xml-plugin@1.0.32) (2025-03-17)
+## [1.0.33](https://github.com/appium/appium/compare/@testspectra/universal-xml-plugin@1.0.32...@testspectra/universal-xml-plugin@1.0.33) (2025-04-25)
 
-**Note:** Version bump only for package @appium/universal-xml-plugin
-
-
-
-
-
-## [1.0.31](https://github.com/appium/appium/compare/@appium/universal-xml-plugin@1.0.30...@appium/universal-xml-plugin@1.0.31) (2025-03-11)
-
-**Note:** Version bump only for package @appium/universal-xml-plugin
+**Note:** Version bump only for package @testspectra/universal-xml-plugin
 
 
 
 
 
-## [1.0.30](https://github.com/appium/appium/compare/@appium/universal-xml-plugin@1.0.29...@appium/universal-xml-plugin@1.0.30) (2025-02-20)
+## [1.0.32](https://github.com/appium/appium/compare/@testspectra/universal-xml-plugin@1.0.31...@testspectra/universal-xml-plugin@1.0.32) (2025-03-17)
 
-**Note:** Version bump only for package @appium/universal-xml-plugin
-
-
-
-
-
-## [1.0.29](https://github.com/appium/appium/compare/@appium/universal-xml-plugin@1.0.28...@appium/universal-xml-plugin@1.0.29) (2025-02-20)
-
-**Note:** Version bump only for package @appium/universal-xml-plugin
+**Note:** Version bump only for package @testspectra/universal-xml-plugin
 
 
 
 
 
-## [1.0.28](https://github.com/appium/appium-plugins/compare/@appium/universal-xml-plugin@1.0.27...@appium/universal-xml-plugin@1.0.28) (2025-02-19)
+## [1.0.31](https://github.com/appium/appium/compare/@testspectra/universal-xml-plugin@1.0.30...@testspectra/universal-xml-plugin@1.0.31) (2025-03-11)
+
+**Note:** Version bump only for package @testspectra/universal-xml-plugin
+
+
+
+
+
+## [1.0.30](https://github.com/appium/appium/compare/@testspectra/universal-xml-plugin@1.0.29...@testspectra/universal-xml-plugin@1.0.30) (2025-02-20)
+
+**Note:** Version bump only for package @testspectra/universal-xml-plugin
+
+
+
+
+
+## [1.0.29](https://github.com/appium/appium/compare/@testspectra/universal-xml-plugin@1.0.28...@testspectra/universal-xml-plugin@1.0.29) (2025-02-20)
+
+**Note:** Version bump only for package @testspectra/universal-xml-plugin
+
+
+
+
+
+## [1.0.28](https://github.com/appium/appium-plugins/compare/@testspectra/universal-xml-plugin@1.0.27...@testspectra/universal-xml-plugin@1.0.28) (2025-02-19)
 
 
 ### Bug Fixes
@@ -142,7 +142,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [1.0.27](https://github.com/appium/appium-plugins/compare/@appium/universal-xml-plugin@1.0.26...@appium/universal-xml-plugin@1.0.27) (2025-01-02)
+## [1.0.27](https://github.com/appium/appium-plugins/compare/@testspectra/universal-xml-plugin@1.0.26...@testspectra/universal-xml-plugin@1.0.27) (2025-01-02)
 
 
 ### Bug Fixes
@@ -152,7 +152,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [1.0.26](https://github.com/appium/appium-plugins/compare/@appium/universal-xml-plugin@1.0.25...@appium/universal-xml-plugin@1.0.26) (2024-12-05)
+## [1.0.26](https://github.com/appium/appium-plugins/compare/@testspectra/universal-xml-plugin@1.0.25...@testspectra/universal-xml-plugin@1.0.26) (2024-12-05)
 
 
 ### Bug Fixes
@@ -161,7 +161,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [1.0.25](https://github.com/appium/appium-plugins/compare/@appium/universal-xml-plugin@1.0.24...@appium/universal-xml-plugin@1.0.25) (2024-11-29)
+## [1.0.25](https://github.com/appium/appium-plugins/compare/@testspectra/universal-xml-plugin@1.0.24...@testspectra/universal-xml-plugin@1.0.25) (2024-11-29)
 
 
 ### Bug Fixes
@@ -170,7 +170,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [1.0.24](https://github.com/appium/appium-plugins/compare/@appium/universal-xml-plugin@1.0.23...@appium/universal-xml-plugin@1.0.24) (2024-10-15)
+## [1.0.24](https://github.com/appium/appium-plugins/compare/@testspectra/universal-xml-plugin@1.0.23...@testspectra/universal-xml-plugin@1.0.24) (2024-10-15)
 
 
 ### Bug Fixes
@@ -179,7 +179,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [1.0.23](https://github.com/appium/appium-plugins/compare/@appium/universal-xml-plugin@1.0.22...@appium/universal-xml-plugin@1.0.23) (2024-09-26)
+## [1.0.23](https://github.com/appium/appium-plugins/compare/@testspectra/universal-xml-plugin@1.0.22...@testspectra/universal-xml-plugin@1.0.23) (2024-09-26)
 
 
 ### Bug Fixes
@@ -188,7 +188,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [1.0.22](https://github.com/appium/appium-plugins/compare/@appium/universal-xml-plugin@1.0.21...@appium/universal-xml-plugin@1.0.22) (2024-09-16)
+## [1.0.22](https://github.com/appium/appium-plugins/compare/@testspectra/universal-xml-plugin@1.0.21...@testspectra/universal-xml-plugin@1.0.22) (2024-09-16)
 
 
 ### Bug Fixes
@@ -199,7 +199,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [1.0.21](https://github.com/appium/appium-plugins/compare/@appium/universal-xml-plugin@1.0.20...@appium/universal-xml-plugin@1.0.21) (2024-08-07)
+## [1.0.21](https://github.com/appium/appium-plugins/compare/@testspectra/universal-xml-plugin@1.0.20...@testspectra/universal-xml-plugin@1.0.21) (2024-08-07)
 
 
 ### Bug Fixes
@@ -208,7 +208,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [1.0.20](https://github.com/appium/appium-plugins/compare/@appium/universal-xml-plugin@1.0.19...@appium/universal-xml-plugin@1.0.20) (2024-06-06)
+## [1.0.20](https://github.com/appium/appium-plugins/compare/@testspectra/universal-xml-plugin@1.0.19...@testspectra/universal-xml-plugin@1.0.20) (2024-06-06)
 
 
 ### Bug Fixes
@@ -217,7 +217,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [1.0.19](https://github.com/appium/appium-plugins/compare/@appium/universal-xml-plugin@1.0.18...@appium/universal-xml-plugin@1.0.19) (2024-05-27)
+## [1.0.19](https://github.com/appium/appium-plugins/compare/@testspectra/universal-xml-plugin@1.0.18...@testspectra/universal-xml-plugin@1.0.19) (2024-05-27)
 
 
 ### Bug Fixes
@@ -226,7 +226,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [1.0.18](https://github.com/appium/appium-plugins/compare/@appium/universal-xml-plugin@1.0.17...@appium/universal-xml-plugin@1.0.18) (2024-04-08)
+## [1.0.18](https://github.com/appium/appium-plugins/compare/@testspectra/universal-xml-plugin@1.0.17...@testspectra/universal-xml-plugin@1.0.18) (2024-04-08)
 
 
 ### Bug Fixes
@@ -236,7 +236,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [1.0.17](https://github.com/appium/appium-plugins/compare/@appium/universal-xml-plugin@1.0.16...@appium/universal-xml-plugin@1.0.17) (2024-02-06)
+## [1.0.17](https://github.com/appium/appium-plugins/compare/@testspectra/universal-xml-plugin@1.0.16...@testspectra/universal-xml-plugin@1.0.17) (2024-02-06)
 
 
 ### Bug Fixes
@@ -246,17 +246,17 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [1.0.16](https://github.com/appium/appium-plugins/compare/@appium/universal-xml-plugin@1.0.15...@appium/universal-xml-plugin@1.0.16) (2023-12-18)
+## [1.0.16](https://github.com/appium/appium-plugins/compare/@testspectra/universal-xml-plugin@1.0.15...@testspectra/universal-xml-plugin@1.0.16) (2023-12-18)
 
 
 ### Bug Fixes
 
-* **docutils:** remove `@appium/typedoc-plugin-appium` and all other uses of `typedoc` ([#19465](https://github.com/appium/appium-plugins/issues/19465)) ([7528fcf](https://github.com/appium/appium-plugins/commit/7528fcf890f79f4017f5e718bb1952bf907ee479))
+* **docutils:** remove `@testspectra/typedoc-plugin-appium` and all other uses of `typedoc` ([#19465](https://github.com/appium/appium-plugins/issues/19465)) ([7528fcf](https://github.com/appium/appium-plugins/commit/7528fcf890f79f4017f5e718bb1952bf907ee479))
 * **universal-xml-plugin:** update dependency xpath to v0.0.34 ([#19540](https://github.com/appium/appium-plugins/issues/19540)) ([cdd8a65](https://github.com/appium/appium-plugins/commit/cdd8a65887d1718af0d520bc7ad25add6e6466fb))
 
 
 
-## [1.0.15](https://github.com/appium/appium-plugins/compare/@appium/universal-xml-plugin@1.0.14...@appium/universal-xml-plugin@1.0.15) (2023-11-14)
+## [1.0.15](https://github.com/appium/appium-plugins/compare/@testspectra/universal-xml-plugin@1.0.14...@testspectra/universal-xml-plugin@1.0.15) (2023-11-14)
 
 
 ### Bug Fixes
@@ -265,7 +265,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [1.0.14](https://github.com/appium/appium-plugins/compare/@appium/universal-xml-plugin@1.0.13...@appium/universal-xml-plugin@1.0.14) (2023-10-19)
+## [1.0.14](https://github.com/appium/appium-plugins/compare/@testspectra/universal-xml-plugin@1.0.13...@testspectra/universal-xml-plugin@1.0.14) (2023-10-19)
 
 
 ### Bug Fixes
@@ -274,7 +274,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [1.0.13](https://github.com/appium/appium-plugins/compare/@appium/universal-xml-plugin@1.0.12...@appium/universal-xml-plugin@1.0.13) (2023-10-18)
+## [1.0.13](https://github.com/appium/appium-plugins/compare/@testspectra/universal-xml-plugin@1.0.12...@testspectra/universal-xml-plugin@1.0.13) (2023-10-18)
 
 
 ### Bug Fixes
@@ -286,7 +286,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [1.0.12](https://github.com/appium/appium-plugins/compare/@appium/universal-xml-plugin@1.0.11...@appium/universal-xml-plugin@1.0.12) (2023-08-22)
+## [1.0.12](https://github.com/appium/appium-plugins/compare/@testspectra/universal-xml-plugin@1.0.11...@testspectra/universal-xml-plugin@1.0.12) (2023-08-22)
 
 
 ### Bug Fixes
@@ -295,7 +295,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [1.0.11](https://github.com/appium/appium-plugins/compare/@appium/universal-xml-plugin@1.0.10...@appium/universal-xml-plugin@1.0.11) (2023-08-21)
+## [1.0.11](https://github.com/appium/appium-plugins/compare/@testspectra/universal-xml-plugin@1.0.10...@testspectra/universal-xml-plugin@1.0.11) (2023-08-21)
 
 
 ### Bug Fixes
@@ -304,7 +304,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [1.0.10](https://github.com/appium/appium-plugins/compare/@appium/universal-xml-plugin@1.0.9...@appium/universal-xml-plugin@1.0.10) (2023-08-17)
+## [1.0.10](https://github.com/appium/appium-plugins/compare/@testspectra/universal-xml-plugin@1.0.9...@testspectra/universal-xml-plugin@1.0.10) (2023-08-17)
 
 
 ### Bug Fixes
@@ -315,7 +315,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [1.0.9](https://github.com/appium/appium-plugins/compare/@appium/universal-xml-plugin@1.0.8...@appium/universal-xml-plugin@1.0.9) (2023-06-14)
+## [1.0.9](https://github.com/appium/appium-plugins/compare/@testspectra/universal-xml-plugin@1.0.8...@testspectra/universal-xml-plugin@1.0.9) (2023-06-14)
 
 
 ### Bug Fixes
@@ -324,7 +324,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [1.0.8](https://github.com/appium/appium-plugins/compare/@appium/universal-xml-plugin@1.0.7...@appium/universal-xml-plugin@1.0.8) (2023-04-03)
+## [1.0.8](https://github.com/appium/appium-plugins/compare/@testspectra/universal-xml-plugin@1.0.7...@testspectra/universal-xml-plugin@1.0.8) (2023-04-03)
 
 
 ### Bug Fixes
@@ -335,55 +335,55 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [1.0.7](https://github.com/appium/appium-plugins/compare/@appium/universal-xml-plugin@1.0.6...@appium/universal-xml-plugin@1.0.7) (2023-03-28)
+## [1.0.7](https://github.com/appium/appium-plugins/compare/@testspectra/universal-xml-plugin@1.0.6...@testspectra/universal-xml-plugin@1.0.7) (2023-03-28)
 
-**Note:** Version bump only for package @appium/universal-xml-plugin
-
-
-
-
-
-## [1.0.6](https://github.com/appium/appium-plugins/compare/@appium/universal-xml-plugin@1.0.5...@appium/universal-xml-plugin@1.0.6) (2023-02-24)
-
-**Note:** Version bump only for package @appium/universal-xml-plugin
+**Note:** Version bump only for package @testspectra/universal-xml-plugin
 
 
 
 
 
-## [1.0.5](https://github.com/appium/appium-plugins/compare/@appium/universal-xml-plugin@1.0.4...@appium/universal-xml-plugin@1.0.5) (2023-02-09)
+## [1.0.6](https://github.com/appium/appium-plugins/compare/@testspectra/universal-xml-plugin@1.0.5...@testspectra/universal-xml-plugin@1.0.6) (2023-02-24)
 
-**Note:** Version bump only for package @appium/universal-xml-plugin
-
-
-
-
-
-## [1.0.4](https://github.com/appium/appium-plugins/compare/@appium/universal-xml-plugin@1.0.3...@appium/universal-xml-plugin@1.0.4) (2023-01-13)
-
-**Note:** Version bump only for package @appium/universal-xml-plugin
+**Note:** Version bump only for package @testspectra/universal-xml-plugin
 
 
 
 
 
-## [1.0.3](https://github.com/appium/appium-plugins/compare/@appium/universal-xml-plugin@1.0.2...@appium/universal-xml-plugin@1.0.3) (2023-01-13)
+## [1.0.5](https://github.com/appium/appium-plugins/compare/@testspectra/universal-xml-plugin@1.0.4...@testspectra/universal-xml-plugin@1.0.5) (2023-02-09)
 
-**Note:** Version bump only for package @appium/universal-xml-plugin
-
-
-
-
-
-## [1.0.2](https://github.com/appium/appium-plugins/compare/@appium/universal-xml-plugin@1.0.1...@appium/universal-xml-plugin@1.0.2) (2023-01-13)
-
-**Note:** Version bump only for package @appium/universal-xml-plugin
+**Note:** Version bump only for package @testspectra/universal-xml-plugin
 
 
 
 
 
-## [1.0.1](https://github.com/appium/appium-plugins/compare/@appium/universal-xml-plugin@1.0.0-beta.16...@appium/universal-xml-plugin@1.0.1) (2023-01-13)
+## [1.0.4](https://github.com/appium/appium-plugins/compare/@testspectra/universal-xml-plugin@1.0.3...@testspectra/universal-xml-plugin@1.0.4) (2023-01-13)
+
+**Note:** Version bump only for package @testspectra/universal-xml-plugin
+
+
+
+
+
+## [1.0.3](https://github.com/appium/appium-plugins/compare/@testspectra/universal-xml-plugin@1.0.2...@testspectra/universal-xml-plugin@1.0.3) (2023-01-13)
+
+**Note:** Version bump only for package @testspectra/universal-xml-plugin
+
+
+
+
+
+## [1.0.2](https://github.com/appium/appium-plugins/compare/@testspectra/universal-xml-plugin@1.0.1...@testspectra/universal-xml-plugin@1.0.2) (2023-01-13)
+
+**Note:** Version bump only for package @testspectra/universal-xml-plugin
+
+
+
+
+
+## [1.0.1](https://github.com/appium/appium-plugins/compare/@testspectra/universal-xml-plugin@1.0.0-beta.16...@testspectra/universal-xml-plugin@1.0.1) (2023-01-13)
 
 
 ### Bug Fixes
@@ -394,7 +394,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [1.0.0-beta.16](https://github.com/appium/appium-plugins/compare/@appium/universal-xml-plugin@1.0.0-beta.15...@appium/universal-xml-plugin@1.0.0-beta.16) (2022-12-14)
+# [1.0.0-beta.16](https://github.com/appium/appium-plugins/compare/@testspectra/universal-xml-plugin@1.0.0-beta.15...@testspectra/universal-xml-plugin@1.0.0-beta.16) (2022-12-14)
 
 ### Bug Fixes
 
@@ -411,37 +411,37 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 - Appium now supports version range `^14.17.0 || ^16.13.0 || >=18.0.0`
 
-# [1.0.0-beta.15](https://github.com/appium/appium-plugins/compare/@appium/universal-xml-plugin@1.0.0-beta.14...@appium/universal-xml-plugin@1.0.0-beta.15) (2022-10-13)
+# [1.0.0-beta.15](https://github.com/appium/appium-plugins/compare/@testspectra/universal-xml-plugin@1.0.0-beta.14...@testspectra/universal-xml-plugin@1.0.0-beta.15) (2022-10-13)
 
-**Note:** Version bump only for package @appium/universal-xml-plugin
+**Note:** Version bump only for package @testspectra/universal-xml-plugin
 
-# [1.0.0-beta.14](https://github.com/appium/appium-plugins/compare/@appium/universal-xml-plugin@1.0.0-beta.13...@appium/universal-xml-plugin@1.0.0-beta.14) (2022-09-07)
+# [1.0.0-beta.14](https://github.com/appium/appium-plugins/compare/@testspectra/universal-xml-plugin@1.0.0-beta.13...@testspectra/universal-xml-plugin@1.0.0-beta.14) (2022-09-07)
 
-**Note:** Version bump only for package @appium/universal-xml-plugin
+**Note:** Version bump only for package @testspectra/universal-xml-plugin
 
-# [1.0.0-beta.13](https://github.com/appium/appium-plugins/compare/@appium/universal-xml-plugin@1.0.0-beta.12...@appium/universal-xml-plugin@1.0.0-beta.13) (2022-08-03)
+# [1.0.0-beta.13](https://github.com/appium/appium-plugins/compare/@testspectra/universal-xml-plugin@1.0.0-beta.12...@testspectra/universal-xml-plugin@1.0.0-beta.13) (2022-08-03)
 
 ### Bug Fixes
 
 - **appium,base-driver,base-plugin,doctor,docutils,eslint-config-appium,execute-driver-plugin,fake-driver,fake-plugin,gulp-plugins,images-plugin,opencv,relaxed-caps-plugin,schema,support,test-support,types,universal-xml-plugin:** update engines ([d8d2382](https://github.com/appium/appium-plugins/commit/d8d2382327ba7b7db8a4d1cad987c0e60184c92d))
 
-# [1.0.0-beta.12](https://github.com/appium/appium-plugins/compare/@appium/universal-xml-plugin@1.0.0-beta.11...@appium/universal-xml-plugin@1.0.0-beta.12) (2022-07-28)
+# [1.0.0-beta.12](https://github.com/appium/appium-plugins/compare/@testspectra/universal-xml-plugin@1.0.0-beta.11...@testspectra/universal-xml-plugin@1.0.0-beta.12) (2022-07-28)
 
 ### Bug Fixes
 
 - moved type packages to deps of specific packages ([f9129df](https://github.com/appium/appium-plugins/commit/f9129dfee32fcc3f89ffcfa69fb83b7c2419c24f))
 
-# [1.0.0-beta.11](https://github.com/appium/appium-plugins/compare/@appium/universal-xml-plugin@1.0.0-beta.10...@appium/universal-xml-plugin@1.0.0-beta.11) (2022-06-01)
+# [1.0.0-beta.11](https://github.com/appium/appium-plugins/compare/@testspectra/universal-xml-plugin@1.0.0-beta.10...@testspectra/universal-xml-plugin@1.0.0-beta.11) (2022-06-01)
 
 ### Bug Fixes
 
 - **execute-driver-plugin,fake-plugin,images-plugin,relaxed-caps-plugin,universal-xml-plugin:** ensure babel runtime is present ([df64612](https://github.com/appium/appium-plugins/commit/df64612d98c35fd64219816269f83f628e538fe2))
 
-# [1.0.0-beta.10](https://github.com/appium/appium-plugins/compare/@appium/universal-xml-plugin@1.0.0-beta.9...@appium/universal-xml-plugin@1.0.0-beta.10) (2022-05-31)
+# [1.0.0-beta.10](https://github.com/appium/appium-plugins/compare/@testspectra/universal-xml-plugin@1.0.0-beta.9...@testspectra/universal-xml-plugin@1.0.0-beta.10) (2022-05-31)
 
-**Note:** Version bump only for package @appium/universal-xml-plugin
+**Note:** Version bump only for package @testspectra/universal-xml-plugin
 
-# [1.0.0-beta.9](https://github.com/appium/appium-plugins/compare/@appium/universal-xml-plugin@1.0.0-beta.8...@appium/universal-xml-plugin@1.0.0-beta.9) (2022-05-31)
+# [1.0.0-beta.9](https://github.com/appium/appium-plugins/compare/@testspectra/universal-xml-plugin@1.0.0-beta.8...@testspectra/universal-xml-plugin@1.0.0-beta.9) (2022-05-31)
 
 ### Bug Fixes
 
@@ -453,7 +453,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 ### BREAKING CHANGES
 
-- **universal-xml-plugin:** `@appium/universal-xml-plugin` now expects to be installed alongside `appium`.
+- **universal-xml-plugin:** `@testspectra/universal-xml-plugin` now expects to be installed alongside `appium`.
 
 # Conflicts:
 
@@ -467,17 +467,17 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 # packages/universal-xml-plugin/test/unit/plugin.spec.js
 
-# [1.0.0-beta.8](https://github.com/appium/appium-plugins/compare/@appium/universal-xml-plugin@1.0.0-beta.7...@appium/universal-xml-plugin@1.0.0-beta.8) (2022-05-02)
+# [1.0.0-beta.8](https://github.com/appium/appium-plugins/compare/@testspectra/universal-xml-plugin@1.0.0-beta.7...@testspectra/universal-xml-plugin@1.0.0-beta.8) (2022-05-02)
 
-**Note:** Version bump only for package @appium/universal-xml-plugin
+**Note:** Version bump only for package @testspectra/universal-xml-plugin
 
-# [1.0.0-beta.7](https://github.com/appium/appium-plugins/compare/@appium/universal-xml-plugin@1.0.0-beta.6...@appium/universal-xml-plugin@1.0.0-beta.7) (2022-04-20)
+# [1.0.0-beta.7](https://github.com/appium/appium-plugins/compare/@testspectra/universal-xml-plugin@1.0.0-beta.6...@testspectra/universal-xml-plugin@1.0.0-beta.7) (2022-04-20)
 
-**Note:** Version bump only for package @appium/universal-xml-plugin
+**Note:** Version bump only for package @testspectra/universal-xml-plugin
 
-# [1.0.0-beta.6](https://github.com/appium/appium-plugins/compare/@appium/universal-xml-plugin@1.0.0-beta.5...@appium/universal-xml-plugin@1.0.0-beta.6) (2022-04-20)
+# [1.0.0-beta.6](https://github.com/appium/appium-plugins/compare/@testspectra/universal-xml-plugin@1.0.0-beta.5...@testspectra/universal-xml-plugin@1.0.0-beta.6) (2022-04-20)
 
-**Note:** Version bump only for package @appium/universal-xml-plugin
+**Note:** Version bump only for package @testspectra/universal-xml-plugin
 
 # 1.0.0-beta.5 (2022-04-20)
 

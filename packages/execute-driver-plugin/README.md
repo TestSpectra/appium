@@ -1,9 +1,9 @@
-# @appium/execute-driver-plugin
+# @testspectra/execute-driver-plugin
 
 > Appium plugin for running a driver script in a child process
 
-[![NPM version](http://img.shields.io/npm/v/@appium/execute-driver-plugin.svg)](https://npmjs.org/package/@appium/execute-driver-plugin)
-[![Downloads](http://img.shields.io/npm/dm/@appium/execute-driver-plugin.svg)](https://npmjs.org/package/@appium/execute-driver-plugin)
+[![NPM version](http://img.shields.io/npm/v/@testspectra/execute-driver-plugin.svg)](https://npmjs.org/package/@testspectra/execute-driver-plugin)
+[![Downloads](http://img.shields.io/npm/dm/@testspectra/execute-driver-plugin.svg)](https://npmjs.org/package/@testspectra/execute-driver-plugin)
 
 This plugin adds a new driver command that allows executing scripts in a child process. Currently,
 the only supported driver type is `webdriverio`, therefore the script must also be written in JS.

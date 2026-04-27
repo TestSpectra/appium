@@ -1,9 +1,9 @@
-# @appium/images-plugin
+# @testspectra/images-plugin
 
 > Appium plugin for image comparison, visual testing, and image-based functional testing
 
-[![NPM version](http://img.shields.io/npm/v/@appium/images-plugin.svg)](https://npmjs.org/package/@appium/images-plugin)
-[![Downloads](http://img.shields.io/npm/dm/@appium/images-plugin.svg)](https://npmjs.org/package/@appium/images-plugin)
+[![NPM version](http://img.shields.io/npm/v/@testspectra/images-plugin.svg)](https://npmjs.org/package/@testspectra/images-plugin)
+[![Downloads](http://img.shields.io/npm/dm/@testspectra/images-plugin.svg)](https://npmjs.org/package/@testspectra/images-plugin)
 
 ## Features
 

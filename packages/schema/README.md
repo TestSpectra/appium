@@ -1,4 +1,4 @@
-# @appium/schema
+# @testspectra/schema
 
 > JSON schema for [Appium](https://github.com/appium/appium) configuration files
 
@@ -9,7 +9,7 @@ This package is used internally by Appium, but can also be used to validate Appi
 ## Install
 
 ```bash
-npm i @appium/schema
+npm i @testspectra/schema
 ```
 
 ## Usage
@@ -17,22 +17,22 @@ npm i @appium/schema
 The schema is exported as a JS object:
 
 ```js
-const { AppiumConfigJsonSchema } = require('@appium/schema');
+const { AppiumConfigJsonSchema } = require('@testspectra/schema');
 ```
 
 It is also provided as a JSON file (since this is a JSON schema, after all):
 
 ```js
-const schema = require('@appium/schema/lib/appium-config.schema.json');
+const schema = require('@testspectra/schema/lib/appium-config.schema.json');
 ```
 
 ## See Also
 
-[@appium/types](https://npm.im/@appium/types) exports a TypeScript type `AppiumConfig` (generated from this package) for typesafe configuration objects; this may be useful if your Appium configuration is written in JS (e.g., `.appiumrc.js`). Example:
+[@testspectra/types](https://npm.im/@testspectra/types) exports a TypeScript type `AppiumConfig` (generated from this package) for typesafe configuration objects; this may be useful if your Appium configuration is written in JS (e.g., `.appiumrc.js`). Example:
 
 ```js
 // @ts-check
-/** @type {import('@appium/types').AppiumConfig} */
+/** @type {import('@testspectra/types').AppiumConfig} */
 module.exports = {
   server: {
     port: 1234,

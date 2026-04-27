@@ -3,7 +3,7 @@
  * @module
  */
 
-import {fs} from '@appium/support';
+import {fs} from '@testspectra/support';
 import _ from 'lodash';
 import path from 'node:path';
 import {packageDirectory} from 'package-directory';

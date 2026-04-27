@@ -1,6 +1,6 @@
 import _ from 'lodash';
 import B from 'bluebird';
-import type {AppiumServer, WSServer} from '@appium/types';
+import type {AppiumServer, WSServer} from '@testspectra/types';
 
 export const DEFAULT_WS_PATHNAME_PREFIX = '/ws';
 

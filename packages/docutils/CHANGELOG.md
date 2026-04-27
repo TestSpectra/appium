@@ -3,7 +3,7 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-## [2.3.1](https://github.com/appium/appium/compare/@appium/docutils@2.3.0...@appium/docutils@2.3.1) (2026-04-23)
+## [2.3.1](https://github.com/appium/appium/compare/@testspectra/docutils@2.3.0...@testspectra/docutils@2.3.1) (2026-04-23)
 
 
 ### Bug Fixes
@@ -12,7 +12,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [2.3.0](https://github.com/appium/appium/compare/@appium/docutils@2.2.2...@appium/docutils@2.3.0) (2026-04-09)
+## [2.3.0](https://github.com/appium/appium/compare/@testspectra/docutils@2.2.2...@testspectra/docutils@2.3.0) (2026-04-09)
 
 
 ### Features
@@ -26,7 +26,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [2.2.2](https://github.com/appium/appium/compare/@appium/docutils@2.2.1...@appium/docutils@2.2.2) (2026-03-08)
+## [2.2.2](https://github.com/appium/appium/compare/@testspectra/docutils@2.2.1...@testspectra/docutils@2.2.2) (2026-03-08)
 
 
 ### Bug Fixes
@@ -35,15 +35,15 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [2.2.1](https://github.com/appium/appium/compare/@appium/docutils@2.2.0...@appium/docutils@2.2.1) (2026-01-26)
+## [2.2.1](https://github.com/appium/appium/compare/@testspectra/docutils@2.2.0...@testspectra/docutils@2.2.1) (2026-01-26)
 
-**Note:** Version bump only for package @appium/docutils
-
-
+**Note:** Version bump only for package @testspectra/docutils
 
 
 
-## [2.2.0](https://github.com/appium/appium/compare/@appium/docutils@2.1.2...@appium/docutils@2.2.0) (2025-12-04)
+
+
+## [2.2.0](https://github.com/appium/appium/compare/@testspectra/docutils@2.1.2...@testspectra/docutils@2.2.0) (2025-12-04)
 
 
 ### Features
@@ -52,23 +52,23 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [2.1.2](https://github.com/appium/appium/compare/@appium/docutils@2.1.1...@appium/docutils@2.1.2) (2025-11-12)
+## [2.1.2](https://github.com/appium/appium/compare/@testspectra/docutils@2.1.1...@testspectra/docutils@2.1.2) (2025-11-12)
 
-**Note:** Version bump only for package @appium/docutils
-
-
-
-
-
-## [2.1.1](https://github.com/appium/appium/compare/@appium/docutils@2.1.0...@appium/docutils@2.1.1) (2025-10-08)
-
-**Note:** Version bump only for package @appium/docutils
+**Note:** Version bump only for package @testspectra/docutils
 
 
 
 
 
-## [2.1.0](https://github.com/appium/appium/compare/@appium/docutils@2.0.1...@appium/docutils@2.1.0) (2025-09-09)
+## [2.1.1](https://github.com/appium/appium/compare/@testspectra/docutils@2.1.0...@testspectra/docutils@2.1.1) (2025-10-08)
+
+**Note:** Version bump only for package @testspectra/docutils
+
+
+
+
+
+## [2.1.0](https://github.com/appium/appium/compare/@testspectra/docutils@2.0.1...@testspectra/docutils@2.1.0) (2025-09-09)
 
 
 ### Features
@@ -77,23 +77,23 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [2.0.1](https://github.com/appium/appium/compare/@appium/docutils@2.0.0...@appium/docutils@2.0.1) (2025-08-20)
+## [2.0.1](https://github.com/appium/appium/compare/@testspectra/docutils@2.0.0...@testspectra/docutils@2.0.1) (2025-08-20)
 
-**Note:** Version bump only for package @appium/docutils
-
-
-
-
-
-## [2.0.0](https://github.com/appium/appium/compare/@appium/docutils@2.0.0-rc.1...@appium/docutils@2.0.0) (2025-08-18)
-
-**Note:** Version bump only for package @appium/docutils
+**Note:** Version bump only for package @testspectra/docutils
 
 
 
 
 
-## [2.0.0-rc.1](https://github.com/appium/appium/compare/@appium/docutils@1.0.32...@appium/docutils@2.0.0-rc.1) (2025-08-14)
+## [2.0.0](https://github.com/appium/appium/compare/@testspectra/docutils@2.0.0-rc.1...@testspectra/docutils@2.0.0) (2025-08-18)
+
+**Note:** Version bump only for package @testspectra/docutils
+
+
+
+
+
+## [2.0.0-rc.1](https://github.com/appium/appium/compare/@testspectra/docutils@1.0.32...@testspectra/docutils@2.0.0-rc.1) (2025-08-14)
 
 
 ### ⚠ BREAKING CHANGES
@@ -106,15 +106,15 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [1.1.1](https://github.com/appium/appium/compare/@appium/docutils@1.1.0...@appium/docutils@1.1.1) (2025-06-01)
+## [1.1.1](https://github.com/appium/appium/compare/@testspectra/docutils@1.1.0...@testspectra/docutils@1.1.1) (2025-06-01)
 
-**Note:** Version bump only for package @appium/docutils
-
-
+**Note:** Version bump only for package @testspectra/docutils
 
 
 
-## [1.1.0](https://github.com/appium/appium/compare/@appium/docutils@1.0.34...@appium/docutils@1.1.0) (2025-04-25)
+
+
+## [1.1.0](https://github.com/appium/appium/compare/@testspectra/docutils@1.0.34...@testspectra/docutils@1.1.0) (2025-04-25)
 
 
 ### Features
@@ -128,39 +128,39 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [1.0.34](https://github.com/appium/appium/compare/@appium/docutils@1.0.33...@appium/docutils@1.0.34) (2025-03-17)
+## [1.0.34](https://github.com/appium/appium/compare/@testspectra/docutils@1.0.33...@testspectra/docutils@1.0.34) (2025-03-17)
 
-**Note:** Version bump only for package @appium/docutils
-
-
-
-
-
-## [1.0.33](https://github.com/appium/appium/compare/@appium/docutils@1.0.32...@appium/docutils@1.0.33) (2025-03-11)
-
-**Note:** Version bump only for package @appium/docutils
+**Note:** Version bump only for package @testspectra/docutils
 
 
 
 
 
-## [1.0.32](https://github.com/appium/appium/compare/@appium/docutils@1.0.31...@appium/docutils@1.0.32) (2025-02-20)
+## [1.0.33](https://github.com/appium/appium/compare/@testspectra/docutils@1.0.32...@testspectra/docutils@1.0.33) (2025-03-11)
 
-**Note:** Version bump only for package @appium/docutils
-
-
-
-
-
-## [1.0.31](https://github.com/appium/appium/compare/@appium/docutils@1.0.30...@appium/docutils@1.0.31) (2025-02-20)
-
-**Note:** Version bump only for package @appium/docutils
+**Note:** Version bump only for package @testspectra/docutils
 
 
 
 
 
-## [1.0.30](https://github.com/appium/appium/compare/@appium/docutils@1.0.29...@appium/docutils@1.0.30) (2025-02-19)
+## [1.0.32](https://github.com/appium/appium/compare/@testspectra/docutils@1.0.31...@testspectra/docutils@1.0.32) (2025-02-20)
+
+**Note:** Version bump only for package @testspectra/docutils
+
+
+
+
+
+## [1.0.31](https://github.com/appium/appium/compare/@testspectra/docutils@1.0.30...@testspectra/docutils@1.0.31) (2025-02-20)
+
+**Note:** Version bump only for package @testspectra/docutils
+
+
+
+
+
+## [1.0.30](https://github.com/appium/appium/compare/@testspectra/docutils@1.0.29...@testspectra/docutils@1.0.30) (2025-02-19)
 
 
 ### Bug Fixes
@@ -176,15 +176,15 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [1.0.29](https://github.com/appium/appium/compare/@appium/docutils@1.0.28...@appium/docutils@1.0.29) (2025-01-08)
+## [1.0.29](https://github.com/appium/appium/compare/@testspectra/docutils@1.0.28...@testspectra/docutils@1.0.29) (2025-01-08)
 
-**Note:** Version bump only for package @appium/docutils
-
-
+**Note:** Version bump only for package @testspectra/docutils
 
 
 
-## [1.0.28](https://github.com/appium/appium/compare/@appium/docutils@1.0.27...@appium/docutils@1.0.28) (2025-01-06)
+
+
+## [1.0.28](https://github.com/appium/appium/compare/@testspectra/docutils@1.0.27...@testspectra/docutils@1.0.28) (2025-01-06)
 
 
 ### Bug Fixes
@@ -193,7 +193,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [1.0.27](https://github.com/appium/appium/compare/@appium/docutils@1.0.26...@appium/docutils@1.0.27) (2025-01-02)
+## [1.0.27](https://github.com/appium/appium/compare/@testspectra/docutils@1.0.26...@testspectra/docutils@1.0.27) (2025-01-02)
 
 
 ### Bug Fixes
@@ -209,7 +209,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [1.0.26](https://github.com/appium/appium/compare/@appium/docutils@1.0.25...@appium/docutils@1.0.26) (2024-12-05)
+## [1.0.26](https://github.com/appium/appium/compare/@testspectra/docutils@1.0.25...@testspectra/docutils@1.0.26) (2024-12-05)
 
 
 ### Bug Fixes
@@ -220,7 +220,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [1.0.25](https://github.com/appium/appium/compare/@appium/docutils@1.0.24...@appium/docutils@1.0.25) (2024-12-02)
+## [1.0.25](https://github.com/appium/appium/compare/@testspectra/docutils@1.0.24...@testspectra/docutils@1.0.25) (2024-12-02)
 
 
 ### Bug Fixes
@@ -229,7 +229,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [1.0.24](https://github.com/appium/appium/compare/@appium/docutils@1.0.23...@appium/docutils@1.0.24) (2024-11-29)
+## [1.0.24](https://github.com/appium/appium/compare/@testspectra/docutils@1.0.23...@testspectra/docutils@1.0.24) (2024-11-29)
 
 
 ### Bug Fixes
@@ -242,7 +242,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [1.0.23](https://github.com/appium/appium/compare/@appium/docutils@1.0.22...@appium/docutils@1.0.23) (2024-10-24)
+## [1.0.23](https://github.com/appium/appium/compare/@testspectra/docutils@1.0.22...@testspectra/docutils@1.0.23) (2024-10-24)
 
 
 ### Bug Fixes
@@ -251,7 +251,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [1.0.22](https://github.com/appium/appium/compare/@appium/docutils@1.0.21...@appium/docutils@1.0.22) (2024-10-15)
+## [1.0.22](https://github.com/appium/appium/compare/@testspectra/docutils@1.0.21...@testspectra/docutils@1.0.22) (2024-10-15)
 
 
 ### Bug Fixes
@@ -262,7 +262,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [1.0.21](https://github.com/appium/appium/compare/@appium/docutils@1.0.20...@appium/docutils@1.0.21) (2024-09-26)
+## [1.0.21](https://github.com/appium/appium/compare/@testspectra/docutils@1.0.20...@testspectra/docutils@1.0.21) (2024-09-26)
 
 
 ### Bug Fixes
@@ -271,7 +271,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [1.0.20](https://github.com/appium/appium/compare/@appium/docutils@1.0.19...@appium/docutils@1.0.20) (2024-09-16)
+## [1.0.20](https://github.com/appium/appium/compare/@testspectra/docutils@1.0.19...@testspectra/docutils@1.0.20) (2024-09-16)
 
 
 ### Bug Fixes
@@ -286,7 +286,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [1.0.19](https://github.com/appium/appium/compare/@appium/docutils@1.0.18...@appium/docutils@1.0.19) (2024-08-07)
+## [1.0.19](https://github.com/appium/appium/compare/@testspectra/docutils@1.0.18...@testspectra/docutils@1.0.19) (2024-08-07)
 
 
 ### Bug Fixes
@@ -299,7 +299,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [1.0.18](https://github.com/appium/appium/compare/@appium/docutils@1.0.17...@appium/docutils@1.0.18) (2024-07-10)
+## [1.0.18](https://github.com/appium/appium/compare/@testspectra/docutils@1.0.17...@testspectra/docutils@1.0.18) (2024-07-10)
 
 
 ### Bug Fixes
@@ -312,15 +312,15 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [1.0.17](https://github.com/appium/appium/compare/@appium/docutils@1.0.16...@appium/docutils@1.0.17) (2024-06-28)
+## [1.0.17](https://github.com/appium/appium/compare/@testspectra/docutils@1.0.16...@testspectra/docutils@1.0.17) (2024-06-28)
 
-**Note:** Version bump only for package @appium/docutils
-
-
+**Note:** Version bump only for package @testspectra/docutils
 
 
 
-## [1.0.16](https://github.com/appium/appium/compare/@appium/docutils@1.0.15...@appium/docutils@1.0.16) (2024-06-27)
+
+
+## [1.0.16](https://github.com/appium/appium/compare/@testspectra/docutils@1.0.15...@testspectra/docutils@1.0.16) (2024-06-27)
 
 
 ### Bug Fixes
@@ -332,31 +332,31 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [1.0.15](https://github.com/appium/appium/compare/@appium/docutils@1.0.14...@appium/docutils@1.0.15) (2024-06-11)
+## [1.0.15](https://github.com/appium/appium/compare/@testspectra/docutils@1.0.14...@testspectra/docutils@1.0.15) (2024-06-11)
 
-**Note:** Version bump only for package @appium/docutils
-
-
-
-
-
-## [1.0.14](https://github.com/appium/appium/compare/@appium/docutils@1.0.13...@appium/docutils@1.0.14) (2024-06-11)
-
-**Note:** Version bump only for package @appium/docutils
+**Note:** Version bump only for package @testspectra/docutils
 
 
 
 
 
-## [1.0.13](https://github.com/appium/appium/compare/@appium/docutils@1.0.12...@appium/docutils@1.0.13) (2024-06-11)
+## [1.0.14](https://github.com/appium/appium/compare/@testspectra/docutils@1.0.13...@testspectra/docutils@1.0.14) (2024-06-11)
 
-**Note:** Version bump only for package @appium/docutils
-
-
+**Note:** Version bump only for package @testspectra/docutils
 
 
 
-## [1.0.12](https://github.com/appium/appium/compare/@appium/docutils@1.0.11...@appium/docutils@1.0.12) (2024-06-10)
+
+
+## [1.0.13](https://github.com/appium/appium/compare/@testspectra/docutils@1.0.12...@testspectra/docutils@1.0.13) (2024-06-11)
+
+**Note:** Version bump only for package @testspectra/docutils
+
+
+
+
+
+## [1.0.12](https://github.com/appium/appium/compare/@testspectra/docutils@1.0.11...@testspectra/docutils@1.0.12) (2024-06-10)
 
 
 ### Bug Fixes
@@ -367,23 +367,23 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [1.0.11](https://github.com/appium/appium/compare/@appium/docutils@1.0.10...@appium/docutils@1.0.11) (2024-06-06)
+## [1.0.11](https://github.com/appium/appium/compare/@testspectra/docutils@1.0.10...@testspectra/docutils@1.0.11) (2024-06-06)
 
-**Note:** Version bump only for package @appium/docutils
-
-
-
-
-
-## [1.0.10](https://github.com/appium/appium/compare/@appium/docutils@1.0.9...@appium/docutils@1.0.10) (2024-06-06)
-
-**Note:** Version bump only for package @appium/docutils
+**Note:** Version bump only for package @testspectra/docutils
 
 
 
 
 
-## [1.0.9](https://github.com/appium/appium/compare/@appium/docutils@1.0.8...@appium/docutils@1.0.9) (2024-06-06)
+## [1.0.10](https://github.com/appium/appium/compare/@testspectra/docutils@1.0.9...@testspectra/docutils@1.0.10) (2024-06-06)
+
+**Note:** Version bump only for package @testspectra/docutils
+
+
+
+
+
+## [1.0.9](https://github.com/appium/appium/compare/@testspectra/docutils@1.0.8...@testspectra/docutils@1.0.9) (2024-06-06)
 
 
 ### Bug Fixes
@@ -395,7 +395,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [1.0.8](https://github.com/appium/appium/compare/@appium/docutils@1.0.7...@appium/docutils@1.0.8) (2024-05-27)
+## [1.0.8](https://github.com/appium/appium/compare/@testspectra/docutils@1.0.7...@testspectra/docutils@1.0.8) (2024-05-27)
 
 
 ### Bug Fixes
@@ -409,15 +409,15 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [1.0.7](https://github.com/appium/appium/compare/@appium/docutils@1.0.6...@appium/docutils@1.0.7) (2024-04-21)
+## [1.0.7](https://github.com/appium/appium/compare/@testspectra/docutils@1.0.6...@testspectra/docutils@1.0.7) (2024-04-21)
 
-**Note:** Version bump only for package @appium/docutils
-
-
+**Note:** Version bump only for package @testspectra/docutils
 
 
 
-## [1.0.6](https://github.com/appium/appium/compare/@appium/docutils@1.0.5...@appium/docutils@1.0.6) (2024-04-16)
+
+
+## [1.0.6](https://github.com/appium/appium/compare/@testspectra/docutils@1.0.5...@testspectra/docutils@1.0.6) (2024-04-16)
 
 
 ### Bug Fixes
@@ -426,7 +426,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [1.0.5](https://github.com/appium/appium/compare/@appium/docutils@1.0.4...@appium/docutils@1.0.5) (2024-04-08)
+## [1.0.5](https://github.com/appium/appium/compare/@testspectra/docutils@1.0.4...@testspectra/docutils@1.0.5) (2024-04-08)
 
 
 ### Bug Fixes
@@ -441,7 +441,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [1.0.4](https://github.com/appium/appium/compare/@appium/docutils@1.0.3...@appium/docutils@1.0.4) (2024-02-13)
+## [1.0.4](https://github.com/appium/appium/compare/@testspectra/docutils@1.0.3...@testspectra/docutils@1.0.4) (2024-02-13)
 
 
 ### Bug Fixes
@@ -451,7 +451,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [1.0.3](https://github.com/appium/appium/compare/@appium/docutils@1.0.2...@appium/docutils@1.0.3) (2024-02-06)
+## [1.0.3](https://github.com/appium/appium/compare/@testspectra/docutils@1.0.2...@testspectra/docutils@1.0.3) (2024-02-06)
 
 
 ### Bug Fixes
@@ -462,7 +462,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [1.0.2](https://github.com/appium/appium/compare/@appium/docutils@1.0.1...@appium/docutils@1.0.2) (2024-01-03)
+## [1.0.2](https://github.com/appium/appium/compare/@testspectra/docutils@1.0.1...@testspectra/docutils@1.0.2) (2024-01-03)
 
 
 ### Bug Fixes
@@ -472,7 +472,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [1.0.1](https://github.com/appium/appium/compare/@appium/docutils@0.4.13...@appium/docutils@1.0.1) (2023-12-18)
+## [1.0.1](https://github.com/appium/appium/compare/@testspectra/docutils@0.4.13...@testspectra/docutils@1.0.1) (2023-12-18)
 
 This includes all changes from 1.0.0.
 
@@ -482,7 +482,7 @@ This includes all changes from 1.0.0.
 
 ### ⚠ BREAKING CHANGES
 
-* `@appium/typedoc-plugin-appium` integration and all other uses of `typedoc` have been removed
+* `@testspectra/typedoc-plugin-appium` integration and all other uses of `typedoc` have been removed
 * `--prefix` option has been renamed to `--deploy-prefix`
 * `--rebase` flag has been removed
 
@@ -492,7 +492,7 @@ This includes all changes from 1.0.0.
 * **docutils:** add `--alias-type` option ([#19485](https://github.com/appium/appium/issues/19485)) ([0003304](https://github.com/appium/appium/commit/00033044e08f932b5daf1234cfb381c6f46c8bb8))
 
 ### Bug Fixes
-* **docutils:** remove `@appium/typedoc-plugin-appium` and all other uses of `typedoc` ([#19465](https://github.com/appium/appium/issues/19465)) ([7528fcf](https://github.com/appium/appium/commit/7528fcf890f79f4017f5e718bb1952bf907ee479))
+* **docutils:** remove `@testspectra/typedoc-plugin-appium` and all other uses of `typedoc` ([#19465](https://github.com/appium/appium/issues/19465)) ([7528fcf](https://github.com/appium/appium/commit/7528fcf890f79f4017f5e718bb1952bf907ee479))
 * **docutils:** update dependency mike to v2.0.0 ([#19485](https://github.com/appium/appium/issues/19485)) ([0003304](https://github.com/appium/appium/commit/00033044e08f932b5daf1234cfb381c6f46c8bb8))
 * **docutils:** update dependency typescript to v5.2.2 ([#19472](https://github.com/appium/appium/issues/19472)) ([cb950df](https://github.com/appium/appium/commit/cb950dffb82e114341d2e0e0faa5ce6d551ec267))
 * **support:** update dependency teen_process to v2.0.109 ([85dce4a](https://github.com/appium/appium/commit/85dce4a72b21e017b4661ddf997c096817e5fd7f))
@@ -504,7 +504,7 @@ This includes all changes from 1.0.0.
 
 
 
-## [0.4.13](https://github.com/appium/appium/compare/@appium/docutils@0.4.12...@appium/docutils@0.4.13) (2023-12-04)
+## [0.4.13](https://github.com/appium/appium/compare/@testspectra/docutils@0.4.12...@testspectra/docutils@0.4.13) (2023-12-04)
 
 
 ### Bug Fixes
@@ -518,7 +518,7 @@ This includes all changes from 1.0.0.
 
 
 
-## [0.4.12](https://github.com/appium/appium/compare/@appium/docutils@0.4.11...@appium/docutils@0.4.12) (2023-11-14)
+## [0.4.12](https://github.com/appium/appium/compare/@testspectra/docutils@0.4.11...@testspectra/docutils@0.4.12) (2023-11-14)
 
 
 ### Bug Fixes
@@ -537,7 +537,7 @@ This includes all changes from 1.0.0.
 
 
 
-## [0.4.11](https://github.com/appium/appium/compare/@appium/docutils@0.4.10...@appium/docutils@0.4.11) (2023-10-19)
+## [0.4.11](https://github.com/appium/appium/compare/@testspectra/docutils@0.4.10...@testspectra/docutils@0.4.11) (2023-10-19)
 
 
 ### Bug Fixes
@@ -546,7 +546,7 @@ This includes all changes from 1.0.0.
 
 
 
-## [0.4.10](https://github.com/appium/appium/compare/@appium/docutils@0.4.9...@appium/docutils@0.4.10) (2023-10-18)
+## [0.4.10](https://github.com/appium/appium/compare/@testspectra/docutils@0.4.9...@testspectra/docutils@0.4.10) (2023-10-18)
 
 
 ### Bug Fixes
@@ -575,31 +575,31 @@ This includes all changes from 1.0.0.
 
 
 
-## [0.4.9](https://github.com/appium/appium/compare/@appium/docutils@0.4.8...@appium/docutils@0.4.9) (2023-08-23)
+## [0.4.9](https://github.com/appium/appium/compare/@testspectra/docutils@0.4.8...@testspectra/docutils@0.4.9) (2023-08-23)
 
-**Note:** Version bump only for package @appium/docutils
-
-
-
-
-
-## [0.4.8](https://github.com/appium/appium/compare/@appium/docutils@0.4.7...@appium/docutils@0.4.8) (2023-08-22)
-
-**Note:** Version bump only for package @appium/docutils
+**Note:** Version bump only for package @testspectra/docutils
 
 
 
 
 
-## [0.4.7](https://github.com/appium/appium/compare/@appium/docutils@0.4.6...@appium/docutils@0.4.7) (2023-08-21)
+## [0.4.8](https://github.com/appium/appium/compare/@testspectra/docutils@0.4.7...@testspectra/docutils@0.4.8) (2023-08-22)
 
-**Note:** Version bump only for package @appium/docutils
-
-
+**Note:** Version bump only for package @testspectra/docutils
 
 
 
-## [0.4.6](https://github.com/appium/appium/compare/@appium/docutils@0.4.5...@appium/docutils@0.4.6) (2023-08-17)
+
+
+## [0.4.7](https://github.com/appium/appium/compare/@testspectra/docutils@0.4.6...@testspectra/docutils@0.4.7) (2023-08-21)
+
+**Note:** Version bump only for package @testspectra/docutils
+
+
+
+
+
+## [0.4.6](https://github.com/appium/appium/compare/@testspectra/docutils@0.4.5...@testspectra/docutils@0.4.6) (2023-08-17)
 
 
 ### Bug Fixes
@@ -609,7 +609,7 @@ This includes all changes from 1.0.0.
 
 
 
-## [0.4.5](https://github.com/appium/appium/compare/@appium/docutils@0.4.4...@appium/docutils@0.4.5) (2023-07-24)
+## [0.4.5](https://github.com/appium/appium/compare/@testspectra/docutils@0.4.4...@testspectra/docutils@0.4.5) (2023-07-24)
 
 
 ### Bug Fixes
@@ -618,7 +618,7 @@ This includes all changes from 1.0.0.
 
 
 
-## [0.4.4](https://github.com/appium/appium/compare/@appium/docutils@0.4.3...@appium/docutils@0.4.4) (2023-07-03)
+## [0.4.4](https://github.com/appium/appium/compare/@testspectra/docutils@0.4.3...@testspectra/docutils@0.4.4) (2023-07-03)
 
 
 ### Bug Fixes
@@ -627,7 +627,7 @@ This includes all changes from 1.0.0.
 
 
 
-## [0.4.3](https://github.com/appium/appium/compare/@appium/docutils@0.4.2...@appium/docutils@0.4.3) (2023-06-29)
+## [0.4.3](https://github.com/appium/appium/compare/@testspectra/docutils@0.4.2...@testspectra/docutils@0.4.3) (2023-06-29)
 
 
 ### Bug Fixes
@@ -636,7 +636,7 @@ This includes all changes from 1.0.0.
 
 
 
-## [0.4.2](https://github.com/appium/appium/compare/@appium/docutils@0.4.1...@appium/docutils@0.4.2) (2023-06-15)
+## [0.4.2](https://github.com/appium/appium/compare/@testspectra/docutils@0.4.1...@testspectra/docutils@0.4.2) (2023-06-15)
 
 
 ### Bug Fixes
@@ -645,7 +645,7 @@ This includes all changes from 1.0.0.
 
 
 
-## [0.4.1](https://github.com/appium/appium/compare/@appium/docutils@0.4.0...@appium/docutils@0.4.1) (2023-06-14)
+## [0.4.1](https://github.com/appium/appium/compare/@testspectra/docutils@0.4.0...@testspectra/docutils@0.4.1) (2023-06-14)
 
 
 ### Bug Fixes
@@ -654,7 +654,7 @@ This includes all changes from 1.0.0.
 
 
 
-## [0.4.0](https://github.com/appium/appium/compare/@appium/docutils@0.3.13...@appium/docutils@0.4.0) (2023-06-14)
+## [0.4.0](https://github.com/appium/appium/compare/@testspectra/docutils@0.3.13...@testspectra/docutils@0.4.0) (2023-06-14)
 
 
 ### Features
@@ -673,7 +673,7 @@ This includes all changes from 1.0.0.
 
 
 
-## [0.3.13](https://github.com/appium/appium/compare/@appium/docutils@0.3.12...@appium/docutils@0.3.13) (2023-05-19)
+## [0.3.13](https://github.com/appium/appium/compare/@testspectra/docutils@0.3.12...@testspectra/docutils@0.3.13) (2023-05-19)
 
 
 ### Bug Fixes
@@ -682,7 +682,7 @@ This includes all changes from 1.0.0.
 
 
 
-## [0.3.12](https://github.com/appium/appium/compare/@appium/docutils@0.3.11...@appium/docutils@0.3.12) (2023-05-19)
+## [0.3.12](https://github.com/appium/appium/compare/@testspectra/docutils@0.3.11...@testspectra/docutils@0.3.12) (2023-05-19)
 
 
 ### Bug Fixes
@@ -695,15 +695,15 @@ This includes all changes from 1.0.0.
 
 
 
-## [0.3.11](https://github.com/appium/appium/compare/@appium/docutils@0.3.10...@appium/docutils@0.3.11) (2023-05-19)
+## [0.3.11](https://github.com/appium/appium/compare/@testspectra/docutils@0.3.10...@testspectra/docutils@0.3.11) (2023-05-19)
 
-**Note:** Version bump only for package @appium/docutils
-
-
+**Note:** Version bump only for package @testspectra/docutils
 
 
 
-## [0.3.10](https://github.com/appium/appium/compare/@appium/docutils@0.3.9...@appium/docutils@0.3.10) (2023-05-17)
+
+
+## [0.3.10](https://github.com/appium/appium/compare/@testspectra/docutils@0.3.9...@testspectra/docutils@0.3.10) (2023-05-17)
 
 
 ### Bug Fixes
@@ -717,7 +717,7 @@ This includes all changes from 1.0.0.
 
 
 
-## [0.3.9](https://github.com/appium/appium/compare/@appium/docutils@0.3.8...@appium/docutils@0.3.9) (2023-04-20)
+## [0.3.9](https://github.com/appium/appium/compare/@testspectra/docutils@0.3.8...@testspectra/docutils@0.3.9) (2023-04-20)
 
 
 ### Bug Fixes
@@ -726,15 +726,15 @@ This includes all changes from 1.0.0.
 
 
 
-## [0.3.8](https://github.com/appium/appium/compare/@appium/docutils@0.3.7...@appium/docutils@0.3.8) (2023-04-18)
+## [0.3.8](https://github.com/appium/appium/compare/@testspectra/docutils@0.3.7...@testspectra/docutils@0.3.8) (2023-04-18)
 
-**Note:** Version bump only for package @appium/docutils
-
-
+**Note:** Version bump only for package @testspectra/docutils
 
 
 
-## [0.3.7](https://github.com/appium/appium/compare/@appium/docutils@0.3.6...@appium/docutils@0.3.7) (2023-04-14)
+
+
+## [0.3.7](https://github.com/appium/appium/compare/@testspectra/docutils@0.3.6...@testspectra/docutils@0.3.7) (2023-04-14)
 
 
 ### Bug Fixes
@@ -743,15 +743,15 @@ This includes all changes from 1.0.0.
 
 
 
-## [0.3.6](https://github.com/appium/appium/compare/@appium/docutils@0.3.5...@appium/docutils@0.3.6) (2023-04-12)
+## [0.3.6](https://github.com/appium/appium/compare/@testspectra/docutils@0.3.5...@testspectra/docutils@0.3.6) (2023-04-12)
 
-**Note:** Version bump only for package @appium/docutils
-
-
+**Note:** Version bump only for package @testspectra/docutils
 
 
 
-## [0.3.5](https://github.com/appium/appium/compare/@appium/docutils@0.3.4...@appium/docutils@0.3.5) (2023-04-10)
+
+
+## [0.3.5](https://github.com/appium/appium/compare/@testspectra/docutils@0.3.4...@testspectra/docutils@0.3.5) (2023-04-10)
 
 
 ### Bug Fixes
@@ -763,23 +763,23 @@ This includes all changes from 1.0.0.
 
 
 
-## [0.3.4](https://github.com/appium/appium/compare/@appium/docutils@0.3.3...@appium/docutils@0.3.4) (2023-04-05)
+## [0.3.4](https://github.com/appium/appium/compare/@testspectra/docutils@0.3.3...@testspectra/docutils@0.3.4) (2023-04-05)
 
-**Note:** Version bump only for package @appium/docutils
-
-
-
-
-
-## [0.3.3](https://github.com/appium/appium/compare/@appium/docutils@0.3.2...@appium/docutils@0.3.3) (2023-04-04)
-
-**Note:** Version bump only for package @appium/docutils
+**Note:** Version bump only for package @testspectra/docutils
 
 
 
 
 
-## [0.3.2](https://github.com/appium/appium/compare/@appium/docutils@0.3.1...@appium/docutils@0.3.2) (2023-04-03)
+## [0.3.3](https://github.com/appium/appium/compare/@testspectra/docutils@0.3.2...@testspectra/docutils@0.3.3) (2023-04-04)
+
+**Note:** Version bump only for package @testspectra/docutils
+
+
+
+
+
+## [0.3.2](https://github.com/appium/appium/compare/@testspectra/docutils@0.3.1...@testspectra/docutils@0.3.2) (2023-04-03)
 
 
 ### Bug Fixes
@@ -790,7 +790,7 @@ This includes all changes from 1.0.0.
 
 
 
-## [0.3.1](https://github.com/appium/appium/compare/@appium/docutils@0.3.0...@appium/docutils@0.3.1) (2023-03-28)
+## [0.3.1](https://github.com/appium/appium/compare/@testspectra/docutils@0.3.0...@testspectra/docutils@0.3.1) (2023-03-28)
 
 
 ### Bug Fixes
@@ -806,7 +806,7 @@ This includes all changes from 1.0.0.
 
 
 
-# [0.3.0](https://github.com/appium/appium/compare/@appium/docutils@0.2.2...@appium/docutils@0.3.0) (2023-03-08)
+# [0.3.0](https://github.com/appium/appium/compare/@testspectra/docutils@0.2.2...@testspectra/docutils@0.3.0) (2023-03-08)
 
 
 ### Bug Fixes
@@ -827,7 +827,7 @@ This includes all changes from 1.0.0.
 
 
 
-## [0.2.2](https://github.com/appium/appium/compare/@appium/docutils@0.2.1...@appium/docutils@0.2.2) (2023-02-24)
+## [0.2.2](https://github.com/appium/appium/compare/@testspectra/docutils@0.2.1...@testspectra/docutils@0.2.2) (2023-02-24)
 
 
 ### Bug Fixes
@@ -843,7 +843,7 @@ This includes all changes from 1.0.0.
 
 
 
-## [0.2.1](https://github.com/appium/appium/compare/@appium/docutils@0.2.0...@appium/docutils@0.2.1) (2023-02-09)
+## [0.2.1](https://github.com/appium/appium/compare/@testspectra/docutils@0.2.0...@testspectra/docutils@0.2.1) (2023-02-09)
 
 
 ### Bug Fixes
@@ -855,7 +855,7 @@ This includes all changes from 1.0.0.
 
 
 
-# [0.2.0](https://github.com/appium/appium/compare/@appium/docutils@0.1.6...@appium/docutils@0.2.0) (2023-02-09)
+# [0.2.0](https://github.com/appium/appium/compare/@testspectra/docutils@0.1.6...@testspectra/docutils@0.2.0) (2023-02-09)
 
 
 ### Bug Fixes
@@ -890,53 +890,53 @@ This includes all changes from 1.0.0.
 
 
 
-## [0.1.6](https://github.com/appium/appium/compare/@appium/docutils@0.1.5...@appium/docutils@0.1.6) (2023-01-23)
+## [0.1.6](https://github.com/appium/appium/compare/@testspectra/docutils@0.1.5...@testspectra/docutils@0.1.6) (2023-01-23)
 
-**Note:** Version bump only for package @appium/docutils
-
-
-
-
-
-## [0.1.5](https://github.com/appium/appium/compare/@appium/docutils@0.1.4...@appium/docutils@0.1.5) (2023-01-13)
-
-**Note:** Version bump only for package @appium/docutils
+**Note:** Version bump only for package @testspectra/docutils
 
 
 
 
 
-## [0.1.4](https://github.com/appium/appium/compare/@appium/docutils@0.1.3...@appium/docutils@0.1.4) (2023-01-13)
+## [0.1.5](https://github.com/appium/appium/compare/@testspectra/docutils@0.1.4...@testspectra/docutils@0.1.5) (2023-01-13)
 
-**Note:** Version bump only for package @appium/docutils
-
-
-
-
-
-## [0.1.3](https://github.com/appium/appium/compare/@appium/docutils@0.1.2...@appium/docutils@0.1.3) (2023-01-13)
-
-**Note:** Version bump only for package @appium/docutils
+**Note:** Version bump only for package @testspectra/docutils
 
 
 
 
 
-## [0.1.2](https://github.com/appium/appium/compare/@appium/docutils@0.1.1...@appium/docutils@0.1.2) (2023-01-13)
+## [0.1.4](https://github.com/appium/appium/compare/@testspectra/docutils@0.1.3...@testspectra/docutils@0.1.4) (2023-01-13)
 
-**Note:** Version bump only for package @appium/docutils
-
-
+**Note:** Version bump only for package @testspectra/docutils
 
 
 
-## [0.1.1](https://github.com/appium/appium/compare/@appium/docutils@0.1.0...@appium/docutils@0.1.1) (2022-12-21)
+
+
+## [0.1.3](https://github.com/appium/appium/compare/@testspectra/docutils@0.1.2...@testspectra/docutils@0.1.3) (2023-01-13)
+
+**Note:** Version bump only for package @testspectra/docutils
+
+
+
+
+
+## [0.1.2](https://github.com/appium/appium/compare/@testspectra/docutils@0.1.1...@testspectra/docutils@0.1.2) (2023-01-13)
+
+**Note:** Version bump only for package @testspectra/docutils
+
+
+
+
+
+## [0.1.1](https://github.com/appium/appium/compare/@testspectra/docutils@0.1.0...@testspectra/docutils@0.1.1) (2022-12-21)
 
 ### Bug Fixes
 
 - **docutils:** package should publish the base mkdocs yml ([#17968](https://github.com/appium/appium/issues/17968)) ([aab4156](https://github.com/appium/appium/commit/aab415685ec5d5578cc8faae563f5cc5c0e4bb75))
 
-# [0.1.0](https://github.com/appium/appium/compare/@appium/docutils@0.0.13...@appium/docutils@0.1.0) (2022-12-14)
+# [0.1.0](https://github.com/appium/appium/compare/@testspectra/docutils@0.0.13...@testspectra/docutils@0.1.0) (2022-12-14)
 
 - chore!: set engines to minimum Node.js v14.17.0 ([a1dbe6c](https://github.com/appium/appium/commit/a1dbe6c43efe76604943a607d402f4c8b864d652))
 
@@ -948,58 +948,58 @@ This includes all changes from 1.0.0.
 
 - Appium now supports version range `^14.17.0 || ^16.13.0 || >=18.0.0`
 
-## [0.0.13](https://github.com/appium/appium/compare/@appium/docutils@0.0.12...@appium/docutils@0.0.13) (2022-10-14)
+## [0.0.13](https://github.com/appium/appium/compare/@testspectra/docutils@0.0.12...@testspectra/docutils@0.0.13) (2022-10-14)
 
-**Note:** Version bump only for package @appium/docutils
+**Note:** Version bump only for package @testspectra/docutils
 
-## [0.0.12](https://github.com/appium/appium/compare/@appium/docutils@0.0.11...@appium/docutils@0.0.12) (2022-10-13)
+## [0.0.12](https://github.com/appium/appium/compare/@testspectra/docutils@0.0.11...@testspectra/docutils@0.0.12) (2022-10-13)
 
-**Note:** Version bump only for package @appium/docutils
+**Note:** Version bump only for package @testspectra/docutils
 
-## [0.0.11](https://github.com/appium/appium/compare/@appium/docutils@0.0.10...@appium/docutils@0.0.11) (2022-09-07)
+## [0.0.11](https://github.com/appium/appium/compare/@testspectra/docutils@0.0.10...@testspectra/docutils@0.0.11) (2022-09-07)
 
-**Note:** Version bump only for package @appium/docutils
+**Note:** Version bump only for package @testspectra/docutils
 
-## [0.0.10](https://github.com/appium/appium/compare/@appium/docutils@0.0.9...@appium/docutils@0.0.10) (2022-08-10)
+## [0.0.10](https://github.com/appium/appium/compare/@testspectra/docutils@0.0.9...@testspectra/docutils@0.0.10) (2022-08-10)
 
-**Note:** Version bump only for package @appium/docutils
+**Note:** Version bump only for package @testspectra/docutils
 
-## [0.0.9](https://github.com/appium/appium/compare/@appium/docutils@0.0.8...@appium/docutils@0.0.9) (2022-08-03)
+## [0.0.9](https://github.com/appium/appium/compare/@testspectra/docutils@0.0.8...@testspectra/docutils@0.0.9) (2022-08-03)
 
 ### Bug Fixes
 
 - **appium,base-driver,base-plugin,doctor,docutils,eslint-config-appium,execute-driver-plugin,fake-driver,fake-plugin,gulp-plugins,images-plugin,opencv,relaxed-caps-plugin,schema,support,test-support,types,universal-xml-plugin:** update engines ([d8d2382](https://github.com/appium/appium/commit/d8d2382327ba7b7db8a4d1cad987c0e60184c92d))
 
-## [0.0.8](https://github.com/appium/appium/compare/@appium/docutils@0.0.7...@appium/docutils@0.0.8) (2022-07-28)
+## [0.0.8](https://github.com/appium/appium/compare/@testspectra/docutils@0.0.7...@testspectra/docutils@0.0.8) (2022-07-28)
 
-**Note:** Version bump only for package @appium/docutils
+**Note:** Version bump only for package @testspectra/docutils
 
-## [0.0.7](https://github.com/appium/appium/compare/@appium/docutils@0.0.6...@appium/docutils@0.0.7) (2022-06-04)
+## [0.0.7](https://github.com/appium/appium/compare/@testspectra/docutils@0.0.6...@testspectra/docutils@0.0.7) (2022-06-04)
 
-**Note:** Version bump only for package @appium/docutils
+**Note:** Version bump only for package @testspectra/docutils
 
-## [0.0.6](https://github.com/appium/appium/compare/@appium/docutils@0.0.5...@appium/docutils@0.0.6) (2022-05-31)
+## [0.0.6](https://github.com/appium/appium/compare/@testspectra/docutils@0.0.5...@testspectra/docutils@0.0.6) (2022-05-31)
 
-**Note:** Version bump only for package @appium/docutils
+**Note:** Version bump only for package @testspectra/docutils
 
-## [0.0.5](https://github.com/appium/appium/compare/@appium/docutils@0.0.4...@appium/docutils@0.0.5) (2022-05-31)
+## [0.0.5](https://github.com/appium/appium/compare/@testspectra/docutils@0.0.4...@testspectra/docutils@0.0.5) (2022-05-31)
 
 ### Bug Fixes
 
 - **appium:** fix extension autoinstall postinstall script ([3e2c05d](https://github.com/appium/appium/commit/3e2c05d8a290072484afde34fe5fd968618f6359)), closes [#16924](https://github.com/appium/appium/issues/16924)
 
-## [0.0.4](https://github.com/appium/appium/compare/@appium/docutils@0.0.3...@appium/docutils@0.0.4) (2022-05-02)
+## [0.0.4](https://github.com/appium/appium/compare/@testspectra/docutils@0.0.3...@testspectra/docutils@0.0.4) (2022-05-02)
 
-**Note:** Version bump only for package @appium/docutils
+**Note:** Version bump only for package @testspectra/docutils
 
-## [0.0.3](https://github.com/appium/appium/compare/@appium/docutils@0.0.2...@appium/docutils@0.0.3) (2022-04-20)
+## [0.0.3](https://github.com/appium/appium/compare/@testspectra/docutils@0.0.2...@testspectra/docutils@0.0.3) (2022-04-20)
 
-**Note:** Version bump only for package @appium/docutils
+**Note:** Version bump only for package @testspectra/docutils
 
-## [0.0.2](https://github.com/appium/appium/compare/@appium/docutils@0.0.1...@appium/docutils@0.0.2) (2022-04-20)
+## [0.0.2](https://github.com/appium/appium/compare/@testspectra/docutils@0.0.1...@testspectra/docutils@0.0.2) (2022-04-20)
 
-**Note:** Version bump only for package @appium/docutils
+**Note:** Version bump only for package @testspectra/docutils
 
 ## 0.0.1 (2022-04-20)
 
-**Note:** Version bump only for package @appium/docutils
+**Note:** Version bump only for package @testspectra/docutils

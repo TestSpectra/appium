@@ -1,4 +1,4 @@
-import type {ActionSequence, Location, Rect, Size, Orientation} from '@appium/types';
+import type {ActionSequence, Location, Rect, Size, Orientation} from '@testspectra/types';
 import {errors} from 'appium/driver';
 import type {FakeDriver} from '../driver';
 

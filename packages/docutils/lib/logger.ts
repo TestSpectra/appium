@@ -1,7 +1,7 @@
 /**
  * It's a logger.
  *
- * Since this is a CLI app only, it doesn't necessarily make sense to consume `@appium/support`'s logger.
+ * Since this is a CLI app only, it doesn't necessarily make sense to consume `@testspectra/support`'s logger.
  *
  * @module
  */

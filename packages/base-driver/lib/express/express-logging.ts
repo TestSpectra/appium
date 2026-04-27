@@ -4,7 +4,7 @@ import morgan from 'morgan';
 import type {Request, RequestHandler, Response} from 'express';
 import {log} from './logger';
 import {MAX_LOG_BODY_LENGTH} from '../constants';
-import {logger} from '@appium/support';
+import {logger} from '@testspectra/support';
 
 /**
  * Morgan middleware that logs when the HTTP response finishes.

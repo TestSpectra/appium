@@ -9,7 +9,7 @@ import {createSandbox, type SinonSandbox} from 'sinon';
 import {TINY_PNG, TiNY_PNG_BUF, TINY_PNG_DIMS} from '../fixtures/index.cjs';
 import sharp from 'sharp';
 import * as compareModule from '../../lib/compare';
-import type {Constraints} from '@appium/types';
+import type {Constraints} from '@testspectra/types';
 import {expect, use} from 'chai';
 import chaiAsPromised from 'chai-as-promised';
 

@@ -33,10 +33,10 @@ To take advantage of Appium's documentation utilities, you'll need to install:
 
 - [Python v3+](https://www.python.org/downloads/)
 - [pip](https://pip.pypa.io/en/stable/installation/) (this may be installed automatically with Python)
-- The `@appium/docutils` package:
+- The `@testspectra/docutils` package:
 
   ```bash
-  npm install --save-dev @appium/docutils
+  npm install --save-dev @testspectra/docutils
   ```
 
 ### Initializing an Extension for Building Docs

@@ -1,7 +1,7 @@
 import B from 'bluebird';
 import _ from 'lodash';
 import path from 'node:path';
-import type {AppiumLogger, ExtensionType, IDoctorCheck} from '@appium/types';
+import type {AppiumLogger, ExtensionType, IDoctorCheck} from '@testspectra/types';
 import type {
   ExtInstallReceipt as AppiumExtInstallReceipt,
   ExtManifest as AppiumExtManifest,
@@ -12,7 +12,7 @@ import type {
 } from 'appium/types';
 import type {PackageJson} from 'type-fest';
 import type {ExtensionConfig as BaseExtensionConfig} from '../extension/extension-config';
-import {npm, util, env, console, fs, system} from '@appium/support';
+import {npm, util, env, console, fs, system} from '@testspectra/support';
 import {spinWith, RingBuffer} from './utils';
 import {
   INSTALL_TYPE_NPM,
@@ -315,7 +315,7 @@ abstract class ExtensionCliCommand<ExtType extends ExtensionType = ExtensionType
         // name or a local path. both of which will be installed via npm.
         // extensions installed via npm can include versions or tags after the '@'
         // sign, so check for that. We also need to be careful that package names themselves can
-        // contain the '@' symbol, as in `npm install @appium/fake-driver@1.2.0`
+        // contain the '@' symbol, as in `npm install @testspectra/fake-driver@1.2.0`
         let name: string;
         const splits = installSpec.split('@');
         if (installSpec.startsWith('@')) {

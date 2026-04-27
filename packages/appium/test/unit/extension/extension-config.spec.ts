@@ -324,7 +324,7 @@ describe('ExtensionConfig', function () {
       describe('when the extension does not export its main class', function () {
         beforeEach(function () {
           // since we can't easily mock `require.resolve()` and `require()`, we need to use a real thing.
-          // that real thing will be `@appium/fake-driver`.
+          // that real thing will be `@testspectra/fake-driver`.
           // ()`config.appiumHome` is stubbed already, so we can't just run `getInstallPath` as-is)
           sandbox.stub(config, 'getInstallPath').returns(FAKE_DRIVER_DIR);
         });
@@ -352,7 +352,7 @@ describe('ExtensionConfig', function () {
 
         it('should return the class by loading from the manifest main entry point', async function () {
           expect(await config.requireAsync('relaxed-caps')).to.equal(
-            require('@appium/relaxed-caps-plugin').RelaxedCapsPlugin
+            require('@testspectra/relaxed-caps-plugin').RelaxedCapsPlugin
           );
         });
       });

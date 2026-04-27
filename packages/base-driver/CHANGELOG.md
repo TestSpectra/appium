@@ -3,7 +3,7 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-## [10.4.0](https://github.com/appium/appium/compare/@appium/base-driver@10.3.0...@appium/base-driver@10.4.0) (2026-04-23)
+## [10.4.0](https://github.com/appium/appium/compare/@testspectra/base-driver@10.3.0...@testspectra/base-driver@10.4.0) (2026-04-23)
 
 
 ### Features
@@ -18,7 +18,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [10.3.0](https://github.com/appium/appium/compare/@appium/base-driver@10.2.2...@appium/base-driver@10.3.0) (2026-04-09)
+## [10.3.0](https://github.com/appium/appium/compare/@testspectra/base-driver@10.2.2...@testspectra/base-driver@10.3.0) (2026-04-09)
 
 
 ### Features
@@ -27,15 +27,15 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [10.2.2](https://github.com/appium/appium/compare/@appium/base-driver@10.2.1...@appium/base-driver@10.2.2) (2026-03-09)
+## [10.2.2](https://github.com/appium/appium/compare/@testspectra/base-driver@10.2.1...@testspectra/base-driver@10.2.2) (2026-03-09)
 
-**Note:** Version bump only for package @appium/base-driver
-
-
+**Note:** Version bump only for package @testspectra/base-driver
 
 
 
-## [10.2.1](https://github.com/appium/appium/compare/@appium/base-driver@10.2.0...@appium/base-driver@10.2.1) (2026-03-08)
+
+
+## [10.2.1](https://github.com/appium/appium/compare/@testspectra/base-driver@10.2.0...@testspectra/base-driver@10.2.1) (2026-03-08)
 
 
 ### Bug Fixes
@@ -46,7 +46,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [10.2.0](https://github.com/appium/appium/compare/@appium/base-driver@10.1.2...@appium/base-driver@10.2.0) (2026-01-26)
+## [10.2.0](https://github.com/appium/appium/compare/@testspectra/base-driver@10.1.2...@testspectra/base-driver@10.2.0) (2026-01-26)
 
 
 ### Features
@@ -60,15 +60,15 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [10.1.2](https://github.com/appium/appium/compare/@appium/base-driver@10.1.1...@appium/base-driver@10.1.2) (2025-12-04)
+## [10.1.2](https://github.com/appium/appium/compare/@testspectra/base-driver@10.1.1...@testspectra/base-driver@10.1.2) (2025-12-04)
 
-**Note:** Version bump only for package @appium/base-driver
-
-
+**Note:** Version bump only for package @testspectra/base-driver
 
 
 
-## [10.1.1](https://github.com/appium/appium/compare/@appium/base-driver@10.1.0...@appium/base-driver@10.1.1) (2025-11-12)
+
+
+## [10.1.1](https://github.com/appium/appium/compare/@testspectra/base-driver@10.1.0...@testspectra/base-driver@10.1.1) (2025-11-12)
 
 
 ### Bug Fixes
@@ -77,7 +77,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [10.1.0](https://github.com/appium/appium/compare/@appium/base-driver@10.0.1...@appium/base-driver@10.1.0) (2025-10-08)
+## [10.1.0](https://github.com/appium/appium/compare/@testspectra/base-driver@10.0.1...@testspectra/base-driver@10.1.0) (2025-10-08)
 
 
 ### Features
@@ -92,7 +92,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [10.0.1](https://github.com/appium/appium/compare/@appium/base-driver@10.0.0...@appium/base-driver@10.0.1) (2025-09-09)
+## [10.0.1](https://github.com/appium/appium/compare/@testspectra/base-driver@10.0.0...@testspectra/base-driver@10.0.1) (2025-09-09)
 
 
 ### Bug Fixes
@@ -101,15 +101,15 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [10.0.0](https://github.com/appium/appium/compare/@appium/base-driver@10.0.0-rc.2...@appium/base-driver@10.0.0) (2025-08-18)
+## [10.0.0](https://github.com/appium/appium/compare/@testspectra/base-driver@10.0.0-rc.2...@testspectra/base-driver@10.0.0) (2025-08-18)
 
-**Note:** Version bump only for package @appium/base-driver
-
-
+**Note:** Version bump only for package @testspectra/base-driver
 
 
 
-## [10.0.0-rc.2](https://github.com/appium/appium/compare/@appium/base-driver@9.16.2...@appium/base-driver@10.0.0-rc.2) (2025-08-14)
+
+
+## [10.0.0-rc.2](https://github.com/appium/appium/compare/@testspectra/base-driver@9.16.2...@testspectra/base-driver@10.0.0-rc.2) (2025-08-14)
 
 
 ### ⚠ BREAKING CHANGES
@@ -145,7 +145,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [9.18.0](https://github.com/appium/appium/compare/@appium/base-driver@9.17.0...@appium/base-driver@9.18.0) (2025-06-01)
+## [9.18.0](https://github.com/appium/appium/compare/@testspectra/base-driver@9.17.0...@testspectra/base-driver@9.18.0) (2025-06-01)
 
 
 ### Features
@@ -154,7 +154,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [9.17.0](https://github.com/appium/appium/compare/@appium/base-driver@9.16.4...@appium/base-driver@9.17.0) (2025-04-25)
+## [9.17.0](https://github.com/appium/appium/compare/@testspectra/base-driver@9.16.4...@testspectra/base-driver@9.17.0) (2025-04-25)
 
 
 ### Features
@@ -164,7 +164,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [9.16.4](https://github.com/appium/appium/compare/@appium/base-driver@9.16.3...@appium/base-driver@9.16.4) (2025-03-17)
+## [9.16.4](https://github.com/appium/appium/compare/@testspectra/base-driver@9.16.3...@testspectra/base-driver@9.16.4) (2025-03-17)
 
 
 ### Bug Fixes
@@ -173,7 +173,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [9.16.3](https://github.com/appium/appium/compare/@appium/base-driver@9.16.2...@appium/base-driver@9.16.3) (2025-03-11)
+## [9.16.3](https://github.com/appium/appium/compare/@testspectra/base-driver@9.16.2...@testspectra/base-driver@9.16.3) (2025-03-11)
 
 
 ### Bug Fixes
@@ -184,7 +184,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [9.16.2](https://github.com/appium/appium/compare/@appium/base-driver@9.16.1...@appium/base-driver@9.16.2) (2025-02-20)
+## [9.16.2](https://github.com/appium/appium/compare/@testspectra/base-driver@9.16.1...@testspectra/base-driver@9.16.2) (2025-02-20)
 
 
 ### Bug Fixes
@@ -193,7 +193,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [9.16.1](https://github.com/appium/appium/compare/@appium/base-driver@9.16.0...@appium/base-driver@9.16.1) (2025-02-20)
+## [9.16.1](https://github.com/appium/appium/compare/@testspectra/base-driver@9.16.0...@testspectra/base-driver@9.16.1) (2025-02-20)
 
 
 ### Bug Fixes
@@ -202,7 +202,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [9.16.0](https://github.com/appium/appium/compare/@appium/base-driver@9.15.0...@appium/base-driver@9.16.0) (2025-02-19)
+## [9.16.0](https://github.com/appium/appium/compare/@testspectra/base-driver@9.15.0...@testspectra/base-driver@9.16.0) (2025-02-19)
 
 
 ### Features
@@ -225,7 +225,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [9.15.0](https://github.com/appium/appium/compare/@appium/base-driver@9.14.1...@appium/base-driver@9.15.0) (2025-01-08)
+## [9.15.0](https://github.com/appium/appium/compare/@testspectra/base-driver@9.14.1...@testspectra/base-driver@9.15.0) (2025-01-08)
 
 
 ### Features
@@ -234,7 +234,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [9.14.1](https://github.com/appium/appium/compare/@appium/base-driver@9.14.0...@appium/base-driver@9.14.1) (2025-01-06)
+## [9.14.1](https://github.com/appium/appium/compare/@testspectra/base-driver@9.14.0...@testspectra/base-driver@9.14.1) (2025-01-06)
 
 
 ### Bug Fixes
@@ -243,7 +243,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [9.14.0](https://github.com/appium/appium/compare/@appium/base-driver@9.13.1...@appium/base-driver@9.14.0) (2025-01-02)
+## [9.14.0](https://github.com/appium/appium/compare/@testspectra/base-driver@9.13.1...@testspectra/base-driver@9.14.0) (2025-01-02)
 
 
 ### Features
@@ -263,7 +263,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [9.13.1](https://github.com/appium/appium/compare/@appium/base-driver@9.13.0...@appium/base-driver@9.13.1) (2024-12-05)
+## [9.13.1](https://github.com/appium/appium/compare/@testspectra/base-driver@9.13.0...@testspectra/base-driver@9.13.1) (2024-12-05)
 
 
 ### Bug Fixes
@@ -275,7 +275,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [9.13.0](https://github.com/appium/appium/compare/@appium/base-driver@9.12.2...@appium/base-driver@9.13.0) (2024-12-02)
+## [9.13.0](https://github.com/appium/appium/compare/@testspectra/base-driver@9.12.2...@testspectra/base-driver@9.13.0) (2024-12-02)
 
 
 ### Features
@@ -289,7 +289,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [9.12.2](https://github.com/appium/appium/compare/@appium/base-driver@9.12.1...@appium/base-driver@9.12.2) (2024-11-29)
+## [9.12.2](https://github.com/appium/appium/compare/@testspectra/base-driver@9.12.1...@testspectra/base-driver@9.12.2) (2024-11-29)
 
 
 ### Bug Fixes
@@ -302,7 +302,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [9.12.1](https://github.com/appium/appium/compare/@appium/base-driver@9.12.0...@appium/base-driver@9.12.1) (2024-10-24)
+## [9.12.1](https://github.com/appium/appium/compare/@testspectra/base-driver@9.12.0...@testspectra/base-driver@9.12.1) (2024-10-24)
 
 
 ### Bug Fixes
@@ -311,7 +311,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [9.12.0](https://github.com/appium/appium/compare/@appium/base-driver@9.11.5...@appium/base-driver@9.12.0) (2024-10-15)
+## [9.12.0](https://github.com/appium/appium/compare/@testspectra/base-driver@9.11.5...@testspectra/base-driver@9.12.0) (2024-10-15)
 
 
 ### Features
@@ -328,7 +328,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [9.11.5](https://github.com/appium/appium/compare/@appium/base-driver@9.11.4...@appium/base-driver@9.11.5) (2024-09-26)
+## [9.11.5](https://github.com/appium/appium/compare/@testspectra/base-driver@9.11.4...@testspectra/base-driver@9.11.5) (2024-09-26)
 
 
 ### Bug Fixes
@@ -338,7 +338,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [9.11.4](https://github.com/appium/appium/compare/@appium/base-driver@9.11.3...@appium/base-driver@9.11.4) (2024-09-16)
+## [9.11.4](https://github.com/appium/appium/compare/@testspectra/base-driver@9.11.3...@testspectra/base-driver@9.11.4) (2024-09-16)
 
 
 ### Bug Fixes
@@ -359,7 +359,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [9.11.3](https://github.com/appium/appium/compare/@appium/base-driver@9.11.2...@appium/base-driver@9.11.3) (2024-08-07)
+## [9.11.3](https://github.com/appium/appium/compare/@testspectra/base-driver@9.11.2...@testspectra/base-driver@9.11.3) (2024-08-07)
 
 
 ### Bug Fixes
@@ -376,7 +376,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [9.11.2](https://github.com/appium/appium/compare/@appium/base-driver@9.11.1...@appium/base-driver@9.11.2) (2024-07-10)
+## [9.11.2](https://github.com/appium/appium/compare/@testspectra/base-driver@9.11.1...@testspectra/base-driver@9.11.2) (2024-07-10)
 
 
 ### Bug Fixes
@@ -385,7 +385,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [9.11.1](https://github.com/appium/appium/compare/@appium/base-driver@9.11.0...@appium/base-driver@9.11.1) (2024-06-28)
+## [9.11.1](https://github.com/appium/appium/compare/@testspectra/base-driver@9.11.0...@testspectra/base-driver@9.11.1) (2024-06-28)
 
 
 ### Bug Fixes
@@ -395,7 +395,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [9.11.0](https://github.com/appium/appium/compare/@appium/base-driver@9.10.3...@appium/base-driver@9.11.0) (2024-06-27)
+## [9.11.0](https://github.com/appium/appium/compare/@testspectra/base-driver@9.10.3...@testspectra/base-driver@9.11.0) (2024-06-27)
 
 
 ### Features
@@ -411,31 +411,31 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [9.10.3](https://github.com/appium/appium/compare/@appium/base-driver@9.10.2...@appium/base-driver@9.10.3) (2024-06-11)
+## [9.10.3](https://github.com/appium/appium/compare/@testspectra/base-driver@9.10.2...@testspectra/base-driver@9.10.3) (2024-06-11)
 
-**Note:** Version bump only for package @appium/base-driver
-
-
-
-
-
-## [9.10.2](https://github.com/appium/appium/compare/@appium/base-driver@9.10.1...@appium/base-driver@9.10.2) (2024-06-11)
-
-**Note:** Version bump only for package @appium/base-driver
+**Note:** Version bump only for package @testspectra/base-driver
 
 
 
 
 
-## [9.10.1](https://github.com/appium/appium/compare/@appium/base-driver@9.10.0...@appium/base-driver@9.10.1) (2024-06-11)
+## [9.10.2](https://github.com/appium/appium/compare/@testspectra/base-driver@9.10.1...@testspectra/base-driver@9.10.2) (2024-06-11)
 
-**Note:** Version bump only for package @appium/base-driver
-
-
+**Note:** Version bump only for package @testspectra/base-driver
 
 
 
-## [9.10.0](https://github.com/appium/appium/compare/@appium/base-driver@9.9.0...@appium/base-driver@9.10.0) (2024-06-10)
+
+
+## [9.10.1](https://github.com/appium/appium/compare/@testspectra/base-driver@9.10.0...@testspectra/base-driver@9.10.1) (2024-06-11)
+
+**Note:** Version bump only for package @testspectra/base-driver
+
+
+
+
+
+## [9.10.0](https://github.com/appium/appium/compare/@testspectra/base-driver@9.9.0...@testspectra/base-driver@9.10.0) (2024-06-10)
 
 
 ### Features
@@ -450,7 +450,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [9.9.0](https://github.com/appium/appium/compare/@appium/base-driver@9.8.1...@appium/base-driver@9.9.0) (2024-06-06)
+## [9.9.0](https://github.com/appium/appium/compare/@testspectra/base-driver@9.8.1...@testspectra/base-driver@9.9.0) (2024-06-06)
 
 
 ### Features
@@ -464,15 +464,15 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [9.8.1](https://github.com/appium/appium/compare/@appium/base-driver@9.8.0...@appium/base-driver@9.8.1) (2024-06-06)
+## [9.8.1](https://github.com/appium/appium/compare/@testspectra/base-driver@9.8.0...@testspectra/base-driver@9.8.1) (2024-06-06)
 
-**Note:** Version bump only for package @appium/base-driver
-
-
+**Note:** Version bump only for package @testspectra/base-driver
 
 
 
-## [9.8.0](https://github.com/appium/appium/compare/@appium/base-driver@9.7.0...@appium/base-driver@9.8.0) (2024-06-06)
+
+
+## [9.8.0](https://github.com/appium/appium/compare/@testspectra/base-driver@9.7.0...@testspectra/base-driver@9.8.0) (2024-06-06)
 
 
 ### Features
@@ -486,7 +486,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [9.7.0](https://github.com/appium/appium/compare/@appium/base-driver@9.6.0...@appium/base-driver@9.7.0) (2024-05-27)
+## [9.7.0](https://github.com/appium/appium/compare/@testspectra/base-driver@9.6.0...@testspectra/base-driver@9.7.0) (2024-05-27)
 
 
 ### Features
@@ -508,7 +508,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [9.6.0](https://github.com/appium/appium/compare/@appium/base-driver@9.5.4...@appium/base-driver@9.6.0) (2024-04-21)
+## [9.6.0](https://github.com/appium/appium/compare/@testspectra/base-driver@9.5.4...@testspectra/base-driver@9.6.0) (2024-04-21)
 
 
 ### Features
@@ -517,7 +517,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [9.5.4](https://github.com/appium/appium/compare/@appium/base-driver@9.5.3...@appium/base-driver@9.5.4) (2024-04-16)
+## [9.5.4](https://github.com/appium/appium/compare/@testspectra/base-driver@9.5.3...@testspectra/base-driver@9.5.4) (2024-04-16)
 
 
 ### Bug Fixes
@@ -526,7 +526,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [9.5.3](https://github.com/appium/appium/compare/@appium/base-driver@9.5.2...@appium/base-driver@9.5.3) (2024-04-08)
+## [9.5.3](https://github.com/appium/appium/compare/@testspectra/base-driver@9.5.2...@testspectra/base-driver@9.5.3) (2024-04-08)
 
 
 ### Bug Fixes
@@ -541,15 +541,15 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [9.5.2](https://github.com/appium/appium/compare/@appium/base-driver@9.5.1...@appium/base-driver@9.5.2) (2024-02-13)
+## [9.5.2](https://github.com/appium/appium/compare/@testspectra/base-driver@9.5.1...@testspectra/base-driver@9.5.2) (2024-02-13)
 
-**Note:** Version bump only for package @appium/base-driver
-
-
+**Note:** Version bump only for package @testspectra/base-driver
 
 
 
-## [9.5.1](https://github.com/appium/appium/compare/@appium/base-driver@9.5.0...@appium/base-driver@9.5.1) (2024-02-06)
+
+
+## [9.5.1](https://github.com/appium/appium/compare/@testspectra/base-driver@9.5.0...@testspectra/base-driver@9.5.1) (2024-02-06)
 
 
 ### Bug Fixes
@@ -564,7 +564,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [9.5.0](https://github.com/appium/appium/compare/@appium/base-driver@9.4.4...@appium/base-driver@9.5.0) (2024-01-03)
+## [9.5.0](https://github.com/appium/appium/compare/@testspectra/base-driver@9.4.4...@testspectra/base-driver@9.5.0) (2024-01-03)
 
 
 ### Features
@@ -580,19 +580,19 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [9.4.4](https://github.com/appium/appium/compare/@appium/base-driver@9.4.3...@appium/base-driver@9.4.4) (2023-12-18)
+## [9.4.4](https://github.com/appium/appium/compare/@testspectra/base-driver@9.4.3...@testspectra/base-driver@9.4.4) (2023-12-18)
 
 
 ### Bug Fixes
 
-* **docutils:** remove `@appium/typedoc-plugin-appium` and all other uses of `typedoc` ([#19465](https://github.com/appium/appium/issues/19465)) ([7528fcf](https://github.com/appium/appium/commit/7528fcf890f79f4017f5e718bb1952bf907ee479))
+* **docutils:** remove `@testspectra/typedoc-plugin-appium` and all other uses of `typedoc` ([#19465](https://github.com/appium/appium/issues/19465)) ([7528fcf](https://github.com/appium/appium/commit/7528fcf890f79f4017f5e718bb1952bf907ee479))
 * **images-plugin:** update dependency lru-cache to v10 ([#19490](https://github.com/appium/appium/issues/19490)) ([19c30b4](https://github.com/appium/appium/commit/19c30b490b244f52918f72bdeeb957a999fdbcb9))
 * **images-plugin:** update dependency lru-cache to v10 ([#19497](https://github.com/appium/appium/issues/19497)) ([4dd95c0](https://github.com/appium/appium/commit/4dd95c096e4e4685c4f464b8251370ea001a562a))
 * **types:** update dependency type-fest to v4 ([#19104](https://github.com/appium/appium/issues/19104)) ([8bfa1b5](https://github.com/appium/appium/commit/8bfa1b5a4d090b0102dbb914c9b72aea52d96788))
 
 
 
-## [9.4.3](https://github.com/appium/appium/compare/@appium/base-driver@9.4.2...@appium/base-driver@9.4.3) (2023-12-04)
+## [9.4.3](https://github.com/appium/appium/compare/@testspectra/base-driver@9.4.2...@testspectra/base-driver@9.4.3) (2023-12-04)
 
 
 ### Bug Fixes
@@ -602,7 +602,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [9.4.2](https://github.com/appium/appium/compare/@appium/base-driver@9.4.1...@appium/base-driver@9.4.2) (2023-11-14)
+## [9.4.2](https://github.com/appium/appium/compare/@testspectra/base-driver@9.4.1...@testspectra/base-driver@9.4.2) (2023-11-14)
 
 
 ### Bug Fixes
@@ -613,7 +613,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [9.4.1](https://github.com/appium/appium/compare/@appium/base-driver@9.4.0...@appium/base-driver@9.4.1) (2023-10-19)
+## [9.4.1](https://github.com/appium/appium/compare/@testspectra/base-driver@9.4.0...@testspectra/base-driver@9.4.1) (2023-10-19)
 
 
 ### Bug Fixes
@@ -623,7 +623,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [9.4.0](https://github.com/appium/appium/compare/@appium/base-driver@9.3.20...@appium/base-driver@9.4.0) (2023-10-18)
+## [9.4.0](https://github.com/appium/appium/compare/@testspectra/base-driver@9.3.20...@testspectra/base-driver@9.4.0) (2023-10-18)
 
 
 ### Features
@@ -648,7 +648,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [9.3.20](https://github.com/appium/appium/compare/@appium/base-driver@9.3.19...@appium/base-driver@9.3.20) (2023-08-23)
+## [9.3.20](https://github.com/appium/appium/compare/@testspectra/base-driver@9.3.19...@testspectra/base-driver@9.3.20) (2023-08-23)
 
 
 ### Bug Fixes
@@ -658,15 +658,15 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [9.3.19](https://github.com/appium/appium/compare/@appium/base-driver@9.3.18...@appium/base-driver@9.3.19) (2023-08-22)
+## [9.3.19](https://github.com/appium/appium/compare/@testspectra/base-driver@9.3.18...@testspectra/base-driver@9.3.19) (2023-08-22)
 
-**Note:** Version bump only for package @appium/base-driver
-
-
+**Note:** Version bump only for package @testspectra/base-driver
 
 
 
-## [9.3.18](https://github.com/appium/appium/compare/@appium/base-driver@9.3.17...@appium/base-driver@9.3.18) (2023-08-21)
+
+
+## [9.3.18](https://github.com/appium/appium/compare/@testspectra/base-driver@9.3.17...@testspectra/base-driver@9.3.18) (2023-08-21)
 
 
 ### Bug Fixes
@@ -677,7 +677,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [9.3.17](https://github.com/appium/appium/compare/@appium/base-driver@9.3.16...@appium/base-driver@9.3.17) (2023-08-17)
+## [9.3.17](https://github.com/appium/appium/compare/@testspectra/base-driver@9.3.16...@testspectra/base-driver@9.3.17) (2023-08-17)
 
 
 ### Bug Fixes
@@ -690,7 +690,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [9.3.16](https://github.com/appium/appium/compare/@appium/base-driver@9.3.15...@appium/base-driver@9.3.16) (2023-07-24)
+## [9.3.16](https://github.com/appium/appium/compare/@testspectra/base-driver@9.3.15...@testspectra/base-driver@9.3.16) (2023-07-24)
 
 
 ### Bug Fixes
@@ -699,7 +699,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [9.3.15](https://github.com/appium/appium/compare/@appium/base-driver@9.3.14...@appium/base-driver@9.3.15) (2023-07-03)
+## [9.3.15](https://github.com/appium/appium/compare/@testspectra/base-driver@9.3.14...@testspectra/base-driver@9.3.15) (2023-07-03)
 
 
 ### Bug Fixes
@@ -711,15 +711,15 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [9.3.14](https://github.com/appium/appium/compare/@appium/base-driver@9.3.13...@appium/base-driver@9.3.14) (2023-06-29)
+## [9.3.14](https://github.com/appium/appium/compare/@testspectra/base-driver@9.3.13...@testspectra/base-driver@9.3.14) (2023-06-29)
 
-**Note:** Version bump only for package @appium/base-driver
-
-
+**Note:** Version bump only for package @testspectra/base-driver
 
 
 
-## [9.3.13](https://github.com/appium/appium/compare/@appium/base-driver@9.3.12...@appium/base-driver@9.3.13) (2023-06-15)
+
+
+## [9.3.13](https://github.com/appium/appium/compare/@testspectra/base-driver@9.3.12...@testspectra/base-driver@9.3.13) (2023-06-15)
 
 
 ### Bug Fixes
@@ -729,15 +729,15 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [9.3.12](https://github.com/appium/appium/compare/@appium/base-driver@9.3.11...@appium/base-driver@9.3.12) (2023-06-14)
+## [9.3.12](https://github.com/appium/appium/compare/@testspectra/base-driver@9.3.11...@testspectra/base-driver@9.3.12) (2023-06-14)
 
-**Note:** Version bump only for package @appium/base-driver
-
-
+**Note:** Version bump only for package @testspectra/base-driver
 
 
 
-## [9.3.11](https://github.com/appium/appium/compare/@appium/base-driver@9.3.10...@appium/base-driver@9.3.11) (2023-06-14)
+
+
+## [9.3.11](https://github.com/appium/appium/compare/@testspectra/base-driver@9.3.10...@testspectra/base-driver@9.3.11) (2023-06-14)
 
 
 ### Bug Fixes
@@ -748,7 +748,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [9.3.10](https://github.com/appium/appium/compare/@appium/base-driver@9.3.9...@appium/base-driver@9.3.10) (2023-05-19)
+## [9.3.10](https://github.com/appium/appium/compare/@testspectra/base-driver@9.3.9...@testspectra/base-driver@9.3.10) (2023-05-19)
 
 
 ### Bug Fixes
@@ -757,15 +757,15 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [9.3.9](https://github.com/appium/appium/compare/@appium/base-driver@9.3.8...@appium/base-driver@9.3.9) (2023-05-19)
+## [9.3.9](https://github.com/appium/appium/compare/@testspectra/base-driver@9.3.8...@testspectra/base-driver@9.3.9) (2023-05-19)
 
-**Note:** Version bump only for package @appium/base-driver
-
-
+**Note:** Version bump only for package @testspectra/base-driver
 
 
 
-## [9.3.8](https://github.com/appium/appium/compare/@appium/base-driver@9.3.7...@appium/base-driver@9.3.8) (2023-05-17)
+
+
+## [9.3.8](https://github.com/appium/appium/compare/@testspectra/base-driver@9.3.7...@testspectra/base-driver@9.3.8) (2023-05-17)
 
 
 ### Bug Fixes
@@ -778,7 +778,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [9.3.7](https://github.com/appium/appium/compare/@appium/base-driver@9.3.6...@appium/base-driver@9.3.7) (2023-04-14)
+## [9.3.7](https://github.com/appium/appium/compare/@testspectra/base-driver@9.3.6...@testspectra/base-driver@9.3.7) (2023-04-14)
 
 
 ### Bug Fixes
@@ -787,7 +787,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [9.3.6](https://github.com/appium/appium/compare/@appium/base-driver@9.3.5...@appium/base-driver@9.3.6) (2023-04-10)
+## [9.3.6](https://github.com/appium/appium/compare/@testspectra/base-driver@9.3.5...@testspectra/base-driver@9.3.6) (2023-04-10)
 
 
 ### Bug Fixes
@@ -799,7 +799,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [9.3.5](https://github.com/appium/appium/compare/@appium/base-driver@9.3.4...@appium/base-driver@9.3.5) (2023-04-03)
+## [9.3.5](https://github.com/appium/appium/compare/@testspectra/base-driver@9.3.4...@testspectra/base-driver@9.3.5) (2023-04-03)
 
 
 ### Bug Fixes
@@ -810,7 +810,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [9.3.4](https://github.com/appium/appium/compare/@appium/base-driver@9.3.3...@appium/base-driver@9.3.4) (2023-03-28)
+## [9.3.4](https://github.com/appium/appium/compare/@testspectra/base-driver@9.3.3...@testspectra/base-driver@9.3.4) (2023-03-28)
 
 
 ### Bug Fixes
@@ -829,7 +829,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [9.3.3](https://github.com/appium/appium/compare/@appium/base-driver@9.3.2...@appium/base-driver@9.3.3) (2023-03-08)
+## [9.3.3](https://github.com/appium/appium/compare/@testspectra/base-driver@9.3.2...@testspectra/base-driver@9.3.3) (2023-03-08)
 
 
 ### Bug Fixes
@@ -846,7 +846,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [9.3.2](https://github.com/appium/appium/compare/@appium/base-driver@9.3.1...@appium/base-driver@9.3.2) (2023-02-24)
+## [9.3.2](https://github.com/appium/appium/compare/@testspectra/base-driver@9.3.1...@testspectra/base-driver@9.3.2) (2023-02-24)
 
 
 ### Bug Fixes
@@ -868,7 +868,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [9.3.1](https://github.com/appium/appium/compare/@appium/base-driver@9.3.0...@appium/base-driver@9.3.1) (2023-02-09)
+## [9.3.1](https://github.com/appium/appium/compare/@testspectra/base-driver@9.3.0...@testspectra/base-driver@9.3.1) (2023-02-09)
 
 
 ### Bug Fixes
@@ -886,7 +886,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [9.3.0](https://github.com/appium/appium/compare/@appium/base-driver@9.2.3...@appium/base-driver@9.3.0) (2023-01-23)
+# [9.3.0](https://github.com/appium/appium/compare/@testspectra/base-driver@9.2.3...@testspectra/base-driver@9.3.0) (2023-01-23)
 
 
 ### Bug Fixes
@@ -903,37 +903,37 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [9.2.3](https://github.com/appium/appium/compare/@appium/base-driver@9.2.2...@appium/base-driver@9.2.3) (2023-01-13)
+## [9.2.3](https://github.com/appium/appium/compare/@testspectra/base-driver@9.2.2...@testspectra/base-driver@9.2.3) (2023-01-13)
 
-**Note:** Version bump only for package @appium/base-driver
-
-
-
-
-
-## [9.2.2](https://github.com/appium/appium/compare/@appium/base-driver@9.2.1...@appium/base-driver@9.2.2) (2023-01-13)
-
-**Note:** Version bump only for package @appium/base-driver
+**Note:** Version bump only for package @testspectra/base-driver
 
 
 
 
 
-## [9.2.1](https://github.com/appium/appium/compare/@appium/base-driver@9.2.0...@appium/base-driver@9.2.1) (2023-01-13)
+## [9.2.2](https://github.com/appium/appium/compare/@testspectra/base-driver@9.2.1...@testspectra/base-driver@9.2.2) (2023-01-13)
 
-**Note:** Version bump only for package @appium/base-driver
-
-
+**Note:** Version bump only for package @testspectra/base-driver
 
 
 
-# [9.2.0](https://github.com/appium/appium/compare/@appium/base-driver@9.1.0...@appium/base-driver@9.2.0) (2023-01-13)
+
+
+## [9.2.1](https://github.com/appium/appium/compare/@testspectra/base-driver@9.2.0...@testspectra/base-driver@9.2.1) (2023-01-13)
+
+**Note:** Version bump only for package @testspectra/base-driver
+
+
+
+
+
+# [9.2.0](https://github.com/appium/appium/compare/@testspectra/base-driver@9.1.0...@testspectra/base-driver@9.2.0) (2023-01-13)
 
 
 ### Bug Fixes
 
 * **appium:** inability to find automationName inside appium:options ([#17966](https://github.com/appium/appium/issues/17966)) ([23224cf](https://github.com/appium/appium/commit/23224cf002b7dd9e4e5d8426b4bbe1cb28f62605))
-* **base-driver:** add missing dependency @appium/types ([edde488](https://github.com/appium/appium/commit/edde4882f0633c032a077861599c337132092daf)), closes [#18006](https://github.com/appium/appium/issues/18006)
+* **base-driver:** add missing dependency @testspectra/types ([edde488](https://github.com/appium/appium/commit/edde4882f0633c032a077861599c337132092daf)), closes [#18006](https://github.com/appium/appium/issues/18006)
 * **base-driver:** move setClipboard deprecation to correct place ([ad1dce5](https://github.com/appium/appium/commit/ad1dce5545acb61ce79e489783a95f2caebd753c))
 * **support:** update dependency axios to v1.2.2 ([5291ca6](https://github.com/appium/appium/commit/5291ca672b3b47c5270e9fd85de3e4ed76a650e0))
 * **types:** update dependency type-fest to v3.5.0 ([8c8bfe8](https://github.com/appium/appium/commit/8c8bfe824dbe062e24cfe9fc6e1afa2f68cc6e4c))
@@ -949,7 +949,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [9.1.0](https://github.com/appium/appium/compare/@appium/base-driver@9.0.0...@appium/base-driver@9.1.0) (2022-12-21)
+# [9.1.0](https://github.com/appium/appium/compare/@testspectra/base-driver@9.0.0...@testspectra/base-driver@9.1.0) (2022-12-21)
 
 ### Bug Fixes
 
@@ -961,7 +961,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 - **base:** add get computed role and label in W3C v2 ([#17928](https://github.com/appium/appium/issues/17928)) ([316ecca](https://github.com/appium/appium/commit/316ecca8b1f8e52806867a15ba8524a504751460))
 
-# [9.0.0](https://github.com/appium/appium/compare/@appium/base-driver@8.7.3...@appium/base-driver@9.0.0) (2022-12-14)
+# [9.0.0](https://github.com/appium/appium/compare/@testspectra/base-driver@8.7.3...@testspectra/base-driver@9.0.0) (2022-12-14)
 
 ### Bug Fixes
 
@@ -987,34 +987,34 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 - Appium now supports version range `^14.17.0 || ^16.13.0 || >=18.0.0`
 
-## [8.7.3](https://github.com/appium/appium/compare/@appium/base-driver@8.7.2...@appium/base-driver@8.7.3) (2022-10-14)
+## [8.7.3](https://github.com/appium/appium/compare/@testspectra/base-driver@8.7.2...@testspectra/base-driver@8.7.3) (2022-10-14)
 
 ### Bug Fixes
 
 - **basedriver:** ensure "opts" is defined at time of construction ([51d6d69](https://github.com/appium/appium/commit/51d6d69ff13a0cc23d612257926c02892685dcee))
 
-## [8.7.2](https://github.com/appium/appium/compare/@appium/base-driver@8.7.1...@appium/base-driver@8.7.2) (2022-10-13)
+## [8.7.2](https://github.com/appium/appium/compare/@testspectra/base-driver@8.7.1...@testspectra/base-driver@8.7.2) (2022-10-13)
 
-**Note:** Version bump only for package @appium/base-driver
+**Note:** Version bump only for package @testspectra/base-driver
 
-## [8.7.1](https://github.com/appium/appium/compare/@appium/base-driver@8.7.0...@appium/base-driver@8.7.1) (2022-09-07)
+## [8.7.1](https://github.com/appium/appium/compare/@testspectra/base-driver@8.7.0...@testspectra/base-driver@8.7.1) (2022-09-07)
 
-**Note:** Version bump only for package @appium/base-driver
+**Note:** Version bump only for package @testspectra/base-driver
 
-# [8.7.0](https://github.com/appium/appium/compare/@appium/base-driver@8.6.1...@appium/base-driver@8.7.0) (2022-08-10)
+# [8.7.0](https://github.com/appium/appium/compare/@testspectra/base-driver@8.6.1...@testspectra/base-driver@8.7.0) (2022-08-10)
 
 ### Features
 
 - **appium,base-driver,fake-driver,fake-plugin,test-support,types:** updateServer receives cliArgs param ([d4b9833](https://github.com/appium/appium/commit/d4b983328af21d1e5c27a91e438e7934eb152ab1)), closes [#17304](https://github.com/appium/appium/issues/17304)
 - **base-driver,fake-driver,appium:** add convenience methods for defining execute script overloads ([#17321](https://github.com/appium/appium/issues/17321)) ([337ec3e](https://github.com/appium/appium/commit/337ec3e7ba216dd6f8cdc88143ecaa4c75f5d266))
 
-## [8.6.1](https://github.com/appium/appium/compare/@appium/base-driver@8.6.0...@appium/base-driver@8.6.1) (2022-08-03)
+## [8.6.1](https://github.com/appium/appium/compare/@testspectra/base-driver@8.6.0...@testspectra/base-driver@8.6.1) (2022-08-03)
 
 ### Bug Fixes
 
 - **appium,base-driver,base-plugin,doctor,docutils,eslint-config-appium,execute-driver-plugin,fake-driver,fake-plugin,gulp-plugins,images-plugin,opencv,relaxed-caps-plugin,schema,support,test-support,types,universal-xml-plugin:** update engines ([d8d2382](https://github.com/appium/appium/commit/d8d2382327ba7b7db8a4d1cad987c0e60184c92d))
 
-# [8.6.0](https://github.com/appium/appium/compare/@appium/base-driver@8.5.7...@appium/base-driver@8.6.0) (2022-07-28)
+# [8.6.0](https://github.com/appium/appium/compare/@testspectra/base-driver@8.5.7...@testspectra/base-driver@8.6.0) (2022-07-28)
 
 ### Bug Fixes
 
@@ -1024,39 +1024,39 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 - **appium,base-driver,base-plugin,test-support,types:** move test fixtures into test-support ([70d88cb](https://github.com/appium/appium/commit/70d88cb86f28354efe313cc6be6a0afef20b38b3))
 
-## [8.5.7](https://github.com/appium/appium/compare/@appium/base-driver@8.5.6...@appium/base-driver@8.5.7) (2022-06-04)
+## [8.5.7](https://github.com/appium/appium/compare/@testspectra/base-driver@8.5.6...@testspectra/base-driver@8.5.7) (2022-06-04)
 
-**Note:** Version bump only for package @appium/base-driver
+**Note:** Version bump only for package @testspectra/base-driver
 
-## [8.5.6](https://github.com/appium/appium/compare/@appium/base-driver@8.5.5...@appium/base-driver@8.5.6) (2022-06-03)
+## [8.5.6](https://github.com/appium/appium/compare/@testspectra/base-driver@8.5.5...@testspectra/base-driver@8.5.6) (2022-06-03)
 
 ### Bug Fixes
 
 - **base-driver:** don't assign log to jwproxy from opts ([eae3efd](https://github.com/appium/appium/commit/eae3efd1d7d2bd515e8e2844e1e16324a91ae47d))
 
-## [8.5.5](https://github.com/appium/appium/compare/@appium/base-driver@8.5.4...@appium/base-driver@8.5.5) (2022-05-31)
+## [8.5.5](https://github.com/appium/appium/compare/@testspectra/base-driver@8.5.4...@testspectra/base-driver@8.5.5) (2022-05-31)
 
-**Note:** Version bump only for package @appium/base-driver
+**Note:** Version bump only for package @testspectra/base-driver
 
-## [8.5.4](https://github.com/appium/appium/compare/@appium/base-driver@8.5.3...@appium/base-driver@8.5.4) (2022-05-31)
+## [8.5.4](https://github.com/appium/appium/compare/@testspectra/base-driver@8.5.3...@testspectra/base-driver@8.5.4) (2022-05-31)
 
 ### Bug Fixes
 
 - **appium:** fix extension autoinstall postinstall script ([3e2c05d](https://github.com/appium/appium/commit/3e2c05d8a290072484afde34fe5fd968618f6359)), closes [#16924](https://github.com/appium/appium/issues/16924)
 
-## [8.5.3](https://github.com/appium/appium/compare/@appium/base-driver@8.5.2...@appium/base-driver@8.5.3) (2022-05-02)
+## [8.5.3](https://github.com/appium/appium/compare/@testspectra/base-driver@8.5.2...@testspectra/base-driver@8.5.3) (2022-05-02)
 
-**Note:** Version bump only for package @appium/base-driver
+**Note:** Version bump only for package @testspectra/base-driver
 
-## [8.5.2](https://github.com/appium/appium/compare/@appium/base-driver@8.5.1...@appium/base-driver@8.5.2) (2022-04-20)
+## [8.5.2](https://github.com/appium/appium/compare/@testspectra/base-driver@8.5.1...@testspectra/base-driver@8.5.2) (2022-04-20)
 
-**Note:** Version bump only for package @appium/base-driver
+**Note:** Version bump only for package @testspectra/base-driver
 
-## [8.5.1](https://github.com/appium/appium/compare/@appium/base-driver@8.5.0...@appium/base-driver@8.5.1) (2022-04-20)
+## [8.5.1](https://github.com/appium/appium/compare/@testspectra/base-driver@8.5.0...@testspectra/base-driver@8.5.1) (2022-04-20)
 
-**Note:** Version bump only for package @appium/base-driver
+**Note:** Version bump only for package @testspectra/base-driver
 
-# [8.5.0](https://github.com/appium/appium/compare/@appium/base-driver@8.4.2...@appium/base-driver@8.5.0) (2022-04-20)
+# [8.5.0](https://github.com/appium/appium/compare/@testspectra/base-driver@8.4.2...@testspectra/base-driver@8.5.0) (2022-04-20)
 
 ### Bug Fixes
 
@@ -1067,18 +1067,18 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 - **base-driver:** Add a route for new window creation ([#16748](https://github.com/appium/appium/issues/16748)) ([78a4637](https://github.com/appium/appium/commit/78a46375aed016feb6e2b20299cc834d2d24e1cb))
 
-## [8.4.2](https://github.com/appium/appium/compare/@appium/base-driver@8.4.1...@appium/base-driver@8.4.2) (2022-04-12)
+## [8.4.2](https://github.com/appium/appium/compare/@testspectra/base-driver@8.4.1...@testspectra/base-driver@8.4.2) (2022-04-12)
 
-**Note:** Version bump only for package @appium/base-driver
+**Note:** Version bump only for package @testspectra/base-driver
 
-## [8.4.1](https://github.com/appium/appium/compare/@appium/base-driver@8.4.0...@appium/base-driver@8.4.1) (2022-04-12)
+## [8.4.1](https://github.com/appium/appium/compare/@testspectra/base-driver@8.4.0...@testspectra/base-driver@8.4.1) (2022-04-12)
 
 ### Bug Fixes
 
 - **base-driver:** isErrorType import ([ad3b4b2](https://github.com/appium/appium/commit/ad3b4b2c9676623a5eeb92e0beb510ec181fbcf8))
 - **base-driver:** Make sure proxyReqRes helper never throws any exceptions ([#16742](https://github.com/appium/appium/issues/16742)) ([5d2156a](https://github.com/appium/appium/commit/5d2156a06bcf621116db0adbedce431d7c18fca7))
 
-# [8.4.0](https://github.com/appium/appium/compare/@appium/base-driver@8.3.1...@appium/base-driver@8.4.0) (2022-04-07)
+# [8.4.0](https://github.com/appium/appium/compare/@testspectra/base-driver@8.3.1...@testspectra/base-driver@8.4.0) (2022-04-07)
 
 ### Bug Fixes
 
@@ -1090,13 +1090,13 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 - **base-driver:** Add more shadow root-related W3C routes ([#16700](https://github.com/appium/appium/issues/16700)) ([d8a9b4d](https://github.com/appium/appium/commit/d8a9b4da362c0ee3d1616595a9f652a59b178065))
 - **base-driver:** generate declaration files ([164bedb](https://github.com/appium/appium/commit/164bedb2f13e0c3ab7d27644107bc2320bb02db9))
 
-## [8.3.1](https://github.com/appium/appium/compare/@appium/base-driver@8.3.0...@appium/base-driver@8.3.1) (2022-03-23)
+## [8.3.1](https://github.com/appium/appium/compare/@testspectra/base-driver@8.3.0...@testspectra/base-driver@8.3.1) (2022-03-23)
 
 ### Bug Fixes
 
 - **base-driver:** Use WeakRef to reference the driver instance in the log prefix generator ([#16636](https://github.com/appium/appium/issues/16636)) ([bbfc7ef](https://github.com/appium/appium/commit/bbfc7ef51d8a5c7e99072ee599ce2a6265017ea4))
 
-# [8.3.0](https://github.com/appium/appium/compare/@appium/base-driver@8.2.4...@appium/base-driver@8.3.0) (2022-03-22)
+# [8.3.0](https://github.com/appium/appium/compare/@testspectra/base-driver@8.2.4...@testspectra/base-driver@8.3.0) (2022-03-22)
 
 ### Bug Fixes
 
@@ -1109,11 +1109,11 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 - Add a missing route for element shadow root ([#16538](https://github.com/appium/appium/issues/16538)) ([493c48d](https://github.com/appium/appium/commit/493c48d190373e188f5a8a3c416ebddc6a17189b))
 - **base-driver:** Add the size validation of the passed settings objects ([#16420](https://github.com/appium/appium/issues/16420)) ([a881ae9](https://github.com/appium/appium/commit/a881ae992abfddcdb9fd27d699ce8b824847ed47))
 
-## [8.2.4](https://github.com/appium/appium/compare/@appium/base-driver@8.2.3...@appium/base-driver@8.2.4) (2022-01-21)
+## [8.2.4](https://github.com/appium/appium/compare/@testspectra/base-driver@8.2.3...@testspectra/base-driver@8.2.4) (2022-01-21)
 
-**Note:** Version bump only for package @appium/base-driver
+**Note:** Version bump only for package @testspectra/base-driver
 
-## [8.2.3](https://github.com/appium/appium/compare/@appium/base-driver@8.2.2...@appium/base-driver@8.2.3) (2022-01-11)
+## [8.2.3](https://github.com/appium/appium/compare/@testspectra/base-driver@8.2.2...@testspectra/base-driver@8.2.3) (2022-01-11)
 
 ### Bug Fixes
 
@@ -1121,17 +1121,17 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 - **base-driver:** follow W3C capabilities more strictly ([#16193](https://github.com/appium/appium/issues/16193)) ([9a85a41](https://github.com/appium/appium/commit/9a85a41b9e134949ed5743ccdcf6bd83ee11df14))
 - Switch colors package to a non-compomised repository ([#16317](https://github.com/appium/appium/issues/16317)) ([40a6f05](https://github.com/appium/appium/commit/40a6f054dca3d94fc88773af9c6336ba12ebfb81))
 
-## [8.2.2](https://github.com/appium/appium/compare/@appium/base-driver@8.2.1...@appium/base-driver@8.2.2) (2021-11-23)
+## [8.2.2](https://github.com/appium/appium/compare/@testspectra/base-driver@8.2.1...@testspectra/base-driver@8.2.2) (2021-11-23)
 
-**Note:** Version bump only for package @appium/base-driver
+**Note:** Version bump only for package @testspectra/base-driver
 
-## [8.2.1](https://github.com/appium/appium/compare/@appium/base-driver@8.2.0...@appium/base-driver@8.2.1) (2021-11-19)
+## [8.2.1](https://github.com/appium/appium/compare/@testspectra/base-driver@8.2.0...@testspectra/base-driver@8.2.1) (2021-11-19)
 
 ### Bug Fixes
 
 - **base-driver:** create cjs wrapper ([85cd55b](https://github.com/appium/appium/commit/85cd55bc2c54e2091dec69ead1462c5f022e590b))
 
-# [8.2.0](https://github.com/appium/appium/compare/@appium/base-driver@8.1.2...@appium/base-driver@8.2.0) (2021-11-15)
+# [8.2.0](https://github.com/appium/appium/compare/@testspectra/base-driver@8.1.2...@testspectra/base-driver@8.2.0) (2021-11-15)
 
 ### Bug Fixes
 
@@ -1141,7 +1141,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 - **fake-driver:** add a new 'PROXY' context that does 'proxying' for use in testing ([9e6c0a1](https://github.com/appium/appium/commit/9e6c0a13ef197c3a8caa9e18bdf4f8e6960951f1))
 
-## [8.1.2](https://github.com/appium/appium/compare/@appium/base-driver@8.1.1...@appium/base-driver@8.1.2) (2021-11-09)
+## [8.1.2](https://github.com/appium/appium/compare/@testspectra/base-driver@8.1.1...@testspectra/base-driver@8.1.2) (2021-11-09)
 
 ### Bug Fixes
 
@@ -1149,35 +1149,35 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 - **base-driver:** better URL handling in driver-e2e tests ([01d7c1b](https://github.com/appium/appium/commit/01d7c1bd7ebfa9a54b22d04f81c24ee95bec0962))
 - **base-driver:** type inconsistency ([#15982](https://github.com/appium/appium/issues/15982)) ([0e63393](https://github.com/appium/appium/commit/0e633939f9b6451899ce963391eaeb9e44bbba5d))
 
-## [8.1.1](https://github.com/appium/appium/compare/@appium/base-driver@8.1.0...@appium/base-driver@8.1.1) (2021-09-16)
+## [8.1.1](https://github.com/appium/appium/compare/@testspectra/base-driver@8.1.0...@testspectra/base-driver@8.1.1) (2021-09-16)
 
-**Note:** Version bump only for package @appium/base-driver
+**Note:** Version bump only for package @testspectra/base-driver
 
-# [8.1.0](https://github.com/appium/appium/compare/@appium/base-driver@8.0.3...@appium/base-driver@8.1.0) (2021-09-16)
+# [8.1.0](https://github.com/appium/appium/compare/@testspectra/base-driver@8.0.3...@testspectra/base-driver@8.1.0) (2021-09-16)
 
 ### Features
 
 - **base-driver:** allow drivers, and plugins to declare that certain routes must never be proxied ([3e5aec9](https://github.com/appium/appium/commit/3e5aec945bc0493dbd14d0759e5e35749e974aac))
 
-## [8.0.3](https://github.com/appium/appium/compare/@appium/base-driver@8.0.2...@appium/base-driver@8.0.3) (2021-09-15)
+## [8.0.3](https://github.com/appium/appium/compare/@testspectra/base-driver@8.0.2...@testspectra/base-driver@8.0.3) (2021-09-15)
 
-**Note:** Version bump only for package @appium/base-driver
+**Note:** Version bump only for package @testspectra/base-driver
 
-## [8.0.2](https://github.com/appium/appium/compare/@appium/base-driver@8.0.1...@appium/base-driver@8.0.2) (2021-09-14)
+## [8.0.2](https://github.com/appium/appium/compare/@testspectra/base-driver@8.0.1...@testspectra/base-driver@8.0.2) (2021-09-14)
 
-**Note:** Version bump only for package @appium/base-driver
+**Note:** Version bump only for package @testspectra/base-driver
 
-## [8.0.1](https://github.com/appium/appium/compare/@appium/base-driver@8.0.0...@appium/base-driver@8.0.1) (2021-09-14)
+## [8.0.1](https://github.com/appium/appium/compare/@testspectra/base-driver@8.0.0...@testspectra/base-driver@8.0.1) (2021-09-14)
 
-**Note:** Version bump only for package @appium/base-driver
+**Note:** Version bump only for package @testspectra/base-driver
 
-# [8.0.0-beta.7](https://github.com/appium/appium/compare/@appium/base-driver@8.0.0-beta.7...@appium/base-driver@8.0.0-beta.7) (2021-08-16)
+# [8.0.0-beta.7](https://github.com/appium/appium/compare/@testspectra/base-driver@8.0.0-beta.7...@testspectra/base-driver@8.0.0-beta.7) (2021-08-16)
 
 # 2.0.0-beta (2021-08-13)
 
 ### chore
 
-- update @appium/fake-driver to use @appium/base-driver ([#15436](https://github.com/appium/appium/issues/15436)) ([c66144d](https://github.com/appium/appium/commit/c66144d62b23681f91b45c45648dddf51f0ea991)), closes [#15425](https://github.com/appium/appium/issues/15425)
+- update @testspectra/fake-driver to use @testspectra/base-driver ([#15436](https://github.com/appium/appium/issues/15436)) ([c66144d](https://github.com/appium/appium/commit/c66144d62b23681f91b45c45648dddf51f0ea991)), closes [#15425](https://github.com/appium/appium/issues/15425)
 
 ### Features
 
@@ -1191,14 +1191,14 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 ### BREAKING CHANGES
 
-- `fake-driver` now depends upon `@appium/base-driver@8.x`
+- `fake-driver` now depends upon `@testspectra/base-driver@8.x`
 
-## `@appium/fake-driver`
+## `@testspectra/fake-driver`
 
 - need to use w3c capabilities only
 - fix: find `app.xml` fixture properly when running tests via `mocha --require=@babel/register`
 
-## `@appium/base-driver`
+## `@testspectra/base-driver`
 
 - fixed a dead URL in a comment
 - updated the "logging" tests to manually supply w3c capabilities. `createSession()` does it for you, but `executeCommand('createSession')` does not.

@@ -1,7 +1,7 @@
 import _ from 'lodash';
 import path from 'node:path';
 import {log as logger} from './logger';
-import {tempDir, fs, util, timing, node} from '@appium/support';
+import {tempDir, fs, util, timing, node} from '@testspectra/support';
 import {LRUCache} from 'lru-cache';
 import AsyncLock from 'async-lock';
 import axios from 'axios';
@@ -12,7 +12,7 @@ import type {
   PostProcessOptions,
   HTTPHeaders,
   DriverHelpers,
-} from '@appium/types';
+} from '@testspectra/types';
 import type {AxiosResponseHeaders, RawAxiosRequestHeaders} from 'axios';
 import type {Readable} from 'node:stream';
 

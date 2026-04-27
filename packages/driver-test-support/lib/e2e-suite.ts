@@ -5,7 +5,7 @@ import {sleep} from 'asyncbox';
 import {TEST_HOST, getTestPort, createAppiumURL} from './helpers';
 import sinon from 'sinon';
 import {Agent} from 'node:http';
-import type {BaseNSCapabilities, Driver, DriverClass, SingularSessionData} from '@appium/types';
+import type {BaseNSCapabilities, Driver, DriverClass, SingularSessionData} from '@testspectra/types';
 import type {NewSessionResponse, SessionHelpers} from './types';
 
 /**

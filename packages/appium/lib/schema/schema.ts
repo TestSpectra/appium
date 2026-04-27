@@ -2,8 +2,8 @@ import Ajv, {type ErrorObject, type SchemaObject, type ValidateFunction} from 'a
 import addFormats from 'ajv-formats';
 import _ from 'lodash';
 import path from 'node:path';
-import {AppiumConfigJsonSchema} from '@appium/schema';
-import type {ExtensionType} from '@appium/types';
+import {AppiumConfigJsonSchema} from '@testspectra/schema';
+import type {ExtensionType} from '@testspectra/types';
 import {DRIVER_TYPE, PLUGIN_TYPE} from '../constants';
 import {APPIUM_CONFIG_SCHEMA_ID, ArgSpec, SERVER_PROP_NAME} from './arg-spec';
 import {keywords} from './keywords';

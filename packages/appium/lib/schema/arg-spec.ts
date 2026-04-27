@@ -1,5 +1,5 @@
 import _ from 'lodash';
-import type {ExtensionType} from '@appium/types';
+import type {ExtensionType} from '@testspectra/types';
 
 /**
  * The original ID of the Appium config schema.

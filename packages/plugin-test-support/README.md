@@ -1,4 +1,4 @@
-# @appium/plugin-test-support
+# @testspectra/plugin-test-support
 
 > Testing utilities for [Appium](https://appium.io) plugins
 
@@ -15,7 +15,7 @@ The `pluginE2EHarness` method configures a server and driver for testing via "be
 This example uses [WebdriverIO](https://webdriver.io) to communicate with a test Appium server.
 
 ```js
-import {pluginE2EHarness} from '@appium/plugin-test-support';
+import {pluginE2EHarness} from '@testspectra/plugin-test-support';
 import {remote} from 'webdriverio';
 
 describe('MyPlugin', function() {

@@ -3,7 +3,7 @@
     "paths": {
       "appium": ["../packages/appium"],
       "appium/plugin": ["../packages/appium/plugin"],
-      "@appium/plugin-test-support": ["../packages/plugin-test-support"]
+      "@testspectra/plugin-test-support": ["../packages/plugin-test-support"]
     },
     "types": ["webdriverio"]
   },

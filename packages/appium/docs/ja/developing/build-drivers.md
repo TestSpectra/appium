@@ -870,7 +870,7 @@ short-circuit and throw an error if the feature isn't enabled, you can call
 
 If you want to use a temporary directory for files your driver creates that are not important to
 keep around between computer or server restarts, you can simply read from `this.opts.tmpDir`. This
-reads the temporary directory location from `@appium/support`, potentially overridden by a CLI
+reads the temporary directory location from `@testspectra/support`, potentially overridden by a CLI
 flag. I.e., it's safer than writing to your own temporary directory because the location here plays
 nicely with possible user configuration. `this.opts.tmpDir` is a string, the path to the dir.
 

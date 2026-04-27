@@ -3,7 +3,7 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-## [2.0.7](https://github.com/appium/appium/compare/@appium/logger@2.0.6...@appium/logger@2.0.7) (2026-04-23)
+## [2.0.7](https://github.com/appium/appium/compare/@testspectra/logger@2.0.6...@testspectra/logger@2.0.7) (2026-04-23)
 
 
 ### Bug Fixes
@@ -12,15 +12,15 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [2.0.6](https://github.com/appium/appium/compare/@appium/logger@2.0.5...@appium/logger@2.0.6) (2026-04-09)
+## [2.0.6](https://github.com/appium/appium/compare/@testspectra/logger@2.0.5...@testspectra/logger@2.0.6) (2026-04-09)
 
-**Note:** Version bump only for package @appium/logger
-
-
+**Note:** Version bump only for package @testspectra/logger
 
 
 
-## [2.0.5](https://github.com/appium/appium/compare/@appium/logger@2.0.4...@appium/logger@2.0.5) (2026-03-08)
+
+
+## [2.0.5](https://github.com/appium/appium/compare/@testspectra/logger@2.0.4...@testspectra/logger@2.0.5) (2026-03-08)
 
 
 ### Bug Fixes
@@ -29,47 +29,47 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [2.0.4](https://github.com/appium/appium/compare/@appium/logger@2.0.3...@appium/logger@2.0.4) (2026-01-26)
+## [2.0.4](https://github.com/appium/appium/compare/@testspectra/logger@2.0.3...@testspectra/logger@2.0.4) (2026-01-26)
 
-**Note:** Version bump only for package @appium/logger
-
-
-
-
-
-## [2.0.3](https://github.com/appium/appium/compare/@appium/logger@2.0.2...@appium/logger@2.0.3) (2025-12-04)
-
-**Note:** Version bump only for package @appium/logger
+**Note:** Version bump only for package @testspectra/logger
 
 
 
 
 
-## [2.0.2](https://github.com/appium/appium/compare/@appium/logger@2.0.1...@appium/logger@2.0.2) (2025-10-08)
+## [2.0.3](https://github.com/appium/appium/compare/@testspectra/logger@2.0.2...@testspectra/logger@2.0.3) (2025-12-04)
 
-**Note:** Version bump only for package @appium/logger
-
-
-
-
-
-## [2.0.1](https://github.com/appium/appium/compare/@appium/logger@2.0.0...@appium/logger@2.0.1) (2025-09-09)
-
-**Note:** Version bump only for package @appium/logger
+**Note:** Version bump only for package @testspectra/logger
 
 
 
 
 
-## [2.0.0](https://github.com/appium/appium/compare/@appium/logger@2.0.0-rc.1...@appium/logger@2.0.0) (2025-08-18)
+## [2.0.2](https://github.com/appium/appium/compare/@testspectra/logger@2.0.1...@testspectra/logger@2.0.2) (2025-10-08)
 
-**Note:** Version bump only for package @appium/logger
-
-
+**Note:** Version bump only for package @testspectra/logger
 
 
 
-## [2.0.0-rc.1](https://github.com/appium/appium/compare/@appium/logger@1.6.1...@appium/logger@2.0.0-rc.1) (2025-08-14)
+
+
+## [2.0.1](https://github.com/appium/appium/compare/@testspectra/logger@2.0.0...@testspectra/logger@2.0.1) (2025-09-09)
+
+**Note:** Version bump only for package @testspectra/logger
+
+
+
+
+
+## [2.0.0](https://github.com/appium/appium/compare/@testspectra/logger@2.0.0-rc.1...@testspectra/logger@2.0.0) (2025-08-18)
+
+**Note:** Version bump only for package @testspectra/logger
+
+
+
+
+
+## [2.0.0-rc.1](https://github.com/appium/appium/compare/@testspectra/logger@1.6.1...@testspectra/logger@2.0.0-rc.1) (2025-08-14)
 
 
 ### ⚠ BREAKING CHANGES
@@ -87,15 +87,15 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [1.7.1](https://github.com/appium/appium/compare/@appium/logger@1.7.0...@appium/logger@1.7.1) (2025-06-01)
+## [1.7.1](https://github.com/appium/appium/compare/@testspectra/logger@1.7.0...@testspectra/logger@1.7.1) (2025-06-01)
 
-**Note:** Version bump only for package @appium/logger
-
-
+**Note:** Version bump only for package @testspectra/logger
 
 
 
-## [1.7.0](https://github.com/appium/appium/compare/@appium/logger@1.6.1...@appium/logger@1.7.0) (2025-04-25)
+
+
+## [1.7.0](https://github.com/appium/appium/compare/@testspectra/logger@1.6.1...@testspectra/logger@1.7.0) (2025-04-25)
 
 
 ### Features
@@ -110,7 +110,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [1.6.1](https://github.com/appium/appium/compare/@appium/logger@1.6.0...@appium/logger@1.6.1) (2024-08-07)
+## [1.6.1](https://github.com/appium/appium/compare/@testspectra/logger@1.6.0...@testspectra/logger@1.6.1) (2024-08-07)
 
 
 ### Bug Fixes
@@ -120,7 +120,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [1.6.0](https://github.com/appium/appium/compare/@appium/logger@1.5.0...@appium/logger@1.6.0) (2024-07-10)
+## [1.6.0](https://github.com/appium/appium/compare/@testspectra/logger@1.5.0...@testspectra/logger@1.6.0) (2024-07-10)
 
 
 ### Features
@@ -129,7 +129,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [1.5.0](https://github.com/appium/appium/compare/@appium/logger@1.4.2...@appium/logger@1.5.0) (2024-06-27)
+## [1.5.0](https://github.com/appium/appium/compare/@testspectra/logger@1.4.2...@testspectra/logger@1.5.0) (2024-06-27)
 
 
 ### Features
@@ -143,7 +143,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [1.4.2](https://github.com/appium/appium/compare/@appium/logger@1.4.1...@appium/logger@1.4.2) (2024-06-11)
+## [1.4.2](https://github.com/appium/appium/compare/@testspectra/logger@1.4.1...@testspectra/logger@1.4.2) (2024-06-11)
 
 
 ### Bug Fixes
@@ -152,7 +152,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [1.4.1](https://github.com/appium/appium/compare/@appium/logger@1.4.0...@appium/logger@1.4.1) (2024-06-11)
+## [1.4.1](https://github.com/appium/appium/compare/@testspectra/logger@1.4.0...@testspectra/logger@1.4.1) (2024-06-11)
 
 
 ### Bug Fixes
@@ -161,7 +161,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [1.4.0](https://github.com/appium/appium/compare/@appium/logger@1.3.0...@appium/logger@1.4.0) (2024-06-10)
+## [1.4.0](https://github.com/appium/appium/compare/@testspectra/logger@1.3.0...@testspectra/logger@1.4.0) (2024-06-10)
 
 
 ### Features
@@ -172,7 +172,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [1.3.0](https://github.com/appium/appium/compare/@appium/logger@1.2.0...@appium/logger@1.3.0) (2024-06-06)
+## [1.3.0](https://github.com/appium/appium/compare/@testspectra/logger@1.2.0...@testspectra/logger@1.3.0) (2024-06-06)
 
 
 ### Features
@@ -186,7 +186,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [1.2.0](https://github.com/appium/appium/compare/@appium/logger@1.1.0...@appium/logger@1.2.0) (2024-06-06)
+## [1.2.0](https://github.com/appium/appium/compare/@testspectra/logger@1.1.0...@testspectra/logger@1.2.0) (2024-06-06)
 
 
 ### Features

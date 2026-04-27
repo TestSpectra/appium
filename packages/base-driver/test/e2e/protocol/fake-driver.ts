@@ -6,10 +6,10 @@ import type {
   DefaultCreateSessionResult,
   SingularSessionData,
   StringRecord,
-} from '@appium/types';
+} from '@testspectra/types';
 import {errors, BaseDriver, determineProtocol} from '../../../lib';
 import {PROTOCOLS} from '../../../lib/constants';
-import {util} from '@appium/support';
+import {util} from '@testspectra/support';
 
 class FakeDriver extends BaseDriver<Constraints> {
   static newMethodMap = {

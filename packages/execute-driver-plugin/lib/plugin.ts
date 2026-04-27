@@ -2,7 +2,7 @@ import {BasePlugin} from 'appium/plugin';
 import _ from 'lodash';
 import cp from 'node:child_process';
 import {timing} from 'appium/support';
-import type {ExternalDriver, NextPluginCallback, MethodMap, PluginCommand} from '@appium/types';
+import type {ExternalDriver, NextPluginCallback, MethodMap, PluginCommand} from '@testspectra/types';
 
 const FEAT_FLAG = 'execute_driver_script';
 const DEFAULT_SCRIPT_TIMEOUT_MS = 1000 * 60 * 60; // default to 1 hour timeout

@@ -3,7 +3,7 @@ import chaiAsPromised from 'chai-as-promised';
 import _ from 'lodash';
 import {FakeDriver} from '../../lib';
 import {W3C_CAPS, W3C_PREFIXED_CAPS} from '../helpers';
-import {driverUnitTestSuite} from '@appium/driver-test-support';
+import {driverUnitTestSuite} from '@testspectra/driver-test-support';
 
 chai.use(chaiAsPromised);
 

@@ -1,7 +1,7 @@
 import _ from 'lodash';
 import {errors} from 'appium/driver';
 import type {FakeDriver} from '../driver';
-import type {Position, Rect, Size} from '@appium/types';
+import type {Position, Rect, Size} from '@testspectra/types';
 import type {FakeElement} from '../fake-element';
 
 /** Resolve element ids to FakeElements; throws StaleElementReferenceError if any id is missing. */

@@ -55,9 +55,9 @@ const osTypeMock = mock(() => 'Darwin');
 (globalThis as any).execMock = execMock;
 (globalThis as any).osTypeMock = osTypeMock;
 
-// Mock the local exec module used throughout @appium/support
+// Mock the local exec module used throughout @testspectra/support
 mock.module('/Volumes/DATA/appium/packages/support/lib/exec', () => {
-    console.log('[Mock] Providing @appium/support/exec mock');
+    console.log('[Mock] Providing @testspectra/support/exec mock');
     return {
         exec: execMock,
     };

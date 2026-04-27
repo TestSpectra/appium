@@ -12,7 +12,7 @@ import {
   MOBILE_DRIVERS
 } from '../constants';
 import {runExtensionCommand} from './extension';
-import { system, fs } from '@appium/support';
+import { system, fs } from '@testspectra/support';
 import {log} from '../logger';
 import type {ExtensionConfig} from '../extension/extension-config';
 

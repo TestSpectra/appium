@@ -1,4 +1,4 @@
-import { fs, timing } from '@appium/support';
+import { fs, timing } from '@testspectra/support';
 import _ from 'lodash';
 import { asyncmap } from 'asyncbox';
 import type {Path} from 'path-scurry';
@@ -7,7 +7,7 @@ import type {Stats} from 'node:fs';
 import nativeFs from 'node:fs';
 import type {ItemOptions, StorageItem} from './types';
 import AsyncLock from 'async-lock';
-import type {AppiumLogger} from '@appium/types';
+import type {AppiumLogger} from '@testspectra/types';
 import type Stream from 'node:stream';
 import type WebSocket from 'ws';
 import { createHash } from 'node:crypto';

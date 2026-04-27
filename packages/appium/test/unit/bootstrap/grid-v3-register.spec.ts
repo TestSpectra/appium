@@ -4,7 +4,7 @@ import {createSandbox, type SinonSandbox, type SinonStub} from 'sinon';
 import type registerNodeType from '../../../lib/bootstrap/grid-v3-register';
 import {rewiremock} from '../../helpers';
 
-/** Mimics `@appium/support` logger so `throw logger.errorWithException(msg)` throws a real `Error`. */
+/** Mimics `@testspectra/support` logger so `throw logger.errorWithException(msg)` throws a real `Error`. */
 function createStubAppiumLogger(sandbox: SinonSandbox) {
   return {
     error: sandbox.stub(),
@@ -39,7 +39,7 @@ describe('bootstrap/grid-v3-register', function () {
   describe('registerNode()', function () {
     let registerNode: typeof registerNodeType;
     let mocks: {
-      '@appium/support': {
+      '@testspectra/support': {
         fs: {readFile: SinonStub};
         logger: {getLogger: SinonStub};
       };
@@ -50,7 +50,7 @@ describe('bootstrap/grid-v3-register', function () {
     beforeEach(function () {
       stubLog = createStubAppiumLogger(sandbox);
       mocks = {
-        '@appium/support': {
+        '@testspectra/support': {
           fs: {
             readFile: sandbox.stub().resolves('{}'),
           },
@@ -73,7 +73,7 @@ describe('bootstrap/grid-v3-register', function () {
       it('should read the config file', async function () {
         await registerNode('/path/to/config-file.json', binding.addr, binding.port, binding.basePath);
         expect(
-          mocks['@appium/support'].fs.readFile.calledOnceWith(
+          mocks['@testspectra/support'].fs.readFile.calledOnceWith(
             '/path/to/config-file.json',
             'utf-8'
           )
@@ -85,14 +85,14 @@ describe('bootstrap/grid-v3-register', function () {
         await registerNode('/path/to/config-file.json', binding.addr, binding.port, binding.basePath);
         expect(
           parseSpy.calledOnceWith(
-            await mocks['@appium/support'].fs.readFile.firstCall.returnValue
+            await mocks['@testspectra/support'].fs.readFile.firstCall.returnValue
           )
         ).to.be.true;
       });
 
       describe('when the config file is invalid', function () {
         beforeEach(function () {
-          mocks['@appium/support'].fs.readFile.resolves('');
+          mocks['@testspectra/support'].fs.readFile.resolves('');
         });
         it('should reject with a JSON parse error from the config file', async function () {
           await expect(
@@ -145,7 +145,7 @@ describe('bootstrap/grid-v3-register', function () {
     describe('when provided a config object', function () {
       it('should not attempt to read the object as a config file', async function () {
         await registerNode({my: 'config'});
-        expect(mocks['@appium/support'].fs.readFile.called).to.be.false;
+        expect(mocks['@testspectra/support'].fs.readFile.called).to.be.false;
       });
 
       it('should not attempt to parse any JSON', async function () {

@@ -3,23 +3,23 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-## [1.1.2](https://github.com/appium/appium/compare/@appium/tsconfig@1.1.1...@appium/tsconfig@1.1.2) (2026-03-08)
+## [1.1.2](https://github.com/appium/appium/compare/@testspectra/tsconfig@1.1.1...@testspectra/tsconfig@1.1.2) (2026-03-08)
 
-**Note:** Version bump only for package @appium/tsconfig
-
-
-
-
-
-## [1.1.1](https://github.com/appium/appium/compare/@appium/tsconfig@1.1.0...@appium/tsconfig@1.1.1) (2025-12-04)
-
-**Note:** Version bump only for package @appium/tsconfig
+**Note:** Version bump only for package @testspectra/tsconfig
 
 
 
 
 
-## [1.1.0](https://github.com/appium/appium/compare/@appium/tsconfig@1.0.0...@appium/tsconfig@1.1.0) (2025-09-09)
+## [1.1.1](https://github.com/appium/appium/compare/@testspectra/tsconfig@1.1.0...@testspectra/tsconfig@1.1.1) (2025-12-04)
+
+**Note:** Version bump only for package @testspectra/tsconfig
+
+
+
+
+
+## [1.1.0](https://github.com/appium/appium/compare/@testspectra/tsconfig@1.0.0...@testspectra/tsconfig@1.1.0) (2025-09-09)
 
 
 ### Features
@@ -28,15 +28,15 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [1.0.0](https://github.com/appium/appium/compare/@appium/tsconfig@1.0.0-rc.1...@appium/tsconfig@1.0.0) (2025-08-18)
+## [1.0.0](https://github.com/appium/appium/compare/@testspectra/tsconfig@1.0.0-rc.1...@testspectra/tsconfig@1.0.0) (2025-08-18)
 
-**Note:** Version bump only for package @appium/tsconfig
-
-
+**Note:** Version bump only for package @testspectra/tsconfig
 
 
 
-## [1.0.0-rc.1](https://github.com/appium/appium/compare/@appium/tsconfig@0.3.4...@appium/tsconfig@1.0.0-rc.1) (2025-08-14)
+
+
+## [1.0.0-rc.1](https://github.com/appium/appium/compare/@testspectra/tsconfig@0.3.4...@testspectra/tsconfig@1.0.0-rc.1) (2025-08-14)
 
 
 ### ⚠ BREAKING CHANGES
@@ -49,23 +49,23 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.3.5](https://github.com/appium/appium/compare/@appium/tsconfig@0.3.4...@appium/tsconfig@0.3.5) (2025-03-11)
+## [0.3.5](https://github.com/appium/appium/compare/@testspectra/tsconfig@0.3.4...@testspectra/tsconfig@0.3.5) (2025-03-11)
 
-**Note:** Version bump only for package @appium/tsconfig
-
-
-
-
-
-## [0.3.4](https://github.com/appium/appium/compare/@appium/tsconfig@0.3.3...@appium/tsconfig@0.3.4) (2025-02-20)
-
-**Note:** Version bump only for package @appium/tsconfig
+**Note:** Version bump only for package @testspectra/tsconfig
 
 
 
 
 
-## [0.3.3](https://github.com/appium/appium/compare/@appium/tsconfig@0.3.2...@appium/tsconfig@0.3.3) (2024-04-08)
+## [0.3.4](https://github.com/appium/appium/compare/@testspectra/tsconfig@0.3.3...@testspectra/tsconfig@0.3.4) (2025-02-20)
+
+**Note:** Version bump only for package @testspectra/tsconfig
+
+
+
+
+
+## [0.3.3](https://github.com/appium/appium/compare/@testspectra/tsconfig@0.3.2...@testspectra/tsconfig@0.3.3) (2024-04-08)
 
 
 ### Bug Fixes
@@ -75,7 +75,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.3.2](https://github.com/appium/appium/compare/@appium/tsconfig@0.3.1...@appium/tsconfig@0.3.2) (2023-10-18)
+## [0.3.2](https://github.com/appium/appium/compare/@testspectra/tsconfig@0.3.1...@testspectra/tsconfig@0.3.2) (2023-10-18)
 
 
 ### Bug Fixes
@@ -84,7 +84,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.3.1](https://github.com/appium/appium/compare/@appium/tsconfig@0.3.0...@appium/tsconfig@0.3.1) (2023-08-22)
+## [0.3.1](https://github.com/appium/appium/compare/@testspectra/tsconfig@0.3.0...@testspectra/tsconfig@0.3.1) (2023-08-22)
 
 
 ### Bug Fixes
@@ -93,18 +93,18 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [0.3.0](https://github.com/appium/appium/compare/@appium/tsconfig@0.2.4...@appium/tsconfig@0.3.0) (2023-04-10)
+# [0.3.0](https://github.com/appium/appium/compare/@testspectra/tsconfig@0.2.4...@testspectra/tsconfig@0.3.0) (2023-04-10)
 
 
 ### Features
 
-* **strongbox:** create @appium/strongbox ([fd91234](https://github.com/appium/appium/commit/fd912346fade8f29f5b4d1458828ea677d7e9fcc))
+* **strongbox:** create @testspectra/strongbox ([fd91234](https://github.com/appium/appium/commit/fd912346fade8f29f5b4d1458828ea677d7e9fcc))
 
 
 
 
 
-## [0.2.4](https://github.com/appium/appium/compare/@appium/tsconfig@0.2.3...@appium/tsconfig@0.2.4) (2023-02-09)
+## [0.2.4](https://github.com/appium/appium/compare/@testspectra/tsconfig@0.2.3...@testspectra/tsconfig@0.2.4) (2023-02-09)
 
 
 ### Bug Fixes
@@ -115,25 +115,25 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.2.3](https://github.com/appium/appium/compare/@appium/tsconfig@0.2.2...@appium/tsconfig@0.2.3) (2023-01-13)
+## [0.2.3](https://github.com/appium/appium/compare/@testspectra/tsconfig@0.2.2...@testspectra/tsconfig@0.2.3) (2023-01-13)
 
-**Note:** Version bump only for package @appium/tsconfig
-
-
-
-
-
-## [0.2.2](https://github.com/appium/appium/compare/@appium/tsconfig@0.2.1...@appium/tsconfig@0.2.2) (2023-01-13)
-
-**Note:** Version bump only for package @appium/tsconfig
+**Note:** Version bump only for package @testspectra/tsconfig
 
 
 
 
 
-## [0.2.1](https://github.com/appium/appium/compare/@appium/tsconfig@0.2.0...@appium/tsconfig@0.2.1) (2023-01-13)
+## [0.2.2](https://github.com/appium/appium/compare/@testspectra/tsconfig@0.2.1...@testspectra/tsconfig@0.2.2) (2023-01-13)
 
-**Note:** Version bump only for package @appium/tsconfig
+**Note:** Version bump only for package @testspectra/tsconfig
+
+
+
+
+
+## [0.2.1](https://github.com/appium/appium/compare/@testspectra/tsconfig@0.2.0...@testspectra/tsconfig@0.2.1) (2023-01-13)
+
+**Note:** Version bump only for package @testspectra/tsconfig
 
 
 
@@ -144,4 +144,4 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 ### Features
 
-* create @appium/tsconfig ([7d7b510](https://github.com/appium/appium/commit/7d7b510a03afb1f103be783e7696e7faec0b296a))
+* create @testspectra/tsconfig ([7d7b510](https://github.com/appium/appium/commit/7d7b510a03afb1f103be783e7696e7faec0b296a))

@@ -6,7 +6,7 @@ import {getImgElFromArgs} from '../../lib/plugin';
 import {ImageElement} from '../../lib/image-element';
 import {createSandbox, type SinonSandbox} from 'sinon';
 import {IMAGE_ELEMENT_PREFIX} from '../../lib/constants';
-import type {Constraints} from '@appium/types';
+import type {Constraints} from '@testspectra/types';
 import {expect, use} from 'chai';
 import chaiAsPromised from 'chai-as-promised';
 

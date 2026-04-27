@@ -1,5 +1,5 @@
 import {createSandbox} from 'sinon';
-import {system} from '@appium/support';
+import {system} from '@testspectra/support';
 import {getPresetDrivers} from '../../../lib/cli/setup-command';
 import {expect} from 'chai';
 

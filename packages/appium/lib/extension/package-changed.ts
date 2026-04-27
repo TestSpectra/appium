@@ -1,4 +1,4 @@
-import {fs} from '@appium/support';
+import {fs} from '@testspectra/support';
 import {isPackageChanged} from 'package-changed';
 import path from 'node:path';
 import {PKG_HASHFILE_RELATIVE_PATH} from '../constants';

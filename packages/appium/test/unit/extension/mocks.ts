@@ -7,7 +7,7 @@ import path from 'node:path';
 import {createRequire} from 'node:module';
 import {createSandbox, type SinonSandbox, type SinonStub} from 'sinon';
 import pluralize from 'pluralize';
-import {console as supportConsole} from '@appium/support';
+import {console as supportConsole} from '@testspectra/support';
 
 declare const __filename: string;
 const requireMod = createRequire(__filename);
@@ -80,7 +80,7 @@ export interface MockGlob extends SinonStub {
 }
 
 export interface Overrides {
-  '@appium/support': MockAppiumSupport;
+  '@testspectra/support': MockAppiumSupport;
   'resolve-from': MockResolveFrom;
   'package-changed': MockPackageChanged;
   glob: MockGlob;
@@ -179,7 +179,7 @@ export function initMocks(sandbox = createSandbox()): InitMocksResult {
   }) as unknown as MockGlob;
 
   const overrides: Overrides = {
-    '@appium/support': MockAppiumSupport,
+    '@testspectra/support': MockAppiumSupport,
     'resolve-from': MockResolveFrom,
     'package-changed': MockPackageChanged,
     glob: MockGlob,

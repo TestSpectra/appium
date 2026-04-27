@@ -4,7 +4,7 @@
  */
 
 const {LogLevels} = require('consola');
-import {fs} from '@appium/support';
+import {fs} from '@testspectra/support';
 import path from 'node:path';
 
 /**
@@ -104,7 +104,7 @@ export const DEFAULT_SERVE_PORT = 8000;
 export const DEFAULT_SERVE_HOST = 'localhost';
 
 /**
- * Mapping of `@appium/docutils`' log levels to `consola` log levels
+ * Mapping of `@testspectra/docutils`' log levels to `consola` log levels
  */
 export const LogLevelMap = {
   silent: LogLevels.silent,

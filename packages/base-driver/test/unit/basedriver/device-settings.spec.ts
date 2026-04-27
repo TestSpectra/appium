@@ -1,7 +1,7 @@
 import chai, {expect} from 'chai';
 import chaiAsPromised from 'chai-as-promised';
-import type {SettingsUpdateListener} from '@appium/types';
-import {node} from '@appium/support';
+import type {SettingsUpdateListener} from '@testspectra/types';
+import {node} from '@testspectra/support';
 import sinon from 'sinon';
 import {DeviceSettings, MAX_SETTINGS_SIZE} from '../../../lib/basedriver/device-settings';
 import {InvalidArgumentError} from '../../../lib/protocol/errors';

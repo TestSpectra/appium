@@ -1,6 +1,6 @@
 import chai, {expect} from 'chai';
 import chaiAsPromised from 'chai-as-promised';
-import type {HTTPMethod} from '@appium/types';
+import type {HTTPMethod} from '@testspectra/types';
 import _ from 'lodash';
 import {METHOD_MAP, routeToCommandName} from '../../../lib/protocol';
 import crypto from 'node:crypto';

@@ -1,4 +1,4 @@
-import {fs, tempDir} from '@appium/support';
+import {fs, tempDir} from '@testspectra/support';
 import chai from 'chai';
 import chaiAsPromised from 'chai-as-promised';
 import {EXT_SUBCOMMAND_RUN as RUN, PLUGIN_TYPE} from '../../lib/constants';

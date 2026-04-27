@@ -1,12 +1,12 @@
 {
-  "name": "@appium/test-driver",
+  "name": "@testspectra/test-driver",
   "version": "1.0.0",
   "private": true,
   "peerDependencies": {
-    "appium": "^3.0.0-beta.0"
+    "@testspectra/appium": "^3.0.0-beta.0"
   },
   "devDependencies": {
-    "appium": "next"
+    "@testspectra/appium": "next"
   },
   "appium": {
     "driverName": "test",

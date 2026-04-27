@@ -1,13 +1,13 @@
 /**
  * Helper functions for E2E tests to spawn an `appium` subprocess.
  */
-import {console as supportConsole, fs} from '@appium/support';
+import {console as supportConsole, fs} from '@testspectra/support';
 import '@colors/colors';
 import _ from 'lodash';
 import path from 'node:path';
 import {exec} from 'teen_process';
 import type {ExecError} from 'teen_process';
-import type {DriverType, PluginType} from '@appium/types';
+import type {DriverType, PluginType} from '@testspectra/types';
 import type {CliExtensionSubcommand, ExtRecord} from 'appium/types';
 import {APPIUM_ROOT, resolveFixture} from '../helpers';
 

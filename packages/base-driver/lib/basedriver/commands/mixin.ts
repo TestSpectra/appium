@@ -1,4 +1,4 @@
-import type {Constraints} from '@appium/types';
+import type {Constraints} from '@testspectra/types';
 import {BaseDriver} from '../driver';
 
 /**

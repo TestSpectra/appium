@@ -5,9 +5,9 @@ import type {
   HTTPMethod,
   ProxyOptions,
   ProxyResponse,
-} from '@appium/types';
+} from '@testspectra/types';
 import _ from 'lodash';
-import {logger, util} from '@appium/support';
+import {logger, util} from '@testspectra/support';
 import {getSummaryByCode} from '../jsonwp-status/status';
 import {
   errors,

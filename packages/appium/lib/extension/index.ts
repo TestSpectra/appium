@@ -1,12 +1,12 @@
 import _ from 'lodash';
 import B from 'bluebird';
-import type {DriverClass, ExtensionType, PluginClass} from '@appium/types';
+import type {DriverClass, ExtensionType, PluginClass} from '@testspectra/types';
 import type {ExtClass} from 'appium/types';
 import {USE_ALL_PLUGINS} from '../constants';
 import {log} from '../logger';
 import {DriverConfig} from './driver-config';
 import {Manifest} from './manifest';
-import {timing} from '@appium/support';
+import {timing} from '@testspectra/support';
 import {PluginConfig} from './plugin-config';
 
 export type ExtensionConfigs = {
@@ -24,7 +24,7 @@ export type DriverNameMap = Map<DriverClass, string>;
  * - Using the parsed extension data, creates/gets the `ExtensionConfig` subclass instances
  * - Returns these instances
  *
- * If `appiumHome` is needed, use `resolveAppiumHome` from the `env` module in `@appium/support`.
+ * If `appiumHome` is needed, use `resolveAppiumHome` from the `env` module in `@testspectra/support`.
  */
 export async function loadExtensions(appiumHome: string): Promise<ExtensionConfigs> {
   const manifest = Manifest.getInstance(appiumHome);

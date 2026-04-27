@@ -21,7 +21,7 @@ on the driver/plugin side.
 ## How To
 
 The assumption is that your extension uses the standard built-in
-[@appium/logger](https://www.npmjs.com/package/@appium/logger).
+[@testspectra/logger](https://www.npmjs.com/package/@testspectra/logger).
 In order to get some value in logs replaced by a generic mask it is necessary:
 
 - Change the logging expression to wrap sensitive values and format them, for example:
@@ -33,7 +33,7 @@ In order to get some value in logs replaced by a generic mask it is necessary:
     becomes
 
     ```js
-    import {logger} from '@appium/support';
+    import {logger} from '@testspectra/support';
 
     this.log.info('Value: %s', logger.markSensitive(value));
     ```

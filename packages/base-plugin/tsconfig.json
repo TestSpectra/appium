@@ -4,6 +4,6 @@
     "outDir": "build",
     "types": ["mocha", "chai"]
   },
-  "extends": "@appium/tsconfig/tsconfig.plugin.json",
+  "extends": "@testspectra/tsconfig/tsconfig.plugin.json",
   "include": ["lib", "test"]
 }

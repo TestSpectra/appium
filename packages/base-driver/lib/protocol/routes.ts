@@ -1,4 +1,4 @@
-import type {Driver, DriverMethodDef, HTTPMethod, MethodMap} from '@appium/types';
+import type {Driver, DriverMethodDef, HTTPMethod, MethodMap} from '@testspectra/types';
 import _ from 'lodash';
 import {DEFAULT_BASE_PATH} from '../constants';
 import {match} from 'path-to-regexp';

@@ -1,6 +1,6 @@
 import axios from 'axios';
-import {fs} from '@appium/support';
-import type {StringRecord} from '@appium/types';
+import {fs} from '@testspectra/support';
+import type {StringRecord} from '@testspectra/types';
 import _ from 'lodash';
 import {log as logger} from '../logger';
 

@@ -4,7 +4,7 @@ import type {
   Constraints,
   NSCapabilities,
   W3CCapabilities,
-} from '@appium/types';
+} from '@testspectra/types';
 import {
   parseCapsForInnerDriver,
   insertAppiumPrefixes,

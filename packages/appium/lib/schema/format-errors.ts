@@ -1,6 +1,6 @@
 import betterAjvErrors, {type IOutputError} from '@sidvind/better-ajv-errors';
 import type {ErrorObject} from 'ajv';
-import type {NormalizedAppiumConfig} from '@appium/types';
+import type {NormalizedAppiumConfig} from '@testspectra/types';
 import {getSchema} from './schema';
 
 /**

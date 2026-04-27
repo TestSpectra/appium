@@ -1,4 +1,4 @@
-import type {Constraints, W3CCapabilities, Capabilities, AppiumLogger} from '@appium/types';
+import type {Constraints, W3CCapabilities, Capabilities, AppiumLogger} from '@testspectra/types';
 import _ from 'lodash';
 
 /**

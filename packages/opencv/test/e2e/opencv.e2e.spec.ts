@@ -1,6 +1,6 @@
 import {getImagesMatches, getImagesSimilarity, getImageOccurrence} from '../../lib';
 import path from 'node:path';
-import {fs} from '@appium/support';
+import {fs} from '@testspectra/support';
 import {expect, use} from 'chai';
 import chaiAsPromised from 'chai-as-promised';
 

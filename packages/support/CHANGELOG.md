@@ -3,7 +3,7 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-## [7.1.1](https://github.com/appium/appium/compare/@appium/support@7.1.0...@appium/support@7.1.1) (2026-04-23)
+## [7.1.1](https://github.com/appium/appium/compare/@testspectra/support@7.1.0...@testspectra/support@7.1.1) (2026-04-23)
 
 
 ### Bug Fixes
@@ -12,7 +12,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [7.1.0](https://github.com/appium/appium/compare/@appium/support@7.0.6...@appium/support@7.1.0) (2026-04-09)
+## [7.1.0](https://github.com/appium/appium/compare/@testspectra/support@7.0.6...@testspectra/support@7.1.0) (2026-04-09)
 
 
 ### Features
@@ -21,7 +21,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [7.0.6](https://github.com/appium/appium/compare/@appium/support@7.0.5...@appium/support@7.0.6) (2026-03-08)
+## [7.0.6](https://github.com/appium/appium/compare/@testspectra/support@7.0.5...@testspectra/support@7.0.6) (2026-03-08)
 
 
 ### Bug Fixes
@@ -33,7 +33,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [7.0.5](https://github.com/appium/appium/compare/@appium/support@7.0.4...@appium/support@7.0.5) (2026-01-26)
+## [7.0.5](https://github.com/appium/appium/compare/@testspectra/support@7.0.4...@testspectra/support@7.0.5) (2026-01-26)
 
 
 ### Bug Fixes
@@ -42,15 +42,15 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [7.0.4](https://github.com/appium/appium/compare/@appium/support@7.0.3...@appium/support@7.0.4) (2025-12-04)
+## [7.0.4](https://github.com/appium/appium/compare/@testspectra/support@7.0.3...@testspectra/support@7.0.4) (2025-12-04)
 
-**Note:** Version bump only for package @appium/support
-
-
+**Note:** Version bump only for package @testspectra/support
 
 
 
-## [7.0.3](https://github.com/appium/appium/compare/@appium/support@7.0.2...@appium/support@7.0.3) (2025-11-12)
+
+
+## [7.0.3](https://github.com/appium/appium/compare/@testspectra/support@7.0.2...@testspectra/support@7.0.3) (2025-11-12)
 
 
 ### Bug Fixes
@@ -60,31 +60,31 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [7.0.2](https://github.com/appium/appium/compare/@appium/support@7.0.1...@appium/support@7.0.2) (2025-10-08)
+## [7.0.2](https://github.com/appium/appium/compare/@testspectra/support@7.0.1...@testspectra/support@7.0.2) (2025-10-08)
 
-**Note:** Version bump only for package @appium/support
-
-
-
-
-
-## [7.0.1](https://github.com/appium/appium/compare/@appium/support@7.0.0...@appium/support@7.0.1) (2025-09-09)
-
-**Note:** Version bump only for package @appium/support
+**Note:** Version bump only for package @testspectra/support
 
 
 
 
 
-## [7.0.0](https://github.com/appium/appium/compare/@appium/support@7.0.0-rc.1...@appium/support@7.0.0) (2025-08-18)
+## [7.0.1](https://github.com/appium/appium/compare/@testspectra/support@7.0.0...@testspectra/support@7.0.1) (2025-09-09)
 
-**Note:** Version bump only for package @appium/support
-
-
+**Note:** Version bump only for package @testspectra/support
 
 
 
-## [7.0.0-rc.1](https://github.com/appium/appium/compare/@appium/support@6.0.6...@appium/support@7.0.0-rc.1) (2025-08-14)
+
+
+## [7.0.0](https://github.com/appium/appium/compare/@testspectra/support@7.0.0-rc.1...@testspectra/support@7.0.0) (2025-08-18)
+
+**Note:** Version bump only for package @testspectra/support
+
+
+
+
+
+## [7.0.0-rc.1](https://github.com/appium/appium/compare/@testspectra/support@6.0.6...@testspectra/support@7.0.0-rc.1) (2025-08-14)
 
 
 ### ⚠ BREAKING CHANGES
@@ -103,15 +103,15 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [6.1.1](https://github.com/appium/appium/compare/@appium/support@6.1.0...@appium/support@6.1.1) (2025-06-01)
+## [6.1.1](https://github.com/appium/appium/compare/@testspectra/support@6.1.0...@testspectra/support@6.1.1) (2025-06-01)
 
-**Note:** Version bump only for package @appium/support
-
-
+**Note:** Version bump only for package @testspectra/support
 
 
 
-## [6.1.0](https://github.com/appium/appium/compare/@appium/support@6.0.8...@appium/support@6.1.0) (2025-04-25)
+
+
+## [6.1.0](https://github.com/appium/appium/compare/@testspectra/support@6.0.8...@testspectra/support@6.1.0) (2025-04-25)
 
 
 ### Features
@@ -120,39 +120,39 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [6.0.8](https://github.com/appium/appium/compare/@appium/support@6.0.7...@appium/support@6.0.8) (2025-03-17)
+## [6.0.8](https://github.com/appium/appium/compare/@testspectra/support@6.0.7...@testspectra/support@6.0.8) (2025-03-17)
 
-**Note:** Version bump only for package @appium/support
-
-
-
-
-
-## [6.0.7](https://github.com/appium/appium/compare/@appium/support@6.0.6...@appium/support@6.0.7) (2025-03-11)
-
-**Note:** Version bump only for package @appium/support
+**Note:** Version bump only for package @testspectra/support
 
 
 
 
 
-## [6.0.6](https://github.com/appium/appium/compare/@appium/support@6.0.5...@appium/support@6.0.6) (2025-02-20)
+## [6.0.7](https://github.com/appium/appium/compare/@testspectra/support@6.0.6...@testspectra/support@6.0.7) (2025-03-11)
 
-**Note:** Version bump only for package @appium/support
-
-
-
-
-
-## [6.0.5](https://github.com/appium/appium/compare/@appium/support@6.0.4...@appium/support@6.0.5) (2025-02-20)
-
-**Note:** Version bump only for package @appium/support
+**Note:** Version bump only for package @testspectra/support
 
 
 
 
 
-## [6.0.4](https://github.com/appium/appium/compare/@appium/support@6.0.3...@appium/support@6.0.4) (2025-02-19)
+## [6.0.6](https://github.com/appium/appium/compare/@testspectra/support@6.0.5...@testspectra/support@6.0.6) (2025-02-20)
+
+**Note:** Version bump only for package @testspectra/support
+
+
+
+
+
+## [6.0.5](https://github.com/appium/appium/compare/@testspectra/support@6.0.4...@testspectra/support@6.0.5) (2025-02-20)
+
+**Note:** Version bump only for package @testspectra/support
+
+
+
+
+
+## [6.0.4](https://github.com/appium/appium/compare/@testspectra/support@6.0.3...@testspectra/support@6.0.4) (2025-02-19)
 
 
 ### Bug Fixes
@@ -169,15 +169,15 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [6.0.3](https://github.com/appium/appium/compare/@appium/support@6.0.2...@appium/support@6.0.3) (2025-01-08)
+## [6.0.3](https://github.com/appium/appium/compare/@testspectra/support@6.0.2...@testspectra/support@6.0.3) (2025-01-08)
 
-**Note:** Version bump only for package @appium/support
-
-
+**Note:** Version bump only for package @testspectra/support
 
 
 
-## [6.0.2](https://github.com/appium/appium/compare/@appium/support@6.0.1...@appium/support@6.0.2) (2025-01-06)
+
+
+## [6.0.2](https://github.com/appium/appium/compare/@testspectra/support@6.0.1...@testspectra/support@6.0.2) (2025-01-06)
 
 
 ### Bug Fixes
@@ -187,7 +187,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [6.0.1](https://github.com/appium/appium/compare/@appium/support@6.0.0...@appium/support@6.0.1) (2025-01-02)
+## [6.0.1](https://github.com/appium/appium/compare/@testspectra/support@6.0.0...@testspectra/support@6.0.1) (2025-01-02)
 
 
 ### Bug Fixes
@@ -199,7 +199,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [6.0.0](https://github.com/appium/appium/compare/@appium/support@5.1.8...@appium/support@6.0.0) (2024-12-05)
+## [6.0.0](https://github.com/appium/appium/compare/@testspectra/support@5.1.8...@testspectra/support@6.0.0) (2024-12-05)
 
 
 ### ⚠ BREAKING CHANGES
@@ -219,7 +219,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [5.1.8](https://github.com/appium/appium/compare/@appium/support@5.1.7...@appium/support@5.1.8) (2024-12-02)
+## [5.1.8](https://github.com/appium/appium/compare/@testspectra/support@5.1.7...@testspectra/support@5.1.8) (2024-12-02)
 
 
 ### Bug Fixes
@@ -228,7 +228,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [5.1.7](https://github.com/appium/appium/compare/@appium/support@5.1.6...@appium/support@5.1.7) (2024-11-29)
+## [5.1.7](https://github.com/appium/appium/compare/@testspectra/support@5.1.6...@testspectra/support@5.1.7) (2024-11-29)
 
 
 ### Bug Fixes
@@ -247,7 +247,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [5.1.6](https://github.com/appium/appium/compare/@appium/support@5.1.5...@appium/support@5.1.6) (2024-10-24)
+## [5.1.6](https://github.com/appium/appium/compare/@testspectra/support@5.1.5...@testspectra/support@5.1.6) (2024-10-24)
 
 
 ### Bug Fixes
@@ -256,7 +256,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [5.1.5](https://github.com/appium/appium/compare/@appium/support@5.1.4...@appium/support@5.1.5) (2024-10-15)
+## [5.1.5](https://github.com/appium/appium/compare/@testspectra/support@5.1.4...@testspectra/support@5.1.5) (2024-10-15)
 
 
 ### Bug Fixes
@@ -265,7 +265,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [5.1.4](https://github.com/appium/appium/compare/@appium/support@5.1.3...@appium/support@5.1.4) (2024-09-16)
+## [5.1.4](https://github.com/appium/appium/compare/@testspectra/support@5.1.3...@testspectra/support@5.1.4) (2024-09-16)
 
 
 ### Bug Fixes
@@ -280,7 +280,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [5.1.3](https://github.com/appium/appium/compare/@appium/support@5.1.2...@appium/support@5.1.3) (2024-08-07)
+## [5.1.3](https://github.com/appium/appium/compare/@testspectra/support@5.1.2...@testspectra/support@5.1.3) (2024-08-07)
 
 
 ### Bug Fixes
@@ -295,7 +295,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [5.1.2](https://github.com/appium/appium/compare/@appium/support@5.1.1...@appium/support@5.1.2) (2024-07-10)
+## [5.1.2](https://github.com/appium/appium/compare/@testspectra/support@5.1.1...@testspectra/support@5.1.2) (2024-07-10)
 
 
 ### Bug Fixes
@@ -307,7 +307,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [5.1.1](https://github.com/appium/appium/compare/@appium/support@5.1.0...@appium/support@5.1.1) (2024-06-28)
+## [5.1.1](https://github.com/appium/appium/compare/@testspectra/support@5.1.0...@testspectra/support@5.1.1) (2024-06-28)
 
 
 ### Bug Fixes
@@ -316,7 +316,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [5.1.0](https://github.com/appium/appium/compare/@appium/support@5.0.3...@appium/support@5.1.0) (2024-06-27)
+## [5.1.0](https://github.com/appium/appium/compare/@testspectra/support@5.0.3...@testspectra/support@5.1.0) (2024-06-27)
 
 
 ### Features
@@ -335,31 +335,31 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [5.0.3](https://github.com/appium/appium/compare/@appium/support@5.0.2...@appium/support@5.0.3) (2024-06-11)
+## [5.0.3](https://github.com/appium/appium/compare/@testspectra/support@5.0.2...@testspectra/support@5.0.3) (2024-06-11)
 
-**Note:** Version bump only for package @appium/support
-
-
-
-
-
-## [5.0.2](https://github.com/appium/appium/compare/@appium/support@5.0.1...@appium/support@5.0.2) (2024-06-11)
-
-**Note:** Version bump only for package @appium/support
+**Note:** Version bump only for package @testspectra/support
 
 
 
 
 
-## [5.0.1](https://github.com/appium/appium/compare/@appium/support@5.0.0...@appium/support@5.0.1) (2024-06-11)
+## [5.0.2](https://github.com/appium/appium/compare/@testspectra/support@5.0.1...@testspectra/support@5.0.2) (2024-06-11)
 
-**Note:** Version bump only for package @appium/support
-
-
+**Note:** Version bump only for package @testspectra/support
 
 
 
-## [5.0.0](https://github.com/appium/appium/compare/@appium/support@4.5.0...@appium/support@5.0.0) (2024-06-10)
+
+
+## [5.0.1](https://github.com/appium/appium/compare/@testspectra/support@5.0.0...@testspectra/support@5.0.1) (2024-06-11)
+
+**Note:** Version bump only for package @testspectra/support
+
+
+
+
+
+## [5.0.0](https://github.com/appium/appium/compare/@testspectra/support@4.5.0...@testspectra/support@5.0.0) (2024-06-10)
 
 
 ### ⚠ BREAKING CHANGES
@@ -367,7 +367,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 * **support:** Remove unleakString since it is now in appium/logger
 * **support:** Remove patchLogger exported method from logger
 * **support:** Removed the 'log-internals' module
-* **support:** Moved the 'loadSecureValuesPreprocessingRules' API to the '@appium/logger' package
+* **support:** Moved the 'loadSecureValuesPreprocessingRules' API to the '@testspectra/logger' package
 
 ### Features
 
@@ -383,7 +383,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [4.5.0](https://github.com/appium/appium/compare/@appium/support@4.4.0...@appium/support@4.5.0) (2024-06-06)
+## [4.5.0](https://github.com/appium/appium/compare/@testspectra/support@4.4.0...@testspectra/support@4.5.0) (2024-06-06)
 
 
 ### Features
@@ -397,7 +397,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [4.4.0](https://github.com/appium/appium/compare/@appium/support@4.3.0...@appium/support@4.4.0) (2024-06-06)
+## [4.4.0](https://github.com/appium/appium/compare/@testspectra/support@4.3.0...@testspectra/support@4.4.0) (2024-06-06)
 
 
 ### Features
@@ -411,7 +411,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [4.3.0](https://github.com/appium/appium/compare/@appium/support@4.2.6...@appium/support@4.3.0) (2024-06-06)
+## [4.3.0](https://github.com/appium/appium/compare/@testspectra/support@4.2.6...@testspectra/support@4.3.0) (2024-06-06)
 
 
 ### Features
@@ -428,7 +428,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [4.2.6](https://github.com/appium/appium/compare/@appium/support@4.2.5...@appium/support@4.2.6) (2024-05-27)
+## [4.2.6](https://github.com/appium/appium/compare/@testspectra/support@4.2.5...@testspectra/support@4.2.6) (2024-05-27)
 
 
 ### Bug Fixes
@@ -446,7 +446,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [4.2.5](https://github.com/appium/appium/compare/@appium/support@4.2.4...@appium/support@4.2.5) (2024-04-21)
+## [4.2.5](https://github.com/appium/appium/compare/@testspectra/support@4.2.4...@testspectra/support@4.2.5) (2024-04-21)
 
 
 ### Bug Fixes
@@ -456,7 +456,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [4.2.4](https://github.com/appium/appium/compare/@appium/support@4.2.3...@appium/support@4.2.4) (2024-04-16)
+## [4.2.4](https://github.com/appium/appium/compare/@testspectra/support@4.2.3...@testspectra/support@4.2.4) (2024-04-16)
 
 
 ### Bug Fixes
@@ -465,7 +465,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [4.2.3](https://github.com/appium/appium/compare/@appium/support@4.2.2...@appium/support@4.2.3) (2024-04-08)
+## [4.2.3](https://github.com/appium/appium/compare/@testspectra/support@4.2.2...@testspectra/support@4.2.3) (2024-04-08)
 
 
 ### Bug Fixes
@@ -484,7 +484,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [4.2.2](https://github.com/appium/appium/compare/@appium/support@4.2.1...@appium/support@4.2.2) (2024-02-13)
+## [4.2.2](https://github.com/appium/appium/compare/@testspectra/support@4.2.1...@testspectra/support@4.2.2) (2024-02-13)
 
 
 ### Bug Fixes
@@ -494,7 +494,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [4.2.1](https://github.com/appium/appium/compare/@appium/support@4.2.0...@appium/support@4.2.1) (2024-02-06)
+## [4.2.1](https://github.com/appium/appium/compare/@testspectra/support@4.2.0...@testspectra/support@4.2.1) (2024-02-06)
 
 
 ### Bug Fixes
@@ -509,7 +509,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [4.2.0](https://github.com/appium/appium/compare/@appium/support@4.1.11...@appium/support@4.2.0) (2024-01-03)
+## [4.2.0](https://github.com/appium/appium/compare/@testspectra/support@4.1.11...@testspectra/support@4.2.0) (2024-01-03)
 
 
 ### Features
@@ -528,12 +528,12 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [4.1.11](https://github.com/appium/appium/compare/@appium/support@4.1.10...@appium/support@4.1.11) (2023-12-18)
+## [4.1.11](https://github.com/appium/appium/compare/@testspectra/support@4.1.10...@testspectra/support@4.1.11) (2023-12-18)
 
 
 ### Bug Fixes
 
-* **docutils:** remove `@appium/typedoc-plugin-appium` and all other uses of `typedoc` ([#19465](https://github.com/appium/appium/issues/19465)) ([7528fcf](https://github.com/appium/appium/commit/7528fcf890f79f4017f5e718bb1952bf907ee479))
+* **docutils:** remove `@testspectra/typedoc-plugin-appium` and all other uses of `typedoc` ([#19465](https://github.com/appium/appium/issues/19465)) ([7528fcf](https://github.com/appium/appium/commit/7528fcf890f79f4017f5e718bb1952bf907ee479))
 * **support:** Speed up packages installation ([#19516](https://github.com/appium/appium/issues/19516)) ([59dd726](https://github.com/appium/appium/commit/59dd7268bfd0589a6d53273a8b89525adcfd14ab))
 * **support:** update dependency teen_process to v2.0.109 ([85dce4a](https://github.com/appium/appium/commit/85dce4a72b21e017b4661ddf997c096817e5fd7f))
 * **support:** update dependency teen_process to v2.0.110 ([b602693](https://github.com/appium/appium/commit/b60269371662de4c42ccd7586512c9d685d95d52))
@@ -544,7 +544,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [4.1.10](https://github.com/appium/appium/compare/@appium/support@4.1.9...@appium/support@4.1.10) (2023-12-04)
+## [4.1.10](https://github.com/appium/appium/compare/@testspectra/support@4.1.9...@testspectra/support@4.1.10) (2023-12-04)
 
 
 ### Bug Fixes
@@ -560,7 +560,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [4.1.9](https://github.com/appium/appium/compare/@appium/support@4.1.8...@appium/support@4.1.9) (2023-11-14)
+## [4.1.9](https://github.com/appium/appium/compare/@testspectra/support@4.1.8...@testspectra/support@4.1.9) (2023-11-14)
 
 
 ### Bug Fixes
@@ -582,7 +582,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [4.1.8](https://github.com/appium/appium/compare/@appium/support@4.1.7...@appium/support@4.1.8) (2023-10-19)
+## [4.1.8](https://github.com/appium/appium/compare/@testspectra/support@4.1.7...@testspectra/support@4.1.8) (2023-10-19)
 
 
 ### Bug Fixes
@@ -592,7 +592,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [4.1.7](https://github.com/appium/appium/compare/@appium/support@4.1.6...@appium/support@4.1.7) (2023-10-18)
+## [4.1.7](https://github.com/appium/appium/compare/@testspectra/support@4.1.6...@testspectra/support@4.1.7) (2023-10-18)
 
 
 ### Bug Fixes
@@ -636,15 +636,15 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [4.1.6](https://github.com/appium/appium/compare/@appium/support@4.1.5...@appium/support@4.1.6) (2023-08-22)
+## [4.1.6](https://github.com/appium/appium/compare/@testspectra/support@4.1.5...@testspectra/support@4.1.6) (2023-08-22)
 
-**Note:** Version bump only for package @appium/support
-
-
+**Note:** Version bump only for package @testspectra/support
 
 
 
-## [4.1.5](https://github.com/appium/appium/compare/@appium/support@4.1.4...@appium/support@4.1.5) (2023-08-21)
+
+
+## [4.1.5](https://github.com/appium/appium/compare/@testspectra/support@4.1.4...@testspectra/support@4.1.5) (2023-08-21)
 
 
 ### Bug Fixes
@@ -653,7 +653,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [4.1.4](https://github.com/appium/appium/compare/@appium/support@4.1.3...@appium/support@4.1.4) (2023-08-17)
+## [4.1.4](https://github.com/appium/appium/compare/@testspectra/support@4.1.3...@testspectra/support@4.1.4) (2023-08-17)
 
 
 ### Bug Fixes
@@ -667,7 +667,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [4.1.3](https://github.com/appium/appium/compare/@appium/support@4.1.2...@appium/support@4.1.3) (2023-07-24)
+## [4.1.3](https://github.com/appium/appium/compare/@testspectra/support@4.1.2...@testspectra/support@4.1.3) (2023-07-24)
 
 
 ### Bug Fixes
@@ -676,7 +676,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [4.1.2](https://github.com/appium/appium/compare/@appium/support@4.1.1...@appium/support@4.1.2) (2023-07-03)
+## [4.1.2](https://github.com/appium/appium/compare/@testspectra/support@4.1.1...@testspectra/support@4.1.2) (2023-07-03)
 
 
 ### Bug Fixes
@@ -685,15 +685,15 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [4.1.1](https://github.com/appium/appium/compare/@appium/support@4.1.0...@appium/support@4.1.1) (2023-06-29)
+## [4.1.1](https://github.com/appium/appium/compare/@testspectra/support@4.1.0...@testspectra/support@4.1.1) (2023-06-29)
 
-**Note:** Version bump only for package @appium/support
-
-
+**Note:** Version bump only for package @testspectra/support
 
 
 
-## [4.1.0](https://github.com/appium/appium/compare/@appium/support@4.0.3...@appium/support@4.1.0) (2023-06-15)
+
+
+## [4.1.0](https://github.com/appium/appium/compare/@testspectra/support@4.0.3...@testspectra/support@4.1.0) (2023-06-15)
 
 
 ### Features
@@ -702,7 +702,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [4.0.3](https://github.com/appium/appium/compare/@appium/support@4.0.2...@appium/support@4.0.3) (2023-06-14)
+## [4.0.3](https://github.com/appium/appium/compare/@testspectra/support@4.0.2...@testspectra/support@4.0.3) (2023-06-14)
 
 
 ### Bug Fixes
@@ -711,7 +711,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [4.0.2](https://github.com/appium/appium/compare/@appium/support@4.0.1...@appium/support@4.0.2) (2023-06-14)
+## [4.0.2](https://github.com/appium/appium/compare/@testspectra/support@4.0.1...@testspectra/support@4.0.2) (2023-06-14)
 
 
 ### Bug Fixes
@@ -723,7 +723,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [4.0.1](https://github.com/appium/appium/compare/@appium/support@4.0.0...@appium/support@4.0.1) (2023-05-19)
+## [4.0.1](https://github.com/appium/appium/compare/@testspectra/support@4.0.0...@testspectra/support@4.0.1) (2023-05-19)
 
 
 ### Bug Fixes
@@ -732,7 +732,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [4.0.0](https://github.com/appium/appium/compare/@appium/support@3.1.11...@appium/support@4.0.0) (2023-05-17)
+## [4.0.0](https://github.com/appium/appium/compare/@testspectra/support@3.1.11...@testspectra/support@4.0.0) (2023-05-17)
 
 
 ### ⚠ BREAKING CHANGES
@@ -756,7 +756,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [3.1.11](https://github.com/appium/appium/compare/@appium/support@3.1.10...@appium/support@3.1.11) (2023-04-14)
+## [3.1.11](https://github.com/appium/appium/compare/@testspectra/support@3.1.10...@testspectra/support@3.1.11) (2023-04-14)
 
 
 ### Bug Fixes
@@ -766,7 +766,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [3.1.10](https://github.com/appium/appium/compare/@appium/support@3.1.9...@appium/support@3.1.10) (2023-04-10)
+## [3.1.10](https://github.com/appium/appium/compare/@testspectra/support@3.1.9...@testspectra/support@3.1.10) (2023-04-10)
 
 
 ### Bug Fixes
@@ -779,7 +779,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [3.1.9](https://github.com/appium/appium/compare/@appium/support@3.1.8...@appium/support@3.1.9) (2023-04-03)
+## [3.1.9](https://github.com/appium/appium/compare/@testspectra/support@3.1.8...@testspectra/support@3.1.9) (2023-04-03)
 
 
 ### Bug Fixes
@@ -790,7 +790,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [3.1.8](https://github.com/appium/appium/compare/@appium/support@3.1.7...@appium/support@3.1.8) (2023-03-28)
+## [3.1.8](https://github.com/appium/appium/compare/@testspectra/support@3.1.7...@testspectra/support@3.1.8) (2023-03-28)
 
 
 ### Bug Fixes
@@ -804,7 +804,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [3.1.7](https://github.com/appium/appium/compare/@appium/support@3.1.6...@appium/support@3.1.7) (2023-03-08)
+## [3.1.7](https://github.com/appium/appium/compare/@testspectra/support@3.1.6...@testspectra/support@3.1.7) (2023-03-08)
 
 
 ### Bug Fixes
@@ -821,7 +821,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [3.1.6](https://github.com/appium/appium/compare/@appium/support@3.1.5...@appium/support@3.1.6) (2023-02-24)
+## [3.1.6](https://github.com/appium/appium/compare/@testspectra/support@3.1.5...@testspectra/support@3.1.6) (2023-02-24)
 
 
 ### Bug Fixes
@@ -837,7 +837,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [3.1.5](https://github.com/appium/appium/compare/@appium/support@3.1.4...@appium/support@3.1.5) (2023-02-09)
+## [3.1.5](https://github.com/appium/appium/compare/@testspectra/support@3.1.4...@testspectra/support@3.1.5) (2023-02-09)
 
 
 ### Bug Fixes
@@ -858,7 +858,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [3.1.4](https://github.com/appium/appium/compare/@appium/support@3.1.3...@appium/support@3.1.4) (2023-01-23)
+## [3.1.4](https://github.com/appium/appium/compare/@testspectra/support@3.1.3...@testspectra/support@3.1.4) (2023-01-23)
 
 
 ### Bug Fixes
@@ -872,31 +872,31 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [3.1.3](https://github.com/appium/appium/compare/@appium/support@3.1.2...@appium/support@3.1.3) (2023-01-13)
+## [3.1.3](https://github.com/appium/appium/compare/@testspectra/support@3.1.2...@testspectra/support@3.1.3) (2023-01-13)
 
-**Note:** Version bump only for package @appium/support
-
-
-
-
-
-## [3.1.2](https://github.com/appium/appium/compare/@appium/support@3.1.1...@appium/support@3.1.2) (2023-01-13)
-
-**Note:** Version bump only for package @appium/support
+**Note:** Version bump only for package @testspectra/support
 
 
 
 
 
-## [3.1.1](https://github.com/appium/appium/compare/@appium/support@3.1.0...@appium/support@3.1.1) (2023-01-13)
+## [3.1.2](https://github.com/appium/appium/compare/@testspectra/support@3.1.1...@testspectra/support@3.1.2) (2023-01-13)
 
-**Note:** Version bump only for package @appium/support
-
-
+**Note:** Version bump only for package @testspectra/support
 
 
 
-# [3.1.0](https://github.com/appium/appium/compare/@appium/support@3.0.1...@appium/support@3.1.0) (2023-01-13)
+
+
+## [3.1.1](https://github.com/appium/appium/compare/@testspectra/support@3.1.0...@testspectra/support@3.1.1) (2023-01-13)
+
+**Note:** Version bump only for package @testspectra/support
+
+
+
+
+
+# [3.1.0](https://github.com/appium/appium/compare/@testspectra/support@3.0.1...@testspectra/support@3.1.0) (2023-01-13)
 
 
 ### Bug Fixes
@@ -915,13 +915,13 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [3.0.1](https://github.com/appium/appium/compare/@appium/support@3.0.0...@appium/support@3.0.1) (2022-12-21)
+## [3.0.1](https://github.com/appium/appium/compare/@testspectra/support@3.0.0...@testspectra/support@3.0.1) (2022-12-21)
 
 ### Bug Fixes
 
 - **types:** update dependency type-fest to v3.4.0 ([37f71c3](https://github.com/appium/appium/commit/37f71c327a7c1a6d882b5198af6fedc9e8d51496))
 
-# [3.0.0](https://github.com/appium/appium/compare/@appium/support@2.61.1...@appium/support@3.0.0) (2022-12-14)
+# [3.0.0](https://github.com/appium/appium/compare/@testspectra/support@2.61.1...@testspectra/support@3.0.0) (2022-12-14)
 
 ### Bug Fixes
 
@@ -951,18 +951,18 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 - Appium now supports version range `^14.17.0 || ^16.13.0 || >=18.0.0`
 
-## [2.61.1](https://github.com/appium/appium/compare/@appium/support@2.61.0...@appium/support@2.61.1) (2022-10-14)
+## [2.61.1](https://github.com/appium/appium/compare/@testspectra/support@2.61.0...@testspectra/support@2.61.1) (2022-10-14)
 
-**Note:** Version bump only for package @appium/support
+**Note:** Version bump only for package @testspectra/support
 
-# [2.61.0](https://github.com/appium/appium/compare/@appium/support@2.60.0...@appium/support@2.61.0) (2022-10-13)
+# [2.61.0](https://github.com/appium/appium/compare/@testspectra/support@2.60.0...@testspectra/support@2.61.0) (2022-10-13)
 
 ### Features
 
 - **appium,support:** enable detection of local extensions for improved DX ([b186928](https://github.com/appium/appium/commit/b186928e60493e7603dc3b27725dad8ee20d3750))
 - **support:** add fs.isExecutable() ([08f0bc8](https://github.com/appium/appium/commit/08f0bc8839e774bd94da70c1e3df28b1d03d0911))
 
-# [2.60.0](https://github.com/appium/appium/compare/@appium/support@2.59.5...@appium/support@2.60.0) (2022-09-07)
+# [2.60.0](https://github.com/appium/appium/compare/@testspectra/support@2.59.5...@testspectra/support@2.60.0) (2022-09-07)
 
 ### Bug Fixes
 
@@ -973,20 +973,20 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 - **appium:** Adjust NODE_PATH so NPM could properly resolve component peer dependencies ([#17325](https://github.com/appium/appium/issues/17325)) ([39d5cee](https://github.com/appium/appium/commit/39d5cee1b71f611e810900d3faed8e0fed6e1ce0))
 - **support:** Move module root detection utility into support package ([#17427](https://github.com/appium/appium/issues/17427)) ([5ab7829](https://github.com/appium/appium/commit/5ab78297e172bc6a5751c636f81b3b202fbe2743))
 
-## [2.59.5](https://github.com/appium/appium/compare/@appium/support@2.59.4...@appium/support@2.59.5) (2022-08-10)
+## [2.59.5](https://github.com/appium/appium/compare/@testspectra/support@2.59.4...@testspectra/support@2.59.5) (2022-08-10)
 
 ### Bug Fixes
 
-- **support:** add missing @appium/types ([888aac8](https://github.com/appium/appium/commit/888aac85ffcf9974023ad1173ae89ebf0f27d09a))
+- **support:** add missing @testspectra/types ([888aac8](https://github.com/appium/appium/commit/888aac85ffcf9974023ad1173ae89ebf0f27d09a))
 - **support:** path to APPIUM_HOME must always be absolute ([8d6ffe0](https://github.com/appium/appium/commit/8d6ffe0932fd2aab0dbdf64e483bb906ad626e17)), closes [#17338](https://github.com/appium/appium/issues/17338)
 
-## [2.59.4](https://github.com/appium/appium/compare/@appium/support@2.59.3...@appium/support@2.59.4) (2022-08-03)
+## [2.59.4](https://github.com/appium/appium/compare/@testspectra/support@2.59.3...@testspectra/support@2.59.4) (2022-08-03)
 
 ### Bug Fixes
 
 - **appium,base-driver,base-plugin,doctor,docutils,eslint-config-appium,execute-driver-plugin,fake-driver,fake-plugin,gulp-plugins,images-plugin,opencv,relaxed-caps-plugin,schema,support,test-support,types,universal-xml-plugin:** update engines ([d8d2382](https://github.com/appium/appium/commit/d8d2382327ba7b7db8a4d1cad987c0e60184c92d))
 
-## [2.59.3](https://github.com/appium/appium/compare/@appium/support@2.59.2...@appium/support@2.59.3) (2022-07-28)
+## [2.59.3](https://github.com/appium/appium/compare/@testspectra/support@2.59.2...@testspectra/support@2.59.3) (2022-07-28)
 
 ### Bug Fixes
 
@@ -995,18 +995,18 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 - moved type packages to deps of specific packages ([f9129df](https://github.com/appium/appium/commit/f9129dfee32fcc3f89ffcfa69fb83b7c2419c24f))
 - **support:** if appium is installed extraneously, do not consider it a dependency ([85c6526](https://github.com/appium/appium/commit/85c652690927ac7ae2a6cb4efe78c81fc1f952fd))
 
-## [2.59.2](https://github.com/appium/appium/compare/@appium/support@2.59.1...@appium/support@2.59.2) (2022-06-04)
+## [2.59.2](https://github.com/appium/appium/compare/@testspectra/support@2.59.1...@testspectra/support@2.59.2) (2022-06-04)
 
 ### Bug Fixes
 
 - **support:** log-symbols is a prod dep ([5dd2e35](https://github.com/appium/appium/commit/5dd2e35ac99c8c8497ba30f882994a570a7521e9))
 - **support:** other color deps are also prod deps ([f3d3120](https://github.com/appium/appium/commit/f3d31202e03fce301c2d2006dde163a50cdd9eda))
 
-## [2.59.1](https://github.com/appium/appium/compare/@appium/support@2.59.0...@appium/support@2.59.1) (2022-05-31)
+## [2.59.1](https://github.com/appium/appium/compare/@testspectra/support@2.59.0...@testspectra/support@2.59.1) (2022-05-31)
 
-**Note:** Version bump only for package @appium/support
+**Note:** Version bump only for package @testspectra/support
 
-# [2.59.0](https://github.com/appium/appium/compare/@appium/support@2.58.0...@appium/support@2.59.0) (2022-05-31)
+# [2.59.0](https://github.com/appium/appium/compare/@testspectra/support@2.58.0...@testspectra/support@2.59.0) (2022-05-31)
 
 ### Bug Fixes
 
@@ -1016,29 +1016,29 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 - **appium,support:** extension check improvements ([6b224f5](https://github.com/appium/appium/commit/6b224f545f44b8e6ad9d587c7157bc67d7d11439))
 
-# [2.58.0](https://github.com/appium/appium/compare/@appium/support@2.57.4...@appium/support@2.58.0) (2022-05-02)
+# [2.58.0](https://github.com/appium/appium/compare/@testspectra/support@2.57.4...@testspectra/support@2.58.0) (2022-05-02)
 
 ### Features
 
 - **support:** Add a helper to deep freeze objects ([#16849](https://github.com/appium/appium/issues/16849)) ([a2b2ded](https://github.com/appium/appium/commit/a2b2ded1e4cab84b6ff9a6ecdc5bb3e544118ba0))
 
-## [2.57.4](https://github.com/appium/appium/compare/@appium/support@2.57.3...@appium/support@2.57.4) (2022-04-20)
+## [2.57.4](https://github.com/appium/appium/compare/@testspectra/support@2.57.3...@testspectra/support@2.57.4) (2022-04-20)
 
-**Note:** Version bump only for package @appium/support
+**Note:** Version bump only for package @testspectra/support
 
-## [2.57.3](https://github.com/appium/appium/compare/@appium/support@2.57.2...@appium/support@2.57.3) (2022-04-20)
+## [2.57.3](https://github.com/appium/appium/compare/@testspectra/support@2.57.2...@testspectra/support@2.57.3) (2022-04-20)
 
-**Note:** Version bump only for package @appium/support
+**Note:** Version bump only for package @testspectra/support
 
-## [2.57.2](https://github.com/appium/appium/compare/@appium/support@2.57.1...@appium/support@2.57.2) (2022-04-20)
+## [2.57.2](https://github.com/appium/appium/compare/@testspectra/support@2.57.1...@testspectra/support@2.57.2) (2022-04-20)
 
-**Note:** Version bump only for package @appium/support
+**Note:** Version bump only for package @testspectra/support
 
-## [2.57.1](https://github.com/appium/appium/compare/@appium/support@2.57.0...@appium/support@2.57.1) (2022-04-12)
+## [2.57.1](https://github.com/appium/appium/compare/@testspectra/support@2.57.0...@testspectra/support@2.57.1) (2022-04-12)
 
-**Note:** Version bump only for package @appium/support
+**Note:** Version bump only for package @testspectra/support
 
-# [2.57.0](https://github.com/appium/appium/compare/@appium/support@2.56.1...@appium/support@2.57.0) (2022-04-07)
+# [2.57.0](https://github.com/appium/appium/compare/@testspectra/support@2.56.1...@testspectra/support@2.57.0) (2022-04-07)
 
 ### Bug Fixes
 
@@ -1049,13 +1049,13 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 - **support:** generate declaration files ([326b7b4](https://github.com/appium/appium/commit/326b7b4e06f0ed964448f7d2346817928b79b143))
 
-## [2.56.1](https://github.com/appium/appium/compare/@appium/support@2.56.0...@appium/support@2.56.1) (2022-03-23)
+## [2.56.1](https://github.com/appium/appium/compare/@testspectra/support@2.56.0...@testspectra/support@2.56.1) (2022-03-23)
 
 ### Bug Fixes
 
 - **support:** add missing resolve-from dependency ([77727dc](https://github.com/appium/appium/commit/77727dc9139dcece87b25222f51a306a46040d8a))
 
-# [2.56.0](https://github.com/appium/appium/compare/@appium/support@2.55.4...@appium/support@2.56.0) (2022-03-22)
+# [2.56.0](https://github.com/appium/appium/compare/@testspectra/support@2.55.4...@testspectra/support@2.56.0) (2022-03-22)
 
 ### Features
 
@@ -1064,17 +1064,17 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 - **support:** move npm module into support ([2fbd49f](https://github.com/appium/appium/commit/2fbd49fed4cdf10fe1f4b374b5b44ae327ab3f85))
 - **support:** remove mkdirp ([9829e69](https://github.com/appium/appium/commit/9829e693333f7bd4b7728f466b02414c1e117b61))
 
-## [2.55.4](https://github.com/appium/appium/compare/@appium/support@2.55.3...@appium/support@2.55.4) (2022-01-21)
+## [2.55.4](https://github.com/appium/appium/compare/@testspectra/support@2.55.3...@testspectra/support@2.55.4) (2022-01-21)
 
-**Note:** Version bump only for package @appium/support
+**Note:** Version bump only for package @testspectra/support
 
-## [2.55.3](https://github.com/appium/appium/compare/@appium/support@2.55.2...@appium/support@2.55.3) (2022-01-11)
+## [2.55.3](https://github.com/appium/appium/compare/@testspectra/support@2.55.2...@testspectra/support@2.55.3) (2022-01-11)
 
 ### Bug Fixes
 
 - **support:** allow @u4/opencv4nodejs in addition to the old one, and promote it in doctor instead ([7d8d547](https://github.com/appium/appium/commit/7d8d547fbd5f234922a38c79239391c83d48aa5b))
 
-## [2.55.2](https://github.com/appium/appium/compare/@appium/support@2.55.1...@appium/support@2.55.2) (2021-11-19)
+## [2.55.2](https://github.com/appium/appium/compare/@testspectra/support@2.55.1...@testspectra/support@2.55.2) (2021-11-19)
 
 ### Bug Fixes
 
@@ -1084,25 +1084,25 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 - Revert "chore(support): update dependency klaw to v4" (#16105) ([e7ea40a](https://github.com/appium/appium/commit/e7ea40a656b6332dbee9b02d4f539befbd10dff6)), closes [#16105](https://github.com/appium/appium/issues/16105)
 
-## [2.55.1](https://github.com/appium/appium/compare/@appium/support@2.55.0...@appium/support@2.55.1) (2021-11-15)
+## [2.55.1](https://github.com/appium/appium/compare/@testspectra/support@2.55.0...@testspectra/support@2.55.1) (2021-11-15)
 
-**Note:** Version bump only for package @appium/support
+**Note:** Version bump only for package @testspectra/support
 
-# [2.55.0](https://github.com/appium/appium/compare/@appium/support@2.54.2...@appium/support@2.55.0) (2021-11-09)
+# [2.55.0](https://github.com/appium/appium/compare/@testspectra/support@2.54.2...@testspectra/support@2.55.0) (2021-11-09)
 
 ### Features
 
 - Add a possibility to use PowerShell to unzip files in Windows (from appium-support[#227](https://github.com/appium/appium/issues/227)) ([#15882](https://github.com/appium/appium/issues/15882)) ([1383366](https://github.com/appium/appium/commit/1383366899f03219ae68ed07e517ac8aee672d59))
 
-## [2.54.2](https://github.com/appium/appium/compare/@appium/support@2.54.1...@appium/support@2.54.2) (2021-09-14)
+## [2.54.2](https://github.com/appium/appium/compare/@testspectra/support@2.54.1...@testspectra/support@2.54.2) (2021-09-14)
 
-**Note:** Version bump only for package @appium/support
+**Note:** Version bump only for package @testspectra/support
 
-## [2.54.1](https://github.com/appium/appium/compare/@appium/support@2.54.0...@appium/support@2.54.1) (2021-09-14)
+## [2.54.1](https://github.com/appium/appium/compare/@testspectra/support@2.54.0...@testspectra/support@2.54.1) (2021-09-14)
 
-**Note:** Version bump only for package @appium/support
+**Note:** Version bump only for package @testspectra/support
 
-# [2.54.0](https://github.com/appium/appium/compare/@appium/support@2.53.0...@appium/support@2.54.0) (2021-08-16)
+# [2.54.0](https://github.com/appium/appium/compare/@testspectra/support@2.53.0...@testspectra/support@2.54.0) (2021-08-16)
 
 # 2.0.0-beta (2021-08-13)
 

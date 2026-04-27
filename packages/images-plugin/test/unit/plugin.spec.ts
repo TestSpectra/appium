@@ -8,8 +8,8 @@ import {
 } from '../../lib/constants';
 import {BaseDriver} from 'appium/driver';
 import {TEST_IMG_1_B64, TEST_IMG_2_B64, TEST_IMG_2_PART_B64} from '../fixtures/index.cjs';
-import {util} from '@appium/support';
-import type {ActionSequence, Constraints} from '@appium/types';
+import {util} from '@testspectra/support';
+import type {ActionSequence, Constraints} from '@testspectra/types';
 import {expect, use} from 'chai';
 import chaiAsPromised from 'chai-as-promised';
 

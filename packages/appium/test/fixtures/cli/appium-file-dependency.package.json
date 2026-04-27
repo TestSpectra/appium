@@ -1,6 +1,6 @@
 {
   "name": "my-project",
   "dependencies": {
-    "appium": "file:./appium/somewhere"
+    "@testspectra/appium": "file:./appium/somewhere"
   }
 }

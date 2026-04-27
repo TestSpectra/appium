@@ -2,7 +2,7 @@ import _ from 'lodash';
 import {log as logger} from './logger';
 
 import type {AppiumDriver} from './appium';
-import type {ExternalDriver} from '@appium/types';
+import type {ExternalDriver} from '@testspectra/types';
 
 const ALL_DRIVERS_MATCH = '*';
 const FEATURE_NAME_SEPARATOR = ':';

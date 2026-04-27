@@ -1,7 +1,7 @@
 import '@colors/colors';
 import _ from 'lodash';
-import {util, doctor, logger} from '@appium/support';
-import type {AppiumLogger, DoctorCheckResult, IDoctorCheck} from '@appium/types';
+import {util, doctor, logger} from '@testspectra/support';
+import type {AppiumLogger, DoctorCheckResult, IDoctorCheck} from '@testspectra/types';
 
 /**
  * Process exit codes returned by {@link Doctor.run}.

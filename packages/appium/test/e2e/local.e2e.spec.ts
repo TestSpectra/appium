@@ -1,4 +1,4 @@
-import {env, fs, npm, tempDir} from '@appium/support';
+import {env, fs, npm, tempDir} from '@testspectra/support';
 import path from 'node:path';
 import resolveFrom from 'resolve-from';
 import * as YAML from 'yaml';
@@ -89,7 +89,7 @@ describe('when Appium is a dependency of the current project', function () {
       });
 
       it('should be resolvable from the local directory', function () {
-        expect(() => resolveFrom(appiumHome, '@appium/fake-driver/package.json')).not.to.throw();
+        expect(() => resolveFrom(appiumHome, '@testspectra/fake-driver/package.json')).not.to.throw();
       });
     });
 
@@ -126,7 +126,7 @@ describe('when Appium is a dependency of the current project', function () {
 
           it('should update package.json', async function () {
             const newPkg = JSON.parse(await fs.readFile(appiumHomePkgPath, 'utf8'));
-            expect(newPkg).to.have.nested.property('devDependencies.@appium/test-driver');
+            expect(newPkg).to.have.nested.property('devDependencies.@testspectra/test-driver');
           });
 
           it('should update the manifest with the new driver', async function () {
@@ -138,8 +138,8 @@ describe('when Appium is a dependency of the current project', function () {
 
           it('should actually install both drivers', function () {
             // Resolve package.json to assert the package is present (resolving the main entry can fail in CI)
-            expect(() => resolveFrom(appiumHome, '@appium/fake-driver/package.json')).not.to.throw();
-            expect(() => resolveFrom(appiumHome, '@appium/test-driver/package.json')).not.to.throw();
+            expect(() => resolveFrom(appiumHome, '@testspectra/fake-driver/package.json')).not.to.throw();
+            expect(() => resolveFrom(appiumHome, '@testspectra/test-driver/package.json')).not.to.throw();
           });
         });
       });

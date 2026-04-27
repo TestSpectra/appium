@@ -3,7 +3,7 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-## [3.1.0](https://github.com/appium/appium/compare/@appium/eslint-config-appium-ts@3.0.2...@appium/eslint-config-appium-ts@3.1.0) (2026-04-23)
+## [3.1.0](https://github.com/appium/appium/compare/@testspectra/eslint-config-appium-ts@3.0.2...@testspectra/eslint-config-appium-ts@3.1.0) (2026-04-23)
 
 
 ### Features
@@ -17,23 +17,23 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [3.0.2](https://github.com/appium/appium/compare/@appium/eslint-config-appium-ts@3.0.1...@appium/eslint-config-appium-ts@3.0.2) (2026-04-09)
+## [3.0.2](https://github.com/appium/appium/compare/@testspectra/eslint-config-appium-ts@3.0.1...@testspectra/eslint-config-appium-ts@3.0.2) (2026-04-09)
 
-**Note:** Version bump only for package @appium/eslint-config-appium-ts
-
-
-
-
-
-## [3.0.1](https://github.com/appium/appium/compare/@appium/eslint-config-appium-ts@3.0.0...@appium/eslint-config-appium-ts@3.0.1) (2026-03-08)
-
-**Note:** Version bump only for package @appium/eslint-config-appium-ts
+**Note:** Version bump only for package @testspectra/eslint-config-appium-ts
 
 
 
 
 
-## [3.0.0](https://github.com/appium/appium/compare/@appium/eslint-config-appium-ts@2.0.5...@appium/eslint-config-appium-ts@3.0.0) (2026-01-26)
+## [3.0.1](https://github.com/appium/appium/compare/@testspectra/eslint-config-appium-ts@3.0.0...@testspectra/eslint-config-appium-ts@3.0.1) (2026-03-08)
+
+**Note:** Version bump only for package @testspectra/eslint-config-appium-ts
+
+
+
+
+
+## [3.0.0](https://github.com/appium/appium/compare/@testspectra/eslint-config-appium-ts@2.0.5...@testspectra/eslint-config-appium-ts@3.0.0) (2026-01-26)
 
 
 ### ⚠ BREAKING CHANGES
@@ -47,7 +47,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [2.0.5](https://github.com/appium/appium/compare/@appium/eslint-config-appium-ts@2.0.4...@appium/eslint-config-appium-ts@2.0.5) (2025-12-04)
+## [2.0.5](https://github.com/appium/appium/compare/@testspectra/eslint-config-appium-ts@2.0.4...@testspectra/eslint-config-appium-ts@2.0.5) (2025-12-04)
 
 
 ### Bug Fixes
@@ -56,47 +56,47 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [2.0.4](https://github.com/appium/appium/compare/@appium/eslint-config-appium-ts@2.0.3...@appium/eslint-config-appium-ts@2.0.4) (2025-11-12)
+## [2.0.4](https://github.com/appium/appium/compare/@testspectra/eslint-config-appium-ts@2.0.3...@testspectra/eslint-config-appium-ts@2.0.4) (2025-11-12)
 
-**Note:** Version bump only for package @appium/eslint-config-appium-ts
-
-
-
-
-
-## [2.0.3](https://github.com/appium/appium/compare/@appium/eslint-config-appium-ts@2.0.2...@appium/eslint-config-appium-ts@2.0.3) (2025-10-08)
-
-**Note:** Version bump only for package @appium/eslint-config-appium-ts
+**Note:** Version bump only for package @testspectra/eslint-config-appium-ts
 
 
 
 
 
-## [2.0.2](https://github.com/appium/appium/compare/@appium/eslint-config-appium-ts@2.0.1...@appium/eslint-config-appium-ts@2.0.2) (2025-09-09)
+## [2.0.3](https://github.com/appium/appium/compare/@testspectra/eslint-config-appium-ts@2.0.2...@testspectra/eslint-config-appium-ts@2.0.3) (2025-10-08)
 
-**Note:** Version bump only for package @appium/eslint-config-appium-ts
-
-
-
-
-
-## [2.0.1](https://github.com/appium/appium/compare/@appium/eslint-config-appium-ts@2.0.0...@appium/eslint-config-appium-ts@2.0.1) (2025-08-20)
-
-**Note:** Version bump only for package @appium/eslint-config-appium-ts
+**Note:** Version bump only for package @testspectra/eslint-config-appium-ts
 
 
 
 
 
-## [2.0.0](https://github.com/appium/appium/compare/@appium/eslint-config-appium-ts@2.0.0-rc.1...@appium/eslint-config-appium-ts@2.0.0) (2025-08-18)
+## [2.0.2](https://github.com/appium/appium/compare/@testspectra/eslint-config-appium-ts@2.0.1...@testspectra/eslint-config-appium-ts@2.0.2) (2025-09-09)
 
-**Note:** Version bump only for package @appium/eslint-config-appium-ts
-
-
+**Note:** Version bump only for package @testspectra/eslint-config-appium-ts
 
 
 
-## [2.0.0-rc.1](https://github.com/appium/appium/compare/@appium/eslint-config-appium-ts@1.0.3...@appium/eslint-config-appium-ts@2.0.0-rc.1) (2025-08-14)
+
+
+## [2.0.1](https://github.com/appium/appium/compare/@testspectra/eslint-config-appium-ts@2.0.0...@testspectra/eslint-config-appium-ts@2.0.1) (2025-08-20)
+
+**Note:** Version bump only for package @testspectra/eslint-config-appium-ts
+
+
+
+
+
+## [2.0.0](https://github.com/appium/appium/compare/@testspectra/eslint-config-appium-ts@2.0.0-rc.1...@testspectra/eslint-config-appium-ts@2.0.0) (2025-08-18)
+
+**Note:** Version bump only for package @testspectra/eslint-config-appium-ts
+
+
+
+
+
+## [2.0.0-rc.1](https://github.com/appium/appium/compare/@testspectra/eslint-config-appium-ts@1.0.3...@testspectra/eslint-config-appium-ts@2.0.0-rc.1) (2025-08-14)
 
 
 ### ⚠ BREAKING CHANGES
@@ -114,23 +114,23 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [1.0.4](https://github.com/appium/appium/compare/@appium/eslint-config-appium-ts@1.0.3...@appium/eslint-config-appium-ts@1.0.4) (2025-04-25)
+## [1.0.4](https://github.com/appium/appium/compare/@testspectra/eslint-config-appium-ts@1.0.3...@testspectra/eslint-config-appium-ts@1.0.4) (2025-04-25)
 
-**Note:** Version bump only for package @appium/eslint-config-appium-ts
-
-
-
-
-
-## [1.0.3](https://github.com/appium/appium/compare/@appium/eslint-config-appium-ts@1.0.2...@appium/eslint-config-appium-ts@1.0.3) (2025-02-19)
-
-**Note:** Version bump only for package @appium/eslint-config-appium-ts
+**Note:** Version bump only for package @testspectra/eslint-config-appium-ts
 
 
 
 
 
-## [1.0.2](https://github.com/appium/appium/compare/@appium/eslint-config-appium-ts@1.0.1...@appium/eslint-config-appium-ts@1.0.2) (2025-01-08)
+## [1.0.3](https://github.com/appium/appium/compare/@testspectra/eslint-config-appium-ts@1.0.2...@testspectra/eslint-config-appium-ts@1.0.3) (2025-02-19)
+
+**Note:** Version bump only for package @testspectra/eslint-config-appium-ts
+
+
+
+
+
+## [1.0.2](https://github.com/appium/appium/compare/@testspectra/eslint-config-appium-ts@1.0.1...@testspectra/eslint-config-appium-ts@1.0.2) (2025-01-08)
 
 
 ### Bug Fixes
@@ -139,9 +139,9 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [1.0.1](https://github.com/appium/appium/compare/@appium/eslint-config-appium-ts@0.3.3...@appium/eslint-config-appium-ts@1.0.1) (2025-01-02)
+## [1.0.1](https://github.com/appium/appium/compare/@testspectra/eslint-config-appium-ts@0.3.3...@testspectra/eslint-config-appium-ts@1.0.1) (2025-01-02)
 
-**Note:** Version bump only for package @appium/eslint-config-appium-ts
+**Note:** Version bump only for package @testspectra/eslint-config-appium-ts
 
 
 
@@ -174,31 +174,31 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.3.3](https://github.com/appium/appium/compare/@appium/eslint-config-appium-ts@0.3.2...@appium/eslint-config-appium-ts@0.3.3) (2024-04-08)
+## [0.3.3](https://github.com/appium/appium/compare/@testspectra/eslint-config-appium-ts@0.3.2...@testspectra/eslint-config-appium-ts@0.3.3) (2024-04-08)
 
-**Note:** Version bump only for package @appium/eslint-config-appium-ts
-
-
-
-
-
-## [0.3.2](https://github.com/appium/appium/compare/@appium/eslint-config-appium-ts@0.3.1...@appium/eslint-config-appium-ts@0.3.2) (2023-10-18)
-
-**Note:** Version bump only for package @appium/eslint-config-appium-ts
+**Note:** Version bump only for package @testspectra/eslint-config-appium-ts
 
 
 
 
 
-## [0.3.1](https://github.com/appium/appium/compare/@appium/eslint-config-appium-ts@0.3.0...@appium/eslint-config-appium-ts@0.3.1) (2023-04-03)
+## [0.3.2](https://github.com/appium/appium/compare/@testspectra/eslint-config-appium-ts@0.3.1...@testspectra/eslint-config-appium-ts@0.3.2) (2023-10-18)
 
-**Note:** Version bump only for package @appium/eslint-config-appium-ts
-
-
+**Note:** Version bump only for package @testspectra/eslint-config-appium-ts
 
 
 
-# [0.3.0](https://github.com/appium/appium/compare/@appium/eslint-config-appium-ts@0.2.0...@appium/eslint-config-appium-ts@0.3.0) (2023-03-28)
+
+
+## [0.3.1](https://github.com/appium/appium/compare/@testspectra/eslint-config-appium-ts@0.3.0...@testspectra/eslint-config-appium-ts@0.3.1) (2023-04-03)
+
+**Note:** Version bump only for package @testspectra/eslint-config-appium-ts
+
+
+
+
+
+# [0.3.0](https://github.com/appium/appium/compare/@testspectra/eslint-config-appium-ts@0.2.0...@testspectra/eslint-config-appium-ts@0.3.0) (2023-03-28)
 
 
 ### Bug Fixes
@@ -211,7 +211,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 ### BREAKING CHANGES
 
-* This makes `@appium/eslint-config-appium-ts` also apply to JS sources _and_ requires a new peer dependency (`eslint-import-resolver-typescript`). The `main` file is now a `.js` file.  The module is expected to _extend_ `@appium/eslint-config-appium`, not replace it; consumers needn't extend both in their ESLint config.
+* This makes `@testspectra/eslint-config-appium-ts` also apply to JS sources _and_ requires a new peer dependency (`eslint-import-resolver-typescript`). The `main` file is now a `.js` file.  The module is expected to _extend_ `@testspectra/eslint-config-appium`, not replace it; consumers needn't extend both in their ESLint config.
 
 In the not-too-distant past, `@typescript-eslint/parser` was unable to understand docstrings in `.js` files. Evidently this is no longer true.
 
@@ -226,4 +226,4 @@ I've rewritten and heavily commented the configuration explaining the intent beh
 
 ### Features
 
-* **eslint-config-appium-ts:** create new pkg @appium/eslint-config-appium-ts ([dfe02ca](https://github.com/appium/appium/commit/dfe02ca98c73c0cf9863a7c7441d6a1a5d37ac33))
+* **eslint-config-appium-ts:** create new pkg @testspectra/eslint-config-appium-ts ([dfe02ca](https://github.com/appium/appium/commit/dfe02ca98c73c0cf9863a7c7441d6a1a5d37ac33))

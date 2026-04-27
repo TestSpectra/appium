@@ -1,1 +1,1 @@
-export * from '@appium/support';
+export * from '@testspectra/support';

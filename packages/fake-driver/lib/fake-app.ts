@@ -6,7 +6,7 @@ import * as xpath from 'xpath';
 import {log} from './logger';
 import _ from 'lodash';
 import {FakeElement, type XmlNodeLike} from './fake-element';
-import type {ActionSequence, Location, Orientation} from '@appium/types';
+import type {ActionSequence, Location, Orientation} from '@testspectra/types';
 import type {Document as XMLDocument, Node as XMLNode} from '@xmldom/xmldom';
 
 const SCREENSHOT = path.join(__dirname, 'screen.png');

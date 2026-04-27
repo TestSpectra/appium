@@ -5,11 +5,11 @@ import type {
   Constraints,
   NSCapabilities,
   W3CCapabilities,
-} from '@appium/types';
+} from '@testspectra/types';
 import type {SinonSandbox, SinonMock, SinonStubbedMember} from 'sinon';
 import {PLUGIN_TYPE, SESSION_DISCOVERY_FEATURE} from '../../lib/constants';
-import {BaseDriver} from '@appium/base-driver';
-import {FakeDriver} from '@appium/fake-driver';
+import {BaseDriver} from '@testspectra/base-driver';
+import {FakeDriver} from '@testspectra/fake-driver';
 import {sleep} from 'asyncbox';
 import chai from 'chai';
 import chaiAsPromised from 'chai-as-promised';
@@ -19,7 +19,7 @@ import {finalizeSchema, registerSchema, resetSchema} from '../../lib/schema/sche
 import {insertAppiumPrefixes, removeAppiumPrefixes} from '../../lib/helpers/capability';
 import * as buildInfoModule from '../../lib/helpers/build';
 import {rewiremock, BASE_CAPS, W3C_CAPS, W3C_PREFIXED_CAPS} from '../helpers';
-import {BasePlugin} from '@appium/base-plugin';
+import {BasePlugin} from '@testspectra/base-plugin';
 import type * as AppiumModule from '../../lib/appium';
 
 interface MockConfigShape {

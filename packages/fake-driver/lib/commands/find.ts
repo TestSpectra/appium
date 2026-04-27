@@ -1,5 +1,5 @@
 import _ from 'lodash';
-import type {Element} from '@appium/types';
+import type {Element} from '@testspectra/types';
 import {errors} from 'appium/driver';
 import {FakeElement, type XmlNodeLike} from '../fake-element';
 import type {FakeDriver} from '../driver';

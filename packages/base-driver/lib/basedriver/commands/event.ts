@@ -1,4 +1,4 @@
-import type {Constraints, IEventCommands} from '@appium/types';
+import type {Constraints, IEventCommands} from '@testspectra/types';
 import _ from 'lodash';
 import type {BaseDriver} from '../driver';
 import {mixin} from './mixin';

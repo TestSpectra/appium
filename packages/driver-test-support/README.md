@@ -1,4 +1,4 @@
-# @appium/driver-test-support
+# @testspectra/driver-test-support
 
 > Testing utilities for [Appium](https://appium.io) drivers
 
@@ -15,7 +15,7 @@ The `driverE2ETestSuite` method creates a Mocha test suite which makes HTTP requ
 Note that this method must be run within a _suite callback_—not a _test callback_.
 
 ```js
-import {driverE2ETestSuite} from '@appium/driver-test-support';
+import {driverE2ETestSuite} from '@testspectra/driver-test-support';
 
 const defaultW3CCapabilities = {
   // some capabilities
@@ -37,7 +37,7 @@ The `driverUnitTestSuite` method creates a Mocha test suite which performs asser
 Note that this method must be run within a _suite callback_—not a _test callback_.
 
 ```js
-import {driverUnitTestSuite} from '@appium/driver-test-support';
+import {driverUnitTestSuite} from '@testspectra/driver-test-support';
 
 const defaultW3CCapabilities = {
   // some capabilities
@@ -57,7 +57,7 @@ describe('MyDriverClass', function() {
 These are just some helpers (mainly for E2E tests):
 
 ```js
-import {TEST_HOST, getTestPort, createAppiumURL} from '@appium/driver-test-support';
+import {TEST_HOST, getTestPort, createAppiumURL} from '@testspectra/driver-test-support';
 import assert from 'node:assert';
 import _ from 'lodash';
 
@@ -104,7 +104,7 @@ describe('createAppiumURL()', function() {
 `appium` and `mocha` are peer dependencies.
 
 ```bash
-npm install appium mocha @appium/driver-test-support --save-dev
+npm install appium mocha @testspectra/driver-test-support --save-dev
 ```
 
 ## License

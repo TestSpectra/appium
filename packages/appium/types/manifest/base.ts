@@ -1,4 +1,4 @@
-import type {DriverType, ExtensionType, PluginType} from '@appium/types';
+import type {DriverType, ExtensionType, PluginType} from '@testspectra/types';
 import type {SchemaObject} from 'ajv';
 import type {PackageJson, SetRequired} from 'type-fest';
 

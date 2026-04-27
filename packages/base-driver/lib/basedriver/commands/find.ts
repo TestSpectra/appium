@@ -1,5 +1,5 @@
 /* eslint-disable @typescript-eslint/no-unused-vars */
-import type {Constraints, Element, IFindCommands} from '@appium/types';
+import type {Constraints, Element, IFindCommands} from '@testspectra/types';
 import {errors} from '../../protocol';
 import type {BaseDriver} from '../driver';
 import {mixin} from './mixin';

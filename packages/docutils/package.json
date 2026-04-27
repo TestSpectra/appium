@@ -1,5 +1,5 @@
 {
-  "name": "@appium/docutils",
+  "name": "@testspectra/docutils",
   "version": "2.3.1",
   "description": "Documentation generation utilities for Appium and related projects",
   "keywords": [
@@ -46,7 +46,7 @@
     "start": "node ./build/lib/cli/index.js"
   },
   "dependencies": {
-    "@appium/support": "7.1.1",
+    "@testspectra/support": "7.1.1",
     "consola": "3.4.2",
     "diff": "9.0.0",
     "lilconfig": "3.1.3",

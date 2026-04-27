@@ -1,5 +1,5 @@
 import getPort from 'get-port';
-import {tempDir, fs} from '@appium/support';
+import {tempDir, fs} from '@testspectra/support';
 import {exec} from 'teen_process';
 import chai from 'chai';
 import chaiAsPromised from 'chai-as-promised';

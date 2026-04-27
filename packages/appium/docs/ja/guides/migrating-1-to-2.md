@@ -361,7 +361,7 @@ moves to a monorepo structure and therefore renames many of these packages, for 
 
 ```
 appium-base-driver  # Appium 1
-@appium/base-driver # Appium 2
+@testspectra/base-driver # Appium 2
 ```
 
 !!! info "Actions Needed"

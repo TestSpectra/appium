@@ -3,7 +3,7 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-## [4.2.1](https://github.com/appium/appium/compare/@appium/fake-plugin@4.2.0...@appium/fake-plugin@4.2.1) (2026-04-23)
+## [4.2.1](https://github.com/appium/appium/compare/@testspectra/fake-plugin@4.2.0...@testspectra/fake-plugin@4.2.1) (2026-04-23)
 
 
 ### Bug Fixes
@@ -12,7 +12,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [4.2.0](https://github.com/appium/appium/compare/@appium/fake-plugin@4.1.1...@appium/fake-plugin@4.2.0) (2026-04-09)
+## [4.2.0](https://github.com/appium/appium/compare/@testspectra/fake-plugin@4.1.1...@testspectra/fake-plugin@4.2.0) (2026-04-09)
 
 
 ### Features
@@ -21,15 +21,15 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [4.1.1](https://github.com/appium/appium/compare/@appium/fake-plugin@4.1.0...@appium/fake-plugin@4.1.1) (2026-03-09)
+## [4.1.1](https://github.com/appium/appium/compare/@testspectra/fake-plugin@4.1.0...@testspectra/fake-plugin@4.1.1) (2026-03-09)
 
-**Note:** Version bump only for package @appium/fake-plugin
-
-
+**Note:** Version bump only for package @testspectra/fake-plugin
 
 
 
-## [4.1.0](https://github.com/appium/appium/compare/@appium/fake-plugin@4.0.6...@appium/fake-plugin@4.1.0) (2026-03-08)
+
+
+## [4.1.0](https://github.com/appium/appium/compare/@testspectra/fake-plugin@4.0.6...@testspectra/fake-plugin@4.1.0) (2026-03-08)
 
 
 ### Features
@@ -39,67 +39,67 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 ### Bug Fixes
 
-* Move @appium/types to dev dependencies for various packages ([#21920](https://github.com/appium/appium/issues/21920)) ([2615935](https://github.com/appium/appium/commit/261593593947bc59e7a937e518fc6f019cafda7a))
+* Move @testspectra/types to dev dependencies for various packages ([#21920](https://github.com/appium/appium/issues/21920)) ([2615935](https://github.com/appium/appium/commit/261593593947bc59e7a937e518fc6f019cafda7a))
 
 
 
-## [4.0.6](https://github.com/appium/appium/compare/@appium/fake-plugin@4.0.5...@appium/fake-plugin@4.0.6) (2026-01-26)
+## [4.0.6](https://github.com/appium/appium/compare/@testspectra/fake-plugin@4.0.5...@testspectra/fake-plugin@4.0.6) (2026-01-26)
 
-**Note:** Version bump only for package @appium/fake-plugin
-
-
-
-
-
-## [4.0.5](https://github.com/appium/appium/compare/@appium/fake-plugin@4.0.4...@appium/fake-plugin@4.0.5) (2025-12-04)
-
-**Note:** Version bump only for package @appium/fake-plugin
+**Note:** Version bump only for package @testspectra/fake-plugin
 
 
 
 
 
-## [4.0.4](https://github.com/appium/appium/compare/@appium/fake-plugin@4.0.3...@appium/fake-plugin@4.0.4) (2025-11-12)
+## [4.0.5](https://github.com/appium/appium/compare/@testspectra/fake-plugin@4.0.4...@testspectra/fake-plugin@4.0.5) (2025-12-04)
 
-**Note:** Version bump only for package @appium/fake-plugin
-
-
-
-
-
-## [4.0.3](https://github.com/appium/appium/compare/@appium/fake-plugin@4.0.2...@appium/fake-plugin@4.0.3) (2025-10-08)
-
-**Note:** Version bump only for package @appium/fake-plugin
+**Note:** Version bump only for package @testspectra/fake-plugin
 
 
 
 
 
-## [4.0.2](https://github.com/appium/appium/compare/@appium/fake-plugin@4.0.1...@appium/fake-plugin@4.0.2) (2025-09-09)
+## [4.0.4](https://github.com/appium/appium/compare/@testspectra/fake-plugin@4.0.3...@testspectra/fake-plugin@4.0.4) (2025-11-12)
 
-**Note:** Version bump only for package @appium/fake-plugin
-
-
-
-
-
-## [4.0.1](https://github.com/appium/appium/compare/@appium/fake-plugin@4.0.0...@appium/fake-plugin@4.0.1) (2025-08-20)
-
-**Note:** Version bump only for package @appium/fake-plugin
+**Note:** Version bump only for package @testspectra/fake-plugin
 
 
 
 
 
-## [4.0.0](https://github.com/appium/appium/compare/@appium/fake-plugin@4.0.0-rc.1...@appium/fake-plugin@4.0.0) (2025-08-18)
+## [4.0.3](https://github.com/appium/appium/compare/@testspectra/fake-plugin@4.0.2...@testspectra/fake-plugin@4.0.3) (2025-10-08)
 
-**Note:** Version bump only for package @appium/fake-plugin
-
-
+**Note:** Version bump only for package @testspectra/fake-plugin
 
 
 
-## [4.0.0-rc.1](https://github.com/appium/appium/compare/@appium/fake-plugin@3.2.3...@appium/fake-plugin@4.0.0-rc.1) (2025-08-14)
+
+
+## [4.0.2](https://github.com/appium/appium/compare/@testspectra/fake-plugin@4.0.1...@testspectra/fake-plugin@4.0.2) (2025-09-09)
+
+**Note:** Version bump only for package @testspectra/fake-plugin
+
+
+
+
+
+## [4.0.1](https://github.com/appium/appium/compare/@testspectra/fake-plugin@4.0.0...@testspectra/fake-plugin@4.0.1) (2025-08-20)
+
+**Note:** Version bump only for package @testspectra/fake-plugin
+
+
+
+
+
+## [4.0.0](https://github.com/appium/appium/compare/@testspectra/fake-plugin@4.0.0-rc.1...@testspectra/fake-plugin@4.0.0) (2025-08-18)
+
+**Note:** Version bump only for package @testspectra/fake-plugin
+
+
+
+
+
+## [4.0.0-rc.1](https://github.com/appium/appium/compare/@testspectra/fake-plugin@3.2.3...@testspectra/fake-plugin@4.0.0-rc.1) (2025-08-14)
 
 
 ### ⚠ BREAKING CHANGES
@@ -117,63 +117,63 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [3.2.7](https://github.com/appium/appium/compare/@appium/fake-plugin@3.2.6...@appium/fake-plugin@3.2.7) (2025-06-01)
+## [3.2.7](https://github.com/appium/appium/compare/@testspectra/fake-plugin@3.2.6...@testspectra/fake-plugin@3.2.7) (2025-06-01)
 
-**Note:** Version bump only for package @appium/fake-plugin
-
-
-
-
-
-## [3.2.6](https://github.com/appium/appium/compare/@appium/fake-plugin@3.2.5...@appium/fake-plugin@3.2.6) (2025-04-25)
-
-**Note:** Version bump only for package @appium/fake-plugin
+**Note:** Version bump only for package @testspectra/fake-plugin
 
 
 
 
 
-## [3.2.5](https://github.com/appium/appium/compare/@appium/fake-plugin@3.2.4...@appium/fake-plugin@3.2.5) (2025-03-17)
+## [3.2.6](https://github.com/appium/appium/compare/@testspectra/fake-plugin@3.2.5...@testspectra/fake-plugin@3.2.6) (2025-04-25)
 
-**Note:** Version bump only for package @appium/fake-plugin
-
-
-
-
-
-## [3.2.4](https://github.com/appium/appium/compare/@appium/fake-plugin@3.2.3...@appium/fake-plugin@3.2.4) (2025-03-11)
-
-**Note:** Version bump only for package @appium/fake-plugin
+**Note:** Version bump only for package @testspectra/fake-plugin
 
 
 
 
 
-## [3.2.3](https://github.com/appium/appium/compare/@appium/fake-plugin@3.2.2...@appium/fake-plugin@3.2.3) (2025-02-20)
+## [3.2.5](https://github.com/appium/appium/compare/@testspectra/fake-plugin@3.2.4...@testspectra/fake-plugin@3.2.5) (2025-03-17)
 
-**Note:** Version bump only for package @appium/fake-plugin
-
-
-
-
-
-## [3.2.2](https://github.com/appium/appium/compare/@appium/fake-plugin@3.2.1...@appium/fake-plugin@3.2.2) (2025-02-20)
-
-**Note:** Version bump only for package @appium/fake-plugin
+**Note:** Version bump only for package @testspectra/fake-plugin
 
 
 
 
 
-## [3.2.1](https://github.com/appium/appium/compare/@appium/fake-plugin@3.2.0...@appium/fake-plugin@3.2.1) (2025-02-19)
+## [3.2.4](https://github.com/appium/appium/compare/@testspectra/fake-plugin@3.2.3...@testspectra/fake-plugin@3.2.4) (2025-03-11)
 
-**Note:** Version bump only for package @appium/fake-plugin
-
-
+**Note:** Version bump only for package @testspectra/fake-plugin
 
 
 
-## [3.2.0](https://github.com/appium/appium/compare/@appium/fake-plugin@3.1.56...@appium/fake-plugin@3.2.0) (2025-01-08)
+
+
+## [3.2.3](https://github.com/appium/appium/compare/@testspectra/fake-plugin@3.2.2...@testspectra/fake-plugin@3.2.3) (2025-02-20)
+
+**Note:** Version bump only for package @testspectra/fake-plugin
+
+
+
+
+
+## [3.2.2](https://github.com/appium/appium/compare/@testspectra/fake-plugin@3.2.1...@testspectra/fake-plugin@3.2.2) (2025-02-20)
+
+**Note:** Version bump only for package @testspectra/fake-plugin
+
+
+
+
+
+## [3.2.1](https://github.com/appium/appium/compare/@testspectra/fake-plugin@3.2.0...@testspectra/fake-plugin@3.2.1) (2025-02-19)
+
+**Note:** Version bump only for package @testspectra/fake-plugin
+
+
+
+
+
+## [3.2.0](https://github.com/appium/appium/compare/@testspectra/fake-plugin@3.1.56...@testspectra/fake-plugin@3.2.0) (2025-01-08)
 
 
 ### Features
@@ -182,240 +182,240 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [3.1.56](https://github.com/appium/appium/compare/@appium/fake-plugin@3.1.55...@appium/fake-plugin@3.1.56) (2025-01-06)
+## [3.1.56](https://github.com/appium/appium/compare/@testspectra/fake-plugin@3.1.55...@testspectra/fake-plugin@3.1.56) (2025-01-06)
 
-**Note:** Version bump only for package @appium/fake-plugin
+**Note:** Version bump only for package @testspectra/fake-plugin
 
 
 
 
 
-## [3.1.55](https://github.com/appium/appium/compare/@appium/fake-plugin@3.1.54...@appium/fake-plugin@3.1.55) (2025-01-02)
+## [3.1.55](https://github.com/appium/appium/compare/@testspectra/fake-plugin@3.1.54...@testspectra/fake-plugin@3.1.55) (2025-01-02)
 
-**Note:** Version bump only for package @appium/fake-plugin
+**Note:** Version bump only for package @testspectra/fake-plugin
 
 
 
 
 
-## [3.1.54](https://github.com/appium/appium/compare/@appium/fake-plugin@3.1.53...@appium/fake-plugin@3.1.54) (2024-12-05)
+## [3.1.54](https://github.com/appium/appium/compare/@testspectra/fake-plugin@3.1.53...@testspectra/fake-plugin@3.1.54) (2024-12-05)
 
-**Note:** Version bump only for package @appium/fake-plugin
+**Note:** Version bump only for package @testspectra/fake-plugin
 
 
 
 
 
-## [3.1.53](https://github.com/appium/appium/compare/@appium/fake-plugin@3.1.52...@appium/fake-plugin@3.1.53) (2024-12-02)
+## [3.1.53](https://github.com/appium/appium/compare/@testspectra/fake-plugin@3.1.52...@testspectra/fake-plugin@3.1.53) (2024-12-02)
 
-**Note:** Version bump only for package @appium/fake-plugin
+**Note:** Version bump only for package @testspectra/fake-plugin
 
 
 
 
 
-## [3.1.52](https://github.com/appium/appium/compare/@appium/fake-plugin@3.1.51...@appium/fake-plugin@3.1.52) (2024-11-29)
+## [3.1.52](https://github.com/appium/appium/compare/@testspectra/fake-plugin@3.1.51...@testspectra/fake-plugin@3.1.52) (2024-11-29)
 
-**Note:** Version bump only for package @appium/fake-plugin
+**Note:** Version bump only for package @testspectra/fake-plugin
 
 
 
 
 
-## [3.1.51](https://github.com/appium/appium/compare/@appium/fake-plugin@3.1.50...@appium/fake-plugin@3.1.51) (2024-10-24)
+## [3.1.51](https://github.com/appium/appium/compare/@testspectra/fake-plugin@3.1.50...@testspectra/fake-plugin@3.1.51) (2024-10-24)
 
-**Note:** Version bump only for package @appium/fake-plugin
+**Note:** Version bump only for package @testspectra/fake-plugin
 
 
 
 
 
-## [3.1.50](https://github.com/appium/appium/compare/@appium/fake-plugin@3.1.49...@appium/fake-plugin@3.1.50) (2024-10-15)
+## [3.1.50](https://github.com/appium/appium/compare/@testspectra/fake-plugin@3.1.49...@testspectra/fake-plugin@3.1.50) (2024-10-15)
 
-**Note:** Version bump only for package @appium/fake-plugin
+**Note:** Version bump only for package @testspectra/fake-plugin
 
 
 
 
 
-## [3.1.49](https://github.com/appium/appium/compare/@appium/fake-plugin@3.1.48...@appium/fake-plugin@3.1.49) (2024-09-26)
+## [3.1.49](https://github.com/appium/appium/compare/@testspectra/fake-plugin@3.1.48...@testspectra/fake-plugin@3.1.49) (2024-09-26)
 
-**Note:** Version bump only for package @appium/fake-plugin
+**Note:** Version bump only for package @testspectra/fake-plugin
 
 
 
 
 
-## [3.1.48](https://github.com/appium/appium/compare/@appium/fake-plugin@3.1.47...@appium/fake-plugin@3.1.48) (2024-09-16)
+## [3.1.48](https://github.com/appium/appium/compare/@testspectra/fake-plugin@3.1.47...@testspectra/fake-plugin@3.1.48) (2024-09-16)
 
-**Note:** Version bump only for package @appium/fake-plugin
+**Note:** Version bump only for package @testspectra/fake-plugin
 
 
 
 
 
-## [3.1.47](https://github.com/appium/appium/compare/@appium/fake-plugin@3.1.46...@appium/fake-plugin@3.1.47) (2024-08-07)
+## [3.1.47](https://github.com/appium/appium/compare/@testspectra/fake-plugin@3.1.46...@testspectra/fake-plugin@3.1.47) (2024-08-07)
 
-**Note:** Version bump only for package @appium/fake-plugin
+**Note:** Version bump only for package @testspectra/fake-plugin
 
 
 
 
 
-## [3.1.46](https://github.com/appium/appium/compare/@appium/fake-plugin@3.1.45...@appium/fake-plugin@3.1.46) (2024-07-10)
+## [3.1.46](https://github.com/appium/appium/compare/@testspectra/fake-plugin@3.1.45...@testspectra/fake-plugin@3.1.46) (2024-07-10)
 
-**Note:** Version bump only for package @appium/fake-plugin
+**Note:** Version bump only for package @testspectra/fake-plugin
 
 
 
 
 
-## [3.1.45](https://github.com/appium/appium/compare/@appium/fake-plugin@3.1.44...@appium/fake-plugin@3.1.45) (2024-06-28)
+## [3.1.45](https://github.com/appium/appium/compare/@testspectra/fake-plugin@3.1.44...@testspectra/fake-plugin@3.1.45) (2024-06-28)
 
-**Note:** Version bump only for package @appium/fake-plugin
+**Note:** Version bump only for package @testspectra/fake-plugin
 
 
 
 
 
-## [3.1.44](https://github.com/appium/appium/compare/@appium/fake-plugin@3.1.43...@appium/fake-plugin@3.1.44) (2024-06-27)
+## [3.1.44](https://github.com/appium/appium/compare/@testspectra/fake-plugin@3.1.43...@testspectra/fake-plugin@3.1.44) (2024-06-27)
 
-**Note:** Version bump only for package @appium/fake-plugin
+**Note:** Version bump only for package @testspectra/fake-plugin
 
 
 
 
 
-## [3.1.43](https://github.com/appium/appium/compare/@appium/fake-plugin@3.1.42...@appium/fake-plugin@3.1.43) (2024-06-11)
+## [3.1.43](https://github.com/appium/appium/compare/@testspectra/fake-plugin@3.1.42...@testspectra/fake-plugin@3.1.43) (2024-06-11)
 
-**Note:** Version bump only for package @appium/fake-plugin
+**Note:** Version bump only for package @testspectra/fake-plugin
 
 
 
 
 
-## [3.1.42](https://github.com/appium/appium/compare/@appium/fake-plugin@3.1.41...@appium/fake-plugin@3.1.42) (2024-06-11)
+## [3.1.42](https://github.com/appium/appium/compare/@testspectra/fake-plugin@3.1.41...@testspectra/fake-plugin@3.1.42) (2024-06-11)
 
-**Note:** Version bump only for package @appium/fake-plugin
+**Note:** Version bump only for package @testspectra/fake-plugin
 
 
 
 
 
-## [3.1.41](https://github.com/appium/appium/compare/@appium/fake-plugin@3.1.40...@appium/fake-plugin@3.1.41) (2024-06-11)
+## [3.1.41](https://github.com/appium/appium/compare/@testspectra/fake-plugin@3.1.40...@testspectra/fake-plugin@3.1.41) (2024-06-11)
 
-**Note:** Version bump only for package @appium/fake-plugin
+**Note:** Version bump only for package @testspectra/fake-plugin
 
 
 
 
 
-## [3.1.40](https://github.com/appium/appium/compare/@appium/fake-plugin@3.1.39...@appium/fake-plugin@3.1.40) (2024-06-10)
+## [3.1.40](https://github.com/appium/appium/compare/@testspectra/fake-plugin@3.1.39...@testspectra/fake-plugin@3.1.40) (2024-06-10)
 
-**Note:** Version bump only for package @appium/fake-plugin
+**Note:** Version bump only for package @testspectra/fake-plugin
 
 
 
 
 
-## [3.1.39](https://github.com/appium/appium/compare/@appium/fake-plugin@3.1.38...@appium/fake-plugin@3.1.39) (2024-06-06)
+## [3.1.39](https://github.com/appium/appium/compare/@testspectra/fake-plugin@3.1.38...@testspectra/fake-plugin@3.1.39) (2024-06-06)
 
-**Note:** Version bump only for package @appium/fake-plugin
+**Note:** Version bump only for package @testspectra/fake-plugin
 
 
 
 
 
-## [3.1.38](https://github.com/appium/appium/compare/@appium/fake-plugin@3.1.37...@appium/fake-plugin@3.1.38) (2024-06-06)
+## [3.1.38](https://github.com/appium/appium/compare/@testspectra/fake-plugin@3.1.37...@testspectra/fake-plugin@3.1.38) (2024-06-06)
 
-**Note:** Version bump only for package @appium/fake-plugin
+**Note:** Version bump only for package @testspectra/fake-plugin
 
 
 
 
 
-## [3.1.37](https://github.com/appium/appium/compare/@appium/fake-plugin@3.1.36...@appium/fake-plugin@3.1.37) (2024-06-06)
+## [3.1.37](https://github.com/appium/appium/compare/@testspectra/fake-plugin@3.1.36...@testspectra/fake-plugin@3.1.37) (2024-06-06)
 
-**Note:** Version bump only for package @appium/fake-plugin
+**Note:** Version bump only for package @testspectra/fake-plugin
 
 
 
 
 
-## [3.1.36](https://github.com/appium/appium/compare/@appium/fake-plugin@3.1.35...@appium/fake-plugin@3.1.36) (2024-05-27)
+## [3.1.36](https://github.com/appium/appium/compare/@testspectra/fake-plugin@3.1.35...@testspectra/fake-plugin@3.1.36) (2024-05-27)
 
-**Note:** Version bump only for package @appium/fake-plugin
+**Note:** Version bump only for package @testspectra/fake-plugin
 
 
 
 
 
-## [3.1.35](https://github.com/appium/appium/compare/@appium/fake-plugin@3.1.34...@appium/fake-plugin@3.1.35) (2024-04-21)
+## [3.1.35](https://github.com/appium/appium/compare/@testspectra/fake-plugin@3.1.34...@testspectra/fake-plugin@3.1.35) (2024-04-21)
 
-**Note:** Version bump only for package @appium/fake-plugin
+**Note:** Version bump only for package @testspectra/fake-plugin
 
 
 
 
 
-## [3.1.34](https://github.com/appium/appium/compare/@appium/fake-plugin@3.1.33...@appium/fake-plugin@3.1.34) (2024-04-16)
+## [3.1.34](https://github.com/appium/appium/compare/@testspectra/fake-plugin@3.1.33...@testspectra/fake-plugin@3.1.34) (2024-04-16)
 
-**Note:** Version bump only for package @appium/fake-plugin
+**Note:** Version bump only for package @testspectra/fake-plugin
 
 
 
 
 
-## [3.1.33](https://github.com/appium/appium/compare/@appium/fake-plugin@3.1.32...@appium/fake-plugin@3.1.33) (2024-04-08)
+## [3.1.33](https://github.com/appium/appium/compare/@testspectra/fake-plugin@3.1.32...@testspectra/fake-plugin@3.1.33) (2024-04-08)
 
-**Note:** Version bump only for package @appium/fake-plugin
+**Note:** Version bump only for package @testspectra/fake-plugin
 
 
 
 
 
-## [3.1.32](https://github.com/appium/appium/compare/@appium/fake-plugin@3.1.31...@appium/fake-plugin@3.1.32) (2024-02-13)
+## [3.1.32](https://github.com/appium/appium/compare/@testspectra/fake-plugin@3.1.31...@testspectra/fake-plugin@3.1.32) (2024-02-13)
 
-**Note:** Version bump only for package @appium/fake-plugin
+**Note:** Version bump only for package @testspectra/fake-plugin
 
 
 
 
 
-## [3.1.31](https://github.com/appium/appium/compare/@appium/fake-plugin@3.1.30...@appium/fake-plugin@3.1.31) (2024-02-06)
+## [3.1.31](https://github.com/appium/appium/compare/@testspectra/fake-plugin@3.1.30...@testspectra/fake-plugin@3.1.31) (2024-02-06)
 
-**Note:** Version bump only for package @appium/fake-plugin
+**Note:** Version bump only for package @testspectra/fake-plugin
 
 
 
 
 
-## [3.1.30](https://github.com/appium/appium/compare/@appium/fake-plugin@3.1.29...@appium/fake-plugin@3.1.30) (2024-01-03)
+## [3.1.30](https://github.com/appium/appium/compare/@testspectra/fake-plugin@3.1.29...@testspectra/fake-plugin@3.1.30) (2024-01-03)
 
-**Note:** Version bump only for package @appium/fake-plugin
+**Note:** Version bump only for package @testspectra/fake-plugin
 
 
 
 
 
-## [3.1.29](https://github.com/appium/appium/compare/@appium/fake-plugin@3.1.28...@appium/fake-plugin@3.1.29) (2023-12-18)
+## [3.1.29](https://github.com/appium/appium/compare/@testspectra/fake-plugin@3.1.28...@testspectra/fake-plugin@3.1.29) (2023-12-18)
 
 
 ### Bug Fixes
 
-* **docutils:** remove `@appium/typedoc-plugin-appium` and all other uses of `typedoc` ([#19465](https://github.com/appium/appium/issues/19465)) ([7528fcf](https://github.com/appium/appium/commit/7528fcf890f79f4017f5e718bb1952bf907ee479))
+* **docutils:** remove `@testspectra/typedoc-plugin-appium` and all other uses of `typedoc` ([#19465](https://github.com/appium/appium/issues/19465)) ([7528fcf](https://github.com/appium/appium/commit/7528fcf890f79f4017f5e718bb1952bf907ee479))
 
 
 
-## [3.1.28](https://github.com/appium/appium/compare/@appium/fake-plugin@3.1.27...@appium/fake-plugin@3.1.28) (2023-12-04)
+## [3.1.28](https://github.com/appium/appium/compare/@testspectra/fake-plugin@3.1.27...@testspectra/fake-plugin@3.1.28) (2023-12-04)
 
-**Note:** Version bump only for package @appium/fake-plugin
-
-
+**Note:** Version bump only for package @testspectra/fake-plugin
 
 
 
-## [3.1.27](https://github.com/appium/appium/compare/@appium/fake-plugin@3.1.26...@appium/fake-plugin@3.1.27) (2023-11-14)
+
+
+## [3.1.27](https://github.com/appium/appium/compare/@testspectra/fake-plugin@3.1.26...@testspectra/fake-plugin@3.1.27) (2023-11-14)
 
 
 ### Bug Fixes
@@ -424,7 +424,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [3.1.26](https://github.com/appium/appium/compare/@appium/fake-plugin@3.1.25...@appium/fake-plugin@3.1.26) (2023-10-19)
+## [3.1.26](https://github.com/appium/appium/compare/@testspectra/fake-plugin@3.1.25...@testspectra/fake-plugin@3.1.26) (2023-10-19)
 
 
 ### Bug Fixes
@@ -433,7 +433,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [3.1.25](https://github.com/appium/appium/compare/@appium/fake-plugin@3.1.24...@appium/fake-plugin@3.1.25) (2023-10-18)
+## [3.1.25](https://github.com/appium/appium/compare/@testspectra/fake-plugin@3.1.24...@testspectra/fake-plugin@3.1.25) (2023-10-18)
 
 
 ### Bug Fixes
@@ -443,199 +443,199 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [3.1.24](https://github.com/appium/appium/compare/@appium/fake-plugin@3.1.23...@appium/fake-plugin@3.1.24) (2023-08-23)
+## [3.1.24](https://github.com/appium/appium/compare/@testspectra/fake-plugin@3.1.23...@testspectra/fake-plugin@3.1.24) (2023-08-23)
 
-**Note:** Version bump only for package @appium/fake-plugin
+**Note:** Version bump only for package @testspectra/fake-plugin
 
 
 
 
 
-## [3.1.23](https://github.com/appium/appium/compare/@appium/fake-plugin@3.1.22...@appium/fake-plugin@3.1.23) (2023-08-22)
+## [3.1.23](https://github.com/appium/appium/compare/@testspectra/fake-plugin@3.1.22...@testspectra/fake-plugin@3.1.23) (2023-08-22)
 
-**Note:** Version bump only for package @appium/fake-plugin
+**Note:** Version bump only for package @testspectra/fake-plugin
 
 
 
 
 
-## [3.1.22](https://github.com/appium/appium/compare/@appium/fake-plugin@3.1.21...@appium/fake-plugin@3.1.22) (2023-08-21)
+## [3.1.22](https://github.com/appium/appium/compare/@testspectra/fake-plugin@3.1.21...@testspectra/fake-plugin@3.1.22) (2023-08-21)
 
-**Note:** Version bump only for package @appium/fake-plugin
+**Note:** Version bump only for package @testspectra/fake-plugin
 
 
 
 
 
-## [3.1.21](https://github.com/appium/appium/compare/@appium/fake-plugin@3.1.20...@appium/fake-plugin@3.1.21) (2023-08-17)
+## [3.1.21](https://github.com/appium/appium/compare/@testspectra/fake-plugin@3.1.20...@testspectra/fake-plugin@3.1.21) (2023-08-17)
 
-**Note:** Version bump only for package @appium/fake-plugin
+**Note:** Version bump only for package @testspectra/fake-plugin
 
 
 
 
 
-## [3.1.20](https://github.com/appium/appium/compare/@appium/fake-plugin@3.1.19...@appium/fake-plugin@3.1.20) (2023-07-24)
+## [3.1.20](https://github.com/appium/appium/compare/@testspectra/fake-plugin@3.1.19...@testspectra/fake-plugin@3.1.20) (2023-07-24)
 
-**Note:** Version bump only for package @appium/fake-plugin
+**Note:** Version bump only for package @testspectra/fake-plugin
 
 
 
 
 
-## [3.1.19](https://github.com/appium/appium/compare/@appium/fake-plugin@3.1.18...@appium/fake-plugin@3.1.19) (2023-07-03)
+## [3.1.19](https://github.com/appium/appium/compare/@testspectra/fake-plugin@3.1.18...@testspectra/fake-plugin@3.1.19) (2023-07-03)
 
-**Note:** Version bump only for package @appium/fake-plugin
+**Note:** Version bump only for package @testspectra/fake-plugin
 
 
 
 
 
-## [3.1.18](https://github.com/appium/appium/compare/@appium/fake-plugin@3.1.17...@appium/fake-plugin@3.1.18) (2023-06-29)
+## [3.1.18](https://github.com/appium/appium/compare/@testspectra/fake-plugin@3.1.17...@testspectra/fake-plugin@3.1.18) (2023-06-29)
 
-**Note:** Version bump only for package @appium/fake-plugin
+**Note:** Version bump only for package @testspectra/fake-plugin
 
 
 
 
 
-## [3.1.17](https://github.com/appium/appium/compare/@appium/fake-plugin@3.1.16...@appium/fake-plugin@3.1.17) (2023-06-15)
+## [3.1.17](https://github.com/appium/appium/compare/@testspectra/fake-plugin@3.1.16...@testspectra/fake-plugin@3.1.17) (2023-06-15)
 
-**Note:** Version bump only for package @appium/fake-plugin
+**Note:** Version bump only for package @testspectra/fake-plugin
 
 
 
 
 
-## [3.1.16](https://github.com/appium/appium/compare/@appium/fake-plugin@3.1.15...@appium/fake-plugin@3.1.16) (2023-06-14)
+## [3.1.16](https://github.com/appium/appium/compare/@testspectra/fake-plugin@3.1.15...@testspectra/fake-plugin@3.1.16) (2023-06-14)
 
-**Note:** Version bump only for package @appium/fake-plugin
+**Note:** Version bump only for package @testspectra/fake-plugin
 
 
 
 
 
-## [3.1.15](https://github.com/appium/appium/compare/@appium/fake-plugin@3.1.14...@appium/fake-plugin@3.1.15) (2023-06-14)
+## [3.1.15](https://github.com/appium/appium/compare/@testspectra/fake-plugin@3.1.14...@testspectra/fake-plugin@3.1.15) (2023-06-14)
 
-**Note:** Version bump only for package @appium/fake-plugin
+**Note:** Version bump only for package @testspectra/fake-plugin
 
 
 
 
 
-## [3.1.14](https://github.com/appium/appium/compare/@appium/fake-plugin@3.1.13...@appium/fake-plugin@3.1.14) (2023-05-19)
+## [3.1.14](https://github.com/appium/appium/compare/@testspectra/fake-plugin@3.1.13...@testspectra/fake-plugin@3.1.14) (2023-05-19)
 
-**Note:** Version bump only for package @appium/fake-plugin
+**Note:** Version bump only for package @testspectra/fake-plugin
 
 
 
 
 
-## [3.1.13](https://github.com/appium/appium/compare/@appium/fake-plugin@3.1.12...@appium/fake-plugin@3.1.13) (2023-05-19)
+## [3.1.13](https://github.com/appium/appium/compare/@testspectra/fake-plugin@3.1.12...@testspectra/fake-plugin@3.1.13) (2023-05-19)
 
-**Note:** Version bump only for package @appium/fake-plugin
+**Note:** Version bump only for package @testspectra/fake-plugin
 
 
 
 
 
-## [3.1.12](https://github.com/appium/appium/compare/@appium/fake-plugin@3.1.11...@appium/fake-plugin@3.1.12) (2023-05-17)
+## [3.1.12](https://github.com/appium/appium/compare/@testspectra/fake-plugin@3.1.11...@testspectra/fake-plugin@3.1.12) (2023-05-17)
 
-**Note:** Version bump only for package @appium/fake-plugin
+**Note:** Version bump only for package @testspectra/fake-plugin
 
 
 
 
 
-## [3.1.11](https://github.com/appium/appium/compare/@appium/fake-plugin@3.1.10...@appium/fake-plugin@3.1.11) (2023-04-14)
+## [3.1.11](https://github.com/appium/appium/compare/@testspectra/fake-plugin@3.1.10...@testspectra/fake-plugin@3.1.11) (2023-04-14)
 
-**Note:** Version bump only for package @appium/fake-plugin
+**Note:** Version bump only for package @testspectra/fake-plugin
 
 
 
 
 
-## [3.1.10](https://github.com/appium/appium/compare/@appium/fake-plugin@3.1.9...@appium/fake-plugin@3.1.10) (2023-04-10)
+## [3.1.10](https://github.com/appium/appium/compare/@testspectra/fake-plugin@3.1.9...@testspectra/fake-plugin@3.1.10) (2023-04-10)
 
-**Note:** Version bump only for package @appium/fake-plugin
+**Note:** Version bump only for package @testspectra/fake-plugin
 
 
 
 
 
-## [3.1.9](https://github.com/appium/appium/compare/@appium/fake-plugin@3.1.8...@appium/fake-plugin@3.1.9) (2023-04-03)
+## [3.1.9](https://github.com/appium/appium/compare/@testspectra/fake-plugin@3.1.8...@testspectra/fake-plugin@3.1.9) (2023-04-03)
 
-**Note:** Version bump only for package @appium/fake-plugin
+**Note:** Version bump only for package @testspectra/fake-plugin
 
 
 
 
 
-## [3.1.8](https://github.com/appium/appium/compare/@appium/fake-plugin@3.1.7...@appium/fake-plugin@3.1.8) (2023-03-28)
+## [3.1.8](https://github.com/appium/appium/compare/@testspectra/fake-plugin@3.1.7...@testspectra/fake-plugin@3.1.8) (2023-03-28)
 
-**Note:** Version bump only for package @appium/fake-plugin
+**Note:** Version bump only for package @testspectra/fake-plugin
 
 
 
 
 
-## [3.1.7](https://github.com/appium/appium/compare/@appium/fake-plugin@3.1.6...@appium/fake-plugin@3.1.7) (2023-03-08)
+## [3.1.7](https://github.com/appium/appium/compare/@testspectra/fake-plugin@3.1.6...@testspectra/fake-plugin@3.1.7) (2023-03-08)
 
-**Note:** Version bump only for package @appium/fake-plugin
+**Note:** Version bump only for package @testspectra/fake-plugin
 
 
 
 
 
-## [3.1.6](https://github.com/appium/appium/compare/@appium/fake-plugin@3.1.5...@appium/fake-plugin@3.1.6) (2023-02-24)
+## [3.1.6](https://github.com/appium/appium/compare/@testspectra/fake-plugin@3.1.5...@testspectra/fake-plugin@3.1.6) (2023-02-24)
 
-**Note:** Version bump only for package @appium/fake-plugin
+**Note:** Version bump only for package @testspectra/fake-plugin
 
 
 
 
 
-## [3.1.5](https://github.com/appium/appium/compare/@appium/fake-plugin@3.1.4...@appium/fake-plugin@3.1.5) (2023-02-09)
+## [3.1.5](https://github.com/appium/appium/compare/@testspectra/fake-plugin@3.1.4...@testspectra/fake-plugin@3.1.5) (2023-02-09)
 
-**Note:** Version bump only for package @appium/fake-plugin
+**Note:** Version bump only for package @testspectra/fake-plugin
 
 
 
 
 
-## [3.1.4](https://github.com/appium/appium/compare/@appium/fake-plugin@3.1.3...@appium/fake-plugin@3.1.4) (2023-01-23)
+## [3.1.4](https://github.com/appium/appium/compare/@testspectra/fake-plugin@3.1.3...@testspectra/fake-plugin@3.1.4) (2023-01-23)
 
-**Note:** Version bump only for package @appium/fake-plugin
+**Note:** Version bump only for package @testspectra/fake-plugin
 
 
 
 
 
-## [3.1.3](https://github.com/appium/appium/compare/@appium/fake-plugin@3.1.2...@appium/fake-plugin@3.1.3) (2023-01-13)
+## [3.1.3](https://github.com/appium/appium/compare/@testspectra/fake-plugin@3.1.2...@testspectra/fake-plugin@3.1.3) (2023-01-13)
 
-**Note:** Version bump only for package @appium/fake-plugin
+**Note:** Version bump only for package @testspectra/fake-plugin
 
 
 
 
 
-## [3.1.2](https://github.com/appium/appium/compare/@appium/fake-plugin@3.1.1...@appium/fake-plugin@3.1.2) (2023-01-13)
+## [3.1.2](https://github.com/appium/appium/compare/@testspectra/fake-plugin@3.1.1...@testspectra/fake-plugin@3.1.2) (2023-01-13)
 
-**Note:** Version bump only for package @appium/fake-plugin
+**Note:** Version bump only for package @testspectra/fake-plugin
 
 
 
 
 
-## [3.1.1](https://github.com/appium/appium/compare/@appium/fake-plugin@3.1.0...@appium/fake-plugin@3.1.1) (2023-01-13)
+## [3.1.1](https://github.com/appium/appium/compare/@testspectra/fake-plugin@3.1.0...@testspectra/fake-plugin@3.1.1) (2023-01-13)
 
-**Note:** Version bump only for package @appium/fake-plugin
+**Note:** Version bump only for package @testspectra/fake-plugin
 
 
 
 
 
-# [3.1.0](https://github.com/appium/appium/compare/@appium/fake-plugin@3.0.1...@appium/fake-plugin@3.1.0) (2023-01-13)
+# [3.1.0](https://github.com/appium/appium/compare/@testspectra/fake-plugin@3.0.1...@testspectra/fake-plugin@3.1.0) (2023-01-13)
 
 
 ### Features
@@ -646,11 +646,11 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [3.0.1](https://github.com/appium/appium/compare/@appium/fake-plugin@3.0.0...@appium/fake-plugin@3.0.1) (2022-12-21)
+## [3.0.1](https://github.com/appium/appium/compare/@testspectra/fake-plugin@3.0.0...@testspectra/fake-plugin@3.0.1) (2022-12-21)
 
-**Note:** Version bump only for package @appium/fake-plugin
+**Note:** Version bump only for package @testspectra/fake-plugin
 
-# [3.0.0](https://github.com/appium/appium/compare/@appium/fake-plugin@2.1.3...@appium/fake-plugin@3.0.0) (2022-12-14)
+# [3.0.0](https://github.com/appium/appium/compare/@testspectra/fake-plugin@2.1.3...@testspectra/fake-plugin@3.0.0) (2022-12-14)
 
 ### Bug Fixes
 
@@ -667,52 +667,52 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 - Appium now supports version range `^14.17.0 || ^16.13.0 || >=18.0.0`
 
-## [2.1.3](https://github.com/appium/appium/compare/@appium/fake-plugin@2.1.2...@appium/fake-plugin@2.1.3) (2022-10-14)
+## [2.1.3](https://github.com/appium/appium/compare/@testspectra/fake-plugin@2.1.2...@testspectra/fake-plugin@2.1.3) (2022-10-14)
 
-**Note:** Version bump only for package @appium/fake-plugin
+**Note:** Version bump only for package @testspectra/fake-plugin
 
-## [2.1.2](https://github.com/appium/appium/compare/@appium/fake-plugin@2.1.1...@appium/fake-plugin@2.1.2) (2022-10-13)
+## [2.1.2](https://github.com/appium/appium/compare/@testspectra/fake-plugin@2.1.1...@testspectra/fake-plugin@2.1.2) (2022-10-13)
 
-**Note:** Version bump only for package @appium/fake-plugin
+**Note:** Version bump only for package @testspectra/fake-plugin
 
-## [2.1.1](https://github.com/appium/appium/compare/@appium/fake-plugin@2.1.0...@appium/fake-plugin@2.1.1) (2022-09-07)
+## [2.1.1](https://github.com/appium/appium/compare/@testspectra/fake-plugin@2.1.0...@testspectra/fake-plugin@2.1.1) (2022-09-07)
 
-**Note:** Version bump only for package @appium/fake-plugin
+**Note:** Version bump only for package @testspectra/fake-plugin
 
-# [2.1.0](https://github.com/appium/appium/compare/@appium/fake-plugin@2.0.5...@appium/fake-plugin@2.1.0) (2022-08-10)
+# [2.1.0](https://github.com/appium/appium/compare/@testspectra/fake-plugin@2.0.5...@testspectra/fake-plugin@2.1.0) (2022-08-10)
 
 ### Features
 
 - **appium,base-driver,fake-driver,fake-plugin,test-support,types:** updateServer receives cliArgs param ([d4b9833](https://github.com/appium/appium/commit/d4b983328af21d1e5c27a91e438e7934eb152ab1)), closes [#17304](https://github.com/appium/appium/issues/17304)
 
-## [2.0.5](https://github.com/appium/appium/compare/@appium/fake-plugin@2.0.4...@appium/fake-plugin@2.0.5) (2022-08-03)
+## [2.0.5](https://github.com/appium/appium/compare/@testspectra/fake-plugin@2.0.4...@testspectra/fake-plugin@2.0.5) (2022-08-03)
 
 ### Bug Fixes
 
 - **appium,base-driver,base-plugin,doctor,docutils,eslint-config-appium,execute-driver-plugin,fake-driver,fake-plugin,gulp-plugins,images-plugin,opencv,relaxed-caps-plugin,schema,support,test-support,types,universal-xml-plugin:** update engines ([d8d2382](https://github.com/appium/appium/commit/d8d2382327ba7b7db8a4d1cad987c0e60184c92d))
 
-## [2.0.4](https://github.com/appium/appium/compare/@appium/fake-plugin@2.0.3...@appium/fake-plugin@2.0.4) (2022-07-28)
+## [2.0.4](https://github.com/appium/appium/compare/@testspectra/fake-plugin@2.0.3...@testspectra/fake-plugin@2.0.4) (2022-07-28)
 
 ### Bug Fixes
 
 - **fake-plugin:** add index.js to published package ([2bd8b41](https://github.com/appium/appium/commit/2bd8b417a4b6bfc6f36b49381bf75f8a86bc0c68))
 - moved type packages to deps of specific packages ([f9129df](https://github.com/appium/appium/commit/f9129dfee32fcc3f89ffcfa69fb83b7c2419c24f))
 
-## [2.0.3](https://github.com/appium/appium/compare/@appium/fake-plugin@2.0.2...@appium/fake-plugin@2.0.3) (2022-06-04)
+## [2.0.3](https://github.com/appium/appium/compare/@testspectra/fake-plugin@2.0.2...@testspectra/fake-plugin@2.0.3) (2022-06-04)
 
-**Note:** Version bump only for package @appium/fake-plugin
+**Note:** Version bump only for package @testspectra/fake-plugin
 
-## [2.0.2](https://github.com/appium/appium/compare/@appium/fake-plugin@2.0.1...@appium/fake-plugin@2.0.2) (2022-06-01)
+## [2.0.2](https://github.com/appium/appium/compare/@testspectra/fake-plugin@2.0.1...@testspectra/fake-plugin@2.0.2) (2022-06-01)
 
 ### Bug Fixes
 
 - **execute-driver-plugin,fake-plugin,images-plugin,relaxed-caps-plugin,universal-xml-plugin:** ensure babel runtime is present ([df64612](https://github.com/appium/appium/commit/df64612d98c35fd64219816269f83f628e538fe2))
 
-## [2.0.1](https://github.com/appium/appium/compare/@appium/fake-plugin@2.0.0...@appium/fake-plugin@2.0.1) (2022-05-31)
+## [2.0.1](https://github.com/appium/appium/compare/@testspectra/fake-plugin@2.0.0...@testspectra/fake-plugin@2.0.1) (2022-05-31)
 
-**Note:** Version bump only for package @appium/fake-plugin
+**Note:** Version bump only for package @testspectra/fake-plugin
 
-# [2.0.0](https://github.com/appium/appium/compare/@appium/fake-plugin@1.3.4...@appium/fake-plugin@2.0.0) (2022-05-31)
+# [2.0.0](https://github.com/appium/appium/compare/@testspectra/fake-plugin@1.3.4...@testspectra/fake-plugin@2.0.0) (2022-05-31)
 
 ### Bug Fixes
 
@@ -726,17 +726,17 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 - **fake-plugin:** This now requires a peer dependency on `appium`
 
-## [1.3.4](https://github.com/appium/appium/compare/@appium/fake-plugin@1.3.3...@appium/fake-plugin@1.3.4) (2022-05-02)
+## [1.3.4](https://github.com/appium/appium/compare/@testspectra/fake-plugin@1.3.3...@testspectra/fake-plugin@1.3.4) (2022-05-02)
 
-**Note:** Version bump only for package @appium/fake-plugin
+**Note:** Version bump only for package @testspectra/fake-plugin
 
-## [1.3.3](https://github.com/appium/appium/compare/@appium/fake-plugin@1.2.2...@appium/fake-plugin@1.3.3) (2022-04-20)
+## [1.3.3](https://github.com/appium/appium/compare/@testspectra/fake-plugin@1.2.2...@testspectra/fake-plugin@1.3.3) (2022-04-20)
 
-**Note:** Version bump only for package @appium/fake-plugin
+**Note:** Version bump only for package @testspectra/fake-plugin
 
-## [1.2.2](https://github.com/appium/appium/compare/@appium/fake-plugin@1.2.1...@appium/fake-plugin@1.2.2) (2022-04-20)
+## [1.2.2](https://github.com/appium/appium/compare/@testspectra/fake-plugin@1.2.1...@testspectra/fake-plugin@1.2.2) (2022-04-20)
 
-**Note:** Version bump only for package @appium/fake-plugin
+**Note:** Version bump only for package @testspectra/fake-plugin
 
 ## 1.2.1 (2022-04-20)
 

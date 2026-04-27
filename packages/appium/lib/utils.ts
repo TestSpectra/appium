@@ -1,5 +1,5 @@
 import _ from 'lodash';
-import {node, fs} from '@appium/support';
+import {node, fs} from '@testspectra/support';
 
 export const npmPackage = fs.readPackageJsonFrom(__dirname);
 

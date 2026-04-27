@@ -1,10 +1,10 @@
 import type {ParsedArgs} from 'appium/types';
-import type {MessageObject} from '@appium/logger';
+import type {MessageObject} from '@testspectra/logger';
 import type {Logger, Logform} from 'winston';
 import type Transport from 'winston-transport';
-import globalLog from '@appium/logger';
+import globalLog from '@testspectra/logger';
 import {createLogger, format, transports} from 'winston';
-import {fs} from '@appium/support';
+import {fs} from '@testspectra/support';
 import _ from 'lodash';
 import {adler32} from './utils';
 import {LRUCache} from 'lru-cache';

@@ -5,9 +5,9 @@ import {
   normalizeBasePath,
   server as baseServer,
   type ServerOpts,
-} from '@appium/base-driver';
+} from '@testspectra/base-driver';
 import _ from 'lodash';
-import type {AppiumServer, Driver, MethodMap, UpdateServerCallback} from '@appium/types';
+import type {AppiumServer, Driver, MethodMap, UpdateServerCallback} from '@testspectra/types';
 import {WebSocketServer} from 'ws';
 import type {NetworkInterfaceInfo} from 'node:os';
 import type {AppiumDriver} from '../appium';

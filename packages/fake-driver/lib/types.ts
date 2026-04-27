@@ -1,4 +1,4 @@
-import type {DriverCaps, W3CDriverCaps} from '@appium/types';
+import type {DriverCaps, W3CDriverCaps} from '@testspectra/types';
 import type {FakeDriverConstraints} from './desired-caps';
 
 /**

@@ -14,7 +14,7 @@ import type {
   StringRecord,
   TimestampedMultiSessionData,
   W3CDriverCaps,
-} from '@appium/types';
+} from '@testspectra/types';
 import {
   BaseDriver,
   DriverCore,
@@ -31,7 +31,7 @@ import {
   promoteAppiumOptionsForObject,
   generateDriverLogPrefix,
   isW3cCaps,
-} from '@appium/base-driver';
+} from '@testspectra/base-driver';
 import {APPIUM_VER, getBuildInfo, updateBuildInfo} from './helpers/build';
 import {
   makeNonW3cCapsError,
@@ -39,7 +39,7 @@ import {
   pullSettings,
   type ParsedDriverCaps,
 } from './helpers/capability';
-import {util} from '@appium/support';
+import {util} from '@testspectra/support';
 import {getDefaultsForExtension} from './schema';
 import {DRIVER_TYPE, BIDI_BASE_PATH, SESSION_DISCOVERY_FEATURE} from './constants';
 import * as bidiCommands from './bidi-commands';
@@ -129,7 +129,7 @@ export class AppiumDriver extends DriverCore<AppiumDriverConstraints> {
     // It is necessary to set `--tmp` here since it should be set to
     // process.env.APPIUM_TMP_DIR once at an initial point in the Appium lifecycle.
     // The process argument will be referenced by BaseDriver.
-    // Please call @appium/support.tempDir module to apply this benefit.
+    // Please call @testspectra/support.tempDir module to apply this benefit.
     if (opts.tmpDir) {
       process.env.APPIUM_TMP_DIR = opts.tmpDir;
     }

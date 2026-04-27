@@ -4,7 +4,7 @@ import path from 'node:path';
 import os from 'node:os';
 import * as semver from 'semver';
 import B from 'bluebird';
-import {system, fs, npm} from '@appium/support';
+import {system, fs, npm} from '@testspectra/support';
 import {log as logger} from '../logger';
 import {getAppiumModuleRoot, npmPackage} from '../utils';
 import {rootDir, updateBuildInfo, getBuildInfo} from '../helpers/build';

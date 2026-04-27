@@ -13,7 +13,7 @@ import pluralizeLib from 'pluralize';
 import {Base64Encode} from 'base64-stream';
 export {v1 as uuidV1, v3 as uuidV3, v4 as uuidV4, v5 as uuidV5} from 'uuid';
 import * as _lockfile from 'lockfile';
-import type {Element} from '@appium/types';
+import type {Element} from '@testspectra/types';
 
 /** W3C WebDriver element identifier key used in element objects. */
 export const W3C_WEB_ELEMENT_IDENTIFIER = 'element-6066-11e4-a52e-4f735466cecf';

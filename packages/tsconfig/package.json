@@ -1,5 +1,5 @@
 {
-  "name": "@appium/tsconfig",
+  "name": "@testspectra/tsconfig",
   "version": "1.1.2",
   "description": "Shared TypeScript Config for Appium",
   "main": "tsconfig.json",

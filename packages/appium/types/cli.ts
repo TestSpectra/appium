@@ -1,4 +1,4 @@
-import type {DriverType, PluginType, ServerArgs} from '@appium/types';
+import type {DriverType, PluginType, ServerArgs} from '@testspectra/types';
 import type {SetOptional} from 'type-fest';
 import type {InstallType} from './manifest';
 export type CliCommandServer = 'server';

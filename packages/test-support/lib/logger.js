@@ -1,4 +1,4 @@
-import {logger} from '@appium/support';
+import {logger} from '@testspectra/support';
 
 const log = logger.getLogger('AppiumTestSupport');
 

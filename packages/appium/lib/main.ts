@@ -2,8 +2,8 @@
 
 import './logsink'; // must run first: global npmlog / log sink setup (see logsink module)
 import './logger'; // load Appium logger immediately after logsink (order matters for log wiring)
-import {env} from '@appium/support';
-import type {AppiumServer} from '@appium/types';
+import {env} from '@testspectra/support';
+import type {AppiumServer} from '@testspectra/types';
 import type {
   Args,
   CliCommand,
@@ -54,9 +54,9 @@ if (require.main === module) {
   void main();
 }
 
-// Re-export helpers from the same package so `import { … } from 'appium'` stays a supported
+// Re-export helpers from the same package so `import { … } from '@testspectra/appium'` stays a supported
 // programmatic API (this file is the package `types` entry). The monorepo does not import these
-// from `'appium'`; consumers use local paths or `@appium/support`. Dropping them is semver-major.
+// from `'appium'`; consumers use local paths or `@testspectra/support`. Dropping them is semver-major.
 export {readConfigFile} from './bootstrap/config-file';
 export {finalizeSchema, getSchema, validate} from './schema/schema';
 export const resolveAppiumHome = env.resolveAppiumHome;

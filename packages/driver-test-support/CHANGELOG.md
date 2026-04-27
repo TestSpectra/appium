@@ -3,7 +3,7 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-## [1.2.1](https://github.com/appium/appium/compare/@appium/driver-test-support@1.2.0...@appium/driver-test-support@1.2.1) (2026-04-23)
+## [1.2.1](https://github.com/appium/appium/compare/@testspectra/driver-test-support@1.2.0...@testspectra/driver-test-support@1.2.1) (2026-04-23)
 
 
 ### Bug Fixes
@@ -12,7 +12,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [1.2.0](https://github.com/appium/appium/compare/@appium/driver-test-support@1.1.0...@appium/driver-test-support@1.2.0) (2026-04-09)
+## [1.2.0](https://github.com/appium/appium/compare/@testspectra/driver-test-support@1.1.0...@testspectra/driver-test-support@1.2.0) (2026-04-09)
 
 
 ### Features
@@ -21,7 +21,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [1.1.0](https://github.com/appium/appium/compare/@appium/driver-test-support@1.0.6...@appium/driver-test-support@1.1.0) (2026-03-08)
+## [1.1.0](https://github.com/appium/appium/compare/@testspectra/driver-test-support@1.0.6...@testspectra/driver-test-support@1.1.0) (2026-03-08)
 
 
 ### Features
@@ -31,27 +31,27 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 ### Bug Fixes
 
-* Move @appium/types to dev dependencies for various packages ([#21920](https://github.com/appium/appium/issues/21920)) ([2615935](https://github.com/appium/appium/commit/261593593947bc59e7a937e518fc6f019cafda7a))
+* Move @testspectra/types to dev dependencies for various packages ([#21920](https://github.com/appium/appium/issues/21920)) ([2615935](https://github.com/appium/appium/commit/261593593947bc59e7a937e518fc6f019cafda7a))
 
 
 
-## [1.0.6](https://github.com/appium/appium/compare/@appium/driver-test-support@1.0.5...@appium/driver-test-support@1.0.6) (2026-01-26)
+## [1.0.6](https://github.com/appium/appium/compare/@testspectra/driver-test-support@1.0.5...@testspectra/driver-test-support@1.0.6) (2026-01-26)
 
-**Note:** Version bump only for package @appium/driver-test-support
-
-
-
-
-
-## [1.0.5](https://github.com/appium/appium/compare/@appium/driver-test-support@1.0.4...@appium/driver-test-support@1.0.5) (2025-12-04)
-
-**Note:** Version bump only for package @appium/driver-test-support
+**Note:** Version bump only for package @testspectra/driver-test-support
 
 
 
 
 
-## [1.0.4](https://github.com/appium/appium/compare/@appium/driver-test-support@1.0.3...@appium/driver-test-support@1.0.4) (2025-11-12)
+## [1.0.5](https://github.com/appium/appium/compare/@testspectra/driver-test-support@1.0.4...@testspectra/driver-test-support@1.0.5) (2025-12-04)
+
+**Note:** Version bump only for package @testspectra/driver-test-support
+
+
+
+
+
+## [1.0.4](https://github.com/appium/appium/compare/@testspectra/driver-test-support@1.0.3...@testspectra/driver-test-support@1.0.4) (2025-11-12)
 
 
 ### Bug Fixes
@@ -60,39 +60,39 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [1.0.3](https://github.com/appium/appium/compare/@appium/driver-test-support@1.0.2...@appium/driver-test-support@1.0.3) (2025-10-08)
+## [1.0.3](https://github.com/appium/appium/compare/@testspectra/driver-test-support@1.0.2...@testspectra/driver-test-support@1.0.3) (2025-10-08)
 
-**Note:** Version bump only for package @appium/driver-test-support
-
-
-
-
-
-## [1.0.2](https://github.com/appium/appium/compare/@appium/driver-test-support@1.0.1...@appium/driver-test-support@1.0.2) (2025-09-09)
-
-**Note:** Version bump only for package @appium/driver-test-support
+**Note:** Version bump only for package @testspectra/driver-test-support
 
 
 
 
 
-## [1.0.1](https://github.com/appium/appium/compare/@appium/driver-test-support@1.0.0...@appium/driver-test-support@1.0.1) (2025-08-20)
+## [1.0.2](https://github.com/appium/appium/compare/@testspectra/driver-test-support@1.0.1...@testspectra/driver-test-support@1.0.2) (2025-09-09)
 
-**Note:** Version bump only for package @appium/driver-test-support
-
-
-
-
-
-## [1.0.0](https://github.com/appium/appium/compare/@appium/driver-test-support@1.0.0-rc.1...@appium/driver-test-support@1.0.0) (2025-08-18)
-
-**Note:** Version bump only for package @appium/driver-test-support
+**Note:** Version bump only for package @testspectra/driver-test-support
 
 
 
 
 
-## [1.0.0-rc.1](https://github.com/appium/appium/compare/@appium/driver-test-support@0.7.6...@appium/driver-test-support@1.0.0-rc.1) (2025-08-14)
+## [1.0.1](https://github.com/appium/appium/compare/@testspectra/driver-test-support@1.0.0...@testspectra/driver-test-support@1.0.1) (2025-08-20)
+
+**Note:** Version bump only for package @testspectra/driver-test-support
+
+
+
+
+
+## [1.0.0](https://github.com/appium/appium/compare/@testspectra/driver-test-support@1.0.0-rc.1...@testspectra/driver-test-support@1.0.0) (2025-08-18)
+
+**Note:** Version bump only for package @testspectra/driver-test-support
+
+
+
+
+
+## [1.0.0-rc.1](https://github.com/appium/appium/compare/@testspectra/driver-test-support@0.7.6...@testspectra/driver-test-support@1.0.0-rc.1) (2025-08-14)
 
 
 ### ⚠ BREAKING CHANGES
@@ -110,7 +110,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.8.0](https://github.com/appium/appium/compare/@appium/driver-test-support@0.7.9...@appium/driver-test-support@0.8.0) (2025-06-01)
+## [0.8.0](https://github.com/appium/appium/compare/@testspectra/driver-test-support@0.7.9...@testspectra/driver-test-support@0.8.0) (2025-06-01)
 
 
 ### Features
@@ -119,39 +119,39 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.7.9](https://github.com/appium/appium/compare/@appium/driver-test-support@0.7.8...@appium/driver-test-support@0.7.9) (2025-04-25)
+## [0.7.9](https://github.com/appium/appium/compare/@testspectra/driver-test-support@0.7.8...@testspectra/driver-test-support@0.7.9) (2025-04-25)
 
-**Note:** Version bump only for package @appium/driver-test-support
-
-
-
-
-
-## [0.7.8](https://github.com/appium/appium/compare/@appium/driver-test-support@0.7.7...@appium/driver-test-support@0.7.8) (2025-03-17)
-
-**Note:** Version bump only for package @appium/driver-test-support
+**Note:** Version bump only for package @testspectra/driver-test-support
 
 
 
 
 
-## [0.7.7](https://github.com/appium/appium/compare/@appium/driver-test-support@0.7.6...@appium/driver-test-support@0.7.7) (2025-03-11)
+## [0.7.8](https://github.com/appium/appium/compare/@testspectra/driver-test-support@0.7.7...@testspectra/driver-test-support@0.7.8) (2025-03-17)
 
-**Note:** Version bump only for package @appium/driver-test-support
-
-
-
-
-
-## [0.7.6](https://github.com/appium/appium/compare/@appium/driver-test-support@0.7.5...@appium/driver-test-support@0.7.6) (2025-02-20)
-
-**Note:** Version bump only for package @appium/driver-test-support
+**Note:** Version bump only for package @testspectra/driver-test-support
 
 
 
 
 
-## [0.7.5](https://github.com/appium/appium/compare/@appium/driver-test-support@0.7.4...@appium/driver-test-support@0.7.5) (2025-02-19)
+## [0.7.7](https://github.com/appium/appium/compare/@testspectra/driver-test-support@0.7.6...@testspectra/driver-test-support@0.7.7) (2025-03-11)
+
+**Note:** Version bump only for package @testspectra/driver-test-support
+
+
+
+
+
+## [0.7.6](https://github.com/appium/appium/compare/@testspectra/driver-test-support@0.7.5...@testspectra/driver-test-support@0.7.6) (2025-02-20)
+
+**Note:** Version bump only for package @testspectra/driver-test-support
+
+
+
+
+
+## [0.7.5](https://github.com/appium/appium/compare/@testspectra/driver-test-support@0.7.4...@testspectra/driver-test-support@0.7.5) (2025-02-19)
 
 
 ### Bug Fixes
@@ -165,15 +165,15 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.7.4](https://github.com/appium/appium/compare/@appium/driver-test-support@0.7.3...@appium/driver-test-support@0.7.4) (2025-01-08)
+## [0.7.4](https://github.com/appium/appium/compare/@testspectra/driver-test-support@0.7.3...@testspectra/driver-test-support@0.7.4) (2025-01-08)
 
-**Note:** Version bump only for package @appium/driver-test-support
-
-
+**Note:** Version bump only for package @testspectra/driver-test-support
 
 
 
-## [0.7.3](https://github.com/appium/appium/compare/@appium/driver-test-support@0.7.2...@appium/driver-test-support@0.7.3) (2025-01-06)
+
+
+## [0.7.3](https://github.com/appium/appium/compare/@testspectra/driver-test-support@0.7.2...@testspectra/driver-test-support@0.7.3) (2025-01-06)
 
 
 ### Bug Fixes
@@ -182,7 +182,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.7.2](https://github.com/appium/appium/compare/@appium/driver-test-support@0.7.1...@appium/driver-test-support@0.7.2) (2025-01-02)
+## [0.7.2](https://github.com/appium/appium/compare/@testspectra/driver-test-support@0.7.1...@testspectra/driver-test-support@0.7.2) (2025-01-02)
 
 
 ### Bug Fixes
@@ -194,7 +194,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.7.1](https://github.com/appium/appium/compare/@appium/driver-test-support@0.7.0...@appium/driver-test-support@0.7.1) (2024-12-05)
+## [0.7.1](https://github.com/appium/appium/compare/@testspectra/driver-test-support@0.7.0...@testspectra/driver-test-support@0.7.1) (2024-12-05)
 
 
 ### Bug Fixes
@@ -205,7 +205,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.7.0](https://github.com/appium/appium/compare/@appium/driver-test-support@0.6.12...@appium/driver-test-support@0.7.0) (2024-12-02)
+## [0.7.0](https://github.com/appium/appium/compare/@testspectra/driver-test-support@0.6.12...@testspectra/driver-test-support@0.7.0) (2024-12-02)
 
 
 ### Features
@@ -219,7 +219,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.6.12](https://github.com/appium/appium/compare/@appium/driver-test-support@0.6.11...@appium/driver-test-support@0.6.12) (2024-11-29)
+## [0.6.12](https://github.com/appium/appium/compare/@testspectra/driver-test-support@0.6.11...@testspectra/driver-test-support@0.6.12) (2024-11-29)
 
 
 ### Bug Fixes
@@ -233,7 +233,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.6.11](https://github.com/appium/appium/compare/@appium/driver-test-support@0.6.10...@appium/driver-test-support@0.6.11) (2024-10-24)
+## [0.6.11](https://github.com/appium/appium/compare/@testspectra/driver-test-support@0.6.10...@testspectra/driver-test-support@0.6.11) (2024-10-24)
 
 
 ### Bug Fixes
@@ -243,7 +243,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.6.10](https://github.com/appium/appium/compare/@appium/driver-test-support@0.6.9...@appium/driver-test-support@0.6.10) (2024-10-15)
+## [0.6.10](https://github.com/appium/appium/compare/@testspectra/driver-test-support@0.6.9...@testspectra/driver-test-support@0.6.10) (2024-10-15)
 
 
 ### Bug Fixes
@@ -252,7 +252,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.6.9](https://github.com/appium/appium/compare/@appium/driver-test-support@0.6.8...@appium/driver-test-support@0.6.9) (2024-09-26)
+## [0.6.9](https://github.com/appium/appium/compare/@testspectra/driver-test-support@0.6.8...@testspectra/driver-test-support@0.6.9) (2024-09-26)
 
 
 ### Bug Fixes
@@ -262,7 +262,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.6.8](https://github.com/appium/appium/compare/@appium/driver-test-support@0.6.7...@appium/driver-test-support@0.6.8) (2024-09-16)
+## [0.6.8](https://github.com/appium/appium/compare/@testspectra/driver-test-support@0.6.7...@testspectra/driver-test-support@0.6.8) (2024-09-16)
 
 
 ### Bug Fixes
@@ -278,7 +278,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.6.7](https://github.com/appium/appium/compare/@appium/driver-test-support@0.6.6...@appium/driver-test-support@0.6.7) (2024-08-07)
+## [0.6.7](https://github.com/appium/appium/compare/@testspectra/driver-test-support@0.6.6...@testspectra/driver-test-support@0.6.7) (2024-08-07)
 
 
 ### Bug Fixes
@@ -290,7 +290,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.6.6](https://github.com/appium/appium/compare/@appium/driver-test-support@0.6.5...@appium/driver-test-support@0.6.6) (2024-07-10)
+## [0.6.6](https://github.com/appium/appium/compare/@testspectra/driver-test-support@0.6.5...@testspectra/driver-test-support@0.6.6) (2024-07-10)
 
 
 ### Bug Fixes
@@ -299,7 +299,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.6.5](https://github.com/appium/appium/compare/@appium/driver-test-support@0.6.4...@appium/driver-test-support@0.6.5) (2024-06-28)
+## [0.6.5](https://github.com/appium/appium/compare/@testspectra/driver-test-support@0.6.4...@testspectra/driver-test-support@0.6.5) (2024-06-28)
 
 
 ### Bug Fixes
@@ -308,7 +308,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.6.4](https://github.com/appium/appium/compare/@appium/driver-test-support@0.6.3...@appium/driver-test-support@0.6.4) (2024-06-27)
+## [0.6.4](https://github.com/appium/appium/compare/@testspectra/driver-test-support@0.6.3...@testspectra/driver-test-support@0.6.4) (2024-06-27)
 
 
 ### Bug Fixes
@@ -317,31 +317,31 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.6.3](https://github.com/appium/appium/compare/@appium/driver-test-support@0.6.2...@appium/driver-test-support@0.6.3) (2024-06-11)
+## [0.6.3](https://github.com/appium/appium/compare/@testspectra/driver-test-support@0.6.2...@testspectra/driver-test-support@0.6.3) (2024-06-11)
 
-**Note:** Version bump only for package @appium/driver-test-support
-
-
-
-
-
-## [0.6.2](https://github.com/appium/appium/compare/@appium/driver-test-support@0.6.1...@appium/driver-test-support@0.6.2) (2024-06-11)
-
-**Note:** Version bump only for package @appium/driver-test-support
+**Note:** Version bump only for package @testspectra/driver-test-support
 
 
 
 
 
-## [0.6.1](https://github.com/appium/appium/compare/@appium/driver-test-support@0.6.0...@appium/driver-test-support@0.6.1) (2024-06-11)
+## [0.6.2](https://github.com/appium/appium/compare/@testspectra/driver-test-support@0.6.1...@testspectra/driver-test-support@0.6.2) (2024-06-11)
 
-**Note:** Version bump only for package @appium/driver-test-support
-
-
+**Note:** Version bump only for package @testspectra/driver-test-support
 
 
 
-## [0.6.0](https://github.com/appium/appium/compare/@appium/driver-test-support@0.5.0...@appium/driver-test-support@0.6.0) (2024-06-10)
+
+
+## [0.6.1](https://github.com/appium/appium/compare/@testspectra/driver-test-support@0.6.0...@testspectra/driver-test-support@0.6.1) (2024-06-11)
+
+**Note:** Version bump only for package @testspectra/driver-test-support
+
+
+
+
+
+## [0.6.0](https://github.com/appium/appium/compare/@testspectra/driver-test-support@0.5.0...@testspectra/driver-test-support@0.6.0) (2024-06-10)
 
 
 ### Features
@@ -356,7 +356,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.5.0](https://github.com/appium/appium/compare/@appium/driver-test-support@0.4.26...@appium/driver-test-support@0.5.0) (2024-06-06)
+## [0.5.0](https://github.com/appium/appium/compare/@testspectra/driver-test-support@0.4.26...@testspectra/driver-test-support@0.5.0) (2024-06-06)
 
 
 ### Features
@@ -370,15 +370,15 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.4.26](https://github.com/appium/appium/compare/@appium/driver-test-support@0.4.25...@appium/driver-test-support@0.4.26) (2024-06-06)
+## [0.4.26](https://github.com/appium/appium/compare/@testspectra/driver-test-support@0.4.25...@testspectra/driver-test-support@0.4.26) (2024-06-06)
 
-**Note:** Version bump only for package @appium/driver-test-support
-
-
+**Note:** Version bump only for package @testspectra/driver-test-support
 
 
 
-## [0.4.25](https://github.com/appium/appium/compare/@appium/driver-test-support@0.4.24...@appium/driver-test-support@0.4.25) (2024-06-06)
+
+
+## [0.4.25](https://github.com/appium/appium/compare/@testspectra/driver-test-support@0.4.24...@testspectra/driver-test-support@0.4.25) (2024-06-06)
 
 
 ### Bug Fixes
@@ -387,7 +387,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.4.24](https://github.com/appium/appium/compare/@appium/driver-test-support@0.4.23...@appium/driver-test-support@0.4.24) (2024-05-27)
+## [0.4.24](https://github.com/appium/appium/compare/@testspectra/driver-test-support@0.4.23...@testspectra/driver-test-support@0.4.24) (2024-05-27)
 
 
 ### Bug Fixes
@@ -402,15 +402,15 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.4.23](https://github.com/appium/appium/compare/@appium/driver-test-support@0.4.22...@appium/driver-test-support@0.4.23) (2024-04-21)
+## [0.4.23](https://github.com/appium/appium/compare/@testspectra/driver-test-support@0.4.22...@testspectra/driver-test-support@0.4.23) (2024-04-21)
 
-**Note:** Version bump only for package @appium/driver-test-support
-
-
+**Note:** Version bump only for package @testspectra/driver-test-support
 
 
 
-## [0.4.22](https://github.com/appium/appium/compare/@appium/driver-test-support@0.4.21...@appium/driver-test-support@0.4.22) (2024-04-08)
+
+
+## [0.4.22](https://github.com/appium/appium/compare/@testspectra/driver-test-support@0.4.21...@testspectra/driver-test-support@0.4.22) (2024-04-08)
 
 
 ### Bug Fixes
@@ -420,7 +420,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.4.21](https://github.com/appium/appium/compare/@appium/driver-test-support@0.4.20...@appium/driver-test-support@0.4.21) (2024-02-06)
+## [0.4.21](https://github.com/appium/appium/compare/@testspectra/driver-test-support@0.4.20...@testspectra/driver-test-support@0.4.21) (2024-02-06)
 
 
 ### Bug Fixes
@@ -436,7 +436,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.4.20](https://github.com/appium/appium/compare/@appium/driver-test-support@0.4.19...@appium/driver-test-support@0.4.20) (2024-01-03)
+## [0.4.20](https://github.com/appium/appium/compare/@testspectra/driver-test-support@0.4.19...@testspectra/driver-test-support@0.4.20) (2024-01-03)
 
 
 ### Bug Fixes
@@ -446,18 +446,18 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.4.19](https://github.com/appium/appium/compare/@appium/driver-test-support@0.4.18...@appium/driver-test-support@0.4.19) (2023-12-18)
+## [0.4.19](https://github.com/appium/appium/compare/@testspectra/driver-test-support@0.4.18...@testspectra/driver-test-support@0.4.19) (2023-12-18)
 
 
 ### Bug Fixes
 
-* **docutils:** remove `@appium/typedoc-plugin-appium` and all other uses of `typedoc` ([#19465](https://github.com/appium/appium/issues/19465)) ([7528fcf](https://github.com/appium/appium/commit/7528fcf890f79f4017f5e718bb1952bf907ee479))
+* **docutils:** remove `@testspectra/typedoc-plugin-appium` and all other uses of `typedoc` ([#19465](https://github.com/appium/appium/issues/19465)) ([7528fcf](https://github.com/appium/appium/commit/7528fcf890f79f4017f5e718bb1952bf907ee479))
 * **test-support:** update dependency sinon to v17 ([#19501](https://github.com/appium/appium/issues/19501)) ([0592bc5](https://github.com/appium/appium/commit/0592bc505fdec8ef0fdd19a6816a45e1e2887d25))
 * **types:** update dependency type-fest to v4 ([#19104](https://github.com/appium/appium/issues/19104)) ([8bfa1b5](https://github.com/appium/appium/commit/8bfa1b5a4d090b0102dbb914c9b72aea52d96788))
 
 
 
-## [0.4.18](https://github.com/appium/appium/compare/@appium/driver-test-support@0.4.17...@appium/driver-test-support@0.4.18) (2023-12-04)
+## [0.4.18](https://github.com/appium/appium/compare/@testspectra/driver-test-support@0.4.17...@testspectra/driver-test-support@0.4.18) (2023-12-04)
 
 
 ### Bug Fixes
@@ -467,7 +467,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.4.17](https://github.com/appium/appium/compare/@appium/driver-test-support@0.4.16...@appium/driver-test-support@0.4.17) (2023-11-14)
+## [0.4.17](https://github.com/appium/appium/compare/@testspectra/driver-test-support@0.4.16...@testspectra/driver-test-support@0.4.17) (2023-11-14)
 
 
 ### Bug Fixes
@@ -478,7 +478,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.4.16](https://github.com/appium/appium/compare/@appium/driver-test-support@0.4.15...@appium/driver-test-support@0.4.16) (2023-10-19)
+## [0.4.16](https://github.com/appium/appium/compare/@testspectra/driver-test-support@0.4.15...@testspectra/driver-test-support@0.4.16) (2023-10-19)
 
 
 ### Bug Fixes
@@ -489,7 +489,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.4.15](https://github.com/appium/appium/compare/@appium/driver-test-support@0.4.14...@appium/driver-test-support@0.4.15) (2023-10-18)
+## [0.4.15](https://github.com/appium/appium/compare/@testspectra/driver-test-support@0.4.14...@testspectra/driver-test-support@0.4.15) (2023-10-18)
 
 
 ### Bug Fixes
@@ -505,15 +505,15 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.4.14](https://github.com/appium/appium/compare/@appium/driver-test-support@0.4.13...@appium/driver-test-support@0.4.14) (2023-08-22)
+## [0.4.14](https://github.com/appium/appium/compare/@testspectra/driver-test-support@0.4.13...@testspectra/driver-test-support@0.4.14) (2023-08-22)
 
-**Note:** Version bump only for package @appium/driver-test-support
-
-
+**Note:** Version bump only for package @testspectra/driver-test-support
 
 
 
-## [0.4.13](https://github.com/appium/appium/compare/@appium/driver-test-support@0.4.12...@appium/driver-test-support@0.4.13) (2023-08-21)
+
+
+## [0.4.13](https://github.com/appium/appium/compare/@testspectra/driver-test-support@0.4.12...@testspectra/driver-test-support@0.4.13) (2023-08-21)
 
 
 ### Bug Fixes
@@ -522,7 +522,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.4.12](https://github.com/appium/appium/compare/@appium/driver-test-support@0.4.11...@appium/driver-test-support@0.4.12) (2023-08-17)
+## [0.4.12](https://github.com/appium/appium/compare/@testspectra/driver-test-support@0.4.11...@testspectra/driver-test-support@0.4.12) (2023-08-17)
 
 
 ### Bug Fixes
@@ -533,7 +533,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.4.11](https://github.com/appium/appium/compare/@appium/driver-test-support@0.4.10...@appium/driver-test-support@0.4.11) (2023-07-24)
+## [0.4.11](https://github.com/appium/appium/compare/@testspectra/driver-test-support@0.4.10...@testspectra/driver-test-support@0.4.11) (2023-07-24)
 
 
 ### Bug Fixes
@@ -542,31 +542,31 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.4.10](https://github.com/appium/appium/compare/@appium/driver-test-support@0.4.9...@appium/driver-test-support@0.4.10) (2023-07-03)
+## [0.4.10](https://github.com/appium/appium/compare/@testspectra/driver-test-support@0.4.9...@testspectra/driver-test-support@0.4.10) (2023-07-03)
 
-**Note:** Version bump only for package @appium/driver-test-support
-
-
-
-
-
-## [0.4.9](https://github.com/appium/appium/compare/@appium/driver-test-support@0.4.8...@appium/driver-test-support@0.4.9) (2023-06-29)
-
-**Note:** Version bump only for package @appium/driver-test-support
+**Note:** Version bump only for package @testspectra/driver-test-support
 
 
 
 
 
-## [0.4.8](https://github.com/appium/appium/compare/@appium/driver-test-support@0.4.7...@appium/driver-test-support@0.4.8) (2023-06-15)
+## [0.4.9](https://github.com/appium/appium/compare/@testspectra/driver-test-support@0.4.8...@testspectra/driver-test-support@0.4.9) (2023-06-29)
 
-**Note:** Version bump only for package @appium/driver-test-support
-
-
+**Note:** Version bump only for package @testspectra/driver-test-support
 
 
 
-## [0.4.7](https://github.com/appium/appium/compare/@appium/driver-test-support@0.4.6...@appium/driver-test-support@0.4.7) (2023-06-14)
+
+
+## [0.4.8](https://github.com/appium/appium/compare/@testspectra/driver-test-support@0.4.7...@testspectra/driver-test-support@0.4.8) (2023-06-15)
+
+**Note:** Version bump only for package @testspectra/driver-test-support
+
+
+
+
+
+## [0.4.7](https://github.com/appium/appium/compare/@testspectra/driver-test-support@0.4.6...@testspectra/driver-test-support@0.4.7) (2023-06-14)
 
 
 ### Bug Fixes
@@ -578,7 +578,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.4.6](https://github.com/appium/appium/compare/@appium/driver-test-support@0.4.5...@appium/driver-test-support@0.4.6) (2023-05-17)
+## [0.4.6](https://github.com/appium/appium/compare/@testspectra/driver-test-support@0.4.5...@testspectra/driver-test-support@0.4.6) (2023-05-17)
 
 
 ### Bug Fixes
@@ -591,7 +591,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.4.5](https://github.com/appium/appium/compare/@appium/driver-test-support@0.4.4...@appium/driver-test-support@0.4.5) (2023-04-14)
+## [0.4.5](https://github.com/appium/appium/compare/@testspectra/driver-test-support@0.4.4...@testspectra/driver-test-support@0.4.5) (2023-04-14)
 
 
 ### Bug Fixes
@@ -600,7 +600,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.4.4](https://github.com/appium/appium/compare/@appium/driver-test-support@0.4.3...@appium/driver-test-support@0.4.4) (2023-04-10)
+## [0.4.4](https://github.com/appium/appium/compare/@testspectra/driver-test-support@0.4.3...@testspectra/driver-test-support@0.4.4) (2023-04-10)
 
 
 ### Bug Fixes
@@ -612,7 +612,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.4.3](https://github.com/appium/appium/compare/@appium/driver-test-support@0.4.2...@appium/driver-test-support@0.4.3) (2023-04-03)
+## [0.4.3](https://github.com/appium/appium/compare/@testspectra/driver-test-support@0.4.2...@testspectra/driver-test-support@0.4.3) (2023-04-03)
 
 
 ### Bug Fixes
@@ -623,7 +623,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.4.2](https://github.com/appium/appium/compare/@appium/driver-test-support@0.4.1...@appium/driver-test-support@0.4.2) (2023-03-28)
+## [0.4.2](https://github.com/appium/appium/compare/@testspectra/driver-test-support@0.4.1...@testspectra/driver-test-support@0.4.2) (2023-03-28)
 
 
 ### Bug Fixes
@@ -639,7 +639,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.4.1](https://github.com/appium/appium/compare/@appium/driver-test-support@0.4.0...@appium/driver-test-support@0.4.1) (2023-03-08)
+## [0.4.1](https://github.com/appium/appium/compare/@testspectra/driver-test-support@0.4.0...@testspectra/driver-test-support@0.4.1) (2023-03-08)
 
 
 ### Bug Fixes
@@ -650,7 +650,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [0.4.0](https://github.com/appium/appium/compare/@appium/driver-test-support@0.3.7...@appium/driver-test-support@0.4.0) (2023-02-24)
+# [0.4.0](https://github.com/appium/appium/compare/@testspectra/driver-test-support@0.3.7...@testspectra/driver-test-support@0.4.0) (2023-02-24)
 
 
 ### Bug Fixes
@@ -669,7 +669,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.3.7](https://github.com/appium/appium/compare/@appium/driver-test-support@0.3.6...@appium/driver-test-support@0.3.7) (2023-02-09)
+## [0.3.7](https://github.com/appium/appium/compare/@testspectra/driver-test-support@0.3.6...@testspectra/driver-test-support@0.3.7) (2023-02-09)
 
 
 ### Bug Fixes
@@ -684,7 +684,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.3.6](https://github.com/appium/appium/compare/@appium/driver-test-support@0.3.5...@appium/driver-test-support@0.3.6) (2023-01-23)
+## [0.3.6](https://github.com/appium/appium/compare/@testspectra/driver-test-support@0.3.5...@testspectra/driver-test-support@0.3.6) (2023-01-23)
 
 
 ### Bug Fixes
@@ -696,31 +696,31 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.3.5](https://github.com/appium/appium/compare/@appium/driver-test-support@0.3.4...@appium/driver-test-support@0.3.5) (2023-01-13)
+## [0.3.5](https://github.com/appium/appium/compare/@testspectra/driver-test-support@0.3.4...@testspectra/driver-test-support@0.3.5) (2023-01-13)
 
-**Note:** Version bump only for package @appium/driver-test-support
-
-
-
-
-
-## [0.3.4](https://github.com/appium/appium/compare/@appium/driver-test-support@0.3.3...@appium/driver-test-support@0.3.4) (2023-01-13)
-
-**Note:** Version bump only for package @appium/driver-test-support
+**Note:** Version bump only for package @testspectra/driver-test-support
 
 
 
 
 
-## [0.3.3](https://github.com/appium/appium/compare/@appium/driver-test-support@0.3.2...@appium/driver-test-support@0.3.3) (2023-01-13)
+## [0.3.4](https://github.com/appium/appium/compare/@testspectra/driver-test-support@0.3.3...@testspectra/driver-test-support@0.3.4) (2023-01-13)
 
-**Note:** Version bump only for package @appium/driver-test-support
-
-
+**Note:** Version bump only for package @testspectra/driver-test-support
 
 
 
-## [0.3.2](https://github.com/appium/appium/compare/@appium/driver-test-support@0.3.1...@appium/driver-test-support@0.3.2) (2023-01-13)
+
+
+## [0.3.3](https://github.com/appium/appium/compare/@testspectra/driver-test-support@0.3.2...@testspectra/driver-test-support@0.3.3) (2023-01-13)
+
+**Note:** Version bump only for package @testspectra/driver-test-support
+
+
+
+
+
+## [0.3.2](https://github.com/appium/appium/compare/@testspectra/driver-test-support@0.3.1...@testspectra/driver-test-support@0.3.2) (2023-01-13)
 
 
 ### Bug Fixes
@@ -733,14 +733,14 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.3.1](https://github.com/appium/appium/compare/@appium/driver-test-support@0.3.0...@appium/driver-test-support@0.3.1) (2022-12-21)
+## [0.3.1](https://github.com/appium/appium/compare/@testspectra/driver-test-support@0.3.0...@testspectra/driver-test-support@0.3.1) (2022-12-21)
 
 ### Bug Fixes
 
 - **test-support:** update dependency sinon to v15.0.1 ([5d0d4f5](https://github.com/appium/appium/commit/5d0d4f5a44dff362430159f97f8569a9be7e378d))
 - **types:** update dependency type-fest to v3.4.0 ([37f71c3](https://github.com/appium/appium/commit/37f71c327a7c1a6d882b5198af6fedc9e8d51496))
 
-# [0.3.0](https://github.com/appium/appium/compare/@appium/driver-test-support@0.2.1...@appium/driver-test-support@0.3.0) (2022-12-14)
+# [0.3.0](https://github.com/appium/appium/compare/@testspectra/driver-test-support@0.2.1...@testspectra/driver-test-support@0.3.0) (2022-12-14)
 
 ### Bug Fixes
 
@@ -763,9 +763,9 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 - Appium now supports version range `^14.17.0 || ^16.13.0 || >=18.0.0`
 
-## [0.2.1](https://github.com/appium/appium/compare/@appium/driver-test-support@0.2.0...@appium/driver-test-support@0.2.1) (2022-10-13)
+## [0.2.1](https://github.com/appium/appium/compare/@testspectra/driver-test-support@0.2.0...@testspectra/driver-test-support@0.2.1) (2022-10-13)
 
-**Note:** Version bump only for package @appium/driver-test-support
+**Note:** Version bump only for package @testspectra/driver-test-support
 
 # 0.2.0 (2022-09-07)
 

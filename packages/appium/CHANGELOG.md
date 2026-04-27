@@ -693,7 +693,7 @@ and [the migration guide](https://appium.io/docs/en/latest/guides/migrating-2-to
 * **appium:** update dependency @sidvind/better-ajv-errors to v2.1.2 ([9b07df9](https://github.com/appium/appium/commit/9b07df99592852cbf1096fc4bd94ffd4395c423d))
 * **appium:** update dependency @sidvind/better-ajv-errors to v2.1.3 ([78d85f7](https://github.com/appium/appium/commit/78d85f77e8e1e0493a66afc6123f7bc6bc5c8d17))
 * **appium:** Verify if script path is always under the module root ([#19543](https://github.com/appium/appium/issues/19543)) ([e25dd38](https://github.com/appium/appium/commit/e25dd38cd593d478c07012b4aa14fcd96788d294))
-* **docutils:** remove `@appium/typedoc-plugin-appium` and all other uses of `typedoc` ([#19465](https://github.com/appium/appium/issues/19465)) ([7528fcf](https://github.com/appium/appium/commit/7528fcf890f79f4017f5e718bb1952bf907ee479))
+* **docutils:** remove `@testspectra/typedoc-plugin-appium` and all other uses of `typedoc` ([#19465](https://github.com/appium/appium/issues/19465)) ([7528fcf](https://github.com/appium/appium/commit/7528fcf890f79f4017f5e718bb1952bf907ee479))
 * **docutils:** update dependency mike to v2.0.0 ([#19485](https://github.com/appium/appium/issues/19485)) ([0003304](https://github.com/appium/appium/commit/00033044e08f932b5daf1234cfb381c6f46c8bb8))
 * **execute-driver-plugin:** update dependency webdriverio to v8.26.0 ([dfd1707](https://github.com/appium/appium/commit/dfd17074e94b2406caa87184ac73d992706e8e4d))
 * **execute-driver-plugin:** update dependency webdriverio to v8.26.1 ([070cdfe](https://github.com/appium/appium/commit/070cdfe44f3dcd1c5530512b70191719a0047b8c))
@@ -1265,7 +1265,7 @@ and [the migration guide](https://appium.io/docs/en/latest/guides/migrating-2-to
 
 - **appium:** This removes the `test` export from `appium`. `import * from 'appium/test'` is no longer supported.
 
-Use `@appium/test-support`, `@appium/driver-test-support` or `@appium/plugin-test-support` instead.
+Use `@testspectra/test-support`, `@testspectra/driver-test-support` or `@testspectra/plugin-test-support` instead.
 
 # [2.0.0-beta.43](https://github.com/appium/appium/compare/appium@2.0.0-beta.42...appium@2.0.0-beta.43) (2022-08-10)
 
@@ -1295,7 +1295,7 @@ Use `@appium/test-support`, `@appium/driver-test-support` or `@appium/plugin-tes
 ### Bug Fixes
 
 - **appium,support:** fix installation problems ([2a6a056](https://github.com/appium/appium/commit/2a6a056187ce925d5776b7acc4954b10ecf9221b)), closes [#17073](https://github.com/appium/appium/issues/17073)
-- **appium,types:** include @appium/types in appium ([a0a6166](https://github.com/appium/appium/commit/a0a6166738f3db32f2512681914c4c5410cd4b28))
+- **appium,types:** include @testspectra/types in appium ([a0a6166](https://github.com/appium/appium/commit/a0a6166738f3db32f2512681914c4c5410cd4b28))
 - **appium:** fix incorrect count of errors and warnings ([1e42c23](https://github.com/appium/appium/commit/1e42c2378cb762d5f327139c027e2071918b5c17))
 - **appium:** postinstall: never assume local appium if it is being installed globally ([965752f](https://github.com/appium/appium/commit/965752f288ba5d74ab24f41d780c46cc8ff14984)), closes [#17054](https://github.com/appium/appium/issues/17054)
 - **appium:** remove references to js in typescript code ([d3f90d5](https://github.com/appium/appium/commit/d3f90d5ed6e887feffcabfc8aabd012e43c37e63))
@@ -1495,7 +1495,7 @@ Use `@appium/test-support`, `@appium/driver-test-support` or `@appium/plugin-tes
 ### Bug Fixes
 
 - **appium:** load plugins before main server to allow plugin monkeypatching ([#15441](https://github.com/appium/appium/issues/15441)) ([52f4fc6](https://github.com/appium/appium/commit/52f4fc6a2cbdb612888ab2a23a704be32594a006))
-- **appium:** update references to @appium/support ([9295d0c](https://github.com/appium/appium/commit/9295d0c68284443ecd73add1f8fe0ff7910a7d7d))
+- **appium:** update references to @testspectra/support ([9295d0c](https://github.com/appium/appium/commit/9295d0c68284443ecd73add1f8fe0ff7910a7d7d))
 - **appium:** use proper base driver package & random ports ([e14d4fb](https://github.com/appium/appium/commit/e14d4fbd0fce16f208569b0cb9149b6307f78a5f))
 - **appium:** when updating extensions, make sure to actually remove the previous one first to avoid npm reinstall issues ([4839419](https://github.com/appium/appium/commit/483941974881bf2ad362c6e6cc35883743abcd2a))
 - **appium:** when updating extensions, package fields should also be updated in extensions.yaml ([756688b](https://github.com/appium/appium/commit/756688bddb624a6e9a5b5b6403db76eac65774f3))

@@ -1,4 +1,4 @@
-import type {Constraints, DriverStatus, IBidiCommands} from '@appium/types';
+import type {Constraints, DriverStatus, IBidiCommands} from '@testspectra/types';
 import type {BaseDriver} from '../driver';
 import {mixin} from './mixin';
 import _ from 'lodash';

@@ -3,15 +3,15 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-## [2.2.1](https://github.com/appium/appium/compare/@appium/relaxed-caps-plugin@2.2.0...@appium/relaxed-caps-plugin@2.2.1) (2026-04-23)
+## [2.2.1](https://github.com/appium/appium/compare/@testspectra/relaxed-caps-plugin@2.2.0...@testspectra/relaxed-caps-plugin@2.2.1) (2026-04-23)
 
-**Note:** Version bump only for package @appium/relaxed-caps-plugin
-
-
+**Note:** Version bump only for package @testspectra/relaxed-caps-plugin
 
 
 
-## [2.2.0](https://github.com/appium/appium/compare/@appium/relaxed-caps-plugin@2.1.0...@appium/relaxed-caps-plugin@2.2.0) (2026-04-09)
+
+
+## [2.2.0](https://github.com/appium/appium/compare/@testspectra/relaxed-caps-plugin@2.1.0...@testspectra/relaxed-caps-plugin@2.2.0) (2026-04-09)
 
 
 ### Features
@@ -20,7 +20,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [2.1.0](https://github.com/appium/appium/compare/@appium/relaxed-caps-plugin@2.0.2...@appium/relaxed-caps-plugin@2.1.0) (2026-03-08)
+## [2.1.0](https://github.com/appium/appium/compare/@testspectra/relaxed-caps-plugin@2.0.2...@testspectra/relaxed-caps-plugin@2.1.0) (2026-03-08)
 
 
 ### Features
@@ -30,19 +30,19 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 ### Bug Fixes
 
-* Move @appium/types to dev dependencies for various packages ([#21920](https://github.com/appium/appium/issues/21920)) ([2615935](https://github.com/appium/appium/commit/261593593947bc59e7a937e518fc6f019cafda7a))
+* Move @testspectra/types to dev dependencies for various packages ([#21920](https://github.com/appium/appium/issues/21920)) ([2615935](https://github.com/appium/appium/commit/261593593947bc59e7a937e518fc6f019cafda7a))
 
 
 
-## [2.0.2](https://github.com/appium/appium/compare/@appium/relaxed-caps-plugin@2.0.1...@appium/relaxed-caps-plugin@2.0.2) (2026-01-26)
+## [2.0.2](https://github.com/appium/appium/compare/@testspectra/relaxed-caps-plugin@2.0.1...@testspectra/relaxed-caps-plugin@2.0.2) (2026-01-26)
 
-**Note:** Version bump only for package @appium/relaxed-caps-plugin
-
-
+**Note:** Version bump only for package @testspectra/relaxed-caps-plugin
 
 
 
-## [2.0.1](https://github.com/appium/appium/compare/@appium/relaxed-caps-plugin@2.0.0...@appium/relaxed-caps-plugin@2.0.1) (2025-10-08)
+
+
+## [2.0.1](https://github.com/appium/appium/compare/@testspectra/relaxed-caps-plugin@2.0.0...@testspectra/relaxed-caps-plugin@2.0.1) (2025-10-08)
 
 
 ### Bug Fixes
@@ -51,15 +51,15 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [2.0.0](https://github.com/appium/appium/compare/@appium/relaxed-caps-plugin@2.0.0-rc.1...@appium/relaxed-caps-plugin@2.0.0) (2025-08-18)
+## [2.0.0](https://github.com/appium/appium/compare/@testspectra/relaxed-caps-plugin@2.0.0-rc.1...@testspectra/relaxed-caps-plugin@2.0.0) (2025-08-18)
 
-**Note:** Version bump only for package @appium/relaxed-caps-plugin
-
-
+**Note:** Version bump only for package @testspectra/relaxed-caps-plugin
 
 
 
-## [2.0.0-rc.1](https://github.com/appium/appium/compare/@appium/relaxed-caps-plugin@1.0.6...@appium/relaxed-caps-plugin@2.0.0-rc.1) (2025-08-14)
+
+
+## [2.0.0-rc.1](https://github.com/appium/appium/compare/@testspectra/relaxed-caps-plugin@1.0.6...@testspectra/relaxed-caps-plugin@2.0.0-rc.1) (2025-08-14)
 
 
 ### ⚠ BREAKING CHANGES
@@ -72,56 +72,56 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [1.0.6](https://github.com/appium/appium/compare/@appium/relaxed-caps-plugin@1.0.5...@appium/relaxed-caps-plugin@1.0.6) (2023-12-18)
+## [1.0.6](https://github.com/appium/appium/compare/@testspectra/relaxed-caps-plugin@1.0.5...@testspectra/relaxed-caps-plugin@1.0.6) (2023-12-18)
 
 
 ### Bug Fixes
 
-* **docutils:** remove `@appium/typedoc-plugin-appium` and all other uses of `typedoc` ([#19465](https://github.com/appium/appium/issues/19465)) ([7528fcf](https://github.com/appium/appium/commit/7528fcf890f79f4017f5e718bb1952bf907ee479))
+* **docutils:** remove `@testspectra/typedoc-plugin-appium` and all other uses of `typedoc` ([#19465](https://github.com/appium/appium/issues/19465)) ([7528fcf](https://github.com/appium/appium/commit/7528fcf890f79f4017f5e718bb1952bf907ee479))
 
 
 
-## [1.0.5](https://github.com/appium/appium/compare/@appium/relaxed-caps-plugin@1.0.4...@appium/relaxed-caps-plugin@1.0.5) (2023-02-09)
+## [1.0.5](https://github.com/appium/appium/compare/@testspectra/relaxed-caps-plugin@1.0.4...@testspectra/relaxed-caps-plugin@1.0.5) (2023-02-09)
 
-**Note:** Version bump only for package @appium/relaxed-caps-plugin
-
-
-
-
-
-## [1.0.4](https://github.com/appium/appium/compare/@appium/relaxed-caps-plugin@1.0.3...@appium/relaxed-caps-plugin@1.0.4) (2023-01-13)
-
-**Note:** Version bump only for package @appium/relaxed-caps-plugin
+**Note:** Version bump only for package @testspectra/relaxed-caps-plugin
 
 
 
 
 
-## [1.0.3](https://github.com/appium/appium/compare/@appium/relaxed-caps-plugin@1.0.2...@appium/relaxed-caps-plugin@1.0.3) (2023-01-13)
+## [1.0.4](https://github.com/appium/appium/compare/@testspectra/relaxed-caps-plugin@1.0.3...@testspectra/relaxed-caps-plugin@1.0.4) (2023-01-13)
 
-**Note:** Version bump only for package @appium/relaxed-caps-plugin
-
-
-
-
-
-## [1.0.2](https://github.com/appium/appium/compare/@appium/relaxed-caps-plugin@1.0.1...@appium/relaxed-caps-plugin@1.0.2) (2023-01-13)
-
-**Note:** Version bump only for package @appium/relaxed-caps-plugin
+**Note:** Version bump only for package @testspectra/relaxed-caps-plugin
 
 
 
 
 
-## [1.0.1](https://github.com/appium/appium/compare/@appium/relaxed-caps-plugin@1.0.0-beta.14...@appium/relaxed-caps-plugin@1.0.1) (2023-01-13)
+## [1.0.3](https://github.com/appium/appium/compare/@testspectra/relaxed-caps-plugin@1.0.2...@testspectra/relaxed-caps-plugin@1.0.3) (2023-01-13)
 
-**Note:** Version bump only for package @appium/relaxed-caps-plugin
-
-
+**Note:** Version bump only for package @testspectra/relaxed-caps-plugin
 
 
 
-# [1.0.0-beta.14](https://github.com/appium/appium/compare/@appium/relaxed-caps-plugin@1.0.0-beta.13...@appium/relaxed-caps-plugin@1.0.0-beta.14) (2022-12-14)
+
+
+## [1.0.2](https://github.com/appium/appium/compare/@testspectra/relaxed-caps-plugin@1.0.1...@testspectra/relaxed-caps-plugin@1.0.2) (2023-01-13)
+
+**Note:** Version bump only for package @testspectra/relaxed-caps-plugin
+
+
+
+
+
+## [1.0.1](https://github.com/appium/appium/compare/@testspectra/relaxed-caps-plugin@1.0.0-beta.14...@testspectra/relaxed-caps-plugin@1.0.1) (2023-01-13)
+
+**Note:** Version bump only for package @testspectra/relaxed-caps-plugin
+
+
+
+
+
+# [1.0.0-beta.14](https://github.com/appium/appium/compare/@testspectra/relaxed-caps-plugin@1.0.0-beta.13...@testspectra/relaxed-caps-plugin@1.0.0-beta.14) (2022-12-14)
 
 - chore!: set engines to minimum Node.js v14.17.0 ([a1dbe6c](https://github.com/appium/appium/commit/a1dbe6c43efe76604943a607d402f4c8b864d652))
 
@@ -133,35 +133,35 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 - Appium now supports version range `^14.17.0 || ^16.13.0 || >=18.0.0`
 
-# [1.0.0-beta.13](https://github.com/appium/appium/compare/@appium/relaxed-caps-plugin@1.0.0-beta.12...@appium/relaxed-caps-plugin@1.0.0-beta.13) (2022-10-13)
+# [1.0.0-beta.13](https://github.com/appium/appium/compare/@testspectra/relaxed-caps-plugin@1.0.0-beta.12...@testspectra/relaxed-caps-plugin@1.0.0-beta.13) (2022-10-13)
 
-**Note:** Version bump only for package @appium/relaxed-caps-plugin
+**Note:** Version bump only for package @testspectra/relaxed-caps-plugin
 
-# [1.0.0-beta.12](https://github.com/appium/appium/compare/@appium/relaxed-caps-plugin@1.0.0-beta.11...@appium/relaxed-caps-plugin@1.0.0-beta.12) (2022-09-07)
+# [1.0.0-beta.12](https://github.com/appium/appium/compare/@testspectra/relaxed-caps-plugin@1.0.0-beta.11...@testspectra/relaxed-caps-plugin@1.0.0-beta.12) (2022-09-07)
 
-**Note:** Version bump only for package @appium/relaxed-caps-plugin
+**Note:** Version bump only for package @testspectra/relaxed-caps-plugin
 
-# [1.0.0-beta.11](https://github.com/appium/appium/compare/@appium/relaxed-caps-plugin@1.0.0-beta.10...@appium/relaxed-caps-plugin@1.0.0-beta.11) (2022-08-03)
+# [1.0.0-beta.11](https://github.com/appium/appium/compare/@testspectra/relaxed-caps-plugin@1.0.0-beta.10...@testspectra/relaxed-caps-plugin@1.0.0-beta.11) (2022-08-03)
 
 ### Bug Fixes
 
 - **appium,base-driver,base-plugin,doctor,docutils,eslint-config-appium,execute-driver-plugin,fake-driver,fake-plugin,gulp-plugins,images-plugin,opencv,relaxed-caps-plugin,schema,support,test-support,types,universal-xml-plugin:** update engines ([d8d2382](https://github.com/appium/appium/commit/d8d2382327ba7b7db8a4d1cad987c0e60184c92d))
 
-# [1.0.0-beta.10](https://github.com/appium/appium/compare/@appium/relaxed-caps-plugin@1.0.0-beta.9...@appium/relaxed-caps-plugin@1.0.0-beta.10) (2022-07-28)
+# [1.0.0-beta.10](https://github.com/appium/appium/compare/@testspectra/relaxed-caps-plugin@1.0.0-beta.9...@testspectra/relaxed-caps-plugin@1.0.0-beta.10) (2022-07-28)
 
-**Note:** Version bump only for package @appium/relaxed-caps-plugin
+**Note:** Version bump only for package @testspectra/relaxed-caps-plugin
 
-# [1.0.0-beta.9](https://github.com/appium/appium/compare/@appium/relaxed-caps-plugin@1.0.0-beta.8...@appium/relaxed-caps-plugin@1.0.0-beta.9) (2022-06-01)
+# [1.0.0-beta.9](https://github.com/appium/appium/compare/@testspectra/relaxed-caps-plugin@1.0.0-beta.8...@testspectra/relaxed-caps-plugin@1.0.0-beta.9) (2022-06-01)
 
 ### Bug Fixes
 
 - **execute-driver-plugin,fake-plugin,images-plugin,relaxed-caps-plugin,universal-xml-plugin:** ensure babel runtime is present ([df64612](https://github.com/appium/appium/commit/df64612d98c35fd64219816269f83f628e538fe2))
 
-# [1.0.0-beta.8](https://github.com/appium/appium/compare/@appium/relaxed-caps-plugin@1.0.0-beta.7...@appium/relaxed-caps-plugin@1.0.0-beta.8) (2022-05-31)
+# [1.0.0-beta.8](https://github.com/appium/appium/compare/@testspectra/relaxed-caps-plugin@1.0.0-beta.7...@testspectra/relaxed-caps-plugin@1.0.0-beta.8) (2022-05-31)
 
-**Note:** Version bump only for package @appium/relaxed-caps-plugin
+**Note:** Version bump only for package @testspectra/relaxed-caps-plugin
 
-# [1.0.0-beta.7](https://github.com/appium/appium/compare/@appium/relaxed-caps-plugin@1.0.0-beta.6...@appium/relaxed-caps-plugin@1.0.0-beta.7) (2022-05-31)
+# [1.0.0-beta.7](https://github.com/appium/appium/compare/@testspectra/relaxed-caps-plugin@1.0.0-beta.6...@testspectra/relaxed-caps-plugin@1.0.0-beta.7) (2022-05-31)
 
 ### Bug Fixes
 
@@ -174,20 +174,20 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 ### BREAKING CHANGES
 
-- **relaxed-caps-plugin:** `@appium/relaxed-caps-plugin` now expects to be installed alongside `appium`.
+- **relaxed-caps-plugin:** `@testspectra/relaxed-caps-plugin` now expects to be installed alongside `appium`.
 
-# [1.0.0-beta.6](https://github.com/appium/appium/compare/@appium/relaxed-caps-plugin@1.0.0-beta.5...@appium/relaxed-caps-plugin@1.0.0-beta.6) (2022-05-02)
+# [1.0.0-beta.6](https://github.com/appium/appium/compare/@testspectra/relaxed-caps-plugin@1.0.0-beta.5...@testspectra/relaxed-caps-plugin@1.0.0-beta.6) (2022-05-02)
 
-**Note:** Version bump only for package @appium/relaxed-caps-plugin
+**Note:** Version bump only for package @testspectra/relaxed-caps-plugin
 
-# [1.0.0-beta.5](https://github.com/appium/appium/compare/@appium/relaxed-caps-plugin@1.0.0-beta.4...@appium/relaxed-caps-plugin@1.0.0-beta.5) (2022-04-20)
+# [1.0.0-beta.5](https://github.com/appium/appium/compare/@testspectra/relaxed-caps-plugin@1.0.0-beta.4...@testspectra/relaxed-caps-plugin@1.0.0-beta.5) (2022-04-20)
 
-**Note:** Version bump only for package @appium/relaxed-caps-plugin
+**Note:** Version bump only for package @testspectra/relaxed-caps-plugin
 
-# [1.0.0-beta.4](https://github.com/appium/appium/compare/@appium/relaxed-caps-plugin@1.0.0-beta.3...@appium/relaxed-caps-plugin@1.0.0-beta.4) (2022-04-20)
+# [1.0.0-beta.4](https://github.com/appium/appium/compare/@testspectra/relaxed-caps-plugin@1.0.0-beta.3...@testspectra/relaxed-caps-plugin@1.0.0-beta.4) (2022-04-20)
 
-**Note:** Version bump only for package @appium/relaxed-caps-plugin
+**Note:** Version bump only for package @testspectra/relaxed-caps-plugin
 
 # 1.0.0-beta.3 (2022-04-20)
 
-**Note:** Version bump only for package @appium/relaxed-caps-plugin
+**Note:** Version bump only for package @testspectra/relaxed-caps-plugin

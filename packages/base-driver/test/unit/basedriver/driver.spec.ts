@@ -1,7 +1,7 @@
 import {expect} from 'chai';
-import type {InitialOpts} from '@appium/types';
+import type {InitialOpts} from '@testspectra/types';
 import {BaseDriver} from '../../../lib';
-import {driverUnitTestSuite} from '@appium/driver-test-support';
+import {driverUnitTestSuite} from '@testspectra/driver-test-support';
 
 driverUnitTestSuite(BaseDriver as any, {
   platformName: 'iOS',

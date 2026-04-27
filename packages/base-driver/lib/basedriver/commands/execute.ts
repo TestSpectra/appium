@@ -7,7 +7,7 @@ import type {
   DriverCommand,
   IExecuteCommands,
   StringRecord,
-} from '@appium/types';
+} from '@testspectra/types';
 import {rankLevenshteinCandidates} from '../../helpers/levenshtein-match';
 import {mixin} from './mixin';
 import type {BaseDriver} from '../driver';

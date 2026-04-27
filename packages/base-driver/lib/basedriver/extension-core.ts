@@ -1,11 +1,11 @@
-import {logger} from '@appium/support';
+import {logger} from '@testspectra/support';
 import {EventEmitter} from 'node:events';
 import type {
   AppiumLogger,
   BidiModuleMap,
   BiDiResultData,
   StringRecord,
-} from '@appium/types';
+} from '@testspectra/types';
 import {
   MAX_LOG_BODY_LENGTH,
 } from '../constants';

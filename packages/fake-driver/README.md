@@ -1,4 +1,4 @@
-# @appium/fake-driver
+# @testspectra/fake-driver
 
 > Fake Appium driver for internal testing
 

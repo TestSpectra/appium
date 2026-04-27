@@ -1,5 +1,5 @@
 import type {AxiosResponse, RawAxiosRequestConfig} from 'axios';
-import type {Capabilities, Constraints, SingularSessionData, W3CCapabilities} from '@appium/types';
+import type {Capabilities, Constraints, SingularSessionData, W3CCapabilities} from '@testspectra/types';
 import type {RequireAtLeastOne} from 'type-fest';
 
 export interface NewSessionData<C extends Constraints = Constraints> {

@@ -2,7 +2,7 @@ import {sleep} from 'asyncbox';
 import type {Express, Request, Response} from 'express';
 import type {Server as HttpServer} from 'node:http';
 import {BaseDriver, errors} from 'appium/driver';
-import type {DriverData, InitialOpts} from '@appium/types';
+import type {DriverData, InitialOpts} from '@testspectra/types';
 import {desiredCapConstraints} from './desired-caps';
 import type {FakeDriverConstraints} from './desired-caps';
 import type {FakeDriverCaps, W3CFakeDriverCaps} from './types';
@@ -18,7 +18,7 @@ import {NEW_METHOD_MAP} from './command-maps/new-method-map';
 import {EXECUTE_METHOD_MAP} from './command-maps/execute-method-map';
 
 export type {FakeDriverConstraints};
-export type {Orientation} from '@appium/types';
+export type {Orientation} from '@testspectra/types';
 
 /** Driver supporting a generic "fake thing" value (getFakeThing / setFakeThing). */
 export class FakeDriver<Thing = unknown> extends BaseDriver<FakeDriverConstraints> {

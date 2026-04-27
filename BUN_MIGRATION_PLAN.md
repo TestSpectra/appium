@@ -14,7 +14,7 @@ This document outlines the strategic plan to refactor the Appium monorepo to run
 - [ ] **GitHub Actions**:
     - Add `oven-sh/setup-bun` to CI workflows to support parallel testing in both Node and Bun during the transition.
 
-## Phase 2: Core Support Layer (`@appium/support`)
+## Phase 2: Core Support Layer (`@testspectra/support`)
 *Estimated Effort: Medium*
 
 This package is the foundation. Migrating it first ensures all other packages benefit from Bun's native APIs.
@@ -35,7 +35,7 @@ Appium's performance is heavily tied to how fast it can execute system commands 
     - Since `teen_process` is a separate package, create a "Bun-native" bridge or monkey-patch it to use `Bun.spawn`.
     - `Bun.spawn` is significantly faster than `child_process.exec` because it avoids the overhead of a subshell where possible.
 
-## Phase 4: Server Optimization (`@appium/base-driver`)
+## Phase 4: Server Optimization (`@testspectra/base-driver`)
 *Estimated Effort: Medium*
 
 Appium currently uses `Express`. Bun has built-in Express compatibility, but the ultimate goal is `Bun.serve`.

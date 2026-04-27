@@ -1,4 +1,4 @@
-import type {ExecuteMethodMap} from '@appium/types';
+import type {ExecuteMethodMap} from '@testspectra/types';
 import type {FakeDriver} from '../driver';
 
 export const EXECUTE_METHOD_MAP = {

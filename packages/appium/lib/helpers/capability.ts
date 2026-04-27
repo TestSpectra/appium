@@ -4,7 +4,7 @@ import type {
   Constraints,
   NSCapabilities,
   W3CCapabilities,
-} from '@appium/types';
+} from '@testspectra/types';
 import _ from 'lodash';
 import {log as logger} from '../logger';
 import {
@@ -12,7 +12,7 @@ import {
   STANDARD_CAPS,
   errors,
   isW3cCaps,
-} from '@appium/base-driver';
+} from '@testspectra/base-driver';
 
 const W3C_APPIUM_PREFIX = 'appium';
 const STANDARD_CAPS_LOWERCASE = new Set([...STANDARD_CAPS].map((cap) => cap.toLowerCase()));

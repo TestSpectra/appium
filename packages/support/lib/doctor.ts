@@ -1,4 +1,4 @@
-import type {DoctorCheckResult} from '@appium/types';
+import type {DoctorCheckResult} from '@testspectra/types';
 
 /**
  * Throw this exception in the fix() method

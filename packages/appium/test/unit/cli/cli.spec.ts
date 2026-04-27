@@ -1,4 +1,4 @@
-import {tempDir, fs, npm} from '@appium/support';
+import {tempDir, fs, npm} from '@testspectra/support';
 import {loadExtensions} from '../../../lib/extension';
 import {Manifest} from '../../../lib/extension/manifest';
 import DriverCommand from '../../../lib/cli/driver-command';
@@ -9,7 +9,7 @@ describe('DriverCommand', function () {
   let appiumHome: string;
   let config: Awaited<ReturnType<typeof loadExtensions>>['driverConfig'];
   const driver = 'fake';
-  const pkgName = '@appium/fake-driver';
+  const pkgName = '@testspectra/fake-driver';
   let dc: DriverCommand;
   let sandbox: ReturnType<typeof createSandbox>;
 

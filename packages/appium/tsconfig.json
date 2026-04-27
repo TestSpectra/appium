@@ -1,15 +1,15 @@
 {
-  "extends": "@appium/tsconfig/tsconfig.json",
+  "extends": "@testspectra/tsconfig/tsconfig.json",
   "compilerOptions": {
     "rootDir": ".",
     "outDir": "build",
     "paths": {
-      "@appium/support": ["../support"],
-      "@appium/base-driver": ["../base-driver"],
-      "@appium/base-plugin": ["../base-plugin"],
-      "@appium/fake-driver": ["../fake-driver"],
-      "@appium/types": ["../types"],
-      "@appium/schema": ["../schema"],
+      "@testspectra/support": ["../support"],
+      "@testspectra/base-driver": ["../base-driver"],
+      "@testspectra/base-plugin": ["../base-plugin"],
+      "@testspectra/fake-driver": ["../fake-driver"],
+      "@testspectra/types": ["../types"],
+      "@testspectra/schema": ["../schema"],
       "appium": ["."],
       "appium/types": ["./types"]
     },

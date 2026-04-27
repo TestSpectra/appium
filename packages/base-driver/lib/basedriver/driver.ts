@@ -1,4 +1,4 @@
-import {util} from '@appium/support';
+import {util} from '@testspectra/support';
 import {
   BASE_DESIRED_CAP_CONSTRAINTS,
   type AppiumServer,
@@ -16,7 +16,7 @@ import {
   type DefaultDeleteSessionResult,
   type SingularSessionData,
   type SessionCapabilities,
-} from '@appium/types';
+} from '@testspectra/types';
 import B from 'bluebird';
 import _ from 'lodash';
 import {fixCaps, isW3cCaps} from '../helpers/capabilities';

@@ -1,4 +1,4 @@
-import type {BidiModuleMap} from '@appium/types';
+import type {BidiModuleMap} from '@testspectra/types';
 
 const SUBSCRIPTION_REQUEST_PARAMS = {
   required: ['events'],

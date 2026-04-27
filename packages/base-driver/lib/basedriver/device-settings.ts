@@ -1,8 +1,8 @@
 import _ from 'lodash';
 import {log} from './logger';
-import {node, util} from '@appium/support';
+import {node, util} from '@testspectra/support';
 import {errors} from '../protocol/errors';
-import type {StringRecord, IDeviceSettings, SettingsUpdateListener} from '@appium/types';
+import type {StringRecord, IDeviceSettings, SettingsUpdateListener} from '@testspectra/types';
 
 /**
  * Maximum size (in bytes) of a given driver's settings object (which is internal to {@linkcode DeviceSettings}).

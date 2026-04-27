@@ -1,6 +1,6 @@
 import _ from 'lodash';
 import {exec} from 'teen_process';
-import {fs, system, tempDir, util} from '@appium/support';
+import {fs, system, tempDir, util} from '@testspectra/support';
 import path from 'node:path';
 import resolveFrom from 'resolve-from';
 import {
@@ -12,7 +12,7 @@ import {
   EXT_SUBCOMMAND_DOCTOR as DOCTOR,
   KNOWN_DRIVERS,
 } from '../../lib/constants';
-import type {DriverType} from '@appium/types';
+import type {DriverType} from '@testspectra/types';
 import type {ExtRecord} from 'appium/types';
 import {FAKE_DRIVER_DIR, resolveFixture} from '../helpers';
 import {installLocalExtension, runAppiumJson, runAppiumRaw} from './e2e-helpers';
@@ -92,7 +92,7 @@ describe('Driver CLI', function () {
       }
       const versions = JSON.parse(
         (
-          await exec('npm', ['view', '@appium/fake-driver', 'versions', '--json'], {
+          await exec('npm', ['view', '@testspectra/fake-driver', 'versions', '--json'], {
             encoding: 'utf-8',
           })
         ).stdout
@@ -102,7 +102,7 @@ describe('Driver CLI', function () {
 
       await resetAppiumHome();
       await runInstall([
-        `@appium/fake-driver@${penultimateFakeDriverVersionAsOfRightNow}`,
+        `@testspectra/fake-driver@${penultimateFakeDriverVersionAsOfRightNow}`,
         '--source',
         'npm',
       ]);
@@ -162,10 +162,10 @@ describe('Driver CLI', function () {
     });
 
     it('should install a driver from npm', async function () {
-      const ret = await runInstall(['@appium/fake-driver', '--source', 'npm']);
-      expect(ret.fake.pkgName).to.eql('@appium/fake-driver');
+      const ret = await runInstall(['@testspectra/fake-driver', '--source', 'npm']);
+      expect(ret.fake.pkgName).to.eql('@testspectra/fake-driver');
       expect(ret.fake.installType).to.eql('npm');
-      expect(ret.fake.installSpec).to.eql('@appium/fake-driver');
+      expect(ret.fake.installSpec).to.eql('@testspectra/fake-driver');
       const list = await runList(['--installed']);
       const rest = _.omit(list.fake ?? {}, ['installed', 'repositoryUrl']);
       expect(rest).to.deep.include({
@@ -176,22 +176,22 @@ describe('Driver CLI', function () {
     });
 
     it('should install a driver from npm and a local driver', async function () {
-      await runInstall(['@appium/fake-driver', '--source', 'npm']);
+      await runInstall(['@testspectra/fake-driver', '--source', 'npm']);
       await installLocalExtension(appiumHome, DRIVER_TYPE, TEST_DRIVER_DIR);
       const list = await runList(['--installed']);
       expect(list.fake).to.exist;
       expect(list.test).to.exist;
-      expect(() => resolveFrom(appiumHome, '@appium/fake-driver/package.json')).not.to.throw();
-      expect(() => resolveFrom(appiumHome, '@appium/test-driver/package.json')).not.to.throw();
+      expect(() => resolveFrom(appiumHome, '@testspectra/fake-driver/package.json')).not.to.throw();
+      expect(() => resolveFrom(appiumHome, '@testspectra/test-driver/package.json')).not.to.throw();
     });
 
     it('should install _two_ drivers from npm', async function () {
-      await runInstall(['@appium/fake-driver', '--source', 'npm']);
+      await runInstall(['@testspectra/fake-driver', '--source', 'npm']);
       await runInstall(['appium-uiautomator2-driver', '--source', 'npm']);
       const list = await runList(['--installed']);
       expect(list.fake).to.exist;
       expect(list.uiautomator2).to.exist;
-      expect(() => resolveFrom(appiumHome, '@appium/fake-driver/package.json')).not.to.throw();
+      expect(() => resolveFrom(appiumHome, '@testspectra/fake-driver/package.json')).not.to.throw();
       expect(() =>
         resolveFrom(appiumHome, 'appium-uiautomator2-driver/package.json')
       ).not.to.throw();
@@ -199,9 +199,9 @@ describe('Driver CLI', function () {
 
     it('should install a driver from npm with a specific version/tag', async function () {
       const currentFakeDriverVersionAsOfRightNow = '3.0.5';
-      const installSpec = `@appium/fake-driver@${currentFakeDriverVersionAsOfRightNow}`;
+      const installSpec = `@testspectra/fake-driver@${currentFakeDriverVersionAsOfRightNow}`;
       const ret = await runInstall([installSpec, '--source', 'npm']);
-      expect(ret.fake.pkgName).to.eql('@appium/fake-driver');
+      expect(ret.fake.pkgName).to.eql('@testspectra/fake-driver');
       expect(ret.fake.installType).to.eql('npm');
       expect(ret.fake.installSpec).to.eql(installSpec);
       const list = await runList(['--installed']);
@@ -242,9 +242,9 @@ describe('Driver CLI', function () {
         '--source',
         'git',
         '--package',
-        '@appium/fake-driver',
+        '@testspectra/fake-driver',
       ]);
-      expect(ret.fake.pkgName).to.eql('@appium/fake-driver');
+      expect(ret.fake.pkgName).to.eql('@testspectra/fake-driver');
       expect(ret.fake.installType).to.eql('git');
       expect(ret.fake.installSpec).to.eql(FAKE_DRIVER_DIR);
       const list = await runList(['--installed', '--json']);
@@ -328,12 +328,12 @@ describe('Driver CLI', function () {
       await resetAppiumHome();
       installResult = await installLocalExtension(appiumHome, DRIVER_TYPE, FAKE_DRIVER_DIR);
       listResult = await runList(['--installed']);
-      installPath = resolveFrom(appiumHome, '@appium/fake-driver');
+      installPath = resolveFrom(appiumHome, '@testspectra/fake-driver');
     });
 
     it('should install a driver from a local npm module', function () {
       expect(installResult.fake).to.include({
-        pkgName: '@appium/fake-driver',
+        pkgName: '@testspectra/fake-driver',
         installType: 'local',
         installSpec: FAKE_DRIVER_DIR,
       });

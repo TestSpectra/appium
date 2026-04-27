@@ -3,15 +3,15 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-## [1.2.1](https://github.com/appium/appium/compare/@appium/plugin-test-support@1.2.0...@appium/plugin-test-support@1.2.1) (2026-04-23)
+## [1.2.1](https://github.com/appium/appium/compare/@testspectra/plugin-test-support@1.2.0...@testspectra/plugin-test-support@1.2.1) (2026-04-23)
 
-**Note:** Version bump only for package @appium/plugin-test-support
-
-
+**Note:** Version bump only for package @testspectra/plugin-test-support
 
 
 
-## [1.2.0](https://github.com/appium/appium/compare/@appium/plugin-test-support@1.1.0...@appium/plugin-test-support@1.2.0) (2026-04-09)
+
+
+## [1.2.0](https://github.com/appium/appium/compare/@testspectra/plugin-test-support@1.1.0...@testspectra/plugin-test-support@1.2.0) (2026-04-09)
 
 
 ### Features
@@ -20,7 +20,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [1.1.0](https://github.com/appium/appium/compare/@appium/plugin-test-support@1.0.5...@appium/plugin-test-support@1.1.0) (2026-03-08)
+## [1.1.0](https://github.com/appium/appium/compare/@testspectra/plugin-test-support@1.0.5...@testspectra/plugin-test-support@1.1.0) (2026-03-08)
 
 
 ### Features
@@ -30,59 +30,59 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 ### Bug Fixes
 
-* Move @appium/types to dev dependencies for various packages ([#21920](https://github.com/appium/appium/issues/21920)) ([2615935](https://github.com/appium/appium/commit/261593593947bc59e7a937e518fc6f019cafda7a))
+* Move @testspectra/types to dev dependencies for various packages ([#21920](https://github.com/appium/appium/issues/21920)) ([2615935](https://github.com/appium/appium/commit/261593593947bc59e7a937e518fc6f019cafda7a))
 
 
 
-## [1.0.5](https://github.com/appium/appium/compare/@appium/plugin-test-support@1.0.4...@appium/plugin-test-support@1.0.5) (2026-01-26)
+## [1.0.5](https://github.com/appium/appium/compare/@testspectra/plugin-test-support@1.0.4...@testspectra/plugin-test-support@1.0.5) (2026-01-26)
 
-**Note:** Version bump only for package @appium/plugin-test-support
-
-
-
-
-
-## [1.0.4](https://github.com/appium/appium/compare/@appium/plugin-test-support@1.0.3...@appium/plugin-test-support@1.0.4) (2025-12-04)
-
-**Note:** Version bump only for package @appium/plugin-test-support
+**Note:** Version bump only for package @testspectra/plugin-test-support
 
 
 
 
 
-## [1.0.3](https://github.com/appium/appium/compare/@appium/plugin-test-support@1.0.2...@appium/plugin-test-support@1.0.3) (2025-11-12)
+## [1.0.4](https://github.com/appium/appium/compare/@testspectra/plugin-test-support@1.0.3...@testspectra/plugin-test-support@1.0.4) (2025-12-04)
 
-**Note:** Version bump only for package @appium/plugin-test-support
-
-
-
-
-
-## [1.0.2](https://github.com/appium/appium/compare/@appium/plugin-test-support@1.0.1...@appium/plugin-test-support@1.0.2) (2025-10-08)
-
-**Note:** Version bump only for package @appium/plugin-test-support
+**Note:** Version bump only for package @testspectra/plugin-test-support
 
 
 
 
 
-## [1.0.1](https://github.com/appium/appium/compare/@appium/plugin-test-support@1.0.0...@appium/plugin-test-support@1.0.1) (2025-09-09)
+## [1.0.3](https://github.com/appium/appium/compare/@testspectra/plugin-test-support@1.0.2...@testspectra/plugin-test-support@1.0.3) (2025-11-12)
 
-**Note:** Version bump only for package @appium/plugin-test-support
-
-
-
-
-
-## [1.0.0](https://github.com/appium/appium/compare/@appium/plugin-test-support@1.0.0-rc.1...@appium/plugin-test-support@1.0.0) (2025-08-18)
-
-**Note:** Version bump only for package @appium/plugin-test-support
+**Note:** Version bump only for package @testspectra/plugin-test-support
 
 
 
 
 
-## [1.0.0-rc.1](https://github.com/appium/appium/compare/@appium/plugin-test-support@0.3.51...@appium/plugin-test-support@1.0.0-rc.1) (2025-08-14)
+## [1.0.2](https://github.com/appium/appium/compare/@testspectra/plugin-test-support@1.0.1...@testspectra/plugin-test-support@1.0.2) (2025-10-08)
+
+**Note:** Version bump only for package @testspectra/plugin-test-support
+
+
+
+
+
+## [1.0.1](https://github.com/appium/appium/compare/@testspectra/plugin-test-support@1.0.0...@testspectra/plugin-test-support@1.0.1) (2025-09-09)
+
+**Note:** Version bump only for package @testspectra/plugin-test-support
+
+
+
+
+
+## [1.0.0](https://github.com/appium/appium/compare/@testspectra/plugin-test-support@1.0.0-rc.1...@testspectra/plugin-test-support@1.0.0) (2025-08-18)
+
+**Note:** Version bump only for package @testspectra/plugin-test-support
+
+
+
+
+
+## [1.0.0-rc.1](https://github.com/appium/appium/compare/@testspectra/plugin-test-support@0.3.51...@testspectra/plugin-test-support@1.0.0-rc.1) (2025-08-14)
 
 
 ### ⚠ BREAKING CHANGES
@@ -95,55 +95,55 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.3.54](https://github.com/appium/appium/compare/@appium/plugin-test-support@0.3.53...@appium/plugin-test-support@0.3.54) (2025-06-01)
+## [0.3.54](https://github.com/appium/appium/compare/@testspectra/plugin-test-support@0.3.53...@testspectra/plugin-test-support@0.3.54) (2025-06-01)
 
-**Note:** Version bump only for package @appium/plugin-test-support
-
-
-
-
-
-## [0.3.53](https://github.com/appium/appium/compare/@appium/plugin-test-support@0.3.52...@appium/plugin-test-support@0.3.53) (2025-04-25)
-
-**Note:** Version bump only for package @appium/plugin-test-support
+**Note:** Version bump only for package @testspectra/plugin-test-support
 
 
 
 
 
-## [0.3.52](https://github.com/appium/appium/compare/@appium/plugin-test-support@0.3.51...@appium/plugin-test-support@0.3.52) (2025-03-11)
+## [0.3.53](https://github.com/appium/appium/compare/@testspectra/plugin-test-support@0.3.52...@testspectra/plugin-test-support@0.3.53) (2025-04-25)
 
-**Note:** Version bump only for package @appium/plugin-test-support
-
-
-
-
-
-## [0.3.51](https://github.com/appium/appium/compare/@appium/plugin-test-support@0.3.50...@appium/plugin-test-support@0.3.51) (2025-02-20)
-
-**Note:** Version bump only for package @appium/plugin-test-support
+**Note:** Version bump only for package @testspectra/plugin-test-support
 
 
 
 
 
-## [0.3.50](https://github.com/appium/appium/compare/@appium/plugin-test-support@0.3.49...@appium/plugin-test-support@0.3.50) (2025-02-19)
+## [0.3.52](https://github.com/appium/appium/compare/@testspectra/plugin-test-support@0.3.51...@testspectra/plugin-test-support@0.3.52) (2025-03-11)
 
-**Note:** Version bump only for package @appium/plugin-test-support
-
-
-
-
-
-## [0.3.49](https://github.com/appium/appium/compare/@appium/plugin-test-support@0.3.48...@appium/plugin-test-support@0.3.49) (2025-01-08)
-
-**Note:** Version bump only for package @appium/plugin-test-support
+**Note:** Version bump only for package @testspectra/plugin-test-support
 
 
 
 
 
-## [0.3.48](https://github.com/appium/appium/compare/@appium/plugin-test-support@0.3.47...@appium/plugin-test-support@0.3.48) (2025-01-06)
+## [0.3.51](https://github.com/appium/appium/compare/@testspectra/plugin-test-support@0.3.50...@testspectra/plugin-test-support@0.3.51) (2025-02-20)
+
+**Note:** Version bump only for package @testspectra/plugin-test-support
+
+
+
+
+
+## [0.3.50](https://github.com/appium/appium/compare/@testspectra/plugin-test-support@0.3.49...@testspectra/plugin-test-support@0.3.50) (2025-02-19)
+
+**Note:** Version bump only for package @testspectra/plugin-test-support
+
+
+
+
+
+## [0.3.49](https://github.com/appium/appium/compare/@testspectra/plugin-test-support@0.3.48...@testspectra/plugin-test-support@0.3.49) (2025-01-08)
+
+**Note:** Version bump only for package @testspectra/plugin-test-support
+
+
+
+
+
+## [0.3.48](https://github.com/appium/appium/compare/@testspectra/plugin-test-support@0.3.47...@testspectra/plugin-test-support@0.3.48) (2025-01-06)
 
 
 ### Bug Fixes
@@ -152,7 +152,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.3.47](https://github.com/appium/appium/compare/@appium/plugin-test-support@0.3.46...@appium/plugin-test-support@0.3.47) (2025-01-02)
+## [0.3.47](https://github.com/appium/appium/compare/@testspectra/plugin-test-support@0.3.46...@testspectra/plugin-test-support@0.3.47) (2025-01-02)
 
 
 ### Bug Fixes
@@ -161,7 +161,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.3.46](https://github.com/appium/appium/compare/@appium/plugin-test-support@0.3.45...@appium/plugin-test-support@0.3.46) (2024-12-05)
+## [0.3.46](https://github.com/appium/appium/compare/@testspectra/plugin-test-support@0.3.45...@testspectra/plugin-test-support@0.3.46) (2024-12-05)
 
 
 ### Bug Fixes
@@ -170,47 +170,47 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.3.45](https://github.com/appium/appium/compare/@appium/plugin-test-support@0.3.44...@appium/plugin-test-support@0.3.45) (2024-12-02)
+## [0.3.45](https://github.com/appium/appium/compare/@testspectra/plugin-test-support@0.3.44...@testspectra/plugin-test-support@0.3.45) (2024-12-02)
 
-**Note:** Version bump only for package @appium/plugin-test-support
-
-
-
-
-
-## [0.3.44](https://github.com/appium/appium/compare/@appium/plugin-test-support@0.3.43...@appium/plugin-test-support@0.3.44) (2024-11-29)
-
-**Note:** Version bump only for package @appium/plugin-test-support
+**Note:** Version bump only for package @testspectra/plugin-test-support
 
 
 
 
 
-## [0.3.43](https://github.com/appium/appium/compare/@appium/plugin-test-support@0.3.42...@appium/plugin-test-support@0.3.43) (2024-10-15)
+## [0.3.44](https://github.com/appium/appium/compare/@testspectra/plugin-test-support@0.3.43...@testspectra/plugin-test-support@0.3.44) (2024-11-29)
 
-**Note:** Version bump only for package @appium/plugin-test-support
-
-
-
-
-
-## [0.3.42](https://github.com/appium/appium/compare/@appium/plugin-test-support@0.3.41...@appium/plugin-test-support@0.3.42) (2024-09-16)
-
-**Note:** Version bump only for package @appium/plugin-test-support
+**Note:** Version bump only for package @testspectra/plugin-test-support
 
 
 
 
 
-## [0.3.41](https://github.com/appium/appium/compare/@appium/plugin-test-support@0.3.40...@appium/plugin-test-support@0.3.41) (2024-08-07)
+## [0.3.43](https://github.com/appium/appium/compare/@testspectra/plugin-test-support@0.3.42...@testspectra/plugin-test-support@0.3.43) (2024-10-15)
 
-**Note:** Version bump only for package @appium/plugin-test-support
-
-
+**Note:** Version bump only for package @testspectra/plugin-test-support
 
 
 
-## [0.3.40](https://github.com/appium/appium/compare/@appium/plugin-test-support@0.3.39...@appium/plugin-test-support@0.3.40) (2024-07-10)
+
+
+## [0.3.42](https://github.com/appium/appium/compare/@testspectra/plugin-test-support@0.3.41...@testspectra/plugin-test-support@0.3.42) (2024-09-16)
+
+**Note:** Version bump only for package @testspectra/plugin-test-support
+
+
+
+
+
+## [0.3.41](https://github.com/appium/appium/compare/@testspectra/plugin-test-support@0.3.40...@testspectra/plugin-test-support@0.3.41) (2024-08-07)
+
+**Note:** Version bump only for package @testspectra/plugin-test-support
+
+
+
+
+
+## [0.3.40](https://github.com/appium/appium/compare/@testspectra/plugin-test-support@0.3.39...@testspectra/plugin-test-support@0.3.40) (2024-07-10)
 
 
 ### Bug Fixes
@@ -221,7 +221,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.3.39](https://github.com/appium/appium/compare/@appium/plugin-test-support@0.3.38...@appium/plugin-test-support@0.3.39) (2024-06-27)
+## [0.3.39](https://github.com/appium/appium/compare/@testspectra/plugin-test-support@0.3.38...@testspectra/plugin-test-support@0.3.39) (2024-06-27)
 
 
 ### Bug Fixes
@@ -231,55 +231,55 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.3.38](https://github.com/appium/appium/compare/@appium/plugin-test-support@0.3.37...@appium/plugin-test-support@0.3.38) (2024-06-11)
+## [0.3.38](https://github.com/appium/appium/compare/@testspectra/plugin-test-support@0.3.37...@testspectra/plugin-test-support@0.3.38) (2024-06-11)
 
-**Note:** Version bump only for package @appium/plugin-test-support
-
-
-
-
-
-## [0.3.37](https://github.com/appium/appium/compare/@appium/plugin-test-support@0.3.36...@appium/plugin-test-support@0.3.37) (2024-06-11)
-
-**Note:** Version bump only for package @appium/plugin-test-support
+**Note:** Version bump only for package @testspectra/plugin-test-support
 
 
 
 
 
-## [0.3.36](https://github.com/appium/appium/compare/@appium/plugin-test-support@0.3.35...@appium/plugin-test-support@0.3.36) (2024-06-11)
+## [0.3.37](https://github.com/appium/appium/compare/@testspectra/plugin-test-support@0.3.36...@testspectra/plugin-test-support@0.3.37) (2024-06-11)
 
-**Note:** Version bump only for package @appium/plugin-test-support
-
-
-
-
-
-## [0.3.35](https://github.com/appium/appium/compare/@appium/plugin-test-support@0.3.34...@appium/plugin-test-support@0.3.35) (2024-06-10)
-
-**Note:** Version bump only for package @appium/plugin-test-support
+**Note:** Version bump only for package @testspectra/plugin-test-support
 
 
 
 
 
-## [0.3.34](https://github.com/appium/appium/compare/@appium/plugin-test-support@0.3.33...@appium/plugin-test-support@0.3.34) (2024-06-06)
+## [0.3.36](https://github.com/appium/appium/compare/@testspectra/plugin-test-support@0.3.35...@testspectra/plugin-test-support@0.3.36) (2024-06-11)
 
-**Note:** Version bump only for package @appium/plugin-test-support
-
-
-
-
-
-## [0.3.33](https://github.com/appium/appium/compare/@appium/plugin-test-support@0.3.32...@appium/plugin-test-support@0.3.33) (2024-06-06)
-
-**Note:** Version bump only for package @appium/plugin-test-support
+**Note:** Version bump only for package @testspectra/plugin-test-support
 
 
 
 
 
-## [0.3.32](https://github.com/appium/appium/compare/@appium/plugin-test-support@0.3.31...@appium/plugin-test-support@0.3.32) (2024-06-06)
+## [0.3.35](https://github.com/appium/appium/compare/@testspectra/plugin-test-support@0.3.34...@testspectra/plugin-test-support@0.3.35) (2024-06-10)
+
+**Note:** Version bump only for package @testspectra/plugin-test-support
+
+
+
+
+
+## [0.3.34](https://github.com/appium/appium/compare/@testspectra/plugin-test-support@0.3.33...@testspectra/plugin-test-support@0.3.34) (2024-06-06)
+
+**Note:** Version bump only for package @testspectra/plugin-test-support
+
+
+
+
+
+## [0.3.33](https://github.com/appium/appium/compare/@testspectra/plugin-test-support@0.3.32...@testspectra/plugin-test-support@0.3.33) (2024-06-06)
+
+**Note:** Version bump only for package @testspectra/plugin-test-support
+
+
+
+
+
+## [0.3.32](https://github.com/appium/appium/compare/@testspectra/plugin-test-support@0.3.31...@testspectra/plugin-test-support@0.3.32) (2024-06-06)
 
 
 ### Bug Fixes
@@ -288,7 +288,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.3.31](https://github.com/appium/appium/compare/@appium/plugin-test-support@0.3.30...@appium/plugin-test-support@0.3.31) (2024-05-27)
+## [0.3.31](https://github.com/appium/appium/compare/@testspectra/plugin-test-support@0.3.30...@testspectra/plugin-test-support@0.3.31) (2024-05-27)
 
 
 ### Bug Fixes
@@ -297,15 +297,15 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.3.30](https://github.com/appium/appium/compare/@appium/plugin-test-support@0.3.29...@appium/plugin-test-support@0.3.30) (2024-04-21)
+## [0.3.30](https://github.com/appium/appium/compare/@testspectra/plugin-test-support@0.3.29...@testspectra/plugin-test-support@0.3.30) (2024-04-21)
 
-**Note:** Version bump only for package @appium/plugin-test-support
-
-
+**Note:** Version bump only for package @testspectra/plugin-test-support
 
 
 
-## [0.3.29](https://github.com/appium/appium/compare/@appium/plugin-test-support@0.3.28...@appium/plugin-test-support@0.3.29) (2024-04-08)
+
+
+## [0.3.29](https://github.com/appium/appium/compare/@testspectra/plugin-test-support@0.3.28...@testspectra/plugin-test-support@0.3.29) (2024-04-08)
 
 
 ### Bug Fixes
@@ -314,28 +314,28 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.3.28](https://github.com/appium/appium/compare/@appium/plugin-test-support@0.3.27...@appium/plugin-test-support@0.3.28) (2024-02-06)
+## [0.3.28](https://github.com/appium/appium/compare/@testspectra/plugin-test-support@0.3.27...@testspectra/plugin-test-support@0.3.28) (2024-02-06)
 
-**Note:** Version bump only for package @appium/plugin-test-support
-
-
-
-
-
-## [0.3.27](https://github.com/appium/appium/compare/@appium/plugin-test-support@0.3.26...@appium/plugin-test-support@0.3.27) (2024-01-03)
-
-**Note:** Version bump only for package @appium/plugin-test-support
+**Note:** Version bump only for package @testspectra/plugin-test-support
 
 
 
 
 
-## [0.3.26](https://github.com/appium/appium/compare/@appium/plugin-test-support@0.3.25...@appium/plugin-test-support@0.3.26) (2023-12-18)
+## [0.3.27](https://github.com/appium/appium/compare/@testspectra/plugin-test-support@0.3.26...@testspectra/plugin-test-support@0.3.27) (2024-01-03)
+
+**Note:** Version bump only for package @testspectra/plugin-test-support
+
+
+
+
+
+## [0.3.26](https://github.com/appium/appium/compare/@testspectra/plugin-test-support@0.3.25...@testspectra/plugin-test-support@0.3.26) (2023-12-18)
 
 
 ### Bug Fixes
 
-* **docutils:** remove `@appium/typedoc-plugin-appium` and all other uses of `typedoc` ([#19465](https://github.com/appium/appium/issues/19465)) ([7528fcf](https://github.com/appium/appium/commit/7528fcf890f79f4017f5e718bb1952bf907ee479))
+* **docutils:** remove `@testspectra/typedoc-plugin-appium` and all other uses of `typedoc` ([#19465](https://github.com/appium/appium/issues/19465)) ([7528fcf](https://github.com/appium/appium/commit/7528fcf890f79f4017f5e718bb1952bf907ee479))
 * **support:** update dependency teen_process to v2.0.109 ([85dce4a](https://github.com/appium/appium/commit/85dce4a72b21e017b4661ddf997c096817e5fd7f))
 * **support:** update dependency teen_process to v2.0.110 ([b602693](https://github.com/appium/appium/commit/b60269371662de4c42ccd7586512c9d685d95d52))
 * **support:** update dependency teen_process to v2.0.112 ([#19491](https://github.com/appium/appium/issues/19491)) ([d2d8ea7](https://github.com/appium/appium/commit/d2d8ea7a105eb93f59793fbc4d3438a66a191cd8))
@@ -343,7 +343,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.3.25](https://github.com/appium/appium/compare/@appium/plugin-test-support@0.3.24...@appium/plugin-test-support@0.3.25) (2023-12-04)
+## [0.3.25](https://github.com/appium/appium/compare/@testspectra/plugin-test-support@0.3.24...@testspectra/plugin-test-support@0.3.25) (2023-12-04)
 
 
 ### Bug Fixes
@@ -357,7 +357,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.3.24](https://github.com/appium/appium/compare/@appium/plugin-test-support@0.3.23...@appium/plugin-test-support@0.3.24) (2023-11-14)
+## [0.3.24](https://github.com/appium/appium/compare/@testspectra/plugin-test-support@0.3.23...@testspectra/plugin-test-support@0.3.24) (2023-11-14)
 
 
 ### Bug Fixes
@@ -374,7 +374,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.3.23](https://github.com/appium/appium/compare/@appium/plugin-test-support@0.3.22...@appium/plugin-test-support@0.3.23) (2023-10-19)
+## [0.3.23](https://github.com/appium/appium/compare/@testspectra/plugin-test-support@0.3.22...@testspectra/plugin-test-support@0.3.23) (2023-10-19)
 
 
 ### Bug Fixes
@@ -383,7 +383,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.3.22](https://github.com/appium/appium/compare/@appium/plugin-test-support@0.3.21...@appium/plugin-test-support@0.3.22) (2023-10-18)
+## [0.3.22](https://github.com/appium/appium/compare/@testspectra/plugin-test-support@0.3.21...@testspectra/plugin-test-support@0.3.22) (2023-10-18)
 
 
 ### Bug Fixes
@@ -410,23 +410,23 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.3.21](https://github.com/appium/appium/compare/@appium/plugin-test-support@0.3.20...@appium/plugin-test-support@0.3.21) (2023-08-22)
+## [0.3.21](https://github.com/appium/appium/compare/@testspectra/plugin-test-support@0.3.20...@testspectra/plugin-test-support@0.3.21) (2023-08-22)
 
-**Note:** Version bump only for package @appium/plugin-test-support
-
-
-
-
-
-## [0.3.20](https://github.com/appium/appium/compare/@appium/plugin-test-support@0.3.19...@appium/plugin-test-support@0.3.20) (2023-08-17)
-
-**Note:** Version bump only for package @appium/plugin-test-support
+**Note:** Version bump only for package @testspectra/plugin-test-support
 
 
 
 
 
-## [0.3.19](https://github.com/appium/appium/compare/@appium/plugin-test-support@0.3.18...@appium/plugin-test-support@0.3.19) (2023-07-24)
+## [0.3.20](https://github.com/appium/appium/compare/@testspectra/plugin-test-support@0.3.19...@testspectra/plugin-test-support@0.3.20) (2023-08-17)
+
+**Note:** Version bump only for package @testspectra/plugin-test-support
+
+
+
+
+
+## [0.3.19](https://github.com/appium/appium/compare/@testspectra/plugin-test-support@0.3.18...@testspectra/plugin-test-support@0.3.19) (2023-07-24)
 
 
 ### Bug Fixes
@@ -435,147 +435,147 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.3.18](https://github.com/appium/appium/compare/@appium/plugin-test-support@0.3.17...@appium/plugin-test-support@0.3.18) (2023-07-03)
+## [0.3.18](https://github.com/appium/appium/compare/@testspectra/plugin-test-support@0.3.17...@testspectra/plugin-test-support@0.3.18) (2023-07-03)
 
-**Note:** Version bump only for package @appium/plugin-test-support
+**Note:** Version bump only for package @testspectra/plugin-test-support
 
 
 
 
 
-## [0.3.17](https://github.com/appium/appium/compare/@appium/plugin-test-support@0.3.16...@appium/plugin-test-support@0.3.17) (2023-06-29)
+## [0.3.17](https://github.com/appium/appium/compare/@testspectra/plugin-test-support@0.3.16...@testspectra/plugin-test-support@0.3.17) (2023-06-29)
 
-**Note:** Version bump only for package @appium/plugin-test-support
+**Note:** Version bump only for package @testspectra/plugin-test-support
 
 
 
 
 
-## [0.3.16](https://github.com/appium/appium/compare/@appium/plugin-test-support@0.3.15...@appium/plugin-test-support@0.3.16) (2023-06-15)
+## [0.3.16](https://github.com/appium/appium/compare/@testspectra/plugin-test-support@0.3.15...@testspectra/plugin-test-support@0.3.16) (2023-06-15)
 
-**Note:** Version bump only for package @appium/plugin-test-support
+**Note:** Version bump only for package @testspectra/plugin-test-support
 
 
 
 
 
-## [0.3.15](https://github.com/appium/appium/compare/@appium/plugin-test-support@0.3.14...@appium/plugin-test-support@0.3.15) (2023-06-14)
+## [0.3.15](https://github.com/appium/appium/compare/@testspectra/plugin-test-support@0.3.14...@testspectra/plugin-test-support@0.3.15) (2023-06-14)
 
-**Note:** Version bump only for package @appium/plugin-test-support
+**Note:** Version bump only for package @testspectra/plugin-test-support
 
 
 
 
 
-## [0.3.14](https://github.com/appium/appium/compare/@appium/plugin-test-support@0.3.13...@appium/plugin-test-support@0.3.14) (2023-05-17)
+## [0.3.14](https://github.com/appium/appium/compare/@testspectra/plugin-test-support@0.3.13...@testspectra/plugin-test-support@0.3.14) (2023-05-17)
 
-**Note:** Version bump only for package @appium/plugin-test-support
+**Note:** Version bump only for package @testspectra/plugin-test-support
 
 
 
 
 
-## [0.3.13](https://github.com/appium/appium/compare/@appium/plugin-test-support@0.3.12...@appium/plugin-test-support@0.3.13) (2023-04-14)
+## [0.3.13](https://github.com/appium/appium/compare/@testspectra/plugin-test-support@0.3.12...@testspectra/plugin-test-support@0.3.13) (2023-04-14)
 
-**Note:** Version bump only for package @appium/plugin-test-support
+**Note:** Version bump only for package @testspectra/plugin-test-support
 
 
 
 
 
-## [0.3.12](https://github.com/appium/appium/compare/@appium/plugin-test-support@0.3.11...@appium/plugin-test-support@0.3.12) (2023-04-10)
+## [0.3.12](https://github.com/appium/appium/compare/@testspectra/plugin-test-support@0.3.11...@testspectra/plugin-test-support@0.3.12) (2023-04-10)
 
-**Note:** Version bump only for package @appium/plugin-test-support
+**Note:** Version bump only for package @testspectra/plugin-test-support
 
 
 
 
 
-## [0.3.11](https://github.com/appium/appium/compare/@appium/plugin-test-support@0.3.10...@appium/plugin-test-support@0.3.11) (2023-04-03)
+## [0.3.11](https://github.com/appium/appium/compare/@testspectra/plugin-test-support@0.3.10...@testspectra/plugin-test-support@0.3.11) (2023-04-03)
 
-**Note:** Version bump only for package @appium/plugin-test-support
+**Note:** Version bump only for package @testspectra/plugin-test-support
 
 
 
 
 
-## [0.3.10](https://github.com/appium/appium/compare/@appium/plugin-test-support@0.3.9...@appium/plugin-test-support@0.3.10) (2023-03-28)
+## [0.3.10](https://github.com/appium/appium/compare/@testspectra/plugin-test-support@0.3.9...@testspectra/plugin-test-support@0.3.10) (2023-03-28)
 
-**Note:** Version bump only for package @appium/plugin-test-support
+**Note:** Version bump only for package @testspectra/plugin-test-support
 
 
 
 
 
-## [0.3.9](https://github.com/appium/appium/compare/@appium/plugin-test-support@0.3.8...@appium/plugin-test-support@0.3.9) (2023-03-08)
+## [0.3.9](https://github.com/appium/appium/compare/@testspectra/plugin-test-support@0.3.8...@testspectra/plugin-test-support@0.3.9) (2023-03-08)
 
-**Note:** Version bump only for package @appium/plugin-test-support
+**Note:** Version bump only for package @testspectra/plugin-test-support
 
 
 
 
 
-## [0.3.8](https://github.com/appium/appium/compare/@appium/plugin-test-support@0.3.7...@appium/plugin-test-support@0.3.8) (2023-02-24)
+## [0.3.8](https://github.com/appium/appium/compare/@testspectra/plugin-test-support@0.3.7...@testspectra/plugin-test-support@0.3.8) (2023-02-24)
 
-**Note:** Version bump only for package @appium/plugin-test-support
+**Note:** Version bump only for package @testspectra/plugin-test-support
 
 
 
 
 
-## [0.3.7](https://github.com/appium/appium/compare/@appium/plugin-test-support@0.3.6...@appium/plugin-test-support@0.3.7) (2023-02-09)
+## [0.3.7](https://github.com/appium/appium/compare/@testspectra/plugin-test-support@0.3.6...@testspectra/plugin-test-support@0.3.7) (2023-02-09)
 
-**Note:** Version bump only for package @appium/plugin-test-support
+**Note:** Version bump only for package @testspectra/plugin-test-support
 
 
 
 
 
-## [0.3.6](https://github.com/appium/appium/compare/@appium/plugin-test-support@0.3.5...@appium/plugin-test-support@0.3.6) (2023-01-23)
+## [0.3.6](https://github.com/appium/appium/compare/@testspectra/plugin-test-support@0.3.5...@testspectra/plugin-test-support@0.3.6) (2023-01-23)
 
-**Note:** Version bump only for package @appium/plugin-test-support
+**Note:** Version bump only for package @testspectra/plugin-test-support
 
 
 
 
 
-## [0.3.5](https://github.com/appium/appium/compare/@appium/plugin-test-support@0.3.4...@appium/plugin-test-support@0.3.5) (2023-01-13)
+## [0.3.5](https://github.com/appium/appium/compare/@testspectra/plugin-test-support@0.3.4...@testspectra/plugin-test-support@0.3.5) (2023-01-13)
 
-**Note:** Version bump only for package @appium/plugin-test-support
+**Note:** Version bump only for package @testspectra/plugin-test-support
 
 
 
 
 
-## [0.3.4](https://github.com/appium/appium/compare/@appium/plugin-test-support@0.3.3...@appium/plugin-test-support@0.3.4) (2023-01-13)
+## [0.3.4](https://github.com/appium/appium/compare/@testspectra/plugin-test-support@0.3.3...@testspectra/plugin-test-support@0.3.4) (2023-01-13)
 
-**Note:** Version bump only for package @appium/plugin-test-support
+**Note:** Version bump only for package @testspectra/plugin-test-support
 
 
 
 
 
-## [0.3.3](https://github.com/appium/appium/compare/@appium/plugin-test-support@0.3.2...@appium/plugin-test-support@0.3.3) (2023-01-13)
+## [0.3.3](https://github.com/appium/appium/compare/@testspectra/plugin-test-support@0.3.2...@testspectra/plugin-test-support@0.3.3) (2023-01-13)
 
-**Note:** Version bump only for package @appium/plugin-test-support
+**Note:** Version bump only for package @testspectra/plugin-test-support
 
 
 
 
 
-## [0.3.2](https://github.com/appium/appium/compare/@appium/plugin-test-support@0.3.1...@appium/plugin-test-support@0.3.2) (2023-01-13)
+## [0.3.2](https://github.com/appium/appium/compare/@testspectra/plugin-test-support@0.3.1...@testspectra/plugin-test-support@0.3.2) (2023-01-13)
 
-**Note:** Version bump only for package @appium/plugin-test-support
+**Note:** Version bump only for package @testspectra/plugin-test-support
 
 
 
 
 
-## [0.3.1](https://github.com/appium/appium/compare/@appium/plugin-test-support@0.3.0...@appium/plugin-test-support@0.3.1) (2022-12-21)
+## [0.3.1](https://github.com/appium/appium/compare/@testspectra/plugin-test-support@0.3.0...@testspectra/plugin-test-support@0.3.1) (2022-12-21)
 
-**Note:** Version bump only for package @appium/plugin-test-support
+**Note:** Version bump only for package @testspectra/plugin-test-support
 
-# [0.3.0](https://github.com/appium/appium/compare/@appium/plugin-test-support@0.2.1...@appium/plugin-test-support@0.3.0) (2022-12-14)
+# [0.3.0](https://github.com/appium/appium/compare/@testspectra/plugin-test-support@0.2.1...@testspectra/plugin-test-support@0.3.0) (2022-12-14)
 
 - chore!: set engines to minimum Node.js v14.17.0 ([a1dbe6c](https://github.com/appium/appium/commit/a1dbe6c43efe76604943a607d402f4c8b864d652))
 
@@ -583,12 +583,12 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 - Appium now supports version range `^14.17.0 || ^16.13.0 || >=18.0.0`
 
-## [0.2.1](https://github.com/appium/appium/compare/@appium/plugin-test-support@0.2.0...@appium/plugin-test-support@0.2.1) (2022-10-13)
+## [0.2.1](https://github.com/appium/appium/compare/@testspectra/plugin-test-support@0.2.0...@testspectra/plugin-test-support@0.2.1) (2022-10-13)
 
-**Note:** Version bump only for package @appium/plugin-test-support
+**Note:** Version bump only for package @testspectra/plugin-test-support
 
 # 0.2.0 (2022-09-07)
 
 ### Features
 
-- **plugin-test-support:** create @appium/plugin-test-support ([108b8c0](https://github.com/appium/appium/commit/108b8c0209dc3f5755de82f1b6e622c76ece5ac3))
+- **plugin-test-support:** create @testspectra/plugin-test-support ([108b8c0](https://github.com/appium/appium/commit/108b8c0209dc3f5755de82f1b6e622c76ece5ac3))

@@ -4,14 +4,14 @@ import type {
   Capabilities,
   W3CCapabilities,
   StandardCapabilities,
-} from '@appium/types';
+} from '@testspectra/types';
 import type {
   KeyAsString,
   MergeExclusive,
 } from 'type-fest';
 import _ from 'lodash';
 import {validator} from './validation';
-import {util} from '@appium/support';
+import {util} from '@testspectra/support';
 import {log} from './logger';
 import {errors} from '../protocol/errors';
 

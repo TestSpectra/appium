@@ -1,4 +1,4 @@
-import {fs, tempDir} from '@appium/support';
+import {fs, tempDir} from '@testspectra/support';
 import path from 'node:path';
 import * as YAML from 'yaml';
 import {

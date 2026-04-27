@@ -1,5 +1,5 @@
 import _ from 'lodash';
-import {util, logger} from '@appium/support';
+import {util, logger} from '@testspectra/support';
 import {validators} from './validators';
 import {
   errors,
@@ -16,7 +16,7 @@ import {MAX_LOG_BODY_LENGTH, PROTOCOLS, DEFAULT_BASE_PATH} from '../constants';
 import {isW3cCaps} from '../helpers/capabilities';
 import {log} from '../basedriver/logger';
 import {generateDriverLogPrefix} from '../basedriver/helpers';
-import type {Core, AppiumLogger, PayloadParams, MethodMap, Driver, DriverMethodDef} from '@appium/types';
+import type {Core, AppiumLogger, PayloadParams, MethodMap, Driver, DriverMethodDef} from '@testspectra/types';
 import type {BaseDriver} from '../basedriver/driver';
 import type {Request, Response, Application} from 'express';
 import type {MultidimensionalReadonlyArray} from 'type-fest';

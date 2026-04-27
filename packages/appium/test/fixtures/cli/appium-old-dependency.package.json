@@ -1,6 +1,6 @@
 {
   "name": "my-project",
   "dependencies": {
-    "appium": "next"
+    "@testspectra/appium": "next"
   }
 }

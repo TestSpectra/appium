@@ -40,11 +40,11 @@ let loadExtensions;
 
 const ora = require('ora');
 
-/** @type {typeof import('@appium/support').env} */
+/** @type {typeof import('@testspectra/support').env} */
 let env;
-/** @type {typeof import('@appium/support').util} */
+/** @type {typeof import('@testspectra/support').util} */
 let util;
-/** @type {typeof import('@appium/support').logger} */
+/** @type {typeof import('@testspectra/support').logger} */
 let logger;
 
 function log(message) {
@@ -78,7 +78,7 @@ async function init() {
     return false;
   }
   try {
-    ({env, util, logger} = require('@appium/support'));
+    ({env, util, logger} = require('@testspectra/support'));
     // @ts-ignore This is OK
     ({runExtensionCommand} = require('../build/lib/cli/extension'));
     ({DRIVER_TYPE, PLUGIN_TYPE} = require('../build/lib/constants'));

@@ -2,7 +2,7 @@ import _ from 'lodash';
 import {
   METHOD_MAP as BASE_METHOD_MAP,
   BIDI_COMMANDS as BASE_BIDI_COMMANDS,
-} from '@appium/base-driver';
+} from '@testspectra/base-driver';
 import type {
   ListCommandsResponse,
   MethodMap,
@@ -18,7 +18,7 @@ import type {
   BiDiCommandItemParam,
   BiDiCommandNamesToInfosMap,
   ExecuteMethodMap,
-} from '@appium/types';
+} from '@testspectra/types';
 import type {AppiumDriver} from './appium';
 
 /**

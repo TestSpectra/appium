@@ -1,6 +1,6 @@
 import _ from 'lodash';
 import {errors} from 'appium/driver';
-import {util} from '@appium/support';
+import {util} from '@testspectra/support';
 import {log} from './logger';
 import {
   IMAGE_STRATEGY,
@@ -9,7 +9,7 @@ import {
   IMAGE_ELEMENT_PREFIX,
   IMAGE_EL_TAP_STRATEGY_W3C,
 } from './constants';
-import type {Rect, Element, ExternalDriver, ActionSequence} from '@appium/types';
+import type {Rect, Element, ExternalDriver, ActionSequence} from '@testspectra/types';
 import type {ImageElementFinder} from './finder';
 import type {ImageSettings, Dimension, Position, ImageElementOpts} from './types';
 

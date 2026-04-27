@@ -36,7 +36,7 @@ import {
 } from './websocket';
 import B from 'bluebird';
 import {DEFAULT_BASE_PATH} from '../constants';
-import {fs, timing} from '@appium/support';
+import {fs, timing} from '@testspectra/support';
 import type {
   AppiumServer,
   ServerArgs,
@@ -44,7 +44,7 @@ import type {
   MethodMap,
   ExternalDriver,
   StringRecord,
-} from '@appium/types';
+} from '@testspectra/types';
 
 const KEEP_ALIVE_TIMEOUT_MS = 10 * 60 * 1000; // 10 minutes
 

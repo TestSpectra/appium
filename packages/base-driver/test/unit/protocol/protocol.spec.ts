@@ -2,7 +2,7 @@ import chai, {expect} from 'chai';
 import chaiAsPromised from 'chai-as-promised';
 import type {Request} from 'express';
 import {checkParams, getSessionId} from '../../../lib/protocol/protocol';
-import {FakeDriver} from '@appium/fake-driver';
+import {FakeDriver} from '@testspectra/fake-driver';
 
 chai.use(chaiAsPromised);
 

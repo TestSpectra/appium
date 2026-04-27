@@ -1,7 +1,7 @@
 import _ from 'lodash';
 import B from 'bluebird';
-import type {ExtensionCore} from '@appium/base-driver';
-import {errors} from '@appium/base-driver';
+import type {ExtensionCore} from '@testspectra/base-driver';
+import {errors} from '@testspectra/base-driver';
 import {BIDI_BASE_PATH, BIDI_EVENT_NAME} from './constants';
 import WebSocket from 'ws';
 import os from 'node:os';
@@ -15,7 +15,7 @@ import type {
   StringRecord,
   Plugin,
   BiDiResultData
-} from '@appium/types';
+} from '@testspectra/types';
 
 type ExtensionPlugin = Plugin & ExtensionCore;
 type AnyDriver = ExternalDriver | AppiumDriver;

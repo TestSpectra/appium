@@ -1,4 +1,4 @@
-# @appium/fake-plugin
+# @testspectra/fake-plugin
 
 > Fake Appium plugin for internal testing
 

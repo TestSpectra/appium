@@ -99,7 +99,7 @@ npm run test:slow # everything
 You can also run tests for specific workspaces, e.g.:
 
 ```sh
-export APPIUM_WORKSPACE=@appium/base-driver
+export APPIUM_WORKSPACE=@testspectra/base-driver
 npm run test:unit -w $APPIUM_WORKSPACE
 ```
 
@@ -107,7 +107,7 @@ npm run test:unit -w $APPIUM_WORKSPACE
 
 The documentation for this project is [available in the project repository itself](https://github.com/appium/appium/tree/master/packages/appium/docs).
 It is contained in Markdown files, which are built by our documentation system in the
-`@appium/docutils` module. This module is based on [MkDocs](https://www.mkdocs.org/) and therefore
+`@testspectra/docutils` module. This module is based on [MkDocs](https://www.mkdocs.org/) and therefore
 requires [Python](https://www.python.org/) to be installed on your system.
 
 Install Python dependencies:

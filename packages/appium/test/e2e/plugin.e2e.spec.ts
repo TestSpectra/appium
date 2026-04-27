@@ -1,7 +1,7 @@
-import type {AppiumServer} from '@appium/types';
+import type {AppiumServer} from '@testspectra/types';
 import type {ParsedArgs} from 'appium/types';
 import type {Browser} from 'webdriverio';
-import {fs, tempDir} from '@appium/support';
+import {fs, tempDir} from '@testspectra/support';
 import axios from 'axios';
 import {sleep} from 'asyncbox';
 import {remote as wdio} from 'webdriverio';

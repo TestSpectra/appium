@@ -6,7 +6,7 @@ import {resolveFixture} from '../helpers';
 import _ from 'lodash';
 import chai from 'chai';
 import chaiAsPromised from 'chai-as-promised';
-import {system} from '@appium/support';
+import {system} from '@testspectra/support';
 
 const {expect} = chai;
 chai.use(chaiAsPromised);

@@ -1,5 +1,5 @@
 import path from 'node:path';
-import {fs} from '@appium/support';
+import {fs} from '@testspectra/support';
 
 import {configureApp} from '../../../lib/basedriver/helpers';
 import http from 'node:http';
@@ -9,7 +9,7 @@ import contentDisposition from 'content-disposition';
 import {sleep} from 'asyncbox';
 import chai, {expect} from 'chai';
 import chaiAsPromised from 'chai-as-promised';
-import {TEST_HOST, getTestPort} from '@appium/driver-test-support';
+import {TEST_HOST, getTestPort} from '@testspectra/driver-test-support';
 
 chai.use(chaiAsPromised);
 

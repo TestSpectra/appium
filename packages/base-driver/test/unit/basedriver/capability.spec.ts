@@ -1,5 +1,5 @@
 import {asyncmap} from 'asyncbox';
-import type {Constraints, InitialOpts, W3CCapabilities} from '@appium/types';
+import type {Constraints, InitialOpts, W3CCapabilities} from '@testspectra/types';
 import {BaseDriver, errors} from '../../../lib/index';
 import {validator} from '../../../lib/basedriver/validation';
 import {createSandbox} from 'sinon';

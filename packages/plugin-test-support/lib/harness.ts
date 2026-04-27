@@ -1,11 +1,11 @@
 /* eslint-disable no-console */
 import {createRequire} from 'node:module';
 import {fs} from 'appium/support';
-import {main as appiumServer} from 'appium';
+import {main as appiumServer} from '@testspectra/appium';
 import getPort from 'get-port';
 import logSymbols from 'log-symbols';
 import {exec} from 'teen_process';
-import type {AppiumServer} from '@appium/types';
+import type {AppiumServer} from '@testspectra/types';
 import type {E2ESetupOpts, AppiumEnv} from './types';
 
 declare const __filename: string;

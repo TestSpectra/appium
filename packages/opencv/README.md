@@ -1,13 +1,13 @@
-# @appium/opencv
+# @testspectra/opencv
 
 > OpenCV-related helper methods
 
-[![NPM version](http://img.shields.io/npm/v/@appium/opencv.svg)](https://npmjs.org/package/@appium/opencv)
-[![Downloads](http://img.shields.io/npm/dm/@appium/opencv.svg)](https://npmjs.org/package/@appium/opencv)
+[![NPM version](http://img.shields.io/npm/v/@testspectra/opencv.svg)](https://npmjs.org/package/@testspectra/opencv)
+[![Downloads](http://img.shields.io/npm/dm/@testspectra/opencv.svg)](https://npmjs.org/package/@testspectra/opencv)
 
 ## Installation
 
-`npm install @appium/opencv`
+`npm install @testspectra/opencv`
 
 ## Usage
 
@@ -17,7 +17,7 @@ Loads the opencv bindings. You only need to explicitly call this if you want to 
 methods that are not included in this module.
 
 ```js
-import {initOpenCv} from '@appium/opencv';
+import {initOpenCv} from '@testspectra/opencv';
 await initOpenCv();
 ```
 
@@ -27,8 +27,8 @@ Calculates the count of common edges between two images. The images might be rot
 relatively to each other. See the function definition for more details.
 
 ```js
-import {getImagesMatches} from '@appium/opencv';
-import {fs} from '@appium/support';
+import {getImagesMatches} from '@testspectra/opencv';
+import {fs} from '@testspectra/support';
 
 const image1 = await fs.readFile('image1.jpg')
 const image2 = await fs.readFile('image2.jpg')
@@ -41,8 +41,8 @@ Calculates the similarity score between two images. It is expected that both ima
 resolution. See the function definition for more details.
 
 ```js
-import {getImagesSimilarity} from '@appium/opencv';
-import {fs} from '@appium/support';
+import {getImagesSimilarity} from '@testspectra/opencv';
+import {fs} from '@testspectra/support';
 
 const image1 = await fs.readFile('image1.jpg')
 const image2 = await fs.readFile('image2.jpg')
@@ -55,8 +55,8 @@ Calculates the occurrence position of a partial image in the full image. See the
 for more details.
 
 ```js
-import {getImageOccurrence} from '@appium/opencv';
-import {fs} from '@appium/support';
+import {getImageOccurrence} from '@testspectra/opencv';
+import {fs} from '@testspectra/support';
 
 const fullImage = await fs.readFile('image1.jpg')
 const partialImage = await fs.readFile('image2.jpg')

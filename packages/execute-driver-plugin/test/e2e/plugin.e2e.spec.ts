@@ -1,6 +1,6 @@
 import path from 'node:path';
 
-import {pluginE2EHarness} from '@appium/plugin-test-support';
+import {pluginE2EHarness} from '@testspectra/plugin-test-support';
 import {remote as wdio} from 'webdriverio';
 import {W3C_ELEMENT_KEY, MJSONWP_ELEMENT_KEY} from '../../lib/execute-child';
 import {fs} from 'appium/support';

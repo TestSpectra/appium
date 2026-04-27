@@ -4,7 +4,7 @@ import _ from 'lodash';
 import {server, routeConfiguringFunction, DEFAULT_WS_PATHNAME_PREFIX} from '../../../lib';
 import {FakeDriver} from '../protocol/fake-driver';
 import WebSocket from 'ws';
-import {TEST_HOST, getTestPort} from '@appium/driver-test-support';
+import {TEST_HOST, getTestPort} from '@testspectra/driver-test-support';
 
 chai.use(chaiAsPromised);
 

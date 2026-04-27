@@ -4,7 +4,7 @@
  * @module
  */
 
-import {fs, util} from '@appium/support';
+import {fs, util} from '@testspectra/support';
 import _ from 'lodash';
 import {EventEmitter} from 'node:events';
 import {exec} from 'teen_process';

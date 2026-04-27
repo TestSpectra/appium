@@ -3,7 +3,7 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-## [1.3.1](https://github.com/appium/appium/compare/@appium/types@1.3.0...@appium/types@1.3.1) (2026-04-23)
+## [1.3.1](https://github.com/appium/appium/compare/@testspectra/types@1.3.0...@testspectra/types@1.3.1) (2026-04-23)
 
 
 ### Bug Fixes
@@ -12,7 +12,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [1.3.0](https://github.com/appium/appium/compare/@appium/types@1.2.1...@appium/types@1.3.0) (2026-04-09)
+## [1.3.0](https://github.com/appium/appium/compare/@testspectra/types@1.2.1...@testspectra/types@1.3.0) (2026-04-09)
 
 
 ### Features
@@ -21,7 +21,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [1.2.1](https://github.com/appium/appium/compare/@appium/types@1.2.0...@appium/types@1.2.1) (2026-03-08)
+## [1.2.1](https://github.com/appium/appium/compare/@testspectra/types@1.2.0...@testspectra/types@1.2.1) (2026-03-08)
 
 
 ### Bug Fixes
@@ -30,7 +30,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [1.2.0](https://github.com/appium/appium/compare/@appium/types@1.1.2...@appium/types@1.2.0) (2026-01-26)
+## [1.2.0](https://github.com/appium/appium/compare/@testspectra/types@1.1.2...@testspectra/types@1.2.0) (2026-01-26)
 
 
 ### Features
@@ -45,23 +45,23 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [1.1.2](https://github.com/appium/appium/compare/@appium/types@1.1.1...@appium/types@1.1.2) (2025-12-04)
+## [1.1.2](https://github.com/appium/appium/compare/@testspectra/types@1.1.1...@testspectra/types@1.1.2) (2025-12-04)
 
-**Note:** Version bump only for package @appium/types
-
-
-
-
-
-## [1.1.1](https://github.com/appium/appium/compare/@appium/types@1.1.0...@appium/types@1.1.1) (2025-11-12)
-
-**Note:** Version bump only for package @appium/types
+**Note:** Version bump only for package @testspectra/types
 
 
 
 
 
-## [1.1.0](https://github.com/appium/appium/compare/@appium/types@1.0.1...@appium/types@1.1.0) (2025-10-08)
+## [1.1.1](https://github.com/appium/appium/compare/@testspectra/types@1.1.0...@testspectra/types@1.1.1) (2025-11-12)
+
+**Note:** Version bump only for package @testspectra/types
+
+
+
+
+
+## [1.1.0](https://github.com/appium/appium/compare/@testspectra/types@1.0.1...@testspectra/types@1.1.0) (2025-10-08)
 
 
 ### Features
@@ -76,23 +76,23 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [1.0.1](https://github.com/appium/appium/compare/@appium/types@1.0.0...@appium/types@1.0.1) (2025-09-09)
+## [1.0.1](https://github.com/appium/appium/compare/@testspectra/types@1.0.0...@testspectra/types@1.0.1) (2025-09-09)
 
-**Note:** Version bump only for package @appium/types
-
-
-
-
-
-## [1.0.0](https://github.com/appium/appium/compare/@appium/types@1.0.0-rc.1...@appium/types@1.0.0) (2025-08-18)
-
-**Note:** Version bump only for package @appium/types
+**Note:** Version bump only for package @testspectra/types
 
 
 
 
 
-## [1.0.0-rc.1](https://github.com/appium/appium/compare/@appium/types@0.25.1...@appium/types@1.0.0-rc.1) (2025-08-14)
+## [1.0.0](https://github.com/appium/appium/compare/@testspectra/types@1.0.0-rc.1...@testspectra/types@1.0.0) (2025-08-18)
+
+**Note:** Version bump only for package @testspectra/types
+
+
+
+
+
+## [1.0.0-rc.1](https://github.com/appium/appium/compare/@testspectra/types@0.25.1...@testspectra/types@1.0.0-rc.1) (2025-08-14)
 
 
 ### ⚠ BREAKING CHANGES
@@ -115,7 +115,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.26.0](https://github.com/appium/appium/compare/@appium/types@0.25.3...@appium/types@0.26.0) (2025-06-01)
+## [0.26.0](https://github.com/appium/appium/compare/@testspectra/types@0.25.3...@testspectra/types@0.26.0) (2025-06-01)
 
 
 ### Features
@@ -124,31 +124,31 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.25.3](https://github.com/appium/appium/compare/@appium/types@0.25.2...@appium/types@0.25.3) (2025-04-25)
+## [0.25.3](https://github.com/appium/appium/compare/@testspectra/types@0.25.2...@testspectra/types@0.25.3) (2025-04-25)
 
-**Note:** Version bump only for package @appium/types
-
-
-
-
-
-## [0.25.2](https://github.com/appium/appium/compare/@appium/types@0.25.1...@appium/types@0.25.2) (2025-03-11)
-
-**Note:** Version bump only for package @appium/types
+**Note:** Version bump only for package @testspectra/types
 
 
 
 
 
-## [0.25.1](https://github.com/appium/appium/compare/@appium/types@0.25.0...@appium/types@0.25.1) (2025-02-20)
+## [0.25.2](https://github.com/appium/appium/compare/@testspectra/types@0.25.1...@testspectra/types@0.25.2) (2025-03-11)
 
-**Note:** Version bump only for package @appium/types
-
-
+**Note:** Version bump only for package @testspectra/types
 
 
 
-## [0.25.0](https://github.com/appium/appium/compare/@appium/types@0.24.0...@appium/types@0.25.0) (2025-02-19)
+
+
+## [0.25.1](https://github.com/appium/appium/compare/@testspectra/types@0.25.0...@testspectra/types@0.25.1) (2025-02-20)
+
+**Note:** Version bump only for package @testspectra/types
+
+
+
+
+
+## [0.25.0](https://github.com/appium/appium/compare/@testspectra/types@0.24.0...@testspectra/types@0.25.0) (2025-02-19)
 
 
 ### Features
@@ -170,7 +170,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.24.0](https://github.com/appium/appium/compare/@appium/types@0.23.0...@appium/types@0.24.0) (2025-01-08)
+## [0.24.0](https://github.com/appium/appium/compare/@testspectra/types@0.23.0...@testspectra/types@0.24.0) (2025-01-08)
 
 
 ### Features
@@ -179,7 +179,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.23.0](https://github.com/appium/appium/compare/@appium/types@0.22.3...@appium/types@0.23.0) (2025-01-02)
+## [0.23.0](https://github.com/appium/appium/compare/@testspectra/types@0.22.3...@testspectra/types@0.23.0) (2025-01-02)
 
 
 ### Features
@@ -197,7 +197,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.22.3](https://github.com/appium/appium/compare/@appium/types@0.22.2...@appium/types@0.22.3) (2024-12-05)
+## [0.22.3](https://github.com/appium/appium/compare/@testspectra/types@0.22.2...@testspectra/types@0.22.3) (2024-12-05)
 
 
 ### Bug Fixes
@@ -206,7 +206,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.22.2](https://github.com/appium/appium/compare/@appium/types@0.22.1...@appium/types@0.22.2) (2024-12-02)
+## [0.22.2](https://github.com/appium/appium/compare/@testspectra/types@0.22.1...@testspectra/types@0.22.2) (2024-12-02)
 
 
 ### Bug Fixes
@@ -215,7 +215,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.22.1](https://github.com/appium/appium/compare/@appium/types@0.22.0...@appium/types@0.22.1) (2024-11-29)
+## [0.22.1](https://github.com/appium/appium/compare/@testspectra/types@0.22.0...@testspectra/types@0.22.1) (2024-11-29)
 
 
 ### Bug Fixes
@@ -227,7 +227,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.22.0](https://github.com/appium/appium/compare/@appium/types@0.21.3...@appium/types@0.22.0) (2024-10-15)
+## [0.22.0](https://github.com/appium/appium/compare/@testspectra/types@0.21.3...@testspectra/types@0.22.0) (2024-10-15)
 
 
 ### Features
@@ -241,7 +241,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.21.3](https://github.com/appium/appium/compare/@appium/types@0.21.2...@appium/types@0.21.3) (2024-09-16)
+## [0.21.3](https://github.com/appium/appium/compare/@testspectra/types@0.21.2...@testspectra/types@0.21.3) (2024-09-16)
 
 
 ### Bug Fixes
@@ -254,7 +254,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.21.2](https://github.com/appium/appium/compare/@appium/types@0.21.1...@appium/types@0.21.2) (2024-08-07)
+## [0.21.2](https://github.com/appium/appium/compare/@testspectra/types@0.21.1...@testspectra/types@0.21.2) (2024-08-07)
 
 
 ### Bug Fixes
@@ -266,7 +266,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.21.1](https://github.com/appium/appium/compare/@appium/types@0.21.0...@appium/types@0.21.1) (2024-07-10)
+## [0.21.1](https://github.com/appium/appium/compare/@testspectra/types@0.21.0...@testspectra/types@0.21.1) (2024-07-10)
 
 
 ### Bug Fixes
@@ -275,7 +275,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.21.0](https://github.com/appium/appium/compare/@appium/types@0.20.3...@appium/types@0.21.0) (2024-06-27)
+## [0.21.0](https://github.com/appium/appium/compare/@testspectra/types@0.20.3...@testspectra/types@0.21.0) (2024-06-27)
 
 
 ### Features
@@ -289,31 +289,31 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.20.3](https://github.com/appium/appium/compare/@appium/types@0.20.2...@appium/types@0.20.3) (2024-06-11)
+## [0.20.3](https://github.com/appium/appium/compare/@testspectra/types@0.20.2...@testspectra/types@0.20.3) (2024-06-11)
 
-**Note:** Version bump only for package @appium/types
-
-
-
-
-
-## [0.20.2](https://github.com/appium/appium/compare/@appium/types@0.20.1...@appium/types@0.20.2) (2024-06-11)
-
-**Note:** Version bump only for package @appium/types
+**Note:** Version bump only for package @testspectra/types
 
 
 
 
 
-## [0.20.1](https://github.com/appium/appium/compare/@appium/types@0.20.0...@appium/types@0.20.1) (2024-06-11)
+## [0.20.2](https://github.com/appium/appium/compare/@testspectra/types@0.20.1...@testspectra/types@0.20.2) (2024-06-11)
 
-**Note:** Version bump only for package @appium/types
-
-
+**Note:** Version bump only for package @testspectra/types
 
 
 
-## [0.20.0](https://github.com/appium/appium/compare/@appium/types@0.19.2...@appium/types@0.20.0) (2024-06-10)
+
+
+## [0.20.1](https://github.com/appium/appium/compare/@testspectra/types@0.20.0...@testspectra/types@0.20.1) (2024-06-11)
+
+**Note:** Version bump only for package @testspectra/types
+
+
+
+
+
+## [0.20.0](https://github.com/appium/appium/compare/@testspectra/types@0.19.2...@testspectra/types@0.20.0) (2024-06-10)
 
 
 ### Features
@@ -327,15 +327,15 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.19.2](https://github.com/appium/appium/compare/@appium/types@0.19.1...@appium/types@0.19.2) (2024-06-06)
+## [0.19.2](https://github.com/appium/appium/compare/@testspectra/types@0.19.1...@testspectra/types@0.19.2) (2024-06-06)
 
-**Note:** Version bump only for package @appium/types
-
-
+**Note:** Version bump only for package @testspectra/types
 
 
 
-## [0.19.1](https://github.com/appium/appium/compare/@appium/types@0.19.0...@appium/types@0.19.1) (2024-06-06)
+
+
+## [0.19.1](https://github.com/appium/appium/compare/@testspectra/types@0.19.0...@testspectra/types@0.19.1) (2024-06-06)
 
 
 ### Bug Fixes
@@ -344,7 +344,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.19.0](https://github.com/appium/appium/compare/@appium/types@0.18.0...@appium/types@0.19.0) (2024-06-06)
+## [0.19.0](https://github.com/appium/appium/compare/@testspectra/types@0.18.0...@testspectra/types@0.19.0) (2024-06-06)
 
 
 ### Features
@@ -358,7 +358,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.18.0](https://github.com/appium/appium/compare/@appium/types@0.17.0...@appium/types@0.18.0) (2024-05-27)
+## [0.18.0](https://github.com/appium/appium/compare/@testspectra/types@0.17.0...@testspectra/types@0.18.0) (2024-05-27)
 
 
 ### Features
@@ -373,7 +373,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.17.0](https://github.com/appium/appium/compare/@appium/types@0.16.2...@appium/types@0.17.0) (2024-04-21)
+## [0.17.0](https://github.com/appium/appium/compare/@testspectra/types@0.16.2...@testspectra/types@0.17.0) (2024-04-21)
 
 
 ### Features
@@ -382,15 +382,15 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.16.2](https://github.com/appium/appium/compare/@appium/types@0.16.1...@appium/types@0.16.2) (2024-04-08)
+## [0.16.2](https://github.com/appium/appium/compare/@testspectra/types@0.16.1...@testspectra/types@0.16.2) (2024-04-08)
 
-**Note:** Version bump only for package @appium/types
-
-
+**Note:** Version bump only for package @testspectra/types
 
 
 
-## [0.16.1](https://github.com/appium/appium/compare/@appium/types@0.16.0...@appium/types@0.16.1) (2024-02-06)
+
+
+## [0.16.1](https://github.com/appium/appium/compare/@testspectra/types@0.16.0...@testspectra/types@0.16.1) (2024-02-06)
 
 
 ### Bug Fixes
@@ -400,7 +400,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.16.0](https://github.com/appium/appium/compare/@appium/types@0.15.0...@appium/types@0.16.0) (2024-01-03)
+## [0.16.0](https://github.com/appium/appium/compare/@testspectra/types@0.15.0...@testspectra/types@0.16.0) (2024-01-03)
 
 
 ### Features
@@ -416,7 +416,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.15.0](https://github.com/appium/appium/compare/@appium/types@0.14.3...@appium/types@0.15.0) (2023-12-18)
+## [0.15.0](https://github.com/appium/appium/compare/@testspectra/types@0.14.3...@testspectra/types@0.15.0) (2023-12-18)
 
 
 ### Features
@@ -427,13 +427,13 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 ### Bug Fixes
 
 * **appium:** Respect the value of no-perms-check server arg ([#19518](https://github.com/appium/appium/issues/19518)) ([22ca747](https://github.com/appium/appium/commit/22ca74710718ddeda0526acd9dd3dd1703001e22))
-* **docutils:** remove `@appium/typedoc-plugin-appium` and all other uses of `typedoc` ([#19465](https://github.com/appium/appium/issues/19465)) ([7528fcf](https://github.com/appium/appium/commit/7528fcf890f79f4017f5e718bb1952bf907ee479))
+* **docutils:** remove `@testspectra/typedoc-plugin-appium` and all other uses of `typedoc` ([#19465](https://github.com/appium/appium/issues/19465)) ([7528fcf](https://github.com/appium/appium/commit/7528fcf890f79f4017f5e718bb1952bf907ee479))
 * **types:** update definitelytyped ([#19373](https://github.com/appium/appium/issues/19373)) ([39ebb34](https://github.com/appium/appium/commit/39ebb344086deb2e1ffd0007488de16945fe1add))
 * **types:** update dependency type-fest to v4 ([#19104](https://github.com/appium/appium/issues/19104)) ([8bfa1b5](https://github.com/appium/appium/commit/8bfa1b5a4d090b0102dbb914c9b72aea52d96788))
 
 
 
-## [0.14.3](https://github.com/appium/appium/compare/@appium/types@0.14.2...@appium/types@0.14.3) (2023-12-04)
+## [0.14.3](https://github.com/appium/appium/compare/@testspectra/types@0.14.2...@testspectra/types@0.14.3) (2023-12-04)
 
 
 ### Bug Fixes
@@ -442,7 +442,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.14.2](https://github.com/appium/appium/compare/@appium/types@0.14.1...@appium/types@0.14.2) (2023-11-14)
+## [0.14.2](https://github.com/appium/appium/compare/@testspectra/types@0.14.1...@testspectra/types@0.14.2) (2023-11-14)
 
 
 ### Bug Fixes
@@ -451,7 +451,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.14.1](https://github.com/appium/appium/compare/@appium/types@0.14.0...@appium/types@0.14.1) (2023-10-19)
+## [0.14.1](https://github.com/appium/appium/compare/@testspectra/types@0.14.0...@testspectra/types@0.14.1) (2023-10-19)
 
 
 ### Bug Fixes
@@ -461,7 +461,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.14.0](https://github.com/appium/appium/compare/@appium/types@0.13.4...@appium/types@0.14.0) (2023-10-18)
+## [0.14.0](https://github.com/appium/appium/compare/@testspectra/types@0.13.4...@testspectra/types@0.14.0) (2023-10-18)
 
 
 ### Features
@@ -478,15 +478,15 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.13.4](https://github.com/appium/appium/compare/@appium/types@0.13.3...@appium/types@0.13.4) (2023-08-22)
+## [0.13.4](https://github.com/appium/appium/compare/@testspectra/types@0.13.3...@testspectra/types@0.13.4) (2023-08-22)
 
-**Note:** Version bump only for package @appium/types
-
-
+**Note:** Version bump only for package @testspectra/types
 
 
 
-## [0.13.3](https://github.com/appium/appium/compare/@appium/types@0.13.2...@appium/types@0.13.3) (2023-08-17)
+
+
+## [0.13.3](https://github.com/appium/appium/compare/@testspectra/types@0.13.2...@testspectra/types@0.13.3) (2023-08-17)
 
 
 ### Bug Fixes
@@ -495,7 +495,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.13.2](https://github.com/appium/appium/compare/@appium/types@0.13.1...@appium/types@0.13.2) (2023-07-03)
+## [0.13.2](https://github.com/appium/appium/compare/@testspectra/types@0.13.1...@testspectra/types@0.13.2) (2023-07-03)
 
 
 ### Bug Fixes
@@ -509,15 +509,15 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.13.1](https://github.com/appium/appium/compare/@appium/types@0.13.0...@appium/types@0.13.1) (2023-06-29)
+## [0.13.1](https://github.com/appium/appium/compare/@testspectra/types@0.13.0...@testspectra/types@0.13.1) (2023-06-29)
 
-**Note:** Version bump only for package @appium/types
-
-
+**Note:** Version bump only for package @testspectra/types
 
 
 
-## [0.13.0](https://github.com/appium/appium/compare/@appium/types@0.12.0...@appium/types@0.13.0) (2023-06-15)
+
+
+## [0.13.0](https://github.com/appium/appium/compare/@testspectra/types@0.12.0...@testspectra/types@0.13.0) (2023-06-15)
 
 
 ### ⚠ BREAKING CHANGES
@@ -536,7 +536,7 @@ The other change here changes an `object` type (which does not allow arbitrary p
 
 
 
-## [0.12.0](https://github.com/appium/appium/compare/@appium/types@0.11.1...@appium/types@0.12.0) (2023-06-14)
+## [0.12.0](https://github.com/appium/appium/compare/@testspectra/types@0.11.1...@testspectra/types@0.12.0) (2023-06-14)
 
 
 ### Features
@@ -551,7 +551,7 @@ The other change here changes an `object` type (which does not allow arbitrary p
 
 
 
-## [0.11.1](https://github.com/appium/appium/compare/@appium/types@0.11.0...@appium/types@0.11.1) (2023-05-17)
+## [0.11.1](https://github.com/appium/appium/compare/@testspectra/types@0.11.0...@testspectra/types@0.11.1) (2023-05-17)
 
 
 ### Bug Fixes
@@ -561,7 +561,7 @@ The other change here changes an `object` type (which does not allow arbitrary p
 
 
 
-## [0.11.0](https://github.com/appium/appium/compare/@appium/types@0.10.4...@appium/types@0.11.0) (2023-04-14)
+## [0.11.0](https://github.com/appium/appium/compare/@testspectra/types@0.10.4...@testspectra/types@0.11.0) (2023-04-14)
 
 
 ### ⚠ BREAKING CHANGES
@@ -578,7 +578,7 @@ Further, it removes the `ISessionCommands` interface, because I didn't understan
 
 
 
-## [0.10.4](https://github.com/appium/appium/compare/@appium/types@0.10.3...@appium/types@0.10.4) (2023-04-10)
+## [0.10.4](https://github.com/appium/appium/compare/@testspectra/types@0.10.3...@testspectra/types@0.10.4) (2023-04-10)
 
 
 ### Bug Fixes
@@ -589,7 +589,7 @@ Further, it removes the `ISessionCommands` interface, because I didn't understan
 
 
 
-## [0.10.3](https://github.com/appium/appium/compare/@appium/types@0.10.2...@appium/types@0.10.3) (2023-04-03)
+## [0.10.3](https://github.com/appium/appium/compare/@testspectra/types@0.10.2...@testspectra/types@0.10.3) (2023-04-03)
 
 
 ### Bug Fixes
@@ -601,7 +601,7 @@ Further, it removes the `ISessionCommands` interface, because I didn't understan
 
 
 
-## [0.10.2](https://github.com/appium/appium/compare/@appium/types@0.10.1...@appium/types@0.10.2) (2023-03-28)
+## [0.10.2](https://github.com/appium/appium/compare/@testspectra/types@0.10.1...@testspectra/types@0.10.2) (2023-03-28)
 
 
 ### Bug Fixes
@@ -618,7 +618,7 @@ Further, it removes the `ISessionCommands` interface, because I didn't understan
 
 
 
-## [0.10.1](https://github.com/appium/appium/compare/@appium/types@0.10.0...@appium/types@0.10.1) (2023-03-08)
+## [0.10.1](https://github.com/appium/appium/compare/@testspectra/types@0.10.0...@testspectra/types@0.10.1) (2023-03-08)
 
 
 ### Bug Fixes
@@ -631,7 +631,7 @@ Further, it removes the `ISessionCommands` interface, because I didn't understan
 
 
 
-# [0.10.0](https://github.com/appium/appium/compare/@appium/types@0.9.1...@appium/types@0.10.0) (2023-02-24)
+# [0.10.0](https://github.com/appium/appium/compare/@testspectra/types@0.9.1...@testspectra/types@0.10.0) (2023-02-24)
 
 
 ### Bug Fixes
@@ -649,7 +649,7 @@ Further, it removes the `ISessionCommands` interface, because I didn't understan
 
 
 
-## [0.9.1](https://github.com/appium/appium/compare/@appium/types@0.9.0...@appium/types@0.9.1) (2023-02-09)
+## [0.9.1](https://github.com/appium/appium/compare/@testspectra/types@0.9.0...@testspectra/types@0.9.1) (2023-02-09)
 
 
 ### Bug Fixes
@@ -664,7 +664,7 @@ Further, it removes the `ISessionCommands` interface, because I didn't understan
 
 
 
-# [0.9.0](https://github.com/appium/appium/compare/@appium/types@0.8.3...@appium/types@0.9.0) (2023-01-23)
+# [0.9.0](https://github.com/appium/appium/compare/@testspectra/types@0.8.3...@testspectra/types@0.9.0) (2023-01-23)
 
 
 ### Bug Fixes
@@ -681,31 +681,31 @@ Further, it removes the `ISessionCommands` interface, because I didn't understan
 
 
 
-## [0.8.3](https://github.com/appium/appium/compare/@appium/types@0.8.2...@appium/types@0.8.3) (2023-01-13)
+## [0.8.3](https://github.com/appium/appium/compare/@testspectra/types@0.8.2...@testspectra/types@0.8.3) (2023-01-13)
 
-**Note:** Version bump only for package @appium/types
-
-
-
-
-
-## [0.8.2](https://github.com/appium/appium/compare/@appium/types@0.8.1...@appium/types@0.8.2) (2023-01-13)
-
-**Note:** Version bump only for package @appium/types
+**Note:** Version bump only for package @testspectra/types
 
 
 
 
 
-## [0.8.1](https://github.com/appium/appium/compare/@appium/types@0.8.0...@appium/types@0.8.1) (2023-01-13)
+## [0.8.2](https://github.com/appium/appium/compare/@testspectra/types@0.8.1...@testspectra/types@0.8.2) (2023-01-13)
 
-**Note:** Version bump only for package @appium/types
-
-
+**Note:** Version bump only for package @testspectra/types
 
 
 
-# [0.8.0](https://github.com/appium/appium/compare/@appium/types@0.7.0...@appium/types@0.8.0) (2023-01-13)
+
+
+## [0.8.1](https://github.com/appium/appium/compare/@testspectra/types@0.8.0...@testspectra/types@0.8.1) (2023-01-13)
+
+**Note:** Version bump only for package @testspectra/types
+
+
+
+
+
+# [0.8.0](https://github.com/appium/appium/compare/@testspectra/types@0.7.0...@testspectra/types@0.8.0) (2023-01-13)
 
 
 ### Bug Fixes
@@ -724,7 +724,7 @@ Further, it removes the `ISessionCommands` interface, because I didn't understan
 
 
 
-# [0.7.0](https://github.com/appium/appium/compare/@appium/types@0.6.0...@appium/types@0.7.0) (2022-12-21)
+# [0.7.0](https://github.com/appium/appium/compare/@testspectra/types@0.6.0...@testspectra/types@0.7.0) (2022-12-21)
 
 ### Bug Fixes
 
@@ -736,7 +736,7 @@ Further, it removes the `ISessionCommands` interface, because I didn't understan
 
 - **base:** add get computed role and label in W3C v2 ([#17928](https://github.com/appium/appium/issues/17928)) ([316ecca](https://github.com/appium/appium/commit/316ecca8b1f8e52806867a15ba8524a504751460))
 
-# [0.6.0](https://github.com/appium/appium/compare/@appium/types@0.5.0...@appium/types@0.6.0) (2022-12-14)
+# [0.6.0](https://github.com/appium/appium/compare/@testspectra/types@0.5.0...@testspectra/types@0.6.0) (2022-12-14)
 
 ### Bug Fixes
 
@@ -759,7 +759,7 @@ Further, it removes the `ISessionCommands` interface, because I didn't understan
 
 - Appium now supports version range `^14.17.0 || ^16.13.0 || >=18.0.0`
 
-# [0.5.0](https://github.com/appium/appium/compare/@appium/types@0.4.1...@appium/types@0.5.0) (2022-10-13)
+# [0.5.0](https://github.com/appium/appium/compare/@testspectra/types@0.4.1...@testspectra/types@0.5.0) (2022-10-13)
 
 ### Bug Fixes
 
@@ -769,7 +769,7 @@ Further, it removes the `ISessionCommands` interface, because I didn't understan
 
 - **types:** adds types to derive capabilities from constraints ([4abe910](https://github.com/appium/appium/commit/4abe91004d4089e4280494a6d285b074c33a43c1))
 
-## [0.4.1](https://github.com/appium/appium/compare/@appium/types@0.4.0...@appium/types@0.4.1) (2022-09-07)
+## [0.4.1](https://github.com/appium/appium/compare/@testspectra/types@0.4.0...@testspectra/types@0.4.1) (2022-09-07)
 
 ### Bug Fixes
 
@@ -777,53 +777,53 @@ Further, it removes the `ISessionCommands` interface, because I didn't understan
 - **types:** add missing @types/ws dep ([1597037](https://github.com/appium/appium/commit/159703744f18566bf3a46e0a2c5b9ac0073e5458))
 - **types:** Driver extends ExecuteCommands ([#17363](https://github.com/appium/appium/issues/17363)) ([b594799](https://github.com/appium/appium/commit/b5947991cff4f78fd4e0de4155d10f47f75a19f9)), closes [#17359](https://github.com/appium/appium/issues/17359)
 
-# [0.4.0](https://github.com/appium/appium/compare/@appium/types@0.3.1...@appium/types@0.4.0) (2022-08-10)
+# [0.4.0](https://github.com/appium/appium/compare/@testspectra/types@0.3.1...@testspectra/types@0.4.0) (2022-08-10)
 
 ### Features
 
 - **appium,base-driver,fake-driver,fake-plugin,test-support,types:** updateServer receives cliArgs param ([d4b9833](https://github.com/appium/appium/commit/d4b983328af21d1e5c27a91e438e7934eb152ab1)), closes [#17304](https://github.com/appium/appium/issues/17304)
 - **base-driver,fake-driver,appium:** add convenience methods for defining execute script overloads ([#17321](https://github.com/appium/appium/issues/17321)) ([337ec3e](https://github.com/appium/appium/commit/337ec3e7ba216dd6f8cdc88143ecaa4c75f5d266))
 
-## [0.3.1](https://github.com/appium/appium/compare/@appium/types@0.3.0...@appium/types@0.3.1) (2022-08-03)
+## [0.3.1](https://github.com/appium/appium/compare/@testspectra/types@0.3.0...@testspectra/types@0.3.1) (2022-08-03)
 
 ### Bug Fixes
 
 - **appium,base-driver,base-plugin,doctor,docutils,eslint-config-appium,execute-driver-plugin,fake-driver,fake-plugin,gulp-plugins,images-plugin,opencv,relaxed-caps-plugin,schema,support,test-support,types,universal-xml-plugin:** update engines ([d8d2382](https://github.com/appium/appium/commit/d8d2382327ba7b7db8a4d1cad987c0e60184c92d))
 
-# [0.3.0](https://github.com/appium/appium/compare/@appium/types@0.2.5...@appium/types@0.3.0) (2022-07-28)
+# [0.3.0](https://github.com/appium/appium/compare/@testspectra/types@0.2.5...@testspectra/types@0.3.0) (2022-07-28)
 
 ### Bug Fixes
 
-- **appium,types:** include @appium/types in appium ([a0a6166](https://github.com/appium/appium/commit/a0a6166738f3db32f2512681914c4c5410cd4b28))
+- **appium,types:** include @testspectra/types in appium ([a0a6166](https://github.com/appium/appium/commit/a0a6166738f3db32f2512681914c4c5410cd4b28))
 
 ### Features
 
 - **appium,base-driver,base-plugin,test-support,types:** move test fixtures into test-support ([70d88cb](https://github.com/appium/appium/commit/70d88cb86f28354efe313cc6be6a0afef20b38b3))
 
-## [0.2.5](https://github.com/appium/appium/compare/@appium/types@0.2.4...@appium/types@0.2.5) (2022-05-31)
+## [0.2.5](https://github.com/appium/appium/compare/@testspectra/types@0.2.4...@testspectra/types@0.2.5) (2022-05-31)
 
-**Note:** Version bump only for package @appium/types
+**Note:** Version bump only for package @testspectra/types
 
-## [0.2.4](https://github.com/appium/appium/compare/@appium/types@0.2.3...@appium/types@0.2.4) (2022-05-31)
+## [0.2.4](https://github.com/appium/appium/compare/@testspectra/types@0.2.3...@testspectra/types@0.2.4) (2022-05-31)
 
 ### Bug Fixes
 
 - **appium:** fix extension autoinstall postinstall script ([3e2c05d](https://github.com/appium/appium/commit/3e2c05d8a290072484afde34fe5fd968618f6359)), closes [#16924](https://github.com/appium/appium/issues/16924)
 - **types,base-plugin:** fix static prop types for plugins ([2289b45](https://github.com/appium/appium/commit/2289b4527208c595b2758b9b14d86a2ab91ac15f))
 
-## [0.2.3](https://github.com/appium/appium/compare/@appium/types@0.2.2...@appium/types@0.2.3) (2022-05-02)
+## [0.2.3](https://github.com/appium/appium/compare/@testspectra/types@0.2.2...@testspectra/types@0.2.3) (2022-05-02)
 
-**Note:** Version bump only for package @appium/types
+**Note:** Version bump only for package @testspectra/types
 
-## [0.2.2](https://github.com/appium/appium/compare/@appium/types@0.2.1...@appium/types@0.2.2) (2022-04-20)
+## [0.2.2](https://github.com/appium/appium/compare/@testspectra/types@0.2.1...@testspectra/types@0.2.2) (2022-04-20)
 
-**Note:** Version bump only for package @appium/types
+**Note:** Version bump only for package @testspectra/types
 
-## [0.2.1](https://github.com/appium/appium/compare/@appium/types@0.2.0...@appium/types@0.2.1) (2022-04-20)
+## [0.2.1](https://github.com/appium/appium/compare/@testspectra/types@0.2.0...@testspectra/types@0.2.1) (2022-04-20)
 
-**Note:** Version bump only for package @appium/types
+**Note:** Version bump only for package @testspectra/types
 
-# [0.2.0](https://github.com/appium/appium/compare/@appium/types@0.1.1...@appium/types@0.2.0) (2022-04-20)
+# [0.2.0](https://github.com/appium/appium/compare/@testspectra/types@0.1.1...@testspectra/types@0.2.0) (2022-04-20)
 
 ### Bug Fixes
 
@@ -834,9 +834,9 @@ Further, it removes the `ISessionCommands` interface, because I didn't understan
 
 - **base-driver:** Add a route for new window creation ([#16748](https://github.com/appium/appium/issues/16748)) ([78a4637](https://github.com/appium/appium/commit/78a46375aed016feb6e2b20299cc834d2d24e1cb))
 
-## [0.1.1](https://github.com/appium/appium/compare/@appium/types@0.1.0...@appium/types@0.1.1) (2022-04-12)
+## [0.1.1](https://github.com/appium/appium/compare/@testspectra/types@0.1.0...@testspectra/types@0.1.1) (2022-04-12)
 
-**Note:** Version bump only for package @appium/types
+**Note:** Version bump only for package @testspectra/types
 
 # 0.1.0 (2022-04-07)
 
@@ -848,4 +848,4 @@ Further, it removes the `ISessionCommands` interface, because I didn't understan
 ### Features
 
 - **base-driver:** Add more shadow root-related W3C routes ([#16700](https://github.com/appium/appium/issues/16700)) ([d8a9b4d](https://github.com/appium/appium/commit/d8a9b4da362c0ee3d1616595a9f652a59b178065))
-- **types:** add new @appium/types package ([72085ca](https://github.com/appium/appium/commit/72085caa0a4030d8495fa1c66b092069aeebb20b))
+- **types:** add new @testspectra/types package ([72085ca](https://github.com/appium/appium/commit/72085caa0a4030d8495fa1c66b092069aeebb20b))
