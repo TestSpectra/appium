@@ -35,13 +35,13 @@ jobs:
         uses: ./.github/actions/setup-build
         with:
           node-version: lts/*
-          install-command: bun install
+          install-command: bun install --frozen-lockfile
           run-build: 'true'
 
       - name: Setup npmrc for GitHub Packages
         run: |
-          echo "@testspectra:registry=https://npm.pkg.github.com" > .npmrc
-          echo "//npm.pkg.github.com/:_authToken=\${NODE_AUTH_TOKEN}" >> .npmrc
+          echo "@testspectra:registry=https://npm.pkg.github.com" > ~/.npmrc
+          echo "//npm.pkg.github.com/:_authToken=\${NODE_AUTH_TOKEN}" >> ~/.npmrc
 
       - name: Run Lerna publish
         env:
