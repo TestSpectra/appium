@@ -11,7 +11,7 @@ import _ from 'lodash';
 const MOCHA_TIMEOUT = 10000;
 
 describe('fs', function () {
-  this.timeout(MOCHA_TIMEOUT);
+  // this.timeout(MOCHA_TIMEOUT);
 
   const existingPath = __filename;
   let sandbox: ReturnType<typeof createSandbox>;
@@ -102,7 +102,7 @@ describe('fs', function () {
   });
 
   describe('md5()', function () {
-    this.timeout(1200000);
+    // this.timeout(1200000);
     let smallFilePath: string;
     let bigFilePath: string;
     before(async function () {

@@ -57,7 +57,7 @@ export class CliConsole {
     error: 'red',
   };
 
-  readonly #console: InstanceType<typeof NodeConsole>;
+  readonly #console: any;
   readonly #useSymbols: boolean;
   readonly #useColor: boolean;
 

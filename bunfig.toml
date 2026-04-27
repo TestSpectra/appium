@@ -1,0 +1,8 @@
+[install]
+# Ensure bun uses the workspaces defined in package.json
+# (Bun does this by default, but we can be explicit if needed)
+# workspaces = ["packages/*"]
+
+[test]
+# Default test configurations for bun test
+preload = ["./test/setup.ts"]

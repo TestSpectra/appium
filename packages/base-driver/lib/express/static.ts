@@ -72,6 +72,12 @@ async function guineaPigTemplate(
 async function getTemplate(
   templateName: string
 ): Promise<(params: TemplateParams) => string> {
-  const content = await fs.readFile(path.resolve(STATIC_DIR, 'test', templateName));
-  return _.template(content.toString()) as (params: TemplateParams) => string;
+  const templatePath = path.resolve(STATIC_DIR, 'test', templateName);
+  let content: string;
+  if (globalThis.Bun) {
+    content = await Bun.file(templatePath).text();
+  } else {
+    content = (await fs.readFile(templatePath)).toString();
+  }
+  return _.template(content) as (params: TemplateParams) => string;
 }

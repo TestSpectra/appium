@@ -1,11 +1,10 @@
-import chai from 'chai';
+import {expect, use} from 'chai';
 import chaiAsPromised from 'chai-as-promised';
 import {createSandbox, type SinonSandbox} from 'sinon';
 import {node} from '@appium/support';
 import {adler32, getAppiumModuleRoot, npmPackage} from '../../lib/utils';
 
-const {expect} = chai;
-chai.use(chaiAsPromised);
+use(chaiAsPromised);
 
 type MemoizedWithCache = (() => string) & {
   cache: {

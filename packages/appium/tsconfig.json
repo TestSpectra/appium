@@ -10,10 +10,11 @@
       "@appium/fake-driver": ["../fake-driver"],
       "@appium/types": ["../types"],
       "@appium/schema": ["../schema"],
-      "appium": ["."]
+      "appium": ["."],
+      "appium/types": ["./types"]
     },
     "checkJs": true,
-    "types": ["mocha", "chai", "chai-as-promised", "node"]
+    "types": ["mocha", "chai", "chai-as-promised", "node", "bun"]
   },
   "include": ["lib", "types", "test"],
   "references": [

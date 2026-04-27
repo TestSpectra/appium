@@ -259,7 +259,11 @@ async function createServer(
 ): Promise<HttpServer> {
   const {sslCertificatePath, sslKeyPath} = cliArgs ?? {};
   if (!sslCertificatePath && !sslKeyPath) {
-    return http.createServer(app);
+    const server = http.createServer(app);
+    if (globalThis.Bun) {
+      (server as any)[Symbol.for('bun.server.fetch')] = app;
+    }
+    return server;
   }
   if (!sslCertificatePath || !sslKeyPath) {
     throw new Error(

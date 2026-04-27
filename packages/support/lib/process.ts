@@ -1,4 +1,4 @@
-import {exec} from 'teen_process';
+import {exec} from './exec';
 import type {ExecError} from 'teen_process';
 
 /*

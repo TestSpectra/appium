@@ -257,6 +257,12 @@ export const fs = {
 
   /** Create a hex digest of some file at `filePath`. */
   async hash(filePath: PathLike, algorithm: string = 'sha1'): Promise<string> {
+    if (globalThis.Bun) {
+      const file = Bun.file(String(filePath));
+      const hasher = new Bun.CryptoHasher(algorithm as any);
+      hasher.update(await file.arrayBuffer());
+      return hasher.digest('hex');
+    }
     return await new Promise<string>((resolve, reject) => {
       const fileHash = crypto.createHash(algorithm);
       const readStream = createReadStream(filePath);

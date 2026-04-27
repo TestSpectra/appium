@@ -13,7 +13,7 @@ import {isSubPath, toReadableSizeString, GiB} from './util';
 import {Timer} from './timing';
 import log from './logger';
 import getStream from 'get-stream';
-import {exec} from 'teen_process';
+import {exec} from './exec';
 
 const openZip = promisify(yauzl.open) as (
   zipPath: string,

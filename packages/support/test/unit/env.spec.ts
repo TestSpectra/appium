@@ -3,8 +3,19 @@ import {expect, use} from 'chai';
 import chaiAsPromised from 'chai-as-promised';
 import type {SinonSandbox} from 'sinon';
 import type {TeenProcessExecResult} from 'teen_process';
-import {rewiremock} from '../helpers';
+import {mock} from 'bun:test';
 import {initMocks, type MockPkgDir, type MockReadPkg, type MockTeenProcess} from '../mocks';
+
+let activeOverrides: any;
+
+// Define Bun mocks at the top level once.
+mock.module('read-pkg', () => ({
+  readPackage: (...args: any[]) => activeOverrides['read-pkg'].readPackage(...args)
+}));
+mock.module('package-directory', () => ({
+  packageDirectory: (...args: any[]) => activeOverrides['package-directory'](...args)
+}));
+mock.module('resolve-from', () => ((...args: any[]) => activeOverrides['resolve-from'](...args)));
 
 describe('env', function () {
   let env: any;
@@ -24,17 +35,22 @@ describe('env', function () {
     MockReadPkg = result.MockReadPkg;
     MockTeenProcess = result.MockTeenProcess;
     sandbox = result.sandbox;
-    const overrides = result.overrides;
+    activeOverrides = result.overrides;
+
+    // Use global execMock for teen_process.exec
+    (globalThis as any).execMock.mockImplementation(MockTeenProcess.exec);
 
     // Ensure an APPIUM_HOME in the environment does not befoul our tests.
     envAppiumHome = process.env.APPIUM_HOME;
     delete process.env.APPIUM_HOME;
 
-    env = rewiremock.proxy(() => require('../../lib/env'), overrides);
+    // Load the module under test.
+    env = require('../../lib/env');
 
     env.findAppiumDependencyPackage.cache = new Map();
     env.resolveManifestPath.cache = new Map();
     env.resolveAppiumHome.cache = new Map();
+    env.readPackageInDir.cache = new Map();
   });
 
   describe('resolveManifestPath()', function () {

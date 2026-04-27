@@ -18,6 +18,10 @@ import type {ExtCommandInitResult, InitResult, ServerInitData} from './bootstrap
 const initializer = new AppiumInitializer();
 const mainRunner = new AppiumMainRunner();
 
+if (globalThis.Bun) {
+  process.stdout.write(`[Appium] Running on Bun ${Bun.version} - Optimization Active\n`);
+}
+
 /**
  * Initializes Appium, but does not start the server.
  *

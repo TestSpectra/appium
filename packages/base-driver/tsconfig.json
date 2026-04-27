@@ -14,7 +14,7 @@
       "@appium/driver-test-support": ["../driver-test-support"]
     },
     "checkJs": true,
-    "types": ["node", "mocha"]
+    "types": ["node", "mocha", "bun"]
   },
   "include": ["lib"],
   "exclude": ["build"],

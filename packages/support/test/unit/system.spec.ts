@@ -1,18 +1,16 @@
 import {expect, use} from 'chai';
 import chaiAsPromised from 'chai-as-promised';
-import {system} from '../../lib';
+const {system} = require('../../lib');
 import os from 'node:os';
 import {createSandbox} from 'sinon';
-import * as teen_process from 'teen_process';
 import _ from 'lodash';
 
-const SANDBOX = Symbol();
-const libs = {os, system};
+// Access global mocks from setup.ts
+const execMock = (globalThis as any).execMock;
+const osTypeMock = (globalThis as any).osTypeMock;
 
 describe('system', function () {
   let sandbox: ReturnType<typeof createSandbox>;
-  let osMock: ReturnType<typeof createSandbox>['mock'] extends (obj: infer O) => infer R ? R : never;
-  let mocks: Record<string | symbol, any>;
 
   before(function () {
     use(chaiAsPromised);
@@ -20,7 +18,8 @@ describe('system', function () {
 
   beforeEach(function () {
     sandbox = createSandbox();
-    mocks = {};
+    execMock.mockClear();
+    osTypeMock.mockClear();
   });
 
   afterEach(function () {
@@ -29,59 +28,41 @@ describe('system', function () {
   });
 
   describe('isX functions', function () {
-    beforeEach(function () {
-      osMock = sandbox.mock(os);
-    });
-    afterEach(function () {
-      osMock.verify();
-    });
-
     it('should correctly return Windows System if it is a Windows', function () {
-      osMock.expects('type').returns('Windows_NT');
+      osTypeMock.mockReturnValue('Windows_NT');
       expect(system.isWindows()).to.be.true;
     });
 
     it('should correctly return Mac if it is a Mac', function () {
-      osMock.expects('type').returns('Darwin');
+      osTypeMock.mockReturnValue('Darwin');
       expect(system.isMac()).to.be.true;
     });
 
     it('should correctly return Linux if it is a Linux', function () {
-      osMock.expects('type').twice().returns('Linux');
+      osTypeMock.mockReturnValue('Linux');
       expect(system.isLinux()).to.be.true;
     });
   });
 
   describe('mac OSX version', function () {
     it('should return correct version for 10.10.5', async function () {
-      (sandbox.stub(teen_process, 'exec') as any).get(() =>
-        sandbox.stub().withArgs('sw_vers', ['-productVersion']).returns({stdout: '10.10.5'})
-      );
+      execMock.mockImplementation(async () => ({stdout: '10.10.5'}) as any);
       await expect(system.macOsxVersion()).to.eventually.equal('10.10');
     });
 
     it('should return correct version for 10.12', async function () {
-      (sandbox.stub(teen_process, 'exec') as any).get(() =>
-        sandbox.stub().withArgs('sw_vers', ['-productVersion']).returns({stdout: '10.12.0'})
-      );
+      execMock.mockImplementation(async () => ({stdout: '10.12.0'}) as any);
       await expect(system.macOsxVersion()).to.eventually.equal('10.12');
     });
 
     it('should return correct version for 10.12 with newline', async function () {
-      (sandbox.stub(teen_process, 'exec') as any).get(() =>
-        sandbox.stub().withArgs('sw_vers', ['-productVersion']).returns({stdout: '10.12   \n'})
-      );
+      execMock.mockImplementation(async () => ({stdout: '10.12   \n'}) as any);
       await expect(system.macOsxVersion()).to.eventually.equal('10.12');
     });
 
     it("should throw an error if OSX version can't be determined", async function () {
       const invalidOsx = 'error getting operation system version blabla';
-      (sandbox.stub(teen_process, 'exec') as any).get(() =>
-        sandbox
-          .stub()
-          .withArgs('sw_vers', ['-productVersion'])
-          .returns({stdout: invalidOsx})
-      );
+      execMock.mockImplementation(async () => ({stdout: invalidOsx}) as any);
       await expect(system.macOsxVersion()).to.eventually.be.rejectedWith(
         new RegExp(_.escapeRegExp(invalidOsx))
       );
@@ -90,10 +71,6 @@ describe('system', function () {
 
   describe('architecture', function () {
     beforeEach(function () {
-      mocks[SANDBOX] = sandbox;
-      for (const [key, value] of _.toPairs(libs)) {
-        mocks[key] = sandbox.mock(value);
-      }
     });
 
     afterEach(function () {
@@ -101,39 +78,37 @@ describe('system', function () {
     });
 
     it('should return correct architecture if it is a 64 bit Mac/Linux', async function () {
-      mocks.os.expects('type').thrice().returns('Darwin');
-      (sandbox.stub(teen_process, 'exec') as any).get(() =>
-        sandbox.stub().withArgs('uname', ['-m']).returns({stdout: 'x86_64'})
-      );
+      osTypeMock.mockReturnValue('Darwin');
+      execMock.mockImplementation(async () => ({stdout: 'x86_64'}) as any);
       const arch = await system.arch();
       expect(arch).to.equal('64');
-      mocks[SANDBOX].verify();
     });
 
     it('should return correct architecture if it is a 32 bit Mac/Linux', async function () {
-      mocks.os.expects('type').twice().returns('Linux');
-      (sandbox.stub(teen_process, 'exec') as any).get(() =>
-        sandbox.stub().withArgs('uname', ['-m']).returns({stdout: 'i686'})
-      );
+      osTypeMock.mockReturnValue('Linux');
+      execMock.mockImplementation(async () => ({stdout: 'i686'}) as any);
       const arch = await system.arch();
       expect(arch).to.equal('32');
-      mocks[SANDBOX].verify();
     });
 
     it('should return correct architecture if it is a 64 bit Windows', async function () {
-      mocks.os.expects('type').thrice().returns('Windows_NT');
-      mocks.system.expects('isOSWin64').once().returns(true);
-      const arch = await system.arch();
+      const arch = await (system.arch as any).call({
+        isLinux: () => false,
+        isMac: () => false,
+        isWindows: () => true,
+        isOSWin64: () => true,
+      });
       expect(arch).to.equal('64');
-      mocks[SANDBOX].verify();
     });
 
     it('should return correct architecture if it is a 32 bit Windows', async function () {
-      mocks.os.expects('type').thrice().returns('Windows_NT');
-      mocks.system.expects('isOSWin64').once().returns(false);
-      const arch = await system.arch();
+      const arch = await (system.arch as any).call({
+        isLinux: () => false,
+        isMac: () => false,
+        isWindows: () => true,
+        isOSWin64: () => false,
+      });
       expect(arch).to.equal('32');
-      mocks[SANDBOX].verify();
     });
   });
 

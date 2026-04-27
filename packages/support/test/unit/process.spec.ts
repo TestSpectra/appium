@@ -1,6 +1,6 @@
 import {expect, use} from 'chai';
 import chaiAsPromised from 'chai-as-promised';
-import * as teenProcess from 'teen_process';
+const teenProcess = require('teen_process');
 import {createSandbox} from 'sinon';
 import {process, system} from '../../lib';
 import {retryInterval} from 'asyncbox';
@@ -16,6 +16,7 @@ describe('process', function () {
 
   beforeEach(function () {
     sandbox = createSandbox();
+    (globalThis as any).execMock.mockClear();
   });
 
   afterEach(function () {
@@ -50,9 +51,9 @@ describe('process', function () {
       expect(pids).to.have.length(0);
     });
     it('should throw an error if pgrep fails', async function () {
-      (sandbox.stub(teenProcess, 'exec') as any).get(() =>
-        sandbox.stub().throws({message: 'Oops', code: 2})
-      );
+      (globalThis as any).execMock.mockImplementationOnce(async () => {
+        throw {message: 'Oops', code: 2};
+      });
       await expect(process.getProcessIds('tail')).to.eventually.be.rejectedWith(/Oops/);
     });
   });
@@ -92,16 +93,18 @@ describe('process', function () {
       ).to.eventually.be.rejected;
     });
     it('should throw an error if pgrep fails', async function () {
-      (sandbox.stub(teenProcess, 'exec') as any).get(() =>
-        sandbox.stub().throws({message: 'Oops', code: 2})
-      );
+      (globalThis as any).execMock.mockImplementationOnce(async () => {
+        throw {message: 'Oops', code: 2};
+      });
       await expect(process.killProcess('tail')).to.eventually.be.rejectedWith(/Oops/);
     });
     it('should throw an error if pkill fails', async function () {
-      const innerExecStub = sandbox.stub();
-      innerExecStub.returns({stdout: '42\n'});
-      innerExecStub.throws({message: 'Oops', code: 2});
-      (sandbox.stub(teenProcess, 'exec') as any).get(() => innerExecStub);
+      (globalThis as any).execMock.mockImplementation(async (cmd: string) => {
+        if (cmd === 'pgrep') {
+            return {stdout: '42\n'};
+        }
+        throw {message: 'Oops', code: 2};
+      });
       await expect(process.killProcess('tail')).to.eventually.be.rejectedWith(/Oops/);
     });
   });
