@@ -3,6 +3,31 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 2.0.0 (2026-04-27)
+
+
+### ⚠ BREAKING CHANGES
+
+* set minimum Node.js version to v20.19.0 (#21394)
+
+### Features
+
+* use exact version for dependencies in monorepo packages instead of ^ ([#22090](https://github.com/TestSpectra/appium/issues/22090)) ([86c8f23](https://github.com/TestSpectra/appium/commit/86c8f23a670d0bbc2d359a8235828606bd36e6aa))
+
+
+### Bug Fixes
+
+* All the rest of linter warnings ([#22183](https://github.com/TestSpectra/appium/issues/22183)) ([efe167f](https://github.com/TestSpectra/appium/commit/efe167f59a0a19515b78a53346e5d0b3fc4c744c))
+* apply npm run lint:fix ([#21867](https://github.com/TestSpectra/appium/issues/21867)) ([5e28714](https://github.com/TestSpectra/appium/commit/5e28714442cf59ee35b085e01e82c3f5483891fd))
+* Type imports ([#22025](https://github.com/TestSpectra/appium/issues/22025)) ([2f27425](https://github.com/TestSpectra/appium/commit/2f27425ea300ca1af1c1da6e4be68d48e7a94346))
+
+
+### Miscellaneous Chores
+
+* set minimum Node.js version to v20.19.0 ([#21394](https://github.com/TestSpectra/appium/issues/21394)) ([37e22c4](https://github.com/TestSpectra/appium/commit/37e22c4f9c9920cea3f340841ab1b7c60e3147e9))
+
+
+
 ## [1.1.1](https://github.com/appium/appium/compare/@testspectra/storage-plugin@1.1.0...@testspectra/storage-plugin@1.1.1) (2026-04-23)
 
 

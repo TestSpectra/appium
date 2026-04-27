@@ -3,6 +3,62 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 5.0.0 (2026-04-27)
+
+
+### ⚠ BREAKING CHANGES
+
+* set minimum Node.js version to v20.19.0 (#21394)
+* Appium now supports version range `^14.17.0 || ^16.13.0 || >=18.0.0`
+* **test-support:** This removes plugin/driver specific methods from `@appium/test-support`, and also removes the peer dep on `appium`.
+The methods can now be found in `@appium/plugin-test-support` and `@appium/driver-test-support`.
+
+### Features
+
+* **appium,base-driver,base-plugin,test-support,types:** move test fixtures into test-support ([70d88cb](https://github.com/TestSpectra/appium/commit/70d88cb86f28354efe313cc6be6a0afef20b38b3))
+* **appium,base-driver,fake-driver,fake-plugin,test-support,types:** updateServer receives cliArgs param ([d4b9833](https://github.com/TestSpectra/appium/commit/d4b983328af21d1e5c27a91e438e7934eb152ab1)), closes [#17304](https://github.com/TestSpectra/appium/issues/17304)
+* experimental support for typedoc generation ([4746080](https://github.com/TestSpectra/appium/commit/4746080e54ed8bb494cbc7c6ce83db503bf6bb52))
+* **test-support:** Remove obsolete helpers ([#20817](https://github.com/TestSpectra/appium/issues/20817)) ([81a5b57](https://github.com/TestSpectra/appium/commit/81a5b576739f67c1c7f311217ecc50e467f5a491))
+* use exact version for dependencies in monorepo packages instead of ^ ([#22090](https://github.com/TestSpectra/appium/issues/22090)) ([86c8f23](https://github.com/TestSpectra/appium/commit/86c8f23a670d0bbc2d359a8235828606bd36e6aa))
+
+
+### Bug Fixes
+
+* All the rest of linter warnings ([#22183](https://github.com/TestSpectra/appium/issues/22183)) ([efe167f](https://github.com/TestSpectra/appium/commit/efe167f59a0a19515b78a53346e5d0b3fc4c744c))
+* **appium,base-driver,base-plugin,doctor,docutils,eslint-config-appium,execute-driver-plugin,fake-driver,fake-plugin,gulp-plugins,images-plugin,opencv,relaxed-caps-plugin,schema,support,test-support,types,universal-xml-plugin:** update engines ([d8d2382](https://github.com/TestSpectra/appium/commit/d8d2382327ba7b7db8a4d1cad987c0e60184c92d))
+* **appium:** fix extension autoinstall postinstall script ([3e2c05d](https://github.com/TestSpectra/appium/commit/3e2c05d8a290072484afde34fe5fd968618f6359)), closes [#16924](https://github.com/TestSpectra/appium/issues/16924)
+* **docutils:** remove `@appium/typedoc-plugin-appium` and all other uses of `typedoc` ([#19465](https://github.com/TestSpectra/appium/issues/19465)) ([7528fcf](https://github.com/TestSpectra/appium/commit/7528fcf890f79f4017f5e718bb1952bf907ee479))
+* moved type packages to deps of specific packages ([f9129df](https://github.com/TestSpectra/appium/commit/f9129dfee32fcc3f89ffcfa69fb83b7c2419c24f))
+* Switch colors package to a non-compomised repository ([#16317](https://github.com/TestSpectra/appium/issues/16317)) ([40a6f05](https://github.com/TestSpectra/appium/commit/40a6f054dca3d94fc88773af9c6336ba12ebfb81))
+* **test-support:** create cjs wrapper ([57f39c5](https://github.com/TestSpectra/appium/commit/57f39c54889401872759bfa771f14e54020b3045))
+* **test-support:** update dependency @colors/colors to v1.6.0 ([1358937](https://github.com/TestSpectra/appium/commit/1358937db2edf08ce1ebe3dff2f70ac6b07cd373))
+* **test-support:** update dependency sinon to v14.0.2 ([01bcbd9](https://github.com/TestSpectra/appium/commit/01bcbd9f0da309b90cd3b760c30d885cb03e6728))
+* **test-support:** update dependency sinon to v15 ([ebcc1d2](https://github.com/TestSpectra/appium/commit/ebcc1d21509ed63fa0c225daf39ccc10bf67c3ad))
+* **test-support:** update dependency sinon to v15.0.1 ([5d0d4f5](https://github.com/TestSpectra/appium/commit/5d0d4f5a44dff362430159f97f8569a9be7e378d))
+* **test-support:** update dependency sinon to v15.0.2 ([f1a8ce0](https://github.com/TestSpectra/appium/commit/f1a8ce0bbac5a165ba5175c50d83668ec305b592))
+* **test-support:** update dependency sinon to v15.0.3 ([d774a84](https://github.com/TestSpectra/appium/commit/d774a8428a0f0c4ecbbc8124a855bda12821ae08))
+* **test-support:** update dependency sinon to v15.0.4 ([9ad7279](https://github.com/TestSpectra/appium/commit/9ad7279fa70d7198a8d02f0f206397cb4a830e1d))
+* **test-support:** update dependency sinon to v15.1.0 ([4c61d53](https://github.com/TestSpectra/appium/commit/4c61d533b8f52131a637f5cd0b019375f85f075f))
+* **test-support:** update dependency sinon to v15.1.2 ([e5b569c](https://github.com/TestSpectra/appium/commit/e5b569c3a0a0545210f126822031420d236ad1f4))
+* **test-support:** update dependency sinon to v15.2.0 ([a21ae6a](https://github.com/TestSpectra/appium/commit/a21ae6ab2bcaba44ecdacae67076cf011b4e5ae8))
+* **test-support:** update dependency sinon to v16 ([#19161](https://github.com/TestSpectra/appium/issues/19161)) ([49b3434](https://github.com/TestSpectra/appium/commit/49b3434c2bc324b5dc9f8204242c12f04b5252af))
+* **test-support:** update dependency sinon to v16.1.0 ([126daec](https://github.com/TestSpectra/appium/commit/126daeca4e600b75cf37f9fc15a1b6e563058b3c))
+* **test-support:** update dependency sinon to v16.1.3 ([aaa7668](https://github.com/TestSpectra/appium/commit/aaa7668ae6d58f1ac6a5af957b9b214ee71c6a48))
+* **test-support:** update dependency sinon to v17 ([#19501](https://github.com/TestSpectra/appium/issues/19501)) ([0592bc5](https://github.com/TestSpectra/appium/commit/0592bc505fdec8ef0fdd19a6816a45e1e2887d25))
+* **test-support:** update dependency sinon to v17.0.2 ([#20078](https://github.com/TestSpectra/appium/issues/20078)) ([2acf262](https://github.com/TestSpectra/appium/commit/2acf262482750bb7b56f46dc3b9ad3168de8000a))
+* **test-support:** update dependency sinon to v18 ([#20128](https://github.com/TestSpectra/appium/issues/20128)) ([465495e](https://github.com/TestSpectra/appium/commit/465495ef2ae436039f80a1ba397bb26a22ec01c6))
+* **test-support:** update dependency sinon to v18.0.1 ([980aa69](https://github.com/TestSpectra/appium/commit/980aa69b931bab815e353945f392429a6772182d))
+* **test-support:** update dependency sinon to v19 ([#20576](https://github.com/TestSpectra/appium/issues/20576)) ([6a8f26a](https://github.com/TestSpectra/appium/commit/6a8f26a9cbf01a7c9181c90bb999d332a343d94d))
+
+
+### Miscellaneous Chores
+
+* set engines to minimum Node.js v14.17.0 ([a1dbe6c](https://github.com/TestSpectra/appium/commit/a1dbe6c43efe76604943a607d402f4c8b864d652))
+* set minimum Node.js version to v20.19.0 ([#21394](https://github.com/TestSpectra/appium/issues/21394)) ([37e22c4](https://github.com/TestSpectra/appium/commit/37e22c4f9c9920cea3f340841ab1b7c60e3147e9))
+* **test-support:** remove driver/plugin-specific methods ([743c764](https://github.com/TestSpectra/appium/commit/743c764d5ea3211367fb2f338ecb5ec99af3ce86)), closes [#17398](https://github.com/TestSpectra/appium/issues/17398)
+
+
+
 ## [4.1.1](https://github.com/appium/appium/compare/@testspectra/test-support@4.1.0...@testspectra/test-support@4.1.1) (2026-04-23)
 
 

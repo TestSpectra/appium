@@ -1,6 +1,6 @@
 {
   "name": "@testspectra/images-plugin",
-  "version": "4.2.1",
+  "version": "5.0.0",
   "description": "Plugin for working with images and image elements in Appium",
   "keywords": [
     "automation",
@@ -40,8 +40,8 @@
     "test:e2e": "mocha --exit --timeout 40s --slow 20s \"./test/e2e/**/*.spec.*ts\""
   },
   "dependencies": {
-    "@testspectra/opencv": "4.1.3",
-    "@testspectra/support": "7.1.1",
+    "@testspectra/opencv": "5.0.0",
+    "@testspectra/support": "8.0.0",
     "lodash": "4.18.1",
     "lru-cache": "11.3.5",
     "sharp": "0.34.5"

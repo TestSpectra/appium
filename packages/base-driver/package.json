@@ -1,6 +1,6 @@
 {
   "name": "@testspectra/base-driver",
-  "version": "10.4.0",
+  "version": "11.0.0",
   "description": "Base driver class for Appium drivers",
   "keywords": [
     "automation",
@@ -45,9 +45,9 @@
     "test:types": "tsd"
   },
   "dependencies": {
-    "@testspectra/support": "7.1.1",
-    "@testspectra/types": "1.3.1",
     "@colors/colors": "1.6.0",
+    "@testspectra/support": "8.0.0",
+    "@testspectra/types": "2.0.0",
     "async-lock": "1.4.1",
     "asyncbox": "6.1.0",
     "axios": "1.15.0",

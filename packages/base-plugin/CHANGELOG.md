@@ -3,6 +3,48 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 4.0.0 (2026-04-27)
+
+
+### ⚠ BREAKING CHANGES
+
+* set minimum Node.js version to v20.19.0 (#21394)
+* Appium now supports version range `^14.17.0 || ^16.13.0 || >=18.0.0`
+
+### Features
+
+* **appium,base-driver,base-plugin,test-support,types:** move test fixtures into test-support ([70d88cb](https://github.com/TestSpectra/appium/commit/70d88cb86f28354efe313cc6be6a0afef20b38b3))
+* **appium,base-driver,base-plugin:** allow plugins to define custom bidi commands and emit bidi events ([#20876](https://github.com/TestSpectra/appium/issues/20876)) ([8df1c21](https://github.com/TestSpectra/appium/commit/8df1c217a15d30300c04b9f59cdbdffa70325828))
+* **base-driver:** Migrate protocol.js to typescript ([#21241](https://github.com/TestSpectra/appium/issues/21241)) ([023cd43](https://github.com/TestSpectra/appium/commit/023cd43a58f85a66971cfc7aed2656aeeb014032))
+* **base-plugin:** add ability for plugins to implement execute methods ([84abed9](https://github.com/TestSpectra/appium/commit/84abed920a1dc796ff09013ce86079de5a25fe50))
+* **base-plugin:** Migrate to typescript ([#21918](https://github.com/TestSpectra/appium/issues/21918)) ([07b573d](https://github.com/TestSpectra/appium/commit/07b573df270273d26691f77ee80cd415402b1508))
+* **base-plugin:** prepare for use by plugins ([5e96a6d](https://github.com/TestSpectra/appium/commit/5e96a6d2a7a79e96de03802b05406325765f15ab))
+* experimental support for typedoc generation ([4746080](https://github.com/TestSpectra/appium/commit/4746080e54ed8bb494cbc7c6ce83db503bf6bb52))
+* **typedoc-appium-plugin:** implement cross-referencing of methods ([8b33414](https://github.com/TestSpectra/appium/commit/8b334149018f7d49448da9e7982356c72bcd468e))
+* use exact version for dependencies in monorepo packages instead of ^ ([#22090](https://github.com/TestSpectra/appium/issues/22090)) ([86c8f23](https://github.com/TestSpectra/appium/commit/86c8f23a670d0bbc2d359a8235828606bd36e6aa))
+
+
+### Bug Fixes
+
+* All the rest of linter warnings ([#22183](https://github.com/TestSpectra/appium/issues/22183)) ([efe167f](https://github.com/TestSpectra/appium/commit/efe167f59a0a19515b78a53346e5d0b3fc4c744c))
+* **appium,base-driver,base-plugin,doctor,docutils,eslint-config-appium,execute-driver-plugin,fake-driver,fake-plugin,gulp-plugins,images-plugin,opencv,relaxed-caps-plugin,schema,support,test-support,types,universal-xml-plugin:** update engines ([d8d2382](https://github.com/TestSpectra/appium/commit/d8d2382327ba7b7db8a4d1cad987c0e60184c92d))
+* **appium:** fix extension autoinstall postinstall script ([3e2c05d](https://github.com/TestSpectra/appium/commit/3e2c05d8a290072484afde34fe5fd968618f6359)), closes [#16924](https://github.com/TestSpectra/appium/issues/16924)
+* **base-driver,base-plugin,types:** update PluginCommand and DriverCommand types ([0dcd5fa](https://github.com/TestSpectra/appium/commit/0dcd5fa371af523c6527e55de4cff6cd472fde22))
+* **base-plugin:** correct version ([b438249](https://github.com/TestSpectra/appium/commit/b438249583ef7950dc5f23e51049c677de24b716))
+* **base-plugin:** do not define a new method ([3cd7950](https://github.com/TestSpectra/appium/commit/3cd79509f88714cf371a591e4e0ac000b66d92b6))
+* **base-plugin:** use correct 'address' prop instead of 'host' ([dc9fa62](https://github.com/TestSpectra/appium/commit/dc9fa6236db7dbaaeccdbe9e8dcb83bde179ed72))
+* **docutils:** remove `@appium/typedoc-plugin-appium` and all other uses of `typedoc` ([#19465](https://github.com/TestSpectra/appium/issues/19465)) ([7528fcf](https://github.com/TestSpectra/appium/commit/7528fcf890f79f4017f5e718bb1952bf907ee479))
+* Reduce linter warnings ([#20860](https://github.com/TestSpectra/appium/issues/20860)) ([65658cc](https://github.com/TestSpectra/appium/commit/65658ccbdde9144c45cb5aad6a9089a5d6f3a0a3))
+* **types,base-plugin:** fix static prop types for plugins ([2289b45](https://github.com/TestSpectra/appium/commit/2289b4527208c595b2758b9b14d86a2ab91ac15f))
+
+
+### Miscellaneous Chores
+
+* set engines to minimum Node.js v14.17.0 ([a1dbe6c](https://github.com/TestSpectra/appium/commit/a1dbe6c43efe76604943a607d402f4c8b864d652))
+* set minimum Node.js version to v20.19.0 ([#21394](https://github.com/TestSpectra/appium/issues/21394)) ([37e22c4](https://github.com/TestSpectra/appium/commit/37e22c4f9c9920cea3f340841ab1b7c60e3147e9))
+
+
+
 ## [3.2.1](https://github.com/appium/appium/compare/@testspectra/base-plugin@3.2.0...@testspectra/base-plugin@3.2.1) (2026-04-23)
 
 

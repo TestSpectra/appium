@@ -1,6 +1,6 @@
 {
   "name": "@testspectra/support",
-  "version": "7.1.1",
+  "version": "8.0.0",
   "description": "Support libs used across Appium packages",
   "keywords": [
     "automation",
@@ -40,10 +40,10 @@
     "test:unit": "mocha \"./test/unit/**/*.spec.ts\""
   },
   "dependencies": {
-    "@testspectra/logger": "2.0.7",
-    "@testspectra/tsconfig": "1.1.2",
-    "@testspectra/types": "1.3.1",
     "@colors/colors": "1.6.0",
+    "@testspectra/logger": "3.0.0",
+    "@testspectra/tsconfig": "2.0.0",
+    "@testspectra/types": "2.0.0",
     "archiver": "7.0.1",
     "asyncbox": "6.1.0",
     "axios": "1.15.0",

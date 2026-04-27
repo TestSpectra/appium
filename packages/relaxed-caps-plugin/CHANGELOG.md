@@ -3,6 +3,41 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 3.0.0 (2026-04-27)
+
+
+### ⚠ BREAKING CHANGES
+
+* set minimum Node.js version to v20.19.0 (#21394)
+* Appium now supports version range `^14.17.0 || ^16.13.0 || >=18.0.0`
+* **relaxed-caps-plugin:** `@appium/relaxed-caps-plugin` now expects to be installed alongside `appium`.
+
+### Features
+
+* experimental support for typedoc generation ([4746080](https://github.com/TestSpectra/appium/commit/4746080e54ed8bb494cbc7c6ce83db503bf6bb52))
+* **relaxed-caps-plugin:** Migrate to typescript ([#21908](https://github.com/TestSpectra/appium/issues/21908)) ([59ef8af](https://github.com/TestSpectra/appium/commit/59ef8af269dfcea96f1b270ab5785540007ab8a9))
+* **relaxed-caps-plugin:** use peer deps ([a98e0e8](https://github.com/TestSpectra/appium/commit/a98e0e8201d5a1e4c4d21ee3e834646338117dde))
+* use exact version for dependencies in monorepo packages instead of ^ ([#22090](https://github.com/TestSpectra/appium/issues/22090)) ([86c8f23](https://github.com/TestSpectra/appium/commit/86c8f23a670d0bbc2d359a8235828606bd36e6aa))
+
+
+### Bug Fixes
+
+* **appium,base-driver,base-plugin,doctor,docutils,eslint-config-appium,execute-driver-plugin,fake-driver,fake-plugin,gulp-plugins,images-plugin,opencv,relaxed-caps-plugin,schema,support,test-support,types,universal-xml-plugin:** update engines ([d8d2382](https://github.com/TestSpectra/appium/commit/d8d2382327ba7b7db8a4d1cad987c0e60184c92d))
+* **appium:** fix extension autoinstall postinstall script ([3e2c05d](https://github.com/TestSpectra/appium/commit/3e2c05d8a290072484afde34fe5fd968618f6359)), closes [#16924](https://github.com/TestSpectra/appium/issues/16924)
+* **base-driver,relaxed-caps-plugin,types:** add missing W3C caps ([#21642](https://github.com/TestSpectra/appium/issues/21642)) ([e6635b7](https://github.com/TestSpectra/appium/commit/e6635b737d0f42d8fd38c3d8bea70067d2e7c87a))
+* **docutils:** remove `@appium/typedoc-plugin-appium` and all other uses of `typedoc` ([#19465](https://github.com/TestSpectra/appium/issues/19465)) ([7528fcf](https://github.com/TestSpectra/appium/commit/7528fcf890f79f4017f5e718bb1952bf907ee479))
+* **execute-driver-plugin,fake-plugin,images-plugin,relaxed-caps-plugin,universal-xml-plugin:** ensure babel runtime is present ([df64612](https://github.com/TestSpectra/appium/commit/df64612d98c35fd64219816269f83f628e538fe2))
+* Move @appium/types to dev dependencies for various packages ([#21920](https://github.com/TestSpectra/appium/issues/21920)) ([2615935](https://github.com/TestSpectra/appium/commit/261593593947bc59e7a937e518fc6f019cafda7a))
+* **relaxed-caps-plugin:** export RelaxedCapsPlugin class ([d09c915](https://github.com/TestSpectra/appium/commit/d09c915dadef0e30e9282ae8f1e0ee7fc01963c0)), closes [#16981](https://github.com/TestSpectra/appium/issues/16981)
+
+
+### Miscellaneous Chores
+
+* set engines to minimum Node.js v14.17.0 ([a1dbe6c](https://github.com/TestSpectra/appium/commit/a1dbe6c43efe76604943a607d402f4c8b864d652))
+* set minimum Node.js version to v20.19.0 ([#21394](https://github.com/TestSpectra/appium/issues/21394)) ([37e22c4](https://github.com/TestSpectra/appium/commit/37e22c4f9c9920cea3f340841ab1b7c60e3147e9))
+
+
+
 ## [2.2.1](https://github.com/appium/appium/compare/@testspectra/relaxed-caps-plugin@2.2.0...@testspectra/relaxed-caps-plugin@2.2.1) (2026-04-23)
 
 **Note:** Version bump only for package @testspectra/relaxed-caps-plugin

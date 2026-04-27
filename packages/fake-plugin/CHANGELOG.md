@@ -3,6 +3,55 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 5.0.0 (2026-04-27)
+
+
+### ⚠ BREAKING CHANGES
+
+* set minimum Node.js version to v20.19.0 (#21394)
+* Appium now supports version range `^14.17.0 || ^16.13.0 || >=18.0.0`
+* **fake-plugin:** This now requires a peer dependency on `appium`
+
+### Features
+
+* **appium,base-driver,base-plugin:** allow plugins to define custom bidi commands and emit bidi events ([#20876](https://github.com/TestSpectra/appium/issues/20876)) ([8df1c21](https://github.com/TestSpectra/appium/commit/8df1c217a15d30300c04b9f59cdbdffa70325828))
+* **appium,base-driver,fake-driver,fake-plugin,test-support,types:** updateServer receives cliArgs param ([d4b9833](https://github.com/TestSpectra/appium/commit/d4b983328af21d1e5c27a91e438e7934eb152ab1)), closes [#17304](https://github.com/TestSpectra/appium/issues/17304)
+* **base-driver:** Remove deprecated routes ([#21134](https://github.com/TestSpectra/appium/issues/21134)) ([4716f40](https://github.com/TestSpectra/appium/commit/4716f40226da0a1743f4e570a99c67ce9d581b50))
+* experimental support for typedoc generation ([4746080](https://github.com/TestSpectra/appium/commit/4746080e54ed8bb494cbc7c6ce83db503bf6bb52))
+* **fake-plugin:** Migrate to typescript ([#21913](https://github.com/TestSpectra/appium/issues/21913)) ([7b139d7](https://github.com/TestSpectra/appium/commit/7b139d7e3543381c67191abf253314eb4630b0ac))
+* **fake-plugin:** use peer deps ([eb460b9](https://github.com/TestSpectra/appium/commit/eb460b915aeb7c5eb781b73c2d12e2cde57409b8))
+* **typedoc-appium-plugin:** implement cross-referencing of methods ([8b33414](https://github.com/TestSpectra/appium/commit/8b334149018f7d49448da9e7982356c72bcd468e))
+* use exact version for dependencies in monorepo packages instead of ^ ([#22090](https://github.com/TestSpectra/appium/issues/22090)) ([86c8f23](https://github.com/TestSpectra/appium/commit/86c8f23a670d0bbc2d359a8235828606bd36e6aa))
+
+
+### Bug Fixes
+
+* All the rest of linter warnings ([#22183](https://github.com/TestSpectra/appium/issues/22183)) ([efe167f](https://github.com/TestSpectra/appium/commit/efe167f59a0a19515b78a53346e5d0b3fc4c744c))
+* **appium,base-driver,base-plugin,doctor,docutils,eslint-config-appium,execute-driver-plugin,fake-driver,fake-plugin,gulp-plugins,images-plugin,opencv,relaxed-caps-plugin,schema,support,test-support,types,universal-xml-plugin:** update engines ([d8d2382](https://github.com/TestSpectra/appium/commit/d8d2382327ba7b7db8a4d1cad987c0e60184c92d))
+* **appium:** fix extension autoinstall postinstall script ([3e2c05d](https://github.com/TestSpectra/appium/commit/3e2c05d8a290072484afde34fe5fd968618f6359)), closes [#16924](https://github.com/TestSpectra/appium/issues/16924)
+* **docutils:** remove `@appium/typedoc-plugin-appium` and all other uses of `typedoc` ([#19465](https://github.com/TestSpectra/appium/issues/19465)) ([7528fcf](https://github.com/TestSpectra/appium/commit/7528fcf890f79f4017f5e718bb1952bf907ee479))
+* **execute-driver-plugin,fake-plugin,images-plugin,relaxed-caps-plugin,universal-xml-plugin:** ensure babel runtime is present ([df64612](https://github.com/TestSpectra/appium/commit/df64612d98c35fd64219816269f83f628e538fe2))
+* **fake-plugin,support:** type fixes for DT upgrade ([792e70b](https://github.com/TestSpectra/appium/commit/792e70be834330ee6480db3e1b79fbfec6f3f658))
+* **fake-plugin:** add index.js to published package ([2bd8b41](https://github.com/TestSpectra/appium/commit/2bd8b417a4b6bfc6f36b49381bf75f8a86bc0c68))
+* **fake-plugin:** fix bad merge ([ac575cc](https://github.com/TestSpectra/appium/commit/ac575cc81f39f398a4c3879fd202d027a15ddb01))
+* **fake-plugin:** fix scripts ([8bcc143](https://github.com/TestSpectra/appium/commit/8bcc143bff5a1a03a38a57b0d448fe0b1ab057e9))
+* **fake-plugin:** index.js must be a CJS script ([c29563f](https://github.com/TestSpectra/appium/commit/c29563f684e85a17105e5ba6864612264528b412))
+* Move @appium/types to dev dependencies for various packages ([#21920](https://github.com/TestSpectra/appium/issues/21920)) ([2615935](https://github.com/TestSpectra/appium/commit/261593593947bc59e7a937e518fc6f019cafda7a))
+* moved type packages to deps of specific packages ([f9129df](https://github.com/TestSpectra/appium/commit/f9129dfee32fcc3f89ffcfa69fb83b7c2419c24f))
+* **opencv:** update definitelytyped ([d2a9a99](https://github.com/TestSpectra/appium/commit/d2a9a99418af9ce9b569bb9b98ee396faab932bb))
+* **opencv:** update definitelytyped ([32557f4](https://github.com/TestSpectra/appium/commit/32557f4bca5acc2f89cfd3a70f369cebeb94c588))
+* **support:** update definitelytyped ([5ae8df3](https://github.com/TestSpectra/appium/commit/5ae8df3c36c7f03fbf3420087b532086f6742348))
+* **support:** update definitelytyped ([a306ce7](https://github.com/TestSpectra/appium/commit/a306ce741a806d21bc44f3b979803b8af5da99aa))
+* **support:** update definitelytyped ([b6a76ce](https://github.com/TestSpectra/appium/commit/b6a76ce91e2765c22f84e389b93f780e0b4490c0))
+
+
+### Miscellaneous Chores
+
+* set engines to minimum Node.js v14.17.0 ([a1dbe6c](https://github.com/TestSpectra/appium/commit/a1dbe6c43efe76604943a607d402f4c8b864d652))
+* set minimum Node.js version to v20.19.0 ([#21394](https://github.com/TestSpectra/appium/issues/21394)) ([37e22c4](https://github.com/TestSpectra/appium/commit/37e22c4f9c9920cea3f340841ab1b7c60e3147e9))
+
+
+
 ## [4.2.1](https://github.com/appium/appium/compare/@testspectra/fake-plugin@4.2.0...@testspectra/fake-plugin@4.2.1) (2026-04-23)
 
 

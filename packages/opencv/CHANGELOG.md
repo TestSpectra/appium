@@ -3,6 +3,62 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 5.0.0 (2026-04-27)
+
+
+### ⚠ BREAKING CHANGES
+
+* set minimum Node.js version to v20.19.0 (#21394)
+* **images-plugin,opencv:** Drop support for Node 14 and Node 16
+
+* chore: adjust engine ranges to current LTS
+
+* chore: update package-lock.json
+* Appium now supports version range `^14.17.0 || ^16.13.0 || >=18.0.0`
+
+### Features
+
+* **base-driver:** Make extension name prefix mandatory ([#21110](https://github.com/TestSpectra/appium/issues/21110)) ([9402291](https://github.com/TestSpectra/appium/commit/9402291f1c634bcb376ff69aef7a7b4d0628cbd4))
+* experimental support for typedoc generation ([4746080](https://github.com/TestSpectra/appium/commit/4746080e54ed8bb494cbc7c6ce83db503bf6bb52))
+* **image-plugin:** Make it possible to find elements inside of other elements ([#18555](https://github.com/TestSpectra/appium/issues/18555)) ([2796639](https://github.com/TestSpectra/appium/commit/2796639b1183f0efbae8d7adb6d24570d5d4fde4))
+* **opencv:** Migrate to typescript ([#21881](https://github.com/TestSpectra/appium/issues/21881)) ([fec5f3a](https://github.com/TestSpectra/appium/commit/fec5f3a377de4804920f5e8293ae5f198a7d4473))
+
+
+### Bug Fixes
+
+* **appium,base-driver,base-plugin,doctor,docutils,eslint-config-appium,execute-driver-plugin,fake-driver,fake-plugin,gulp-plugins,images-plugin,opencv,relaxed-caps-plugin,schema,support,test-support,types,universal-xml-plugin:** update engines ([d8d2382](https://github.com/TestSpectra/appium/commit/d8d2382327ba7b7db8a4d1cad987c0e60184c92d))
+* **appium:** fix extension autoinstall postinstall script ([3e2c05d](https://github.com/TestSpectra/appium/commit/3e2c05d8a290072484afde34fe5fd968618f6359)), closes [#16924](https://github.com/TestSpectra/appium/issues/16924)
+* apply npm run lint:fix ([#21867](https://github.com/TestSpectra/appium/issues/21867)) ([5e28714](https://github.com/TestSpectra/appium/commit/5e28714442cf59ee35b085e01e82c3f5483891fd))
+* Do not use additional checks on opencv objects ([#18714](https://github.com/TestSpectra/appium/issues/18714)) ([38f8690](https://github.com/TestSpectra/appium/commit/38f86900da462a444ae5a9c92794f64a297f79bd))
+* **docutils:** remove `@appium/typedoc-plugin-appium` and all other uses of `typedoc` ([#19465](https://github.com/TestSpectra/appium/issues/19465)) ([7528fcf](https://github.com/TestSpectra/appium/commit/7528fcf890f79f4017f5e718bb1952bf907ee479))
+* moved type packages to deps of specific packages ([f9129df](https://github.com/TestSpectra/appium/commit/f9129dfee32fcc3f89ffcfa69fb83b7c2419c24f))
+* **opencv,support:** override jpeg-js version ([125a68f](https://github.com/TestSpectra/appium/commit/125a68fe47ea6f5a936fe8d2e8b6cd5303bfb875))
+* **opencv:** fix a type error causing typedoc problems ([bb11d1c](https://github.com/TestSpectra/appium/commit/bb11d1cfe9681ccd457f0677118725a6e9ddd72f))
+* **opencv:** Make sure allocated CV objects are properly released afterwards ([#18569](https://github.com/TestSpectra/appium/issues/18569)) ([2fb844c](https://github.com/TestSpectra/appium/commit/2fb844c8ad5ea1e36c326ce5cf46869c0ff0d4f9))
+* **opencv:** update definitelytyped ([d2a9a99](https://github.com/TestSpectra/appium/commit/d2a9a99418af9ce9b569bb9b98ee396faab932bb))
+* **opencv:** update definitelytyped ([32557f4](https://github.com/TestSpectra/appium/commit/32557f4bca5acc2f89cfd3a70f369cebeb94c588))
+* **opencv:** update dependency sharp to v0.32.1 ([add0eaa](https://github.com/TestSpectra/appium/commit/add0eaa05f476a5f2708925a43f2bc16cad75872))
+* Reduce linter warnings ([#20860](https://github.com/TestSpectra/appium/issues/20860)) ([65658cc](https://github.com/TestSpectra/appium/commit/65658ccbdde9144c45cb5aad6a9089a5d6f3a0a3))
+* **support:** update definitelytyped ([5ae8df3](https://github.com/TestSpectra/appium/commit/5ae8df3c36c7f03fbf3420087b532086f6742348))
+* **support:** update definitelytyped ([a306ce7](https://github.com/TestSpectra/appium/commit/a306ce741a806d21bc44f3b979803b8af5da99aa))
+* **support:** update definitelytyped ([b6a76ce](https://github.com/TestSpectra/appium/commit/b6a76ce91e2765c22f84e389b93f780e0b4490c0))
+* **support:** update dependency jimp to v0.16.13 ([9ce3263](https://github.com/TestSpectra/appium/commit/9ce32639187fcd7195216ccf7393caba1b1ef48c))
+* **support:** update dependency jimp to v0.17.10 ([8129a22](https://github.com/TestSpectra/appium/commit/8129a228a9a76c4b9d94402b8d6fa106777d7bbf))
+* **support:** update dependency jimp to v0.21.0 ([9bc1fbd](https://github.com/TestSpectra/appium/commit/9bc1fbdf3d881fbdc32be1e1466d6ec367959340))
+* **support:** update dependency jimp to v0.21.3 ([3b4d9dd](https://github.com/TestSpectra/appium/commit/3b4d9dde6080569f05057bdb1bb600c2a0cf8eb6))
+* **support:** update dependency jimp to v0.22.4 ([742abf2](https://github.com/TestSpectra/appium/commit/742abf25035fe5ea5aa280c1ed09ffec5d4f97cf))
+* **support:** update dependency jimp to v0.22.5 ([998514f](https://github.com/TestSpectra/appium/commit/998514fccee0b1a7381b810280cbc30558c3c282))
+* **support:** update dependency jimp to v0.22.7 ([188ed16](https://github.com/TestSpectra/appium/commit/188ed161e4156aab4381b27fcb6f6d1fccbc0e73))
+
+
+### Miscellaneous Chores
+
+* **images-plugin,opencv:** update dependency sharp to 0.33.0 ([#19498](https://github.com/TestSpectra/appium/issues/19498)) ([73d0aa5](https://github.com/TestSpectra/appium/commit/73d0aa5d1cd8b3b0e72b879308fd215fb03f428d))
+* set engines to minimum Node.js v14.17.0 ([a1dbe6c](https://github.com/TestSpectra/appium/commit/a1dbe6c43efe76604943a607d402f4c8b864d652))
+* set minimum Node.js version to v20.19.0 ([#21394](https://github.com/TestSpectra/appium/issues/21394)) ([37e22c4](https://github.com/TestSpectra/appium/commit/37e22c4f9c9920cea3f340841ab1b7c60e3147e9))
+
+
+
 ## [4.1.3](https://github.com/appium/appium/compare/@testspectra/opencv@4.1.2...@testspectra/opencv@4.1.3) (2026-04-23)
 
 **Note:** Version bump only for package @testspectra/opencv

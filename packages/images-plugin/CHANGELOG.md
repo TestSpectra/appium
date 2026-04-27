@@ -3,6 +3,75 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 5.0.0 (2026-04-27)
+
+
+### ⚠ BREAKING CHANGES
+
+* set minimum Node.js version to v20.19.0 (#21394)
+* **images-plugin,opencv:** Drop support for Node 14 and Node 16
+
+* chore: adjust engine ranges to current LTS
+
+* chore: update package-lock.json
+* Appium now supports version range `^14.17.0 || ^16.13.0 || >=18.0.0`
+
+### Features
+
+* **base-driver:** Make extension name prefix mandatory ([#21110](https://github.com/TestSpectra/appium/issues/21110)) ([9402291](https://github.com/TestSpectra/appium/commit/9402291f1c634bcb376ff69aef7a7b4d0628cbd4))
+* experimental support for typedoc generation ([4746080](https://github.com/TestSpectra/appium/commit/4746080e54ed8bb494cbc7c6ce83db503bf6bb52))
+* **image-plugin:** Make it possible to find elements inside of other elements ([#18555](https://github.com/TestSpectra/appium/issues/18555)) ([2796639](https://github.com/TestSpectra/appium/commit/2796639b1183f0efbae8d7adb6d24570d5d4fde4))
+* **images-plugin:** Migrate to typescript ([#21865](https://github.com/TestSpectra/appium/issues/21865)) ([1450737](https://github.com/TestSpectra/appium/commit/14507371f7cb3c5e468f58ebc3b303109dcff3d7))
+* **images-plugin:** use peer deps ([d06ceb5](https://github.com/TestSpectra/appium/commit/d06ceb5472349df9e5aa412d8e00c8da5090f70f))
+* use exact version for dependencies in monorepo packages instead of ^ ([#22090](https://github.com/TestSpectra/appium/issues/22090)) ([86c8f23](https://github.com/TestSpectra/appium/commit/86c8f23a670d0bbc2d359a8235828606bd36e6aa))
+
+
+### Bug Fixes
+
+* All the rest of linter warnings ([#22183](https://github.com/TestSpectra/appium/issues/22183)) ([efe167f](https://github.com/TestSpectra/appium/commit/efe167f59a0a19515b78a53346e5d0b3fc4c744c))
+* **appium,base-driver,base-plugin,doctor,docutils,eslint-config-appium,execute-driver-plugin,fake-driver,fake-plugin,gulp-plugins,images-plugin,opencv,relaxed-caps-plugin,schema,support,test-support,types,universal-xml-plugin:** update engines ([d8d2382](https://github.com/TestSpectra/appium/commit/d8d2382327ba7b7db8a4d1cad987c0e60184c92d))
+* **appium:** fix extension autoinstall postinstall script ([3e2c05d](https://github.com/TestSpectra/appium/commit/3e2c05d8a290072484afde34fe5fd968618f6359)), closes [#16924](https://github.com/TestSpectra/appium/issues/16924)
+* apply npm run lint:fix ([#21867](https://github.com/TestSpectra/appium/issues/21867)) ([5e28714](https://github.com/TestSpectra/appium/commit/5e28714442cf59ee35b085e01e82c3f5483891fd))
+* **docutils:** remove `@appium/typedoc-plugin-appium` and all other uses of `typedoc` ([#19465](https://github.com/TestSpectra/appium/issues/19465)) ([7528fcf](https://github.com/TestSpectra/appium/commit/7528fcf890f79f4017f5e718bb1952bf907ee479))
+* **execute-driver-plugin,fake-plugin,images-plugin,relaxed-caps-plugin,universal-xml-plugin:** ensure babel runtime is present ([df64612](https://github.com/TestSpectra/appium/commit/df64612d98c35fd64219816269f83f628e538fe2))
+* Handle the case when error message is undefined ([#17756](https://github.com/TestSpectra/appium/issues/17756)) ([bce024a](https://github.com/TestSpectra/appium/commit/bce024a72128b2d791da67f5838ef4527522b403))
+* **images-plugin,universal-xml-plugin,typedoc-plugin-appium:** add missing lodash dependency ([696c94f](https://github.com/TestSpectra/appium/commit/696c94f1abf1da15fb9e3a4d60b95cd2d69d9e7c))
+* **images-plugin:** Add the missing dependency to support ([#18652](https://github.com/TestSpectra/appium/issues/18652)) ([f512e59](https://github.com/TestSpectra/appium/commit/f512e596eb54edb5ca8993b3451aa4a22184bc57))
+* **images-plugin:** fix bad merge and tests ([f7760a2](https://github.com/TestSpectra/appium/commit/f7760a2fa689bbf3f1ea27543c2e4d33079e38fc))
+* **images-plugin:** Make sure the template is always a buffer ([#18696](https://github.com/TestSpectra/appium/issues/18696)) ([0497090](https://github.com/TestSpectra/appium/commit/0497090a90e6219a383125543780cd71269a4604))
+* **images-plugin:** Prevent repeatable template modification ([#19334](https://github.com/TestSpectra/appium/issues/19334)) ([63a0b05](https://github.com/TestSpectra/appium/commit/63a0b05e1b99d8879ac928ca91111d3c62745133))
+* **images-plugin:** update dependency lru-cache to v10 ([#19050](https://github.com/TestSpectra/appium/issues/19050)) ([72a806b](https://github.com/TestSpectra/appium/commit/72a806bec7c3a80747192d24dfd9d8286a751810))
+* **images-plugin:** update dependency lru-cache to v10 ([#19490](https://github.com/TestSpectra/appium/issues/19490)) ([19c30b4](https://github.com/TestSpectra/appium/commit/19c30b490b244f52918f72bdeeb957a999fdbcb9))
+* **images-plugin:** update dependency lru-cache to v10 ([#19497](https://github.com/TestSpectra/appium/issues/19497)) ([4dd95c0](https://github.com/TestSpectra/appium/commit/4dd95c096e4e4685c4f464b8251370ea001a562a))
+* **images-plugin:** update dependency lru-cache to v10 ([#19723](https://github.com/TestSpectra/appium/issues/19723)) ([202da83](https://github.com/TestSpectra/appium/commit/202da83449073ddb3da8fb2cfbcfce482a5ecd40))
+* **images-plugin:** update dependency lru-cache to v10.2.1 ([#20039](https://github.com/TestSpectra/appium/issues/20039)) ([f645b50](https://github.com/TestSpectra/appium/commit/f645b50d9d6008d374bc131be78d8be5d84a7f53))
+* **images-plugin:** update dependency lru-cache to v10.2.2 ([#20052](https://github.com/TestSpectra/appium/issues/20052)) ([f8d1fb7](https://github.com/TestSpectra/appium/commit/f8d1fb7df7b7d093d3664f58830cad5b5dffa244))
+* **images-plugin:** update dependency lru-cache to v10.3.0 ([#20306](https://github.com/TestSpectra/appium/issues/20306)) ([e43c7a4](https://github.com/TestSpectra/appium/commit/e43c7a4dce1f50fbd4d028cbeac5677422210b20))
+* **images-plugin:** update dependency lru-cache to v7.14.1 ([0d7c936](https://github.com/TestSpectra/appium/commit/0d7c936b11499deb482fc41b0c760d56ad30e1fb))
+* **images-plugin:** update dependency lru-cache to v7.15.0 ([4cf8dbc](https://github.com/TestSpectra/appium/commit/4cf8dbc0d34769e3167bceed65facabe71b9cbde))
+* **images-plugin:** update dependency lru-cache to v7.16.0 ([d54901a](https://github.com/TestSpectra/appium/commit/d54901a9c3982dd5595ffd54010e5029b60c4754))
+* **images-plugin:** update dependency lru-cache to v7.16.1 ([2fa6bf1](https://github.com/TestSpectra/appium/commit/2fa6bf1e11e66ba8256d0641e345359bd108bc7d))
+* **images-plugin:** update dependency lru-cache to v7.16.2 ([4b10322](https://github.com/TestSpectra/appium/commit/4b10322b80e0032dd4585ac7766edd1ddf798139))
+* **images-plugin:** update dependency lru-cache to v7.17.0 ([eb73be8](https://github.com/TestSpectra/appium/commit/eb73be8303c517dbaa965ae99bac3381522d939a))
+* **images-plugin:** update dependency lru-cache to v7.17.2 ([d1d5ece](https://github.com/TestSpectra/appium/commit/d1d5ecef87e70afea6d9d59f69cae465460e930b))
+* **images-plugin:** update dependency lru-cache to v7.18.1 ([ed1d3aa](https://github.com/TestSpectra/appium/commit/ed1d3aae61539bc136b3f266911331387397b88a))
+* **images-plugin:** update dependency lru-cache to v7.18.2 ([48c3311](https://github.com/TestSpectra/appium/commit/48c331157f74b238a3fc8dc92775d0af3f9f3134))
+* **images-plugin:** update dependency lru-cache to v7.18.3 ([01bff49](https://github.com/TestSpectra/appium/commit/01bff49297ca5a1c92259f1f8f11f5944ef15e4d))
+* **logger:** update dependency lru-cache to v10.4.3 ([#20364](https://github.com/TestSpectra/appium/issues/20364)) ([8d79467](https://github.com/TestSpectra/appium/commit/8d79467da8a0733ac3e49b9152bd6905989a57ca))
+* moved type packages to deps of specific packages ([f9129df](https://github.com/TestSpectra/appium/commit/f9129dfee32fcc3f89ffcfa69fb83b7c2419c24f))
+* **opencv:** update dependency sharp to v0.32.1 ([add0eaa](https://github.com/TestSpectra/appium/commit/add0eaa05f476a5f2708925a43f2bc16cad75872))
+* Reduce linter warnings ([#20860](https://github.com/TestSpectra/appium/issues/20860)) ([65658cc](https://github.com/TestSpectra/appium/commit/65658ccbdde9144c45cb5aad6a9089a5d6f3a0a3))
+* Type imports ([#22025](https://github.com/TestSpectra/appium/issues/22025)) ([2f27425](https://github.com/TestSpectra/appium/commit/2f27425ea300ca1af1c1da6e4be68d48e7a94346))
+
+
+### Miscellaneous Chores
+
+* **images-plugin,opencv:** update dependency sharp to 0.33.0 ([#19498](https://github.com/TestSpectra/appium/issues/19498)) ([73d0aa5](https://github.com/TestSpectra/appium/commit/73d0aa5d1cd8b3b0e72b879308fd215fb03f428d))
+* set engines to minimum Node.js v14.17.0 ([a1dbe6c](https://github.com/TestSpectra/appium/commit/a1dbe6c43efe76604943a607d402f4c8b864d652))
+* set minimum Node.js version to v20.19.0 ([#21394](https://github.com/TestSpectra/appium/issues/21394)) ([37e22c4](https://github.com/TestSpectra/appium/commit/37e22c4f9c9920cea3f340841ab1b7c60e3147e9))
+
+
+
 ## [4.2.1](https://github.com/appium/appium/compare/@testspectra/images-plugin@4.2.0...@testspectra/images-plugin@4.2.1) (2026-04-23)
 
 
