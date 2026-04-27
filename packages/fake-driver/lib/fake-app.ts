@@ -1,4 +1,4 @@
-import {fs} from 'appium/support';
+import {fs} from '@testspectra/appium/support';
 import {readFileSync} from 'node:fs';
 import path from 'node:path';
 import XMLDom from '@xmldom/xmldom';

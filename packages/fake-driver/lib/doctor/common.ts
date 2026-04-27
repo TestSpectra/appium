@@ -1,4 +1,4 @@
-import {doctor} from 'appium/support';
+import {doctor} from '@testspectra/appium/support';
 import type {IDoctorCheck, AppiumLogger, DoctorCheckResult} from '@testspectra/types';
 
 export class EnvVarAndPathCheck implements IDoctorCheck {

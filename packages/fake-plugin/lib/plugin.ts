@@ -1,4 +1,4 @@
-import {BasePlugin} from 'appium/plugin';
+import {BasePlugin} from '@testspectra/appium/plugin';
 import {sleep} from 'asyncbox';
 import type {Request, Response, Application} from 'express';
 import type {

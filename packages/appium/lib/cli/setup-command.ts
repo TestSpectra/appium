@@ -5,7 +5,7 @@ import type {
   CliCommandSetupSubcommand,
   CliExtensionCommand,
   CliExtensionSubcommand,
-} from 'appium/types';
+} from '@testspectra/appium/types';
 import {
   DESKTOP_BROWSERS,
   DESKTOP_DRIVERS,

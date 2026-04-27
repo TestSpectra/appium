@@ -1,5 +1,5 @@
 import {log} from './logger';
-import {server as baseServer, routeConfiguringFunction} from 'appium/driver';
+import {server as baseServer, routeConfiguringFunction} from '@testspectra/appium/driver';
 import {FakeDriver} from './driver';
 
 /** Start HTTP server with FakeDriver and default WebDriver routes. */

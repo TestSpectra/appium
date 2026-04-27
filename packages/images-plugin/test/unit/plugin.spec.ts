@@ -6,7 +6,7 @@ import {
   MATCH_TEMPLATE_MODE,
   IMAGE_STRATEGY,
 } from '../../lib/constants';
-import {BaseDriver} from 'appium/driver';
+import {BaseDriver} from '@testspectra/appium/driver';
 import {TEST_IMG_1_B64, TEST_IMG_2_B64, TEST_IMG_2_PART_B64} from '../fixtures/index.cjs';
 import {util} from '@testspectra/support';
 import type {ActionSequence, Constraints} from '@testspectra/types';

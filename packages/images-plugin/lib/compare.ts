@@ -1,5 +1,5 @@
 import _ from 'lodash';
-import {errors} from 'appium/driver';
+import {errors} from '@testspectra/appium/driver';
 import {
   getImagesMatches,
   getImagesSimilarity,

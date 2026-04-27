@@ -17,7 +17,7 @@ import type {
   CliCommandServer,
   CliCommandSetupSubcommand,
   CliExtensionSubcommand,
-} from 'appium/types';
+} from '@testspectra/appium/types';
 import type {ServerOpts} from '@testspectra/base-driver';
 import net from 'node:net';
 

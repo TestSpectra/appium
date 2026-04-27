@@ -9,7 +9,7 @@ import type {
   ExtPackageJson as AppiumExtPackageJson,
   ExtRecord as AppiumExtRecord,
   InstallType,
-} from 'appium/types';
+} from '@testspectra/appium/types';
 import type {PackageJson} from 'type-fest';
 import type {ExtensionConfig as BaseExtensionConfig} from '../extension/extension-config';
 import {npm, util, env, console, fs, system} from '@testspectra/support';

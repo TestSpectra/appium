@@ -1,9 +1,9 @@
 import _ from 'lodash';
 import type {Element} from '@testspectra/types';
-import {errors} from 'appium/driver';
+import {errors} from '@testspectra/appium/driver';
 import {FakeElement, type XmlNodeLike} from '../fake-element';
 import type {FakeDriver} from '../driver';
-import {util} from 'appium/support';
+import {util} from '@testspectra/appium/support';
 
 const {W3C_WEB_ELEMENT_IDENTIFIER} = util;
 

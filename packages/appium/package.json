@@ -12,19 +12,21 @@
     "firefoxos",
     "testing"
   ],
-  "homepage": "https://appium.io",
+  "homepage": "https://github.com/TestSpectra/appium",
   "bugs": {
-    "url": "https://github.com/appium/appium/issues"
+    "url": "https://github.com/TestSpectra/appium/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/appium/appium.git",
+    "url": "https://github.com/TestSpectra/appium.git",
     "directory": "packages/appium"
   },
   "license": "Apache-2.0",
-  "author": "https://github.com/appium",
+  "author": "https://github.com/TestSpectra",
   "types": "./build/lib/main.d.ts",
   "bin": {
+    "appium": "index.js",
+    "testspectra-appium": "index.js",
     "@testspectra/appium": "index.js"
   },
   "directories": {

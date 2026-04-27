@@ -1,6 +1,6 @@
 import _ from 'lodash';
 import {LRUCache} from 'lru-cache';
-import {errors} from 'appium/driver';
+import {errors} from '@testspectra/appium/driver';
 import {ImageElement} from './image-element';
 import {compareImages} from './compare';
 import {log} from './logger';

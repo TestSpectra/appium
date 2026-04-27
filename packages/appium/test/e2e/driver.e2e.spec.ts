@@ -1,5 +1,5 @@
 import type {AppiumServer, DriverClass} from '@testspectra/types';
-import type {ParsedArgs} from 'appium/types';
+import type {ParsedArgs} from '@testspectra/appium/types';
 import type {Browser} from 'webdriverio';
 import {BaseDriver} from '@testspectra/base-driver';
 import {exec} from 'teen_process';

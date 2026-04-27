@@ -1,5 +1,5 @@
 import type {DriverType, PluginType} from '@testspectra/types';
-import type {ExtManifest, ExtPackageJson, ManifestData} from 'appium/types';
+import type {ExtManifest, ExtPackageJson, ManifestData} from '@testspectra/appium/types';
 import chai from 'chai';
 import chaiAsPromised from 'chai-as-promised';
 import {promises as fs} from 'node:fs';

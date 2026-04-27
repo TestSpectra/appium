@@ -46,7 +46,10 @@ export const findAppiumDependencyPackage = _.memoize(
         const pkg = await readPackageInDir(root);
         const version = semver.minVersion(
           String(
-            pkg?.dependencies?.appium ??
+            pkg?.dependencies?.['@testspectra/appium'] ??
+              pkg?.devDependencies?.['@testspectra/appium'] ??
+              pkg?.peerDependencies?.['@testspectra/appium'] ??
+              pkg?.dependencies?.appium ??
               pkg?.devDependencies?.appium ??
               pkg?.peerDependencies?.appium
           )

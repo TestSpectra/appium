@@ -1,7 +1,7 @@
 import {sleep} from 'asyncbox';
 import type {Express, Request, Response} from 'express';
 import type {Server as HttpServer} from 'node:http';
-import {BaseDriver, errors} from 'appium/driver';
+import {BaseDriver, errors} from '@testspectra/appium/driver';
 import type {DriverData, InitialOpts} from '@testspectra/types';
 import {desiredCapConstraints} from './desired-caps';
 import type {FakeDriverConstraints} from './desired-caps';

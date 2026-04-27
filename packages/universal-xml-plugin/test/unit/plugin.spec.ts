@@ -1,5 +1,5 @@
 import {UniversalXMLPlugin} from '../../lib/plugin';
-import {BaseDriver} from 'appium/driver';
+import {BaseDriver} from '@testspectra/appium/driver';
 import {
   XML_IOS,
   XML_ANDROID,

@@ -20,7 +20,7 @@ these utility functions. Add the following line to `peerDependencies` section of
 Afterwards import it in your code similarly to the below example:
 
 ```js
-import {timing, util} from 'appium/support';
+import {timing, util} from '@testspectra/appium/support';
 ```
 
 ## Usage in helper modules
@@ -80,7 +80,7 @@ The default threshold level is `verbose`.
 The logged output, by default, will be `level prefix message`. So
 
 ```js
-import {logging} from 'appium/support';
+import {logging} from '@testspectra/appium/support';
 let log = logging.getLogger('mymodule');
 log.warn('a warning');`
 ```
@@ -112,7 +112,7 @@ be displayed. The special level `silent` will prevent anything from being displa
 
 - Logs `message` at the specified `level`
 ```js
-import {logging} from 'appium/support';
+import {logging} from '@testspectra/appium/support';
 let log = logging.getLogger('mymodule');
 
 log.info('hi!');
@@ -126,7 +126,7 @@ logging is done at a low level (e.g., changing output streams, retrieving an arr
 adding log levels, etc.).
 
 ```js
-import {logging} from 'appium/support';
+import {logging} from '@testspectra/appium/support';
 let log = logging.getLogger('mymodule');
 
 log.info('hi!');
@@ -145,7 +145,7 @@ not an instance of [Error](https://nodejs.org/api/errors.html#errors_class_error
 or a subclass of `Error`), it will be wrapped in a generic `Error` object.
 
 ```js
-import {logging} from 'appium/support';
+import {logging} from '@testspectra/appium/support';
 let log = logging.getLogger('mymodule');
 
 // previously there would be two lines

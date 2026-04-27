@@ -7,7 +7,7 @@
  *
  * @see https://npm.im/@testspectra/support
  * @example
- * const { fs, npm } = require('appium/support');
+ * const { fs, npm } = require('@testspectra/appium/support');
  */
 
 module.exports = require('@testspectra/support');

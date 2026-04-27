@@ -1,5 +1,5 @@
 import _ from 'lodash';
-import {errors} from 'appium/driver';
+import {errors} from '@testspectra/appium/driver';
 import {util} from '@testspectra/support';
 import {log} from './logger';
 import {

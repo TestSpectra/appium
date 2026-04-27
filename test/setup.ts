@@ -1,6 +1,7 @@
 import { describe as bunDescribe, it as bunIt, beforeAll, beforeEach as bunBeforeEach, afterAll, afterEach as bunAfterEach } from 'bun:test';
 import { use } from 'chai';
 import chaiAsPromised from 'chai-as-promised';
+import path from 'node:path';
 
 use(chaiAsPromised);
 
@@ -43,20 +44,27 @@ const createMochaContext = () => ({
     });
 };
 
+(globalThis as any).beforeEach(function() {
+  if ((globalThis as any).execMock && (globalThis as any).realExec) {
+    (globalThis as any).execMock.mockImplementation((globalThis as any).realExec);
+  }
+});
+
 // Global Mocks for Bun Migration
 import { mock } from 'bun:test';
 
 console.log('[Setup] Initializing Global Mocks...');
-
-const { exec: realExec } = require('/Volumes/DATA/appium/packages/support/lib/exec');
+const execPath = path.resolve(import.meta.dir, '..', 'packages/support/lib/exec');
+const { exec: realExec } = require(execPath);
 const execMock = mock(realExec);
 const osTypeMock = mock(() => 'Darwin');
 
 (globalThis as any).execMock = execMock;
 (globalThis as any).osTypeMock = osTypeMock;
+(globalThis as any).realExec = realExec;
 
 // Mock the local exec module used throughout @testspectra/support
-mock.module('/Volumes/DATA/appium/packages/support/lib/exec', () => {
+mock.module(execPath, () => {
     console.log('[Mock] Providing @testspectra/support/exec mock');
     return {
         exec: execMock,

@@ -10,8 +10,8 @@
     "types": ["mocha", "chai", "chai-as-promised", "node"],
     "paths": {
       "@testspectra/types": ["../types"],
-      "appium/support": ["../appium/support"],
-      "appium/driver": ["../appium/driver"],
+      "@testspectra/appium/support": ["../appium/support"],
+      "@testspectra/appium/driver": ["../appium/driver"],
       "@testspectra/driver-test-support": ["../driver-test-support"]
     }
   },

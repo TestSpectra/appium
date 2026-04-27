@@ -1,7 +1,7 @@
 import _ from 'lodash';
 import type {ArgumentOptions} from 'argparse';
 import type {ExtensionType} from '@testspectra/types';
-import type {CliExtensionSubcommand} from 'appium/types';
+import type {CliExtensionSubcommand} from '@testspectra/appium/types';
 import {
   DRIVER_TYPE,
   PLUGIN_TYPE,

@@ -7,7 +7,7 @@
  *
  * @see https://npm.im/@testspectra/base-plugin
  * @example
- * const { BasePlugin } = require('appium/plugin');
+ * const { BasePlugin } = require('@testspectra/appium/plugin');
  */
 
 module.exports = require('@testspectra/base-plugin');

@@ -1,6 +1,6 @@
 import _ from 'lodash';
 import type {DriverClass, DriverType, StringRecord} from '@testspectra/types';
-import type {ExtManifest, ExtName, ExtRecord} from 'appium/types';
+import type {ExtManifest, ExtName, ExtRecord} from '@testspectra/appium/types';
 import {DRIVER_TYPE} from '../constants';
 import {log} from '../logger';
 import type {ExtManifestProblem} from './extension-config';

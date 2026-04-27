@@ -1,4 +1,4 @@
-import type {ExtManifest} from 'appium/types';
+import type {ExtManifest} from '@testspectra/appium/types';
 import {Manifest} from '../../../lib/extension/manifest';
 import {migrate} from '../../../lib/extension/manifest-migrations';
 import {DRIVER_TYPE} from '../../../lib/constants';

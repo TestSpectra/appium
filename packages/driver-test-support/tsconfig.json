@@ -5,7 +5,7 @@
     "outDir": "build",
     "paths": {
       "@testspectra/types": ["../types"],
-      "appium/driver": ["../base-driver"]
+      "@testspectra/appium/driver": ["../base-driver"]
     },
     "types": ["mocha", "chai", "chai-as-promised", "node"]
   },

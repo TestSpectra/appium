@@ -5,7 +5,7 @@
   "description": "A Universal Logger For The Appium Ecosystem",
   "repository": {
     "type": "git",
-    "url": "https://github.com/appium/appium.git",
+    "url": "https://github.com/TestSpectra/appium.git",
     "directory": "packages/logger"
   },
   "main": "build/index.js",
@@ -39,7 +39,7 @@
     "npm": ">=10"
   },
   "bugs": {
-    "url": "https://github.com/appium/appium/issues"
+    "url": "https://github.com/TestSpectra/appium/issues"
   },
   "homepage": "https://appium.io",
   "publishConfig": {

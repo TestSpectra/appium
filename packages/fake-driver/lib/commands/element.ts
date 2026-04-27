@@ -1,5 +1,5 @@
 import _ from 'lodash';
-import {errors} from 'appium/driver';
+import {errors} from '@testspectra/appium/driver';
 import type {FakeDriver} from '../driver';
 import type {Position, Rect, Size} from '@testspectra/types';
 import type {FakeElement} from '../fake-element';

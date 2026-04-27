@@ -73,8 +73,8 @@ from `appium/plugin`, so you can use one of these styles to import it and create
 that extends it:
 
 ```js
-import {BasePlugin} from 'appium/plugin';
-// or: const {BasePlugin} = require('appium/plugin');
+import {BasePlugin} from '@testspectra/appium/plugin';
+// or: const {BasePlugin} = require('@testspectra/appium/plugin');
 
 export class MyPlugin extends BasePlugin {
   // class methods here
@@ -249,7 +249,7 @@ appropriate error from inside a command, and it will do the right thing in terms
 response to the user. To get access to these error classes, import them from `appium/driver`:
 
 ```js
-import {errors} from 'appium/driver';
+import {errors} from '@testspectra/appium/driver';
 
 throw new errors.NoSuchElementError();
 ```
@@ -262,7 +262,7 @@ levels). If you want to create an Appium logger outside of a plugin context (say
 helper file), you can always construct your own too:
 
 ```js
-import {logging} from 'appium/support';
+import {logging} from '@testspectra/appium/support';
 const log = logging.getLogger('MyPlugin');
 ```
 

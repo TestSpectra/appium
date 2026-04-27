@@ -1,5 +1,5 @@
 import _ from 'lodash';
-import {server, routeConfiguringFunction, DeviceSettings} from 'appium/driver';
+import {server, routeConfiguringFunction, DeviceSettings} from '@testspectra/appium/driver';
 import axios, {type RawAxiosRequestConfig} from 'axios';
 import {sleep} from 'asyncbox';
 import {TEST_HOST, getTestPort, createAppiumURL} from './helpers';

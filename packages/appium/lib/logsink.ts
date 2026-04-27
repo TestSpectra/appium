@@ -1,4 +1,4 @@
-import type {ParsedArgs} from 'appium/types';
+import type {ParsedArgs} from '@testspectra/appium/types';
 import type {MessageObject} from '@testspectra/logger';
 import type {Logger, Logform} from 'winston';
 import type Transport from 'winston-transport';

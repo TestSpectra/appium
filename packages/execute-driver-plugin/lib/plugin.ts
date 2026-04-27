@@ -1,7 +1,7 @@
-import {BasePlugin} from 'appium/plugin';
+import {BasePlugin} from '@testspectra/appium/plugin';
 import _ from 'lodash';
 import cp from 'node:child_process';
-import {timing} from 'appium/support';
+import {timing} from '@testspectra/appium/support';
 import type {ExternalDriver, NextPluginCallback, MethodMap, PluginCommand} from '@testspectra/types';
 
 const FEAT_FLAG = 'execute_driver_script';

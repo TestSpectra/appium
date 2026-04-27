@@ -1,5 +1,5 @@
 import type {ActionSequence, Location, Rect, Size, Orientation} from '@testspectra/types';
-import {errors} from 'appium/driver';
+import {errors} from '@testspectra/appium/driver';
 import type {FakeDriver} from '../driver';
 
 const ORIENTATIONS = new Set<string>(['LANDSCAPE', 'PORTRAIT']);

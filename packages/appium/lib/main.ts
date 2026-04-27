@@ -10,7 +10,7 @@ import type {
   CliCommandServer,
   CliCommandSetupSubcommand,
   CliExtensionSubcommand,
-} from 'appium/types';
+} from '@testspectra/appium/types';
 import {AppiumInitializer} from './bootstrap/appium-initializer';
 import {AppiumMainRunner} from './bootstrap/appium-main-runner';
 import type {ExtCommandInitResult, InitResult, ServerInitData} from './bootstrap/init-types';

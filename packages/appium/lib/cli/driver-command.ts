@@ -1,5 +1,5 @@
 import _ from 'lodash';
-import type {ExtMetadata, ExtRecord, InstallType} from 'appium/types';
+import type {ExtMetadata, ExtRecord, InstallType} from '@testspectra/appium/types';
 import ExtensionCliCommand from './extension-command';
 import type {
   ExtensionArgs,

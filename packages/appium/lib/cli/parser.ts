@@ -4,7 +4,7 @@ import type {SubArgumentParserOptions, SubParser} from 'argparse';
 import _ from 'lodash';
 import path from 'node:path';
 import type {DriverType, PluginType} from '@testspectra/types';
-import type {CliExtensionSubcommand} from 'appium/types';
+import type {CliExtensionSubcommand} from '@testspectra/appium/types';
 import {
   DRIVER_TYPE,
   EXT_SUBCOMMAND_DOCTOR,

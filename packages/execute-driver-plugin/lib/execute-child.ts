@@ -1,7 +1,7 @@
 import _ from 'lodash';
 import vm from 'node:vm';
 import {promisify} from 'node:util';
-import {logger, util} from 'appium/support';
+import {logger, util} from '@testspectra/appium/support';
 import type {DriverScriptMessageEvent, ScriptResult, RunScriptResult} from './types';
 import {wrapHostBindingForVmContext} from './vm-host-binding';
 

@@ -5,30 +5,31 @@
     "": {
       "name": "appium-monorepo",
       "devDependencies": {
-        "@appium/base-driver": "workspace:*",
-        "@appium/base-plugin": "workspace:*",
-        "@appium/docutils": "workspace:*",
-        "@appium/driver-test-support": "workspace:*",
-        "@appium/eslint-config-appium-ts": "workspace:*",
-        "@appium/execute-driver-plugin": "workspace:*",
-        "@appium/fake-driver": "workspace:*",
-        "@appium/fake-plugin": "workspace:*",
-        "@appium/images-plugin": "workspace:*",
-        "@appium/logger": "workspace:*",
-        "@appium/opencv": "workspace:*",
-        "@appium/plugin-test-support": "workspace:*",
-        "@appium/relaxed-caps-plugin": "workspace:*",
-        "@appium/schema": "workspace:*",
-        "@appium/storage-plugin": "workspace:*",
-        "@appium/strongbox": "workspace:*",
-        "@appium/support": "workspace:*",
-        "@appium/test-support": "workspace:*",
-        "@appium/tsconfig": "workspace:*",
-        "@appium/types": "workspace:*",
-        "@appium/universal-xml-plugin": "workspace:*",
         "@colors/colors": "1.6.0",
         "@eslint/js": "9.39.4",
         "@stylistic/eslint-plugin": "5.10.0",
+        "@testspectra/appium": "workspace:*",
+        "@testspectra/base-driver": "workspace:*",
+        "@testspectra/base-plugin": "workspace:*",
+        "@testspectra/docutils": "workspace:*",
+        "@testspectra/driver-test-support": "workspace:*",
+        "@testspectra/eslint-config-appium-ts": "workspace:*",
+        "@testspectra/execute-driver-plugin": "workspace:*",
+        "@testspectra/fake-driver": "workspace:*",
+        "@testspectra/fake-plugin": "workspace:*",
+        "@testspectra/images-plugin": "workspace:*",
+        "@testspectra/logger": "workspace:*",
+        "@testspectra/opencv": "workspace:*",
+        "@testspectra/plugin-test-support": "workspace:*",
+        "@testspectra/relaxed-caps-plugin": "workspace:*",
+        "@testspectra/schema": "workspace:*",
+        "@testspectra/storage-plugin": "workspace:*",
+        "@testspectra/strongbox": "workspace:*",
+        "@testspectra/support": "workspace:*",
+        "@testspectra/test-support": "workspace:*",
+        "@testspectra/tsconfig": "workspace:*",
+        "@testspectra/types": "workspace:*",
+        "@testspectra/universal-xml-plugin": "workspace:*",
         "@tsconfig/node20": "20.1.9",
         "@types/archiver": "7.0.0",
         "@types/argparse": "2.0.17",
@@ -60,7 +61,6 @@
         "@types/xmldom": "0.1.34",
         "@types/yargs": "17.0.35",
         "@types/yargs-parser": "21.0.3",
-        "appium": "workspace:*",
         "asyncbox": "6.1.0",
         "axios": "1.15.2",
         "chai": "6.2.2",
@@ -106,20 +106,20 @@
       },
     },
     "packages/appium": {
-      "name": "appium",
+      "name": "@testspectra/appium",
       "version": "3.3.1",
       "bin": {
-        "appium": "index.js",
+        "@testspectra/appium": "index.js",
       },
       "dependencies": {
-        "@appium/base-driver": "10.4.0",
-        "@appium/base-plugin": "3.2.1",
-        "@appium/docutils": "2.3.1",
-        "@appium/logger": "2.0.7",
-        "@appium/schema": "1.1.0",
-        "@appium/support": "7.1.1",
-        "@appium/types": "1.3.1",
         "@sidvind/better-ajv-errors": "5.0.0",
+        "@testspectra/base-driver": "10.4.0",
+        "@testspectra/base-plugin": "3.2.1",
+        "@testspectra/docutils": "2.3.1",
+        "@testspectra/logger": "2.0.7",
+        "@testspectra/schema": "1.1.0",
+        "@testspectra/support": "7.1.1",
+        "@testspectra/types": "1.3.1",
         "ajv": "8.18.0",
         "ajv-formats": "3.0.1",
         "argparse": "2.0.1",
@@ -140,12 +140,12 @@
       },
     },
     "packages/base-driver": {
-      "name": "@appium/base-driver",
+      "name": "@testspectra/base-driver",
       "version": "10.4.0",
       "dependencies": {
-        "@appium/support": "7.1.1",
-        "@appium/types": "1.3.1",
         "@colors/colors": "1.6.0",
+        "@testspectra/support": "7.1.1",
+        "@testspectra/types": "1.3.1",
         "async-lock": "1.4.1",
         "asyncbox": "6.1.0",
         "axios": "1.15.0",
@@ -167,22 +167,22 @@
       },
     },
     "packages/base-plugin": {
-      "name": "@appium/base-plugin",
+      "name": "@testspectra/base-plugin",
       "version": "3.2.1",
       "dependencies": {
-        "@appium/base-driver": "10.4.0",
-        "@appium/support": "7.1.1",
-        "@appium/types": "1.3.1",
+        "@testspectra/base-driver": "10.4.0",
+        "@testspectra/support": "7.1.1",
+        "@testspectra/types": "1.3.1",
       },
     },
     "packages/docutils": {
-      "name": "@appium/docutils",
+      "name": "@testspectra/docutils",
       "version": "2.3.1",
       "bin": {
         "appium-docs": "./bin/appium-docs.js",
       },
       "dependencies": {
-        "@appium/support": "7.1.1",
+        "@testspectra/support": "7.1.1",
         "consola": "3.4.2",
         "diff": "9.0.0",
         "lilconfig": "3.1.3",
@@ -197,7 +197,7 @@
       },
     },
     "packages/driver-test-support": {
-      "name": "@appium/driver-test-support",
+      "name": "@testspectra/driver-test-support",
       "version": "1.2.1",
       "dependencies": {
         "asyncbox": "6.1.0",
@@ -210,15 +210,15 @@
         "type-fest": "5.6.0",
       },
       "devDependencies": {
-        "@appium/types": "1.3.1",
+        "@testspectra/types": "1.3.1",
       },
       "peerDependencies": {
-        "appium": "^3.0.0-beta.0",
+        "@testspectra/appium": "^3.0.0-beta.0",
         "mocha": "*",
       },
     },
     "packages/eslint-config-appium-ts": {
-      "name": "@appium/eslint-config-appium-ts",
+      "name": "@testspectra/eslint-config-appium-ts",
       "version": "3.1.0",
       "dependencies": {
         "@eslint/compat": "2.0.5",
@@ -240,18 +240,18 @@
       },
     },
     "packages/execute-driver-plugin": {
-      "name": "@appium/execute-driver-plugin",
+      "name": "@testspectra/execute-driver-plugin",
       "version": "6.0.2",
       "dependencies": {
         "lodash": "4.18.1",
         "webdriverio": "9.27.0",
       },
       "peerDependencies": {
-        "appium": "^3.0.0-beta.0",
+        "@testspectra/appium": "^3.0.0-beta.0",
       },
     },
     "packages/fake-driver": {
-      "name": "@appium/fake-driver",
+      "name": "@testspectra/fake-driver",
       "version": "6.1.2",
       "dependencies": {
         "@xmldom/xmldom": "0.9.10",
@@ -260,42 +260,42 @@
         "xpath": "0.0.34",
       },
       "peerDependencies": {
-        "appium": "^3.0.0-beta.0",
+        "@testspectra/appium": "^3.0.0-beta.0",
       },
     },
     "packages/fake-plugin": {
-      "name": "@appium/fake-plugin",
+      "name": "@testspectra/fake-plugin",
       "version": "4.2.1",
       "dependencies": {
-        "@appium/base-plugin": "3.2.1",
-        "@appium/support": "7.1.1",
+        "@testspectra/base-plugin": "3.2.1",
+        "@testspectra/support": "7.1.1",
         "asyncbox": "6.1.0",
         "lodash": "4.18.1",
       },
       "devDependencies": {
-        "@appium/types": "1.3.1",
+        "@testspectra/types": "1.3.1",
         "express": "5.2.1",
       },
       "peerDependencies": {
-        "appium": "^3.0.0-beta.0",
+        "@testspectra/appium": "^3.0.0-beta.0",
       },
     },
     "packages/images-plugin": {
-      "name": "@appium/images-plugin",
+      "name": "@testspectra/images-plugin",
       "version": "4.2.1",
       "dependencies": {
-        "@appium/opencv": "4.1.3",
-        "@appium/support": "7.1.1",
+        "@testspectra/opencv": "4.1.3",
+        "@testspectra/support": "7.1.1",
         "lodash": "4.18.1",
         "lru-cache": "11.3.5",
         "sharp": "0.34.5",
       },
       "peerDependencies": {
-        "appium": "^3.0.0-beta.0",
+        "@testspectra/appium": "^3.0.0-beta.0",
       },
     },
     "packages/logger": {
-      "name": "@appium/logger",
+      "name": "@testspectra/logger",
       "version": "2.0.7",
       "dependencies": {
         "console-control-strings": "1.1.0",
@@ -305,7 +305,7 @@
       },
     },
     "packages/opencv": {
-      "name": "@appium/opencv",
+      "name": "@testspectra/opencv",
       "version": "4.1.3",
       "dependencies": {
         "lodash": "4.18.1",
@@ -314,7 +314,7 @@
       },
     },
     "packages/plugin-test-support": {
-      "name": "@appium/plugin-test-support",
+      "name": "@testspectra/plugin-test-support",
       "version": "1.2.1",
       "dependencies": {
         "get-port": "7.2.0",
@@ -322,38 +322,38 @@
         "teen_process": "4.1.2",
       },
       "devDependencies": {
-        "@appium/types": "1.3.1",
+        "@testspectra/types": "1.3.1",
       },
       "peerDependencies": {
-        "appium": "^3.0.0-beta.0",
+        "@testspectra/appium": "^3.0.0-beta.0",
         "mocha": "*",
       },
     },
     "packages/relaxed-caps-plugin": {
-      "name": "@appium/relaxed-caps-plugin",
+      "name": "@testspectra/relaxed-caps-plugin",
       "version": "2.2.1",
       "dependencies": {
         "lodash": "4.18.1",
       },
       "devDependencies": {
-        "@appium/types": "1.3.1",
+        "@testspectra/types": "1.3.1",
       },
       "peerDependencies": {
-        "appium": "^3.0.0-beta.0",
+        "@testspectra/appium": "^3.0.0-beta.0",
       },
     },
     "packages/schema": {
-      "name": "@appium/schema",
+      "name": "@testspectra/schema",
       "version": "1.1.0",
       "dependencies": {
         "json-schema": "0.4.0",
       },
     },
     "packages/storage-plugin": {
-      "name": "@appium/storage-plugin",
+      "name": "@testspectra/storage-plugin",
       "version": "1.1.1",
       "dependencies": {
-        "@appium/support": "7.1.1",
+        "@testspectra/support": "7.1.1",
         "async-lock": "1.4.1",
         "asyncbox": "6.1.0",
         "lodash": "4.18.1",
@@ -361,11 +361,11 @@
         "ws": "8.20.0",
       },
       "peerDependencies": {
-        "appium": "^3.0.0-beta.0",
+        "@testspectra/appium": "^3.0.0-beta.0",
       },
     },
     "packages/strongbox": {
-      "name": "@appium/strongbox",
+      "name": "@testspectra/strongbox",
       "version": "1.1.1",
       "dependencies": {
         "env-paths": "4.0.0",
@@ -373,13 +373,13 @@
       },
     },
     "packages/support": {
-      "name": "@appium/support",
+      "name": "@testspectra/support",
       "version": "7.1.1",
       "dependencies": {
-        "@appium/logger": "2.0.7",
-        "@appium/tsconfig": "1.1.2",
-        "@appium/types": "1.3.1",
         "@colors/colors": "1.6.0",
+        "@testspectra/logger": "2.0.7",
+        "@testspectra/tsconfig": "1.1.2",
+        "@testspectra/types": "1.3.1",
         "archiver": "7.0.1",
         "asyncbox": "6.1.0",
         "axios": "1.15.0",
@@ -416,15 +416,15 @@
       },
     },
     "packages/test-support": {
-      "name": "@appium/test-support",
+      "name": "@testspectra/test-support",
       "version": "4.1.1",
       "bin": {
         "android-emu-travis-post": "./bin/android-emu-travis-post.sh",
         "android-emu-travis-pre": "./bin/android-emu-travis-pre.sh",
       },
       "dependencies": {
-        "@appium/support": "7.1.1",
         "@colors/colors": "1.6.0",
+        "@testspectra/support": "7.1.1",
         "bluebird": "3.7.2",
         "lodash": "4.18.1",
         "loud-rejection": "2.2.0",
@@ -432,24 +432,24 @@
       },
     },
     "packages/tsconfig": {
-      "name": "@appium/tsconfig",
+      "name": "@testspectra/tsconfig",
       "version": "1.1.2",
       "dependencies": {
         "@tsconfig/node20": "20.1.9",
       },
     },
     "packages/types": {
-      "name": "@appium/types",
+      "name": "@testspectra/types",
       "version": "1.3.1",
       "dependencies": {
-        "@appium/logger": "2.0.7",
-        "@appium/schema": "1.1.0",
-        "@appium/tsconfig": "1.1.2",
+        "@testspectra/logger": "2.0.7",
+        "@testspectra/schema": "1.1.0",
+        "@testspectra/tsconfig": "1.1.2",
         "type-fest": "5.6.0",
       },
     },
     "packages/universal-xml-plugin": {
-      "name": "@appium/universal-xml-plugin",
+      "name": "@testspectra/universal-xml-plugin",
       "version": "2.1.2",
       "dependencies": {
         "@xmldom/xmldom": "0.9.10",
@@ -458,7 +458,7 @@
         "xpath": "0.0.34",
       },
       "peerDependencies": {
-        "appium": "^3.0.0-beta.0",
+        "@testspectra/appium": "^3.0.0-beta.0",
       },
     },
   },
@@ -468,48 +468,6 @@
   },
   "packages": {
     "@apidevtools/json-schema-ref-parser": ["@apidevtools/json-schema-ref-parser@11.9.3", "", { "dependencies": { "@jsdevtools/ono": "^7.1.3", "@types/json-schema": "^7.0.15", "js-yaml": "^4.1.0" } }, "sha512-60vepv88RwcJtSHrD6MjIL6Ta3SOYbgfnkHb+ppAVK+o9mXprRtulx7VlRl3lN3bbvysAfCS7WMVfhUYemB0IQ=="],
-
-    "@appium/base-driver": ["@appium/base-driver@workspace:packages/base-driver"],
-
-    "@appium/base-plugin": ["@appium/base-plugin@workspace:packages/base-plugin"],
-
-    "@appium/docutils": ["@appium/docutils@workspace:packages/docutils"],
-
-    "@appium/driver-test-support": ["@appium/driver-test-support@workspace:packages/driver-test-support"],
-
-    "@appium/eslint-config-appium-ts": ["@appium/eslint-config-appium-ts@workspace:packages/eslint-config-appium-ts"],
-
-    "@appium/execute-driver-plugin": ["@appium/execute-driver-plugin@workspace:packages/execute-driver-plugin"],
-
-    "@appium/fake-driver": ["@appium/fake-driver@workspace:packages/fake-driver"],
-
-    "@appium/fake-plugin": ["@appium/fake-plugin@workspace:packages/fake-plugin"],
-
-    "@appium/images-plugin": ["@appium/images-plugin@workspace:packages/images-plugin"],
-
-    "@appium/logger": ["@appium/logger@workspace:packages/logger"],
-
-    "@appium/opencv": ["@appium/opencv@workspace:packages/opencv"],
-
-    "@appium/plugin-test-support": ["@appium/plugin-test-support@workspace:packages/plugin-test-support"],
-
-    "@appium/relaxed-caps-plugin": ["@appium/relaxed-caps-plugin@workspace:packages/relaxed-caps-plugin"],
-
-    "@appium/schema": ["@appium/schema@workspace:packages/schema"],
-
-    "@appium/storage-plugin": ["@appium/storage-plugin@workspace:packages/storage-plugin"],
-
-    "@appium/strongbox": ["@appium/strongbox@workspace:packages/strongbox"],
-
-    "@appium/support": ["@appium/support@workspace:packages/support"],
-
-    "@appium/test-support": ["@appium/test-support@workspace:packages/test-support"],
-
-    "@appium/tsconfig": ["@appium/tsconfig@workspace:packages/tsconfig"],
-
-    "@appium/types": ["@appium/types@workspace:packages/types"],
-
-    "@appium/universal-xml-plugin": ["@appium/universal-xml-plugin@workspace:packages/universal-xml-plugin"],
 
     "@babel/code-frame": ["@babel/code-frame@7.29.0", "", { "dependencies": { "@babel/helper-validator-identifier": "^7.28.5", "js-tokens": "^4.0.0", "picocolors": "^1.1.1" } }, "sha512-9NhCeYjq9+3uxgdtp20LSiJXJvN0FeCtNGpJxuMFZ1Kv3cWUNb6DOhJwUvcVCzKGR66cw4njwM6hrJLqgOwbcw=="],
 
@@ -795,6 +753,50 @@
 
     "@stylistic/eslint-plugin": ["@stylistic/eslint-plugin@5.10.0", "", { "dependencies": { "@eslint-community/eslint-utils": "^4.9.1", "@typescript-eslint/types": "^8.56.0", "eslint-visitor-keys": "^4.2.1", "espree": "^10.4.0", "estraverse": "^5.3.0", "picomatch": "^4.0.3" }, "peerDependencies": { "eslint": "^9.0.0 || ^10.0.0" } }, "sha512-nPK52ZHvot8Ju/0A4ucSX1dcPV2/1clx0kLcH5wDmrE4naKso7TUC/voUyU1O9OTKTrR6MYip6LP0ogEMQ9jPQ=="],
 
+    "@testspectra/appium": ["@testspectra/appium@workspace:packages/appium"],
+
+    "@testspectra/base-driver": ["@testspectra/base-driver@workspace:packages/base-driver"],
+
+    "@testspectra/base-plugin": ["@testspectra/base-plugin@workspace:packages/base-plugin"],
+
+    "@testspectra/docutils": ["@testspectra/docutils@workspace:packages/docutils"],
+
+    "@testspectra/driver-test-support": ["@testspectra/driver-test-support@workspace:packages/driver-test-support"],
+
+    "@testspectra/eslint-config-appium-ts": ["@testspectra/eslint-config-appium-ts@workspace:packages/eslint-config-appium-ts"],
+
+    "@testspectra/execute-driver-plugin": ["@testspectra/execute-driver-plugin@workspace:packages/execute-driver-plugin"],
+
+    "@testspectra/fake-driver": ["@testspectra/fake-driver@workspace:packages/fake-driver"],
+
+    "@testspectra/fake-plugin": ["@testspectra/fake-plugin@workspace:packages/fake-plugin"],
+
+    "@testspectra/images-plugin": ["@testspectra/images-plugin@workspace:packages/images-plugin"],
+
+    "@testspectra/logger": ["@testspectra/logger@workspace:packages/logger"],
+
+    "@testspectra/opencv": ["@testspectra/opencv@workspace:packages/opencv"],
+
+    "@testspectra/plugin-test-support": ["@testspectra/plugin-test-support@workspace:packages/plugin-test-support"],
+
+    "@testspectra/relaxed-caps-plugin": ["@testspectra/relaxed-caps-plugin@workspace:packages/relaxed-caps-plugin"],
+
+    "@testspectra/schema": ["@testspectra/schema@workspace:packages/schema"],
+
+    "@testspectra/storage-plugin": ["@testspectra/storage-plugin@workspace:packages/storage-plugin"],
+
+    "@testspectra/strongbox": ["@testspectra/strongbox@workspace:packages/strongbox"],
+
+    "@testspectra/support": ["@testspectra/support@workspace:packages/support"],
+
+    "@testspectra/test-support": ["@testspectra/test-support@workspace:packages/test-support"],
+
+    "@testspectra/tsconfig": ["@testspectra/tsconfig@workspace:packages/tsconfig"],
+
+    "@testspectra/types": ["@testspectra/types@workspace:packages/types"],
+
+    "@testspectra/universal-xml-plugin": ["@testspectra/universal-xml-plugin@workspace:packages/universal-xml-plugin"],
+
     "@tootallnate/quickjs-emscripten": ["@tootallnate/quickjs-emscripten@0.23.0", "", {}, "sha512-C5Mc6rdnsaJDjO3UpGW/CQTHtCKaYlScZTly4JIu97Jxo/odCiH0ITnDXSJPTOrEKk/ycSZ0AOgTmkDtkOsvIA=="],
 
     "@tsconfig/node10": ["@tsconfig/node10@1.0.12", "", {}, "sha512-UCYBaeFvM11aU2y3YPZ//O5Rhj+xKyzy7mvcIoAjASbigy8mHMryP5cK7dgjlz2hWxh1g5pLw084E0a/wlUSFQ=="],
@@ -925,7 +927,7 @@
 
     "@typescript-eslint/type-utils": ["@typescript-eslint/type-utils@8.59.0", "", { "dependencies": { "@typescript-eslint/types": "8.59.0", "@typescript-eslint/typescript-estree": "8.59.0", "@typescript-eslint/utils": "8.59.0", "debug": "^4.4.3", "ts-api-utils": "^2.5.0" }, "peerDependencies": { "eslint": "^8.57.0 || ^9.0.0 || ^10.0.0", "typescript": ">=4.8.4 <6.1.0" } }, "sha512-3TRiZaQSltGqGeNrJzzr1+8YcEobKH9rHnqIp/1psfKFmhRQDNMGP5hBufanYTGznwShzVLs3Mz+gDN7HkWfXg=="],
 
-    "@typescript-eslint/types": ["@typescript-eslint/types@8.59.0", "", {}, "sha512-nLzdsT1gdOgFxxxwrlNVUBzSNBEEHJ86bblmk4QAS6stfig7rcJzWKqCyxFy3YRRHXDWEkb2NralA1nOYkkm/A=="],
+    "@typescript-eslint/types": ["@typescript-eslint/types@8.59.1", "", {}, "sha512-ZDCjgccSdYPw5Bxh+my4Z0lJU96ZDN7jbBzvmEn0FZx3RtU1C7VWl6NbDx94bwY3V5YsgwRzJPOgeY2Q/nLG8A=="],
 
     "@typescript-eslint/typescript-estree": ["@typescript-eslint/typescript-estree@8.59.0", "", { "dependencies": { "@typescript-eslint/project-service": "8.59.0", "@typescript-eslint/tsconfig-utils": "8.59.0", "@typescript-eslint/types": "8.59.0", "@typescript-eslint/visitor-keys": "8.59.0", "debug": "^4.4.3", "minimatch": "^10.2.2", "semver": "^7.7.3", "tinyglobby": "^0.2.15", "ts-api-utils": "^2.5.0" }, "peerDependencies": { "typescript": ">=4.8.4 <6.1.0" } }, "sha512-O9Re9P1BmBLFJyikRbQpLku/QA3/AueZNO9WePLBwQrvkixTmDe8u76B6CYUAITRl/rHawggEqUGn5QIkVRLMw=="],
 
@@ -1022,8 +1024,6 @@
     "ansi-regex": ["ansi-regex@5.0.1", "", {}, "sha512-quJQXlTSUGL2LH9SUXo8VwsY4soanhgo6LNSm84E1LBcE8s3O0wpdiRzyR9z/ZZJMlMWv37qOOb9pdJlMUEKFQ=="],
 
     "ansi-styles": ["ansi-styles@6.2.3", "", {}, "sha512-4Dj6M28JB+oAH8kFkTLUo+a2jwOFkuqb3yucU0CANcRRUbxS0cP0nZYCGjcc3BNXwRIsUVmDGgzawme7zvJHvg=="],
-
-    "appium": ["appium@workspace:packages/appium"],
 
     "aproba": ["aproba@2.0.0", "", {}, "sha512-lYe4Gx7QT+MKGbDsA+Z+he/Wtef0BiwDOlK/XkBrdfsh9J/jPPXbX0tE9x9cl27Tmu5gg3QUbUrQYa/y+KOHPQ=="],
 
@@ -1713,7 +1713,7 @@
 
     "inquirer": ["inquirer@12.9.6", "", { "dependencies": { "@inquirer/ansi": "^1.0.0", "@inquirer/core": "^10.2.2", "@inquirer/prompts": "^7.8.6", "@inquirer/type": "^3.0.8", "mute-stream": "^2.0.0", "run-async": "^4.0.5", "rxjs": "^7.8.2" }, "peerDependencies": { "@types/node": ">=18" }, "optionalPeers": ["@types/node"] }, "sha512-603xXOgyfxhuis4nfnWaZrMaotNT0Km9XwwBNWUKbIDqeCY89jGr2F9YPEMiNhU6XjIP4VoWISMBFfcc5NgrTw=="],
 
-    "ip-address": ["ip-address@10.1.0", "", {}, "sha512-XXADHxXmvT9+CRxhXg56LJovE+bmWnEWB78LB83VZTprKTmaC5QfruXocxzTZ2Kl0DNwKuBdlIhjL8LeY8Sf8Q=="],
+    "ip-address": ["ip-address@10.1.1", "", {}, "sha512-1FMu8/N15Ck1BL551Jf42NYIoin2unWjLQ2Fze/DXryJRl5twqtwNHlO39qERGbIOcKYWHdgRryhOC+NG4eaLw=="],
 
     "ipaddr.js": ["ipaddr.js@1.9.1", "", {}, "sha512-0KI/607xoxSToH7GjN1FfSbLoU0+btTicjsQSWQlh/hZykN8KpmMf7uYwPW3R+akZ6R/w18ZlXSHBYXiYUPO3g=="],
 
@@ -1757,7 +1757,7 @@
 
     "is-ssh": ["is-ssh@1.4.1", "", { "dependencies": { "protocols": "^2.0.1" } }, "sha512-JNeu1wQsHjyHgn9NcWTaXq6zWSR6hqE0++zhfZlkFBbScNkyvxCdeV8sRkSBaeLKxmbpR21brail63ACNxJ0Tg=="],
 
-    "is-stream": ["is-stream@4.0.1", "", {}, "sha512-Dnz92NInDqYckGEUJv689RbRiTSEHCQ7wOVeALbkOz999YpqT46yMRIGtSNl2iCL1waAZSx40+h59NV/EwzV/A=="],
+    "is-stream": ["is-stream@2.0.1", "", {}, "sha512-hFoiJiTl63nn+kstHGBtewWSKnQLpyb155KHheA1l39uvtO9nWIop1p3udqPcUd/xbF1VLMO4n7OI6p7RbngDg=="],
 
     "is-text-path": ["is-text-path@1.0.1", "", { "dependencies": { "text-extensions": "^1.0.0" } }, "sha512-xFuJpne9oFz5qDaodwmmG08e3CawH/2ZV8Qqza1Ko7Sk8POWbkRdwIoAWVhqvq0XeUzANEhKo2n0IXUGBm7A/w=="],
 
@@ -2637,12 +2637,6 @@
 
     "zod-validation-error": ["zod-validation-error@2.1.0", "", { "peerDependencies": { "zod": "^3.18.0" } }, "sha512-VJh93e2wb4c3tWtGgTa0OF/dTt/zoPCPzXq4V11ZjxmEAFaPi/Zss1xIZdEB5RD8GD00U0/iVXgqkF77RV7pdQ=="],
 
-    "@appium/base-driver/axios": ["axios@1.15.0", "", { "dependencies": { "follow-redirects": "^1.15.11", "form-data": "^4.0.5", "proxy-from-env": "^2.1.0" } }, "sha512-wWyJDlAatxk30ZJer+GeCWS209sA42X+N5jU2jy6oHTp7ufw8uzUTVFBX9+wTfAlhiJXGS0Bq7X6efruWjuK9Q=="],
-
-    "@appium/driver-test-support/axios": ["axios@1.15.0", "", { "dependencies": { "follow-redirects": "^1.15.11", "form-data": "^4.0.5", "proxy-from-env": "^2.1.0" } }, "sha512-wWyJDlAatxk30ZJer+GeCWS209sA42X+N5jU2jy6oHTp7ufw8uzUTVFBX9+wTfAlhiJXGS0Bq7X6efruWjuK9Q=="],
-
-    "@appium/support/axios": ["axios@1.15.0", "", { "dependencies": { "follow-redirects": "^1.15.11", "form-data": "^4.0.5", "proxy-from-env": "^2.1.0" } }, "sha512-wWyJDlAatxk30ZJer+GeCWS209sA42X+N5jU2jy6oHTp7ufw8uzUTVFBX9+wTfAlhiJXGS0Bq7X6efruWjuK9Q=="],
-
     "@eslint-community/eslint-utils/eslint-visitor-keys": ["eslint-visitor-keys@3.4.3", "", {}, "sha512-wpc+LXeiyiisxPlEkUzU6svyS1frIO3Mgxj1fdy7Pm8Ygzguax2N3Fa/D/ag1WqbOprdI+uY6wMUl8/a2G+iag=="],
 
     "@eslint/compat/@eslint/core": ["@eslint/core@1.2.1", "", { "dependencies": { "@types/json-schema": "^7.0.15" } }, "sha512-MwcE1P+AZ4C6DWlpin/OmOA54mmIZ/+xZuJiQd4SyB29oAJjN30UW9wkKNptW2ctp4cEsvhlLY/CsQ1uoHDloQ=="],
@@ -2699,13 +2693,35 @@
 
     "@sinonjs/samsam/type-detect": ["type-detect@4.1.0", "", {}, "sha512-Acylog8/luQ8L7il+geoSxhEkazvkslg7PSNKOX59mbB9cOveP5aq9h74Y7YU8yDpJwetzQQrfIwtf4Wp4LKcw=="],
 
+    "@testspectra/appium/axios": ["axios@1.15.0", "", { "dependencies": { "follow-redirects": "^1.15.11", "form-data": "^4.0.5", "proxy-from-env": "^2.1.0" } }, "sha512-wWyJDlAatxk30ZJer+GeCWS209sA42X+N5jU2jy6oHTp7ufw8uzUTVFBX9+wTfAlhiJXGS0Bq7X6efruWjuK9Q=="],
+
+    "@testspectra/appium/ora": ["ora@5.4.1", "", { "dependencies": { "bl": "^4.1.0", "chalk": "^4.1.0", "cli-cursor": "^3.1.0", "cli-spinners": "^2.5.0", "is-interactive": "^1.0.0", "is-unicode-supported": "^0.1.0", "log-symbols": "^4.1.0", "strip-ansi": "^6.0.0", "wcwidth": "^1.0.1" } }, "sha512-5b6Y85tPxZZ7QytO+BQzysW31HJku27cRIlkbAXaNx+BdcVi+LlRFmVXzeF6a7JCwJpyw5c4b+YSVImQIrBpuQ=="],
+
+    "@testspectra/base-driver/axios": ["axios@1.15.0", "", { "dependencies": { "follow-redirects": "^1.15.11", "form-data": "^4.0.5", "proxy-from-env": "^2.1.0" } }, "sha512-wWyJDlAatxk30ZJer+GeCWS209sA42X+N5jU2jy6oHTp7ufw8uzUTVFBX9+wTfAlhiJXGS0Bq7X6efruWjuK9Q=="],
+
+    "@testspectra/driver-test-support/axios": ["axios@1.15.0", "", { "dependencies": { "follow-redirects": "^1.15.11", "form-data": "^4.0.5", "proxy-from-env": "^2.1.0" } }, "sha512-wWyJDlAatxk30ZJer+GeCWS209sA42X+N5jU2jy6oHTp7ufw8uzUTVFBX9+wTfAlhiJXGS0Bq7X6efruWjuK9Q=="],
+
+    "@testspectra/support/axios": ["axios@1.15.0", "", { "dependencies": { "follow-redirects": "^1.15.11", "form-data": "^4.0.5", "proxy-from-env": "^2.1.0" } }, "sha512-wWyJDlAatxk30ZJer+GeCWS209sA42X+N5jU2jy6oHTp7ufw8uzUTVFBX9+wTfAlhiJXGS0Bq7X6efruWjuK9Q=="],
+
     "@tufjs/models/minimatch": ["minimatch@10.2.5", "", { "dependencies": { "brace-expansion": "^5.0.5" } }, "sha512-MULkVLfKGYDFYejP07QOurDLLQpcjk7Fw+7jXS2R2czRQzR56yHRveU5NDJEOviH+hETZKSkIk5c+T23GjFUMg=="],
 
     "@types/minimatch/minimatch": ["minimatch@10.2.5", "", { "dependencies": { "brace-expansion": "^5.0.5" } }, "sha512-MULkVLfKGYDFYejP07QOurDLLQpcjk7Fw+7jXS2R2czRQzR56yHRveU5NDJEOviH+hETZKSkIk5c+T23GjFUMg=="],
 
     "@typescript-eslint/eslint-plugin/ignore": ["ignore@7.0.5", "", {}, "sha512-Hs59xBNfUIunMFgWAbGX5cq6893IbWg4KnrjbYwX3tx0ztorVgTDA6B2sxf8ejHJ4wz8BqGUMYlnzNBer5NvGg=="],
 
+    "@typescript-eslint/parser/@typescript-eslint/types": ["@typescript-eslint/types@8.59.0", "", {}, "sha512-nLzdsT1gdOgFxxxwrlNVUBzSNBEEHJ86bblmk4QAS6stfig7rcJzWKqCyxFy3YRRHXDWEkb2NralA1nOYkkm/A=="],
+
+    "@typescript-eslint/scope-manager/@typescript-eslint/types": ["@typescript-eslint/types@8.59.0", "", {}, "sha512-nLzdsT1gdOgFxxxwrlNVUBzSNBEEHJ86bblmk4QAS6stfig7rcJzWKqCyxFy3YRRHXDWEkb2NralA1nOYkkm/A=="],
+
+    "@typescript-eslint/type-utils/@typescript-eslint/types": ["@typescript-eslint/types@8.59.0", "", {}, "sha512-nLzdsT1gdOgFxxxwrlNVUBzSNBEEHJ86bblmk4QAS6stfig7rcJzWKqCyxFy3YRRHXDWEkb2NralA1nOYkkm/A=="],
+
+    "@typescript-eslint/typescript-estree/@typescript-eslint/types": ["@typescript-eslint/types@8.59.0", "", {}, "sha512-nLzdsT1gdOgFxxxwrlNVUBzSNBEEHJ86bblmk4QAS6stfig7rcJzWKqCyxFy3YRRHXDWEkb2NralA1nOYkkm/A=="],
+
     "@typescript-eslint/typescript-estree/minimatch": ["minimatch@10.2.5", "", { "dependencies": { "brace-expansion": "^5.0.5" } }, "sha512-MULkVLfKGYDFYejP07QOurDLLQpcjk7Fw+7jXS2R2czRQzR56yHRveU5NDJEOviH+hETZKSkIk5c+T23GjFUMg=="],
+
+    "@typescript-eslint/utils/@typescript-eslint/types": ["@typescript-eslint/types@8.59.0", "", {}, "sha512-nLzdsT1gdOgFxxxwrlNVUBzSNBEEHJ86bblmk4QAS6stfig7rcJzWKqCyxFy3YRRHXDWEkb2NralA1nOYkkm/A=="],
+
+    "@typescript-eslint/visitor-keys/@typescript-eslint/types": ["@typescript-eslint/types@8.59.0", "", {}, "sha512-nLzdsT1gdOgFxxxwrlNVUBzSNBEEHJ86bblmk4QAS6stfig7rcJzWKqCyxFy3YRRHXDWEkb2NralA1nOYkkm/A=="],
 
     "@typescript-eslint/visitor-keys/eslint-visitor-keys": ["eslint-visitor-keys@5.0.1", "", {}, "sha512-tD40eHxA35h0PEIZNeIjkHoDR4YjjJp34biM0mDvplBe//mB+IHCqHDGV7pxF+7MklTvighcCPPZC7ynWyjdTA=="],
 
@@ -2727,15 +2743,9 @@
 
     "ansi-escapes/type-fest": ["type-fest@0.21.3", "", {}, "sha512-t0rzBq87m3fVcduHDUFhKmyyX+9eo6WQjZvf51Ea/M0Q7+T374Jp1aUiyUl0GKxp8M/OETVHSDvmkyPgvX+X2w=="],
 
-    "appium/axios": ["axios@1.15.0", "", { "dependencies": { "follow-redirects": "^1.15.11", "form-data": "^4.0.5", "proxy-from-env": "^2.1.0" } }, "sha512-wWyJDlAatxk30ZJer+GeCWS209sA42X+N5jU2jy6oHTp7ufw8uzUTVFBX9+wTfAlhiJXGS0Bq7X6efruWjuK9Q=="],
-
-    "appium/ora": ["ora@5.4.1", "", { "dependencies": { "bl": "^4.1.0", "chalk": "^4.1.0", "cli-cursor": "^3.1.0", "cli-spinners": "^2.5.0", "is-interactive": "^1.0.0", "is-unicode-supported": "^0.1.0", "log-symbols": "^4.1.0", "strip-ansi": "^6.0.0", "wcwidth": "^1.0.1" } }, "sha512-5b6Y85tPxZZ7QytO+BQzysW31HJku27cRIlkbAXaNx+BdcVi+LlRFmVXzeF6a7JCwJpyw5c4b+YSVImQIrBpuQ=="],
-
     "archiver/readable-stream": ["readable-stream@4.7.0", "", { "dependencies": { "abort-controller": "^3.0.0", "buffer": "^6.0.3", "events": "^3.3.0", "process": "^0.11.10", "string_decoder": "^1.3.0" } }, "sha512-oIGGmcpTLwPga8Bn6/Z75SVaH1z5dUut2ibSyAMVhmUggWpmDn2dapB0n7f8nwaSiRtepAsfJyfXIO5DCVAODg=="],
 
     "archiver-utils/glob": ["glob@10.5.0", "", { "dependencies": { "foreground-child": "^3.1.0", "jackspeak": "^3.1.2", "minimatch": "^9.0.4", "minipass": "^7.1.2", "package-json-from-dist": "^1.0.0", "path-scurry": "^1.11.1" }, "bin": { "glob": "dist/esm/bin.mjs" } }, "sha512-DfXN8DfhJ7NH3Oe7cFmu3NCu1wKbkReJ8TorzSAFbSKrlNaQSKfIzqYqVY8zlbs2NLBbWpRiU52GX2PbaBVNkg=="],
-
-    "archiver-utils/is-stream": ["is-stream@2.0.1", "", {}, "sha512-hFoiJiTl63nn+kstHGBtewWSKnQLpyb155KHheA1l39uvtO9nWIop1p3udqPcUd/xbF1VLMO4n7OI6p7RbngDg=="],
 
     "archiver-utils/readable-stream": ["readable-stream@4.7.0", "", { "dependencies": { "abort-controller": "^3.0.0", "buffer": "^6.0.3", "events": "^3.3.0", "process": "^0.11.10", "string_decoder": "^1.3.0" } }, "sha512-oIGGmcpTLwPga8Bn6/Z75SVaH1z5dUut2ibSyAMVhmUggWpmDn2dapB0n7f8nwaSiRtepAsfJyfXIO5DCVAODg=="],
 
@@ -2780,8 +2790,6 @@
     "color/color-convert": ["color-convert@3.1.3", "", { "dependencies": { "color-name": "^2.0.0" } }, "sha512-fasDH2ont2GqF5HpyO4w0+BcewlhHEZOFn9c1ckZdHpJ56Qb7MHhH/IcJZbBGgvdtwdwNbLvxiBEdg336iA9Sg=="],
 
     "color-string/color-name": ["color-name@2.1.0", "", {}, "sha512-1bPaDNFm0axzE4MEAzKPuqKWeRaT43U/hyxKPBdqTfmPF+d6n7FSoTFxLVULUJOmiLp01KjhIPPH+HrXZJN4Rg=="],
-
-    "compress-commons/is-stream": ["is-stream@2.0.1", "", {}, "sha512-hFoiJiTl63nn+kstHGBtewWSKnQLpyb155KHheA1l39uvtO9nWIop1p3udqPcUd/xbF1VLMO4n7OI6p7RbngDg=="],
 
     "compress-commons/readable-stream": ["readable-stream@4.7.0", "", { "dependencies": { "abort-controller": "^3.0.0", "buffer": "^6.0.3", "events": "^3.3.0", "process": "^0.11.10", "string_decoder": "^1.3.0" } }, "sha512-oIGGmcpTLwPga8Bn6/Z75SVaH1z5dUut2ibSyAMVhmUggWpmDn2dapB0n7f8nwaSiRtepAsfJyfXIO5DCVAODg=="],
 
@@ -2843,8 +2851,6 @@
 
     "execa/get-stream": ["get-stream@6.0.0", "", {}, "sha512-A1B3Bh1UmL0bidM/YX2NsCOTnGJePL9rO/M+Mw3m9f2gUpfokS0hi5Eah0WSUEWZdZhIZtMjkIYS7mDfOqNHbg=="],
 
-    "execa/is-stream": ["is-stream@2.0.1", "", {}, "sha512-hFoiJiTl63nn+kstHGBtewWSKnQLpyb155KHheA1l39uvtO9nWIop1p3udqPcUd/xbF1VLMO4n7OI6p7RbngDg=="],
-
     "extract-zip/get-stream": ["get-stream@5.2.0", "", { "dependencies": { "pump": "^3.0.0" } }, "sha512-nBF+F1rAZVCu/p7rjzgA+Yb4lfYXrpl7a6VmJrU8wF9I1CKvP/QwPNZHnOlwbTkY6dvtFIzFMSyQXbLoTQPRpA=="],
 
     "extract-zip/yauzl": ["yauzl@2.10.0", "", { "dependencies": { "buffer-crc32": "~0.2.3", "fd-slicer": "~1.1.0" } }, "sha512-p4a9I6X6nu6IhoGmBqAcbJy1mlC4j27vEPZX9F4L4/vZT3Lyq1VkFHw/V/PUcB9Buo+DG3iHkT0x3Qya58zc3g=="],
@@ -2864,6 +2870,8 @@
     "get-pkg-repo/hosted-git-info": ["hosted-git-info@4.1.0", "", { "dependencies": { "lru-cache": "^6.0.0" } }, "sha512-kyCuEOWjJqZuDbRHzL8V93NzQhwIB71oFWSyzVo+KPZI+pnQPPxucdkrOZvkLRnrf5URsQM+IJ09Dw29cRALIA=="],
 
     "get-pkg-repo/yargs": ["yargs@16.2.0", "", { "dependencies": { "cliui": "^7.0.2", "escalade": "^3.1.1", "get-caller-file": "^2.0.5", "require-directory": "^2.1.1", "string-width": "^4.2.0", "y18n": "^5.0.5", "yargs-parser": "^20.2.2" } }, "sha512-D1mvvtDG0L5ft/jGWkLpG1+m0eQxOfaBvTNELraWj22wSVUMWxZUvYgJYcKh6jGGIkJFhH4IZPQhR4TKpc8mBw=="],
+
+    "get-stream/is-stream": ["is-stream@4.0.1", "", {}, "sha512-Dnz92NInDqYckGEUJv689RbRiTSEHCQ7wOVeALbkOz999YpqT46yMRIGtSNl2iCL1waAZSx40+h59NV/EwzV/A=="],
 
     "git-raw-commits/meow": ["meow@8.1.2", "", { "dependencies": { "@types/minimist": "^1.2.0", "camelcase-keys": "^6.2.2", "decamelize-keys": "^1.1.0", "hard-rejection": "^2.1.0", "minimist-options": "4.1.0", "normalize-package-data": "^3.0.0", "read-pkg-up": "^7.0.1", "redent": "^3.0.0", "trim-newlines": "^3.0.0", "type-fest": "^0.18.0", "yargs-parser": "^20.2.3" } }, "sha512-r85E3NdZ+mpYk1C6RjPFEMSE+s1iZMuHtsHAqY0DT3jZczl0diWUZ8g6oU7h0M9cD2EL+PzaYghhCLzR0ZNn5Q=="],
 
@@ -3159,8 +3167,6 @@
 
     "whatwg-encoding/iconv-lite": ["iconv-lite@0.6.3", "", { "dependencies": { "safer-buffer": ">= 2.1.2 < 3.0.0" } }, "sha512-4fCk79wshMdzMp2rH06qWrJE4iolqLhCUH+OiuIgU++RB0+94NlDL81atO7GX55uUKueo0txHNtvEyI6D7WdMw=="],
 
-    "winston/is-stream": ["is-stream@2.0.1", "", {}, "sha512-hFoiJiTl63nn+kstHGBtewWSKnQLpyb155KHheA1l39uvtO9nWIop1p3udqPcUd/xbF1VLMO4n7OI6p7RbngDg=="],
-
     "wrap-ansi/ansi-styles": ["ansi-styles@4.3.0", "", { "dependencies": { "color-convert": "^2.0.1" } }, "sha512-zbB9rCJAT1rbjiVDb2hqKFHNYLxgtk8NURxZ3IZwD3F6NtxbXZQCnnSi1Lkx+IDohdPlFp222wVALIheZJQSEg=="],
 
     "wrap-ansi-cjs/ansi-styles": ["ansi-styles@4.3.0", "", { "dependencies": { "color-convert": "^2.0.1" } }, "sha512-zbB9rCJAT1rbjiVDb2hqKFHNYLxgtk8NURxZ3IZwD3F6NtxbXZQCnnSi1Lkx+IDohdPlFp222wVALIheZJQSEg=="],
@@ -3217,6 +3223,16 @@
 
     "@sigstore/sign/make-fetch-happen/ssri": ["ssri@13.0.1", "", { "dependencies": { "minipass": "^7.0.3" } }, "sha512-QUiRf1+u9wPTL/76GTYlKttDEBWV1ga9ZXW8BG6kfdeyyM8LGPix9gROyg9V2+P0xNyF3X2Go526xKFdMZrHSQ=="],
 
+    "@testspectra/appium/ora/cli-cursor": ["cli-cursor@3.1.0", "", { "dependencies": { "restore-cursor": "^3.1.0" } }, "sha512-I/zHAwsKf9FqGoXM4WWRACob9+SNukZTd94DWF57E4toouRulbCxcUh6RKUEOQlYTHJnzkPMySvPNaaSLNfLZw=="],
+
+    "@testspectra/appium/ora/cli-spinners": ["cli-spinners@2.9.2", "", {}, "sha512-ywqV+5MmyL4E7ybXgKys4DugZbX0FC6LnwrhjuykIjnK9k8OQacQ7axGKnjDXWNhns0xot3bZI5h55H8yo9cJg=="],
+
+    "@testspectra/appium/ora/is-interactive": ["is-interactive@1.0.0", "", {}, "sha512-2HvIEKRoqS62guEC+qBjpvRubdX910WCMuJTZ+I9yvqKU2/12eSL549HMwtabb4oupdj2sMP50k+XJfB/8JE6w=="],
+
+    "@testspectra/appium/ora/is-unicode-supported": ["is-unicode-supported@0.1.0", "", {}, "sha512-knxG2q4UC3u8stRGyAVJCOdxFmv5DZiRcdlIaAQXAbSfJya+OhopNotLQrstBhququ4ZpuKbDc/8S6mgXgPFPw=="],
+
+    "@testspectra/appium/ora/log-symbols": ["log-symbols@4.1.0", "", { "dependencies": { "chalk": "^4.1.0", "is-unicode-supported": "^0.1.0" } }, "sha512-8XPvpAA8uyhfteu8pIvQxpJZ7SYYdpUivZpGy6sFsBuKRY/7rQGavedeB8aK+Zkyq6upMFVL/9AW6vOYzfRyLg=="],
+
     "@tufjs/models/minimatch/brace-expansion": ["brace-expansion@5.0.5", "", { "dependencies": { "balanced-match": "^4.0.2" } }, "sha512-VZznLgtwhn+Mact9tfiwx64fA9erHH/MCXEUfB/0bX/6Fz6ny5EGTXYltMocqg4xFAQZtnO3DHWWXi8RiuN7cQ=="],
 
     "@types/minimatch/minimatch/brace-expansion": ["brace-expansion@5.0.5", "", { "dependencies": { "balanced-match": "^4.0.2" } }, "sha512-VZznLgtwhn+Mact9tfiwx64fA9erHH/MCXEUfB/0bX/6Fz6ny5EGTXYltMocqg4xFAQZtnO3DHWWXi8RiuN7cQ=="],
@@ -3238,16 +3254,6 @@
     "@wdio/repl/@types/node/undici-types": ["undici-types@6.21.0", "", {}, "sha512-iwDZqg0QAGrg9Rav5H4n0M64c3mkR59cJ6wQp+7C4nI0gsmExaedaYLNO44eT4AtBBwjbTiGPMlt2Md0T9H9JQ=="],
 
     "@wdio/types/@types/node/undici-types": ["undici-types@6.21.0", "", {}, "sha512-iwDZqg0QAGrg9Rav5H4n0M64c3mkR59cJ6wQp+7C4nI0gsmExaedaYLNO44eT4AtBBwjbTiGPMlt2Md0T9H9JQ=="],
-
-    "appium/ora/cli-cursor": ["cli-cursor@3.1.0", "", { "dependencies": { "restore-cursor": "^3.1.0" } }, "sha512-I/zHAwsKf9FqGoXM4WWRACob9+SNukZTd94DWF57E4toouRulbCxcUh6RKUEOQlYTHJnzkPMySvPNaaSLNfLZw=="],
-
-    "appium/ora/cli-spinners": ["cli-spinners@2.9.2", "", {}, "sha512-ywqV+5MmyL4E7ybXgKys4DugZbX0FC6LnwrhjuykIjnK9k8OQacQ7axGKnjDXWNhns0xot3bZI5h55H8yo9cJg=="],
-
-    "appium/ora/is-interactive": ["is-interactive@1.0.0", "", {}, "sha512-2HvIEKRoqS62guEC+qBjpvRubdX910WCMuJTZ+I9yvqKU2/12eSL549HMwtabb4oupdj2sMP50k+XJfB/8JE6w=="],
-
-    "appium/ora/is-unicode-supported": ["is-unicode-supported@0.1.0", "", {}, "sha512-knxG2q4UC3u8stRGyAVJCOdxFmv5DZiRcdlIaAQXAbSfJya+OhopNotLQrstBhququ4ZpuKbDc/8S6mgXgPFPw=="],
-
-    "appium/ora/log-symbols": ["log-symbols@4.1.0", "", { "dependencies": { "chalk": "^4.1.0", "is-unicode-supported": "^0.1.0" } }, "sha512-8XPvpAA8uyhfteu8pIvQxpJZ7SYYdpUivZpGy6sFsBuKRY/7rQGavedeB8aK+Zkyq6upMFVL/9AW6vOYzfRyLg=="],
 
     "archiver-utils/glob/jackspeak": ["jackspeak@3.4.3", "", { "dependencies": { "@isaacs/cliui": "^8.0.2" }, "optionalDependencies": { "@pkgjs/parseargs": "^0.11.0" } }, "sha512-OGlZQpz2yfahA/Rd1Y8Cd9SIEsqvXkLVoSw/cgwhnhFMDbsQFeZYoJJ7bIZBS9BcamUW96asq/npPWugM+RQBw=="],
 
@@ -3378,8 +3384,6 @@
     "midnight-smoker/debug/ms": ["ms@2.1.2", "", {}, "sha512-sGkPx+VjMtmA6MX27oA4FBFELFCZZ4S4XqeGOXCv68tT+jb3vk/RyaKWP0PTKyWtmLSM0b+adUTEvbs1PEaH2w=="],
 
     "midnight-smoker/execa/get-stream": ["get-stream@6.0.0", "", {}, "sha512-A1B3Bh1UmL0bidM/YX2NsCOTnGJePL9rO/M+Mw3m9f2gUpfokS0hi5Eah0WSUEWZdZhIZtMjkIYS7mDfOqNHbg=="],
-
-    "midnight-smoker/execa/is-stream": ["is-stream@2.0.1", "", {}, "sha512-hFoiJiTl63nn+kstHGBtewWSKnQLpyb155KHheA1l39uvtO9nWIop1p3udqPcUd/xbF1VLMO4n7OI6p7RbngDg=="],
 
     "midnight-smoker/glob/minimatch": ["minimatch@9.0.9", "", { "dependencies": { "brace-expansion": "^2.0.2" } }, "sha512-OBwBN9AL4dqmETlpS2zasx+vTeWclWzkblfZk7KTA5j3jeOONz/tRCnZomUyvNg83wL5Zv9Ss6HMJXAgL8R2Yg=="],
 

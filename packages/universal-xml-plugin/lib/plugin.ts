@@ -1,5 +1,5 @@
-import {BasePlugin} from 'appium/plugin';
-import {errors} from 'appium/driver';
+import {BasePlugin} from '@testspectra/appium/plugin';
+import {errors} from '@testspectra/appium/driver';
 import {transformSourceXml} from './source';
 import {transformQuery} from './xpath';
 import type {ExternalDriver, NextPluginCallback, Element} from '@testspectra/types';

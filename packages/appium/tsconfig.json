@@ -11,7 +11,7 @@
       "@testspectra/types": ["../types"],
       "@testspectra/schema": ["../schema"],
       "appium": ["."],
-      "appium/types": ["./types"]
+      "@testspectra/appium/types": ["./types"]
     },
     "checkJs": true,
     "types": ["mocha", "chai", "chai-as-promised", "node", "bun"]

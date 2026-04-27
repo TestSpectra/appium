@@ -1,6 +1,6 @@
 import _ from 'lodash';
 import type {PluginType} from '@testspectra/types';
-import type {ExtManifest, ExtName, ExtRecord} from 'appium/types';
+import type {ExtManifest, ExtName, ExtRecord} from '@testspectra/appium/types';
 import {PLUGIN_TYPE} from '../constants';
 import {log} from '../logger';
 import {ExtensionConfig} from './extension-config';

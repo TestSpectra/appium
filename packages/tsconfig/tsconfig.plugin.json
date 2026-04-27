@@ -2,7 +2,7 @@
   "compilerOptions": {
     "paths": {
       "appium": ["../packages/appium"],
-      "appium/plugin": ["../packages/appium/plugin"],
+      "@testspectra/appium/plugin": ["../packages/appium/plugin"],
       "@testspectra/plugin-test-support": ["../packages/plugin-test-support"]
     },
     "types": ["webdriverio"]

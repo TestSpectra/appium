@@ -1,4 +1,4 @@
-import type {ManifestDataVersions} from 'appium/types';
+import type {ManifestDataVersions} from '@testspectra/appium/types';
 import {CURRENT_SCHEMA_REV, DRIVER_TYPE, PLUGIN_TYPE} from '../constants';
 import {log} from '../logger';
 import type {Manifest} from './manifest';

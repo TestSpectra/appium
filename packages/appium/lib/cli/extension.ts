@@ -1,6 +1,6 @@
 /* eslint-disable no-console */
 import type {Class, DriverType, ExtensionType, PluginType} from '@testspectra/types';
-import type {Args, CliExtensionCommand, CliExtensionSubcommand} from 'appium/types';
+import type {Args, CliExtensionCommand, CliExtensionSubcommand} from '@testspectra/appium/types';
 import type {ExtensionConfig} from '../extension/extension-config';
 import {DRIVER_TYPE, PLUGIN_TYPE} from '../constants';
 import {isExtensionCommandArgs} from '../schema/cli-args-guards';

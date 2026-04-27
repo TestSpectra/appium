@@ -8,7 +8,7 @@ import type {
   CliExtensionCommand,
   CliExtensionSubcommand,
   CliCommandSetupSubcommand,
-} from 'appium/types';
+} from '@testspectra/appium/types';
 import {SERVER_SUBCOMMAND, DRIVER_TYPE, PLUGIN_TYPE, SETUP_SUBCOMMAND} from '../constants';
 
 type AnyArgs = Args<CliCommand, CliExtensionSubcommand | CliCommandSetupSubcommand | void>;

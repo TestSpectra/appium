@@ -1,6 +1,6 @@
 /* eslint-disable no-console */
 import {createRequire} from 'node:module';
-import {fs} from 'appium/support';
+import {fs} from '@testspectra/appium/support';
 import {main as appiumServer} from '@testspectra/appium';
 import getPort from 'get-port';
 import logSymbols from 'log-symbols';

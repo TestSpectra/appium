@@ -2,7 +2,7 @@ import chai from 'chai';
 import chaiAsPromised from 'chai-as-promised';
 import {promises as fs} from 'node:fs';
 import type {DriverType, ExtensionType} from '@testspectra/types';
-import type {ExtManifest} from 'appium/types';
+import type {ExtManifest} from '@testspectra/appium/types';
 import type {SinonSandbox} from 'sinon';
 import type {DriverConfig} from '../../../lib/extension/driver-config';
 import {Manifest} from '../../../lib/extension/manifest';

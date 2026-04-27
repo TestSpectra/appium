@@ -94,8 +94,8 @@ from `appium/driver`, so you can use one of these styles to import it and create
 that extends it:
 
 ```js
-import {BaseDriver} from 'appium/driver';
-// or: const {BaseDriver} = require('appium/driver');
+import {BaseDriver} from '@testspectra/appium/driver';
+// or: const {BaseDriver} = require('@testspectra/appium/driver');
 
 export class MyDriver extends BaseDriver {
 }
@@ -353,7 +353,7 @@ And you need to return one of the following:
 Note that you can import that W3C web element identifier from `appium/support`:
 
 ```js
-import {util} from 'appium/support';
+import {util} from '@testspectra/appium/support';
 const { W3C_WEB_ELEMENT_IDENTIFIER } = util;
 ```
 
@@ -387,7 +387,7 @@ appropriate error from inside a command, and it will do the right thing in terms
 response to the user. To get access to these error classes, import them from `appium/driver`:
 
 ```
-import {errors} from 'appium/driver';
+import {errors} from '@testspectra/appium/driver';
 
 throw new errors.NoSuchElementError();
 ```
@@ -400,7 +400,7 @@ levels). If you want to create an Appium logger outside of a driver context (say
 helper file), you can always construct your own too:
 
 ```js
-import {logging} from 'appium/support';
+import {logging} from '@testspectra/appium/support';
 const log = logging.getLogger('MyDriver');
 ```
 
@@ -525,7 +525,7 @@ implementation of the protocol). You'll want to create a `JWProxy` object using 
 connect to the remote server:
 
 ```js
-// import {JWProxy} from 'appium/driver';
+// import {JWProxy} from '@testspectra/appium/driver';
 
 const proxy = new JWProxy({
     server: 'remote.server',
@@ -742,7 +742,7 @@ To support settings in your own driver, first of all define `this.settings` to b
 the appropriate class, in your constructor:
 
 ```js
-// import {DeviceSettings} from 'appium/driver';
+// import {DeviceSettings} from '@testspectra/appium/driver';
 
 this.settings = new DeviceSettings();
 ```

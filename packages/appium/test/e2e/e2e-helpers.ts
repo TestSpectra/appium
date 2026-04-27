@@ -8,7 +8,7 @@ import path from 'node:path';
 import {exec} from 'teen_process';
 import type {ExecError} from 'teen_process';
 import type {DriverType, PluginType} from '@testspectra/types';
-import type {CliExtensionSubcommand, ExtRecord} from 'appium/types';
+import type {CliExtensionSubcommand, ExtRecord} from '@testspectra/appium/types';
 import {APPIUM_ROOT, resolveFixture} from '../helpers';
 
 export const EXECUTABLE = path.join(APPIUM_ROOT, 'build', 'lib', 'main.js');

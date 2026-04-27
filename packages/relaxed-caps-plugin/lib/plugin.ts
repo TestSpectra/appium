@@ -1,6 +1,6 @@
 import _ from 'lodash';
-import {BasePlugin} from 'appium/plugin';
-import {isStandardCap} from 'appium/driver';
+import {BasePlugin} from '@testspectra/appium/plugin';
+import {isStandardCap} from '@testspectra/appium/driver';
 import type {CapsRecord, W3CCapsLike} from './types';
 
 const VENDOR_PREFIX = 'appium';

@@ -28,7 +28,7 @@ import type {
   CliCommandSetupSubcommand,
   CliExtensionSubcommand,
   ParsedArgs,
-} from 'appium/types';
+} from '@testspectra/appium/types';
 import {determineAppiumHomeSource, preflightChecks} from './main-helpers';
 import type {InitResult, PreConfigArgs} from './init-types';
 

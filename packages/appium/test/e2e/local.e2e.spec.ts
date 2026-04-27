@@ -8,7 +8,7 @@ import {
   EXT_SUBCOMMAND_LIST as LIST,
   PKG_HASHFILE_RELATIVE_PATH,
 } from '../../lib/constants';
-import type {ManifestData} from 'appium/types';
+import type {ManifestData} from '@testspectra/appium/types';
 import {FAKE_DRIVER_DIR, resolveFixture} from '../helpers';
 import {installLocalExtension, runAppiumJson} from './e2e-helpers';
 import chai from 'chai';

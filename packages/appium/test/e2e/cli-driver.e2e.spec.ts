@@ -13,7 +13,7 @@ import {
   KNOWN_DRIVERS,
 } from '../../lib/constants';
 import type {DriverType} from '@testspectra/types';
-import type {ExtRecord} from 'appium/types';
+import type {ExtRecord} from '@testspectra/appium/types';
 import {FAKE_DRIVER_DIR, resolveFixture} from '../helpers';
 import {installLocalExtension, runAppiumJson, runAppiumRaw} from './e2e-helpers';
 import chai from 'chai';

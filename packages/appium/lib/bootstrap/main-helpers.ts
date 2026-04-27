@@ -17,7 +17,7 @@ import {getNonDefaultServerArgs} from './startup-config';
 import {validate as validateSchema} from '../schema/schema';
 import {fetchInterfaces, V4_BROADCAST_IP, isBroadcastIp} from '../helpers/network';
 import {LONG_STACKTRACE_LIMIT, BIDI_BASE_PATH} from '../constants';
-import type {Args, ParsedArgs, CliCommandServer} from 'appium/types';
+import type {Args, ParsedArgs, CliCommandServer} from '@testspectra/appium/types';
 import type {DriverNameMap, PluginNameMap} from '../extension';
 
 const isStdoutTTY = process.stdout.isTTY;
@@ -66,7 +66,7 @@ export function determineAppiumHomeSource(appiumHomeFromArgs?: string | null): s
  */
 export function logServerAddress(url: string): void {
   const urlObj = new URL(url);
-  logger.info(`Appium REST http interface listener started on ${url}`);
+  logger.info(`TestSpectra Appium REST http interface listener started on ${url}`);
   if (!isBroadcastIp(urlObj.hostname)) {
     return;
   }
@@ -123,7 +123,7 @@ export async function preflightChecks(
  * Prints welcome line (version + optional git rev), non-default server args, and default capabilities.
  */
 export async function logStartupInfo(args: ParsedArgs<CliCommandServer>): Promise<void> {
-  let welcome = `Welcome to Appium v${APPIUM_VER}`;
+  let welcome = `Welcome to TestSpectra Appium v${APPIUM_VER}`;
   const appiumRev = await getGitRev();
   if (appiumRev) {
     welcome += ` (REV ${appiumRev})`;
@@ -192,7 +192,7 @@ export function buildServerOpts(
 }
 
 /**
- * Creates the Appium HTTP server and attaches WebSocket handlers for BiDi under the normalized base path.
+ * Creates the TestSpectra Appium HTTP server and attaches WebSocket handlers for BiDi under the normalized base path.
  */
 export async function createAppiumServer(
   serverOpts: ServerOpts,

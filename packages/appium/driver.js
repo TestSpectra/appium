@@ -7,7 +7,7 @@
  *
  * @see https://npm.im/@testspectra/base-driver
  * @example
- * const { BaseDriver, errors } = require('appium/driver');
+ * const { BaseDriver, errors } = require('@testspectra/appium/driver');
  */
 
 /** @type {import('@testspectra/base-driver')} */

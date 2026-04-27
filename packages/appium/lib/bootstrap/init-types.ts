@@ -6,7 +6,7 @@ import type {
   CliCommandSetupSubcommand,
   CliExtensionSubcommand,
   ParsedArgs,
-} from 'appium/types';
+} from '@testspectra/appium/types';
 import type {ExtensionConfigs} from '../extension';
 
 /** Empty object returned when `init` completes for non-server CLI flows (extension/setup). */

@@ -1,5 +1,5 @@
 import type {FakeDriver} from '../driver';
-import {errors} from 'appium/driver';
+import {errors} from '@testspectra/appium/driver';
 
 /** Throw if an alert is currently open (blocks other commands). */
 export function assertNoAlert(this: FakeDriver): void {

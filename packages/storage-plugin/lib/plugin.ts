@@ -1,4 +1,4 @@
-import { BasePlugin } from 'appium/plugin';
+import { BasePlugin } from '@testspectra/appium/plugin';
 import { requireValidItemOptions, Storage, StorageArgumentError } from './storage';
 import _ from 'lodash';
 import { tempDir, fs, logger } from '@testspectra/support';
@@ -8,7 +8,7 @@ import type {AppiumServer} from '@testspectra/types';
 import { LRUCache } from 'lru-cache';
 import WebSocket from 'ws';
 import { EventEmitter } from 'node:stream';
-import { getResponseForW3CError } from 'appium/driver';
+import { getResponseForW3CError } from '@testspectra/appium/driver';
 
 const log = logger.getLogger('StoragePlugin');
 

@@ -1,7 +1,7 @@
 /* eslint-disable no-console */
 import _ from 'lodash';
 import {getDefaultsForSchema, getAllArgSpecs} from '../schema/schema';
-import type {Args} from 'appium/types';
+import type {Args} from '@testspectra/appium/types';
 import type {ReadConfigFileResult} from './config-file';
 
 interface FlattenedArg {

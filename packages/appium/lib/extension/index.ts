@@ -1,7 +1,7 @@
 import _ from 'lodash';
 import B from 'bluebird';
 import type {DriverClass, ExtensionType, PluginClass} from '@testspectra/types';
-import type {ExtClass} from 'appium/types';
+import type {ExtClass} from '@testspectra/appium/types';
 import {USE_ALL_PLUGINS} from '../constants';
 import {log} from '../logger';
 import {DriverConfig} from './driver-config';

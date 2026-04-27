@@ -1,5 +1,5 @@
 import type {ExtensionType} from '@testspectra/types';
-import type {ExtClass, ExtManifest, ExtName, ExtRecord, InstallType} from 'appium/types';
+import type {ExtClass, ExtManifest, ExtName, ExtRecord, InstallType} from '@testspectra/appium/types';
 import type {SchemaObject} from 'ajv';
 import {util, fs, system} from '@testspectra/support';
 import B from 'bluebird';

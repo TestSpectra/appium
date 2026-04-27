@@ -70,7 +70,7 @@ jobs:
             package_json="${package_dir}package.json"
             if [[ -f "$package_json" ]]; then
               # Check if package.json has test:e2e script and it's not a no-op
-              has_e2e=$(node -e "
+              has_e2e=$(bun -e "
                 try {
                   const pkg = require('./$package_json');
                   const script = pkg.scripts && pkg.scripts['test:e2e'];
@@ -118,7 +118,7 @@ jobs:
           install-command: npm ci --foreground-scripts
           run-build: 'true'
       - name: Run smoke tests
-        run: npm run test:smoke
+        run: bun run test:smoke
 
   test-unit:
     needs:
@@ -134,10 +134,10 @@ jobs:
         uses: ./.github/actions/setup-build
         with:
           node-version: ${{ matrix.node-version }}
-          install-command: npm ci --foreground-scripts
+          install-command: bun install --frozen-lockfile
           run-build: 'true'
       - name: Run unit tests
-        run: npm run test:unit
+        run: bun run test:unit
 
   test-types:
     needs:
@@ -153,10 +153,10 @@ jobs:
         uses: ./.github/actions/setup-build
         with:
           node-version: ${{ matrix.node-version }}
-          install-command: npm ci --foreground-scripts
+          install-command: bun install --frozen-lockfile
           run-build: 'true'
       - name: Run type tests
-        run: npm run test:types
+        run: bun run test:types
 
   test-e2e:
     needs:
@@ -176,13 +176,13 @@ jobs:
         uses: ./.github/actions/setup-build
         with:
           node-version: ${{ matrix.node-version }}
-          install-command: npm ci --foreground-scripts
+          install-command: bun install --frozen-lockfile
           run-build: 'true'
       - name: Run E2E tests for ${{ matrix.package_dir }}
         run: |
           set -o pipefail
           cd "packages/${{ matrix.package_dir }}"
-          npm run test:e2e
+          bun run test:e2e
 
   lint:
     name: Lint
@@ -193,7 +193,7 @@ jobs:
         uses: ./.github/actions/setup-build
         with:
           node-version: lts/*
-          install-command: npm ci
+          install-command: bun install --frozen-lockfile
           run-build: 'false'
       - name: ESLint
-        run: npm run lint:ci
+        run: bun run lint:ci

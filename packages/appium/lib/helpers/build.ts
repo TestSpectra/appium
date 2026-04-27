@@ -2,14 +2,14 @@ import _ from 'lodash';
 import axios from 'axios';
 import {exec} from 'teen_process';
 import {system, fs} from '@testspectra/support';
-import type {BuildInfo} from 'appium/types';
+import type {BuildInfo} from '@testspectra/appium/types';
 import {npmPackage} from '../utils';
 
 export const APPIUM_VER = npmPackage.version;
 export const rootDir = fs.findRoot(__dirname);
 
 const GIT_BINARY = `git${system.isWindows() ? '.exe' : ''}`;
-const GITHUB_API = 'https://api.github.com/repos/appium/appium';
+const GITHUB_API = 'https://api.github.com/repos/TestSpectra/appium';
 
 const getFullGitPath = _.memoize(async function getFullGitPath(): Promise<string | null> {
   try {
@@ -44,9 +44,9 @@ export async function getGitRev(useGithubApiFallback = false): Promise<string | 
   // then fetch the corresponding tag info from GitHub
   try {
     return (
-      await axios.get(`${GITHUB_API}/git/refs/tags/appium@${APPIUM_VER}`, {
+      await axios.get(`${GITHUB_API}/git/refs/tags/@testspectra/appium@${APPIUM_VER}`, {
         headers: {
-          'User-Agent': `Appium ${APPIUM_VER}`,
+          'User-Agent': `TestSpectra Appium ${APPIUM_VER}`,
         },
       })
     ).data?.object?.sha;
@@ -73,7 +73,7 @@ async function getGitTimestamp(commitSha: string, useGithubApiFallback = false):
     return (
       await axios.get(`${GITHUB_API}/git/tags/${commitSha}`, {
         headers: {
-          'User-Agent': `Appium ${APPIUM_VER}`,
+          'User-Agent': `TestSpectra Appium ${APPIUM_VER}`,
         },
       })
     ).data?.tagger?.date;
