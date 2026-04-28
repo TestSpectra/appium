@@ -40,14 +40,14 @@
     "test:e2e": "mocha --exit --timeout 40s --slow 20s \"./test/e2e/**/*.spec.*ts\""
   },
   "dependencies": {
-    "@testspectra/opencv": "5.0.0",
-    "@testspectra/support": "8.0.0",
+    "@testspectra/opencv": "workspace:*",
+    "@testspectra/support": "workspace:*",
     "lodash": "4.18.1",
     "lru-cache": "11.3.5",
     "sharp": "0.34.5"
   },
   "peerDependencies": {
-    "@testspectra/appium": "^3.0.0-beta.0"
+    "@testspectra/appium": "workspace:*"
   },
   "engines": {
     "node": "^20.19.0 || ^22.12.0 || >=24.0.0",

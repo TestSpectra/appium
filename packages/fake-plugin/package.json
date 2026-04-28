@@ -39,17 +39,17 @@
     "test:unit": "mocha \"./test/unit/**/*.spec.*ts\""
   },
   "dependencies": {
-    "@testspectra/base-plugin": "4.0.0",
-    "@testspectra/support": "8.0.0",
+    "@testspectra/base-plugin": "workspace:*",
+    "@testspectra/support": "workspace:*",
     "asyncbox": "6.1.0",
     "lodash": "4.18.1"
   },
   "devDependencies": {
-    "@testspectra/types": "2.0.0",
+    "@testspectra/types": "workspace:*",
     "express": "5.2.1"
   },
   "peerDependencies": {
-    "@testspectra/appium": "^3.0.0-beta.0"
+    "@testspectra/appium": "workspace:*"
   },
   "engines": {
     "node": "^20.19.0 || ^22.12.0 || >=24.0.0",

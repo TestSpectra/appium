@@ -49,10 +49,10 @@
     "type-fest": "5.6.0"
   },
   "devDependencies": {
-    "@testspectra/types": "2.0.0"
+    "@testspectra/types": "workspace:*"
   },
   "peerDependencies": {
-    "@testspectra/appium": "^3.0.0-beta.0",
+    "@testspectra/appium": "workspace:*",
     "mocha": "*"
   },
   "engines": {

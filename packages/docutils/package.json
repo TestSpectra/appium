@@ -46,7 +46,7 @@
     "start": "node ./build/lib/cli/index.js"
   },
   "dependencies": {
-    "@testspectra/support": "8.0.0",
+    "@testspectra/support": "workspace:*",
     "consola": "3.4.2",
     "diff": "9.0.0",
     "lilconfig": "3.1.3",

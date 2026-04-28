@@ -40,9 +40,9 @@
     "test:unit": "mocha \"./test/unit/**/*.spec.*ts\""
   },
   "dependencies": {
-    "@testspectra/base-driver": "11.0.0",
-    "@testspectra/support": "8.0.0",
-    "@testspectra/types": "2.0.0"
+    "@testspectra/base-driver": "workspace:*",
+    "@testspectra/support": "workspace:*",
+    "@testspectra/types": "workspace:*"
   },
   "engines": {
     "node": "^20.19.0 || ^22.12.0 || >=24.0.0",

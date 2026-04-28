@@ -39,7 +39,7 @@
     "test:unit": "exit 0"
   },
   "devDependencies": {
-    "@testspectra/types": "2.0.0"
+    "@testspectra/types": "workspace:*"
   },
   "dependencies": {
     "get-port": "7.2.0",
@@ -47,7 +47,7 @@
     "teen_process": "4.1.2"
   },
   "peerDependencies": {
-    "@testspectra/appium": "^3.0.0-beta.0",
+    "@testspectra/appium": "workspace:*",
     "mocha": "*"
   },
   "engines": {

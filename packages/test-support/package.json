@@ -48,7 +48,7 @@
   },
   "dependencies": {
     "@colors/colors": "1.6.0",
-    "@testspectra/support": "8.0.0",
+    "@testspectra/support": "workspace:*",
     "bluebird": "3.7.2",
     "lodash": "4.18.1",
     "loud-rejection": "2.2.0",
