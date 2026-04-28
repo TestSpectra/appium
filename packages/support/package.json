@@ -1,6 +1,6 @@
 {
   "name": "@testspectra/support",
-  "version": "8.0.0",
+  "version": "8.0.1",
   "description": "Support libs used across Appium packages",
   "keywords": [
     "automation",

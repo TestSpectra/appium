@@ -1,6 +1,6 @@
 {
   "name": "@testspectra/logger",
-  "version": "3.0.0",
+  "version": "3.0.1",
   "author": "https://github.com/appium",
   "description": "A Universal Logger For The Appium Ecosystem",
   "repository": {

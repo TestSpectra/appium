@@ -1,6 +1,6 @@
 {
   "name": "@testspectra/base-plugin",
-  "version": "4.0.0",
+  "version": "4.0.1",
   "description": "The base plugin used to create Appium plugins",
   "keywords": [
     "automation",

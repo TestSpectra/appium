@@ -1,6 +1,6 @@
 {
   "name": "@testspectra/docutils",
-  "version": "3.0.0",
+  "version": "3.0.1",
   "description": "Documentation generation utilities for Appium and related projects",
   "keywords": [
     "automation",

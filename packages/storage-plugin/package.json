@@ -1,6 +1,6 @@
 {
   "name": "@testspectra/storage-plugin",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "Server-side storage plugin for Appium",
   "keywords": [
     "automation",

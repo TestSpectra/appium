@@ -1,6 +1,6 @@
 {
   "name": "@testspectra/relaxed-caps-plugin",
-  "version": "3.0.0",
+  "version": "3.0.1",
   "description": "An Appium plugin that loosens requirements for vendor prefixes on caps",
   "keywords": [
     "automation",

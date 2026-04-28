@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [4.0.1](https://github.com/TestSpectra/appium/compare/@testspectra/eslint-config-appium-ts@4.0.0...@testspectra/eslint-config-appium-ts@4.0.1) (2026-04-28)
+
+**Note:** Version bump only for package @testspectra/eslint-config-appium-ts
+
+
+
+
+
 ## 4.0.0 (2026-04-27)
 
 

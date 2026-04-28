@@ -1,6 +1,6 @@
 {
   "name": "@testspectra/base-driver",
-  "version": "11.0.0",
+  "version": "11.0.1",
   "description": "Base driver class for Appium drivers",
   "keywords": [
     "automation",
