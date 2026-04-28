@@ -3,6 +3,85 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 2.0.0 (2026-04-27)
+
+
+### ⚠ BREAKING CHANGES
+
+* set minimum Node.js version to v20.19.0 (#21394)
+* Appium now supports version range `^14.17.0 || ^16.13.0 || >=18.0.0`
+
+### Features
+
+* **plugin-test-support:** create @appium/plugin-test-support ([108b8c0](https://github.com/TestSpectra/appium/commit/108b8c0209dc3f5755de82f1b6e622c76ece5ac3))
+* **plugin-test-support:** Migrate to typescript ([#21911](https://github.com/TestSpectra/appium/issues/21911)) ([27e7e5a](https://github.com/TestSpectra/appium/commit/27e7e5a4e2a95320aa681ed6fe106f71d2211e27))
+* use exact version for dependencies in monorepo packages instead of ^ ([#22090](https://github.com/TestSpectra/appium/issues/22090)) ([86c8f23](https://github.com/TestSpectra/appium/commit/86c8f23a670d0bbc2d359a8235828606bd36e6aa))
+
+
+### Bug Fixes
+
+* **appium:** Make sure type definitions are always in sync across modules ([#19323](https://github.com/TestSpectra/appium/issues/19323)) ([de39013](https://github.com/TestSpectra/appium/commit/de39013ae501d4fc11988435737efb862cc1d820))
+* **docutils:** remove `@appium/typedoc-plugin-appium` and all other uses of `typedoc` ([#19465](https://github.com/TestSpectra/appium/issues/19465)) ([7528fcf](https://github.com/TestSpectra/appium/commit/7528fcf890f79f4017f5e718bb1952bf907ee479))
+* **docutils:** update dependency typescript to v5.4.2 ([#19876](https://github.com/TestSpectra/appium/issues/19876)) ([2448fa0](https://github.com/TestSpectra/appium/commit/2448fa0145620657ccc72b5637f1b7737fe52580))
+* Move @appium/types to dev dependencies for various packages ([#21920](https://github.com/TestSpectra/appium/issues/21920)) ([2615935](https://github.com/TestSpectra/appium/commit/261593593947bc59e7a937e518fc6f019cafda7a))
+* Reduce linter warnings ([#20860](https://github.com/TestSpectra/appium/issues/20860)) ([65658cc](https://github.com/TestSpectra/appium/commit/65658ccbdde9144c45cb5aad6a9089a5d6f3a0a3))
+* **support:** update dependency teen_process to v2.0.10 ([bc1b56a](https://github.com/TestSpectra/appium/commit/bc1b56a3c162ed8686d3d7956c30eb1f7682b1a7))
+* **support:** update dependency teen_process to v2.0.100 ([e50b53f](https://github.com/TestSpectra/appium/commit/e50b53fbea4aa3709adc3df4baf4945124d6a217))
+* **support:** update dependency teen_process to v2.0.101 ([b837f8c](https://github.com/TestSpectra/appium/commit/b837f8ce14bd48edb6af62bca718a708d2b65f09))
+* **support:** update dependency teen_process to v2.0.109 ([85dce4a](https://github.com/TestSpectra/appium/commit/85dce4a72b21e017b4661ddf997c096817e5fd7f))
+* **support:** update dependency teen_process to v2.0.110 ([b602693](https://github.com/TestSpectra/appium/commit/b60269371662de4c42ccd7586512c9d685d95d52))
+* **support:** update dependency teen_process to v2.0.112 ([#19491](https://github.com/TestSpectra/appium/issues/19491)) ([d2d8ea7](https://github.com/TestSpectra/appium/commit/d2d8ea7a105eb93f59793fbc4d3438a66a191cd8))
+* **support:** update dependency teen_process to v2.0.12 ([c5d6df7](https://github.com/TestSpectra/appium/commit/c5d6df7a000d64e8591a56ce5ef65baa2071a36b))
+* **support:** update dependency teen_process to v2.0.13 ([a0c4b84](https://github.com/TestSpectra/appium/commit/a0c4b84fb7d3977b7a4ca0a07fadd49ee355791a))
+* **support:** update dependency teen_process to v2.0.18 ([ffeebc7](https://github.com/TestSpectra/appium/commit/ffeebc74b72e5eadf658325e67708ae6ed5b8346))
+* **support:** update dependency teen_process to v2.0.19 ([2ef40fe](https://github.com/TestSpectra/appium/commit/2ef40febdc717f54ea618ecfe1058b858fe2daf9))
+* **support:** update dependency teen_process to v2.0.23 ([1b0459e](https://github.com/TestSpectra/appium/commit/1b0459edd656514d8706aab8e21cd4d40de2ec5d))
+* **support:** update dependency teen_process to v2.0.24 ([bc72c66](https://github.com/TestSpectra/appium/commit/bc72c6676a5412b60e74bb143a223738ce059977))
+* **support:** update dependency teen_process to v2.0.27 ([03b2aa6](https://github.com/TestSpectra/appium/commit/03b2aa6b6e45fa0ea24c4691b039255bc4399733))
+* **support:** update dependency teen_process to v2.0.30 ([7cdb142](https://github.com/TestSpectra/appium/commit/7cdb1429a1104ad3699547f2a2dd9b237135891a))
+* **support:** update dependency teen_process to v2.0.34 ([#19218](https://github.com/TestSpectra/appium/issues/19218)) ([c28fcef](https://github.com/TestSpectra/appium/commit/c28fcefa725fbce5a0464e57946051e3cb023d85))
+* **support:** update dependency teen_process to v2.0.37 ([6d894be](https://github.com/TestSpectra/appium/commit/6d894bef6f377ebfdffdeb1adde7a72624844414))
+* **support:** update dependency teen_process to v2.0.38 ([a32dc11](https://github.com/TestSpectra/appium/commit/a32dc1110125d0f1fac9c66c17f1309145a634c7))
+* **support:** update dependency teen_process to v2.0.4 ([151c19c](https://github.com/TestSpectra/appium/commit/151c19c1c3b4c9b94aba10033c2d863f567d849b))
+* **support:** update dependency teen_process to v2.0.40 ([2837bcd](https://github.com/TestSpectra/appium/commit/2837bcdeb19532fe973a2902db5c8d730252d962))
+* **support:** update dependency teen_process to v2.0.41 ([1a34396](https://github.com/TestSpectra/appium/commit/1a34396339f71d40353d323feaf78afcf2269fc9))
+* **support:** update dependency teen_process to v2.0.42 ([e2a670e](https://github.com/TestSpectra/appium/commit/e2a670e1c4a0f061b0bfb08a6b534d9deb7bdd9c))
+* **support:** update dependency teen_process to v2.0.45 ([ea731bf](https://github.com/TestSpectra/appium/commit/ea731bf117d680496fce453ac42cfee7f05ada60))
+* **support:** update dependency teen_process to v2.0.48 ([eebc651](https://github.com/TestSpectra/appium/commit/eebc651f31c282baa7e77a6384d3ee8efc0072d6))
+* **support:** update dependency teen_process to v2.0.50 ([ca3e5d9](https://github.com/TestSpectra/appium/commit/ca3e5d90e4c51fc1dda32154e1d77e65cb44fb54))
+* **support:** update dependency teen_process to v2.0.57 ([1fbd503](https://github.com/TestSpectra/appium/commit/1fbd503a66b965a9b32bbb6702062861a8480333))
+* **support:** update dependency teen_process to v2.0.63 ([fa57192](https://github.com/TestSpectra/appium/commit/fa571925b7ac980cc99c8d23f659420eacd8546c))
+* **support:** update dependency teen_process to v2.0.64 ([332bb59](https://github.com/TestSpectra/appium/commit/332bb59ee3fdd14c03f6b3c4fd6587a30319d568))
+* **support:** update dependency teen_process to v2.0.66 ([3205b5d](https://github.com/TestSpectra/appium/commit/3205b5d06f073f1e5c7735c6e36ad08fdf091182))
+* **support:** update dependency teen_process to v2.0.67 ([3b5ae2a](https://github.com/TestSpectra/appium/commit/3b5ae2ab17c74c9890b53c081aec146152f11c7a))
+* **support:** update dependency teen_process to v2.0.73 ([8e453be](https://github.com/TestSpectra/appium/commit/8e453bed3f440c1dcf82f016f7d4431365b9cdff))
+* **support:** update dependency teen_process to v2.0.75 ([fbb6fd9](https://github.com/TestSpectra/appium/commit/fbb6fd9a2780eb00c15584abeaf644a1fcdecb4d))
+* **support:** update dependency teen_process to v2.0.87 ([4df1712](https://github.com/TestSpectra/appium/commit/4df1712d9b0c3155e95e38a1aa552f036d37dcfe))
+* **support:** update dependency teen_process to v2.0.89 ([c129111](https://github.com/TestSpectra/appium/commit/c1291116989159eb7e08d303354bc00262a9e784))
+* **support:** update dependency teen_process to v2.0.9 ([6c7f3ef](https://github.com/TestSpectra/appium/commit/6c7f3ef670d441bdc4b693948a19dcbdc54e4764))
+* **support:** update dependency teen_process to v2.0.91 ([6cedd48](https://github.com/TestSpectra/appium/commit/6cedd485d7007455151c6efc03dd6172d4a31259))
+* **support:** update dependency teen_process to v2.1.1 ([b79ed2b](https://github.com/TestSpectra/appium/commit/b79ed2bed5329b904b15fa5b1fbde7885087c9ad))
+* **support:** update dependency teen_process to v2.1.10 ([86f843b](https://github.com/TestSpectra/appium/commit/86f843b9e1fc56576d7a08bf95838a58971e98b3))
+* **support:** update dependency teen_process to v2.1.3 ([b34ce3c](https://github.com/TestSpectra/appium/commit/b34ce3cff0279be5bb5dcb9228f7e058d27a5e72))
+* **support:** update dependency teen_process to v2.1.4 ([96a7a3f](https://github.com/TestSpectra/appium/commit/96a7a3f23bead7c1d18700550138cd2d70ce5e3c))
+* **support:** update dependency teen_process to v2.1.5 ([bc388db](https://github.com/TestSpectra/appium/commit/bc388db1116f411f4b241105f5feae30418c9a27))
+* **support:** update dependency teen_process to v2.1.6 ([5412461](https://github.com/TestSpectra/appium/commit/541246184dc7521c825ec1902775e681ea6f0db3))
+* **support:** update dependency teen_process to v2.1.7 ([5226fa8](https://github.com/TestSpectra/appium/commit/5226fa897b90e9fec9be3e79a7d48fc7b4e0016d))
+* **support:** update dependency teen_process to v2.2.0 ([06607da](https://github.com/TestSpectra/appium/commit/06607da92e93d015747fd6d6d5bdabe1b3ac58d2))
+* **support:** update dependency teen_process to v2.2.2 ([#20808](https://github.com/TestSpectra/appium/issues/20808)) ([c91683f](https://github.com/TestSpectra/appium/commit/c91683f50feea937ff8568eab6366465a6cf9a3e))
+* **support:** update dependency teen_process to v2.2.3 ([#20882](https://github.com/TestSpectra/appium/issues/20882)) ([488e5de](https://github.com/TestSpectra/appium/commit/488e5dea82d3c525acf483952570e32f319f3722))
+* **support:** update teen_process-related packages ([c637b05](https://github.com/TestSpectra/appium/commit/c637b052f45e0ae7ce68d29b9739718549302756))
+* **support:** update teen_process-related packages ([84d96db](https://github.com/TestSpectra/appium/commit/84d96dbae45dfe56218d32330f8ff2d26b750fb7))
+* **support:** update teen_process-related packages ([3d0b97c](https://github.com/TestSpectra/appium/commit/3d0b97cae76c616da0aea5b92cebcd38d59263b7))
+
+
+### Miscellaneous Chores
+
+* set engines to minimum Node.js v14.17.0 ([a1dbe6c](https://github.com/TestSpectra/appium/commit/a1dbe6c43efe76604943a607d402f4c8b864d652))
+* set minimum Node.js version to v20.19.0 ([#21394](https://github.com/TestSpectra/appium/issues/21394)) ([37e22c4](https://github.com/TestSpectra/appium/commit/37e22c4f9c9920cea3f340841ab1b7c60e3147e9))
+
+
+
 ## [1.2.1](https://github.com/appium/appium/compare/@testspectra/plugin-test-support@1.2.0...@testspectra/plugin-test-support@1.2.1) (2026-04-23)
 
 **Note:** Version bump only for package @testspectra/plugin-test-support

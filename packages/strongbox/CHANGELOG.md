@@ -3,6 +3,41 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 2.0.0 (2026-04-27)
+
+
+### ⚠ BREAKING CHANGES
+
+* set minimum Node.js version to v20.19.0 (#21394)
+* **strongbox:** The signature for an `ItemCtor` has changed. The second parameter is now a type extending `Strongbox` instead of a `container` string.  This allows for deeper integration between a custom `Item` implementation and a custom `Strongbox` implementation. Further, a custom `container` now must be an absolute path after it's been slugified.
+
+- The `Strongbox.clearAll()` method now accepts a `force` param which, if `true`, will rimraf the entire container.
+- Added two methods to the `Strongbox` class which can be overridden to accept custom options, apply defaults to those options, then validate and/or transform them.
+- Added nearly-complete unit test coverage and added E2E coverage of the `BaseItem` implementation.
+
+### Features
+
+* **base-driver:** Make extension name prefix mandatory ([#21110](https://github.com/TestSpectra/appium/issues/21110)) ([9402291](https://github.com/TestSpectra/appium/commit/9402291f1c634bcb376ff69aef7a7b4d0628cbd4))
+* **strongbox:** Add a possibility to list strongbox items ([#22091](https://github.com/TestSpectra/appium/issues/22091)) ([73b7820](https://github.com/TestSpectra/appium/commit/73b7820df57d6d4a3f345230b4ae406615e3f951))
+* **strongbox:** allow rimraf of entire container ([93bddb4](https://github.com/TestSpectra/appium/commit/93bddb4c73ab16fffda09909786074b9e5f2b7e5))
+* **strongbox:** create @appium/strongbox ([fd91234](https://github.com/TestSpectra/appium/commit/fd912346fade8f29f5b4d1458828ea677d7e9fcc))
+* **strongbox:** export BaseItem ([377e982](https://github.com/TestSpectra/appium/commit/377e9825de74d9929631fb331e6d348c9df0964e))
+
+
+### Bug Fixes
+
+* All the rest of linter warnings ([#22183](https://github.com/TestSpectra/appium/issues/22183)) ([efe167f](https://github.com/TestSpectra/appium/commit/efe167f59a0a19515b78a53346e5d0b3fc4c744c))
+* Reduce linter warnings ([#20860](https://github.com/TestSpectra/appium/issues/20860)) ([65658cc](https://github.com/TestSpectra/appium/commit/65658ccbdde9144c45cb5aad6a9089a5d6f3a0a3))
+* **strongbox:** do not force-lowercase slugged containers ([1ccf857](https://github.com/TestSpectra/appium/commit/1ccf857a4bdd77af3ccf2ad268e3410855509af8))
+* Type imports ([#22025](https://github.com/TestSpectra/appium/issues/22025)) ([2f27425](https://github.com/TestSpectra/appium/commit/2f27425ea300ca1af1c1da6e4be68d48e7a94346))
+
+
+### Miscellaneous Chores
+
+* set minimum Node.js version to v20.19.0 ([#21394](https://github.com/TestSpectra/appium/issues/21394)) ([37e22c4](https://github.com/TestSpectra/appium/commit/37e22c4f9c9920cea3f340841ab1b7c60e3147e9))
+
+
+
 ## [1.1.1](https://github.com/appium/appium/compare/@testspectra/strongbox@1.1.0...@testspectra/strongbox@1.1.1) (2026-04-23)
 
 

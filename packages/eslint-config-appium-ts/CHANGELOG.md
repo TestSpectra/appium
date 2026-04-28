@@ -3,6 +3,43 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 4.0.0 (2026-04-27)
+
+
+### ⚠ BREAKING CHANGES
+
+* **eslint-config-appium-ts:** modernize ESLint config (#21781)
+* set minimum Node.js version to v20.19.0 (#21394)
+* **eslint-config-appium-ts:** This makes `@appium/eslint-config-appium-ts` also apply to JS sources _and_ requires a new peer dependency (`eslint-import-resolver-typescript`). The `main` file is now a `.js` file.  The module is expected to _extend_ `@appium/eslint-config-appium`, not replace it; consumers needn't extend both in their ESLint config.
+
+In the not-too-distant past, `@typescript-eslint/parser` was unable to understand docstrings in `.js` files. Evidently this is no longer true.
+
+I've rewritten and heavily commented the configuration explaining the intent behind everything.
+
+### Features
+
+* **eslint-config-appium-ts:** Add new rules ([#22164](https://github.com/TestSpectra/appium/issues/22164)) ([a929cd6](https://github.com/TestSpectra/appium/commit/a929cd6024e7312877037e348d57cee054e4875e))
+* **eslint-config-appium-ts:** add unicorn/prefer-node-protocol with warn ([#21864](https://github.com/TestSpectra/appium/issues/21864)) ([77c9b58](https://github.com/TestSpectra/appium/commit/77c9b5898907d7380276d5982c7e175d10440c73))
+* **eslint-config-appium-ts:** create new pkg @appium/eslint-config-appium-ts ([dfe02ca](https://github.com/TestSpectra/appium/commit/dfe02ca98c73c0cf9863a7c7441d6a1a5d37ac33))
+* **eslint-config-appium-ts:** enable for JS sources ([43df77f](https://github.com/TestSpectra/appium/commit/43df77f6b623462d20d90cb23a2d7577aa0c56de))
+* **eslint-config-appium-ts:** modernize ESLint config ([#21781](https://github.com/TestSpectra/appium/issues/21781)) ([b0b219a](https://github.com/TestSpectra/appium/commit/b0b219aa019d893bf30e90203a8265625777c47f))
+
+
+### Bug Fixes
+
+* **eslint-config-appium-ts:** add Prettier config, update typescript-eslint imports ([#20887](https://github.com/TestSpectra/appium/issues/20887)) ([aad5709](https://github.com/TestSpectra/appium/commit/aad57099135a02907b0cd03617c52d7baf248a26))
+* **eslint-config-appium-ts:** adjust dependency configuration ([#21444](https://github.com/TestSpectra/appium/issues/21444)) ([e3f05cf](https://github.com/TestSpectra/appium/commit/e3f05cf961310a5bf144cc0bf8e1089c47744493))
+* **eslint-config-appium-ts:** disable brace-style rule ([409192d](https://github.com/TestSpectra/appium/commit/409192d0630244e072534391eb702de063d54d17))
+* **eslint-config-appium-ts:** Suppress lint warnings ([#22190](https://github.com/TestSpectra/appium/issues/22190)) ([6476197](https://github.com/TestSpectra/appium/commit/6476197bfffcfbfb1d8819ebd13fd0a54de1bca6))
+* **eslint-config-appium-ts:** update eslint-plugin-mocha to v11 ([#21722](https://github.com/TestSpectra/appium/issues/21722)) ([cabe2e5](https://github.com/TestSpectra/appium/commit/cabe2e53bc6d7b23cefc80334eb5d0aa89a72d4f))
+
+
+### Miscellaneous Chores
+
+* set minimum Node.js version to v20.19.0 ([#21394](https://github.com/TestSpectra/appium/issues/21394)) ([37e22c4](https://github.com/TestSpectra/appium/commit/37e22c4f9c9920cea3f340841ab1b7c60e3147e9))
+
+
+
 ## [3.1.0](https://github.com/appium/appium/compare/@testspectra/eslint-config-appium-ts@3.0.2...@testspectra/eslint-config-appium-ts@3.1.0) (2026-04-23)
 
 

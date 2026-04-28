@@ -1,6 +1,6 @@
 {
   "name": "@testspectra/base-plugin",
-  "version": "3.2.1",
+  "version": "4.0.0",
   "description": "The base plugin used to create Appium plugins",
   "keywords": [
     "automation",
@@ -40,9 +40,9 @@
     "test:unit": "mocha \"./test/unit/**/*.spec.*ts\""
   },
   "dependencies": {
-    "@testspectra/base-driver": "10.4.0",
-    "@testspectra/support": "7.1.1",
-    "@testspectra/types": "1.3.1"
+    "@testspectra/base-driver": "11.0.0",
+    "@testspectra/support": "8.0.0",
+    "@testspectra/types": "2.0.0"
   },
   "engines": {
     "node": "^20.19.0 || ^22.12.0 || >=24.0.0",
